@@ -1,0 +1,360 @@
+\documentclass[11pt]{article}
+\usepackage{graphicx} % Required for inserting images
+
+\usepackage[margin=2.5cm]{geometry}
+\usepackage{amsmath, amssymb}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{enumitem}
+\usepackage{setspace}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage[numbers]{natbib} 
+\onehalfspacing
+
+\title{Trade Finance en América Latina: Diagnóstico, Datos y Agenda de Políticas}
+
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\section*{To do}
+
+\begin{itemize}
+    \item Develop criteria to classify trade finance instruments by country, sector, and firm type.
+    \item Begin identifying key global and national data sources (e.g., SWIFT, FFIEC 009, Dealogic, customs and credit registries).
+    \item  Continue reviewing data sources by assessing their coverage, quality, and periodicity.    
+    \item Finalize data source review, identifying gaps and opportunities to improve availability and use for trade finance analysis.
+    \item Synthesize academic and applied literature.
+    \item Review case studies from other emerging regions.
+    \item Examine the role of international organizations, banks, fintechs, and innovations in the development of trade finance (e.g., local currency schemes, SCF tools).
+    \item Quantify trade finance usage and constraints across LAC countries
+\end{itemize}
+
+
+\section{Trade Finance}
+
+Motivacion? El financiamiento al comercio internacional (``trade finance'') es un componente crítico para facilitar las exportaciones e importaciones, especialmente para las pequeñas y medianas empresas (PYMEs). En América Latina, su disponibilidad está condicionada por factores estructurales como el desarrollo financiero, la profundidad de los mercados, el riesgo soberano y la digitalización de procesos. Este documento propone un diagnóstico regional, un mapeo de datos disponibles, y una agenda de investigación orientada al diseño de políticas públicas efectivas.
+
+Intro general
+
+Se estima que entre el 80\% y el 90\% del comercio internacional se financia mediante alguna forma de crédito comercial.\citet{wto2019trade}
+
+\citet{ADB2023TradeFinanceSurvey}\footnote{El informe utilizó respuestas de 137 bancos en 54 países y 185 firmas en 43 países, reflejando más del 60\% del mercado global de financiamiento del comercio intermediado por bancos} estima que la brecha global de trade finance era de 2,5 billones de dólares en 2022, lo que representa aproximadamente un 10\% del comercio total de mercancias. Ademas, la brecha  de 2022 presenta un aumento del 47\% (0,8 billones de dólares) respecto a los 1,7 billones registrados en 2020. Este incremento refleja la ampliación de la brecha causada por la crisis del COVID-19 y por los problemas sistémicos persistentes vinculados a factores macroeconómicosy tensiones geopolíticas vigentes en 2022.
+
+
+Las pequeñas y medianas empresas (SMEs) se ven afectadas de manera desproporcionada. En 2022, de acuerdo a \citet{ADB2023TradeFinanceSurvey} el 45\% de las solicitudes de financiamiento de comercio rechazadas correspondieron a SMEs, a pesar de que solo constituyeron el 38\% de las solicitudes recibidas por los bancos. Para las empresas, el acceso a la financiación es un obstáculo clave para el negocio en 2023 y 2024. Los factores que llevan al rechazo de las SMEs incluyen la falta de garantías (colateral), la falta de historial de transacciones o relaciones a largo plazo con bancos, el historial crediticio insuficiente, y condiciones de mercado desfavorables.
+\begin{comment}
+    
+\section{Comercio internacional en Latam}
+
+Characterization of Trade in the region, main products, main destination markets, relevance in the economy, growth opportunities, diversification trends;
+trading firm characteristics; trade costs as well as uncertainty and structural challenges as drivers of growing demand for trade finance.
+
+Importante destacar el rol d eUSA como destino y tambien china si conseguimos datos. esto para despues presentar los datos d eexim y FFIEC
+\end{comment}
+
+\section{Principales instrumentos de financiación comercial y su rol el LATAM}
+
+El comercio internacional, debido a los riesgos y los plazos que implica, requiere de una variedad de instrumentos de financiación para mitigar el riesgo y cerrar la brecha de tiempo entre la producción y la venta. Estos instrumentos pueden clasificarse ampliamente en financiación directa entre empresas (crédito comercial), financiación intermediada por bancos, y soluciones de financiación de la cadena de suministro (SCF). 
+
+Las distintas formas de financiamiento implican asignaciones de riesgo diferente entre las partes involucradas, distintos costos financieros y tambien distintos responsables de pagar estos costos.
+En este contexto, entender el abanico de opciones efectivamente disponibles para las empresas, las razones de la elección de cada forma de financiamiento especifica, los contratos de pago es clave para entender su impacto en el comercio internacional y los márgenes de mejora desde el punto de vista de las políticas económicas. 
+
+CUANTIFICAR TODOS PARA LATAM IDEALMENTE COMPARANDO CON EL RESTO DEL MUNDO
+
+
+\subsection{Instrumentos de Cr\'edito Comercial Directos entre Empresas}
+
+Estos son acuerdos de pago directamente entre el exportador y el importador, sin la intervención inicial de un tercero formal como un banco para la garantía del pago.
+
+\textbf{Open Account - OA}
+\begin{itemize}
+\item \textbf{Descripción:} El exportador produce y envía los bienes o servicios antes de recibir el pago. El importador paga en una fecha posterior acordada (por ejemplo, 30, 60 o 90 días después). El exportador prefinancia el capital de trabajo y asume el riesgo de impago por parte del importador.
+
+\item \textbf{Relevancia:} Es el contrato de pago más importante en el comercio global, representando aproximadamente el 40\% de las transacciones, \cite{IMF2009}. Las empresas a menudo eligen la Open Account para comerciar con países "más seguros" o con socios comerciales de confianza.
+
+\item \textbf{Ventajas/Desventajas:} Más competitiva para el exportador y de menores costos financieros para el importador, pero implica un mayor riesgo para el exportador.
+\end{itemize}
+
+\textbf{Cash in Advance - CIA}
+\begin{itemize}
+\item \textbf{Descripción:} El importador realiza el pago de los bienes o servicios antes de que el exportador los produzca o envíe. Es el importador quien prefinancia la transacción y asume el riesgo de que el exportador no entregue la mercancía.
+\item \textbf{Relevancia:} Representa alrededor del 20\% de las transacciones de comercio global \citet{IMF2009}. 
+
+\item \textbf{Ventajas/Desventajas:} Implica menos riesgo para el exportador, pero mayores costos financieros para el importador que tiene que comprometer working capital in advance.
+\end{itemize}
+
+\subsection{Instrumentos de Financiación Intermediados por Bancos}
+
+Estos instrumentos implican la participación de instituciones financieras (principalmente bancos) para facilitar las transacciones comerciales, gestionar el riesgo y proporcionar liquidez, representan un poco mas del 30\% de las transacciones a nivel global \citet{imf_2009} pero con importantes heterogeneidades segun el nivel de desarrollo financiero de los paises.
+
+\textbf{Letter of Credit - LC}
+\begin{itemize}
+\item \textbf{Descripción:} El banco del importador emite una garantía de pago al exportador, asegurando que se pagará el monto acordado una vez que se presenten los documentos que prueben la entrega de los bienes. A menudo, un banco en el país del exportador "confirma" la LC, asumiendo la obligación de pagar si el banco emisor incumple. REVISAR
+
+
+\item \textbf{Relevancia:} Es el producto de financiación comercial más común ofrecido por los bancos. Las LCs se utilizaron para aproximadamente el 13\% de las exportaciones mundiales en 2011 . Su uso es mayor en las importaciones de países de bajos ingresos (27\%). La transacción promedio de LC en las exportaciones de EE. UU. fue de 669.7 mil dólares, siendo significativamente más grandes que las transacciones sin intermediación bancaria. El uso de LCs aumentó bruscamente durante la crisis financiera de 2007-2008.\citet{IMF-BAFT2011}
+
+\item \textbf{Ventajas/Desventajas:} Mitiga significativamente el riesgo para el exportador al garantizar el pago, pero es un servicio financiero costoso, complejo y que requiere mucha mano de obra debido a su procesamiento manual, a menudo basado en papel.
+\end{itemize}
+
+\textbf{Documentary Collection - DC}
+\begin{itemize}
+\item \textbf{Descripción:} Implica que los documentos de propiedad son enviados por el banco del exportador al banco del importador; el importador recibe los documentos solo al realizar el pago. A diferencia de la LC, el banco no garantiza el pago, solo actúa como un facilitador de documentos y pagos.
+
+\item \textbf{Relevancia:} Se utiliza con menos frecuencia que las Cartas de Crédito, representando solo el 1.8\% de las exportaciones e importaciones mundiales en 2011 \citet{IMFBAFT2011}. 
+\end{itemize}
+
+\subsection{Soluciones de Financiación de la Cadena de Suministro (SCF)}
+Las SCF son un conjunto de soluciones que optimizan el flujo de caja, permitiendo a las empresas extender sus plazos de pago a sus proveedores al tiempo que ofrecen la opción a sus proveedores (grandes y PYMES) de recibir pagos anticipados. Estas soluciones a menudo se construyen sobre transacciones de Cuenta Abierta y están respaldadas por financiación de terceros, incluyendo nuevas empresas de tecnología financiera (Fintechs).
+
+\textbf{Instrumentos clave de SCF:}
+
+\begin{itemize}
+\item \textbf{Descuento de Cuentas por Cobrar (Receivables Discounting)}: El proveedor vende sus facturas a corto plazo pendientes de cobro a un proveedor financiero con un descuento.
+
+\item \textbf{Forfaiting}: Un forfaiter compra obligaciones de pago futuras del proveedor, a menudo garantizadas por el banco del comprador.
+
+\item \textbf{Factoring}: El proveedor recibe un pago anticipado de un "factor", quien luego gestiona el cobro de la factura.
+
+\item \textbf{Financiación de Cuentas por Pagar Aprobadas}: El proveedor vende su reclamación al proveedor de SCF, quien adquiere la propiedad y paga anticipadamente.
+
+\item \textbf{Anticipo contra Cuentas por Cobrar}: Anticipos o préstamos garantizados con cuentas por cobrar presentes o futuras.
+
+\item \textbf{Anticipo contra Inventario (o Finetrading)}: El proveedor de financiación adquiere los bienes como garantía o financia al comprador directamente.
+\item \textbf{Financiación Pre-embarque (Packing Credit)}: Asistencia financiera al fabricante antes del embarque, para materias primas, producción y embalaje.
+\end{itemize}
+
+AGREGAR CUANTIFICACION Y PRINCIPALES TENDENCIAS PARA CADA UNO DE LOS INSTRUMENTOS 
+
+
+
+Las condiciones financieras y legales del país de origen y del destino afectan el comercio, contrastando con la literatura anterior que se centraba solo en las características del país de origen. Los costos de financiación del comercio son costos comerciales variables proporcionales al valor de los bienes exportados. La capacidad de cambiar entre diferentes contratos de pago puede mitigar los efectos adversos de una crisis financiera.
+
+Evidencia empírica, \citet{Niepmann2017} utilizando datos SWIFT (Society for Worldwide Interbank Financial Telecommunications), la plataforma de comunicaciones más importante para los bancos, establece nuevos hechos sobre el uso mundial de LC y "Documentary Collections" (DC). Los datos de SWIFT cubren aproximadamente el 90\% de los flujos LC entre bancos a nivel mundial y son muy precisos al compararse con datos aduaneros. Se observa que muchas parejas de países no utilizan LC en absoluto. El uso de LC y DC aumentó significativamente alrededor de la quiebra de Lehman en septiembre de 2008, siendo el aumento de LC considerablemente mayor, lo que sugiere que los exportadores prefieren LC en un entorno económico global incierto.
+El tamaño promedio de las transacciones comerciales difiere según el tipo de contrato de pago: las transacciones con LC son las más grandes (promedio de \$669.7 mil), seguidas por las DC (\$120.4 mil), mientras que las transacciones sin intermediación bancaria (CIA y OA) son mucho más pequeñas (\$37.4 mil). Esto es consistente con costos fijos sustanciales en la provisión y el uso de productos de financiación del comercio. La relación entre el uso de LC y DC y el riesgo del país de destino (calidad de las instituciones legales) es en forma de joroba, lo que indica que las LC se utilizan más para exportaciones a países con un cumplimiento de contratos intermedio. Las LC se emplean para destinos más arriesgados en comparación con las DC. La intuición es que el valor de la mitigación de riesgos a través de la intermediación bancaria se ve compensado por el costo de la intermediación, y para los destinos más arriesgados, las tarifas bancarias son tan altas que los exportadores prefieren CIA (donde el importador paga antes). Para destinos de bajo riesgo, los exportadores pueden ahorrar en tarifas bancarias asumiendo ellos mismos el riesgo.
+
+\section*{Literatura relevante}
+
+1. El Impacto de las Condiciones Financieras y las Crisis en el Comercio Internacional
+
+\citet{SchmidtEisenlohr2013} shows that exporters choose among trade finance contracts (Letters of Credit, Open Account, Cash in Advance) based on enforcement quality, verification costs, and financial development.  Formalizes the role of banks in reducing informational frictions and enabling trade when contract enforcement is weak.  Countries with weak institutions or poor enforcement environments tend to rely more on LCs. Stronger legal environments enable more use of OA or CIA.  Improving legal enforcement and financial intermediation can reduce trade costs and increase participation, particularly for SMEs in developing countries.
+
+    \citep{Niepmann2017} Banks typically issue LCs only to creditworthy firms, and they charge fees. This creates a selection effect in the data: firms that use LCs may differ systematically from those that do not, both in terms of observable and unobservable characteristics. \textbf{Main findings:} Letters of Credit increase U.S. exports by 60\% on average. Effects are larger for destinations with weak institutions, higher risk, and lower LC usage ex-ante. Results are robust across specifications and support the idea that LCs help mitigate risk and financial frictions in trade.
+
+\citep{Calani2025} credit-constrained firms reduce exports more sharply during periods of financial stress. The negative effects are mitigated for firms with strong bank relationships and diversified export destinations. The presence of trade finance amplifies resilience to shocks. Findings highlight the stabilizing role of credit during turbulent times, suggesting a role for public guarantees or targeted liquidity provision. The authors also emphasize the need to improve access to credit for SMEs, who are disproportionately affected during crises, echoing the concerns raised by \citep{Auboin2009} and \citep{Asmundson2011}.
+\textbf{Key stylized facts:} 
+\begin{itemize}
+    \item Around 40\% of Chilean exports involve some form of trade finance, primarily short-term bank loans.
+    \item The use of trade finance varies across sectors, with manufacturing firms relying more heavily on credit than natural resource exporters.
+    \item Exporters using trade finance tend to be larger and more productive.
+\end{itemize}
+
+
+
+\citep{Niepmann2013} show that letters of credit can also serve as a means to relax exporters’ financing constraints. The bank's guarantee can serve as collateral for working capital, and the LC may signal creditworthiness to other lenders.
+
+The use of LCs remains limited despite these advantages. \citep{Auboin2009} estimates that about 90\% of world trade is supported by some form of trade finance, but Letters of Credit account for only a small share. According to SWIFT data, LCs were used for 13\% of global merchandise exports in 2011.
+
+  \item During the global financial crisis, trade dropped significantly — by more than global output. While the collapse of demand played a key role, many observers argued that the drying up of trade finance contributed to the decline. \citep{AuboinEngemann2014} and \citep{Asmundson2011} document public programs and interventions aimed at sustaining trade credit during the crisis.
+
+    \item The importance of financial frictions is also highlighted by \citep{ChorManova2012}, who find that exports declined more in countries whose banks were more exposed to the crisis.
+
+    \item Letters of credit require an established relationship between the exporter and a bank willing to issue the guarantee. This limits access to LCs in countries with underdeveloped banking sectors or weak ties to the international financial system. \citet{Niepmann2017} argue that bank linkages between the exporter and importer country play a key role in determining LC availability.
+
+    
+%Vínculos y Especialización Bancaria La presencia de bancos, especialmente bancos extranjeros, juega un papel crucial en la facilitación del comercio. Los bancos facilitan el comercio al proporcionar financiación externa y al superar las asimetrías de información. Una mayor presencia de bancos extranjeros se asocia con niveles más altos de exportación en sectores más dependientes de la financiación externa. Además, las entradas de bancos extranjeros en un país exportador y el establecimiento de nuevas relaciones bancarias indirectas (por ejemplo, a través de bancos de terceros países que operan en ambos mercados) se correlacionan positivamente con el crecimiento de las exportaciones sectoriales. Los vínculos bancarios internacionales, medidos por el número de pares de bancos conectados a través de préstamos sindicados transfronterizos, aumentan las exportaciones. Las nuevas conexiones entre bancos en un par de países conducen a un aumento de los flujos comerciales entre esos países al año siguiente y a desviaciones comerciales de los países que compiten por importaciones similares. Este efecto es mayor para los países más riesgosos (aquellos con un cumplimiento contractual más débil y mayores costos de seguro de exportación) y para los bienes diferenciados (que implican un mayor riesgo de exportación). Los vínculos bancarios también están asociados positivamente con la exposición a Letters of Credit extranjeras, lo que sugiere que facilitan el comercio al reducir el riesgo de exportación. Sin embargo, la emisión de LC es solo una de las formas en que los vínculos bancarios facilitan las exportaciones, ya que el efecto persiste incluso controlando las LC. La especialización geográfica de los bancos puede magnificar la elasticidad de las exportaciones a los cambios arancelarios. Los bancos especializados reducen el costo de la financiación del comercio y proporcionan una ventaja informativa a sus clientes. Un estudio sobre el Acuerdo de Libre Comercio UE-Corea encontró que la especialización bancaria amplifica la elasticidad arancelaria de las exportaciones tanto en el margen intensivo como en el extensivo. La eficiencia técnica de las empresas, sin embargo, tiende a reducir la reacción de las exportaciones a los recortes arancelarios, ya que las empresas muy eficientes pueden absorber los cambios arancelarios en sus márgenes de beneficio.
+
+
+%Moneda Extranjera como Barrera al Comercio El uso de moneda extranjera en los pagos internacionales puede imponer un costo significativo al comercio internacional. La introducción del sistema SML (Sistema de Pagamentos em Moeda Local) entre Argentina y Brasil, que permitía a los exportadores e importadores facturar y realizar transacciones en sus monedas locales (Real brasileño y Peso argentino), aumentó los flujos de exportación de Brasil a Argentina. El SML fue diseñado para reducir los obstáculos al comercio para las pequeñas y medianas empresas y para profundizar el mercado de tipo de cambio real-peso. La eliminación del riesgo de tipo de cambio y los costos asociados con la documentación y los contratos de cambio de divisas contribuyeron a este aumento. Los principales beneficiarios de este sistema fueron los exportadores de productos no básicos que predominantemente exportaban a Argentina. Las empresas que adoptaron la facturación en BRL tendieron a inclinar sus ventas hacia Argentina, lo que sugiere una posible reasignación de ventas entre destinos de exportación.
+
+%Incertidumbre Comercial  La incertidumbre comercial (TUI) puede afectar la actividad comercial internacional de las empresas y los resultados de sus créditos bancarios. Un estudio encontró que el aumento de la TUI amortigua el crecimiento de las exportaciones, especialmente cuando estas se financian principalmente con "Cash in Advance" o crédito comercial. Esto es consistente con un canal de capital de trabajo, donde una mayor incertidumbre en los países de destino deteriora las condiciones financieras de los importadores extranjeros, haciéndolos menos dispuestos o incapaces de pagar sus importaciones en efectivo. Por otro lado, un aumento de la TUI en los mercados extranjeros lleva a los importadores chilenos y a los bancos a financiar más intensamente a los exportadores extranjeros. Los mayores impactos de la TUI en las operaciones de comercio internacional se observan en las empresas de cadenas de valor globales (GVC), que son más grandes y están más expuestas a estos choques. Los choques de incertidumbre comercial tienen efectos reales en las cantidades comercializadas, no solo en los precios. El aumento de la TUI conduce a una redistribución del crédito entre diferentes tipos de empresas sin un impacto significativo en el crédito agregado. Esto sugiere que los bancos pueden percibir a las empresas de GVC y a los importadores como menos riesgosos y mejor preparados para enfrentar períodos de incertidumbre comercial, lo que lleva a una reasignación de crédito hacia ellos. Los bancos con carteras de préstamos especializadas en los países afectados por los choques de TUI tienden a conceder préstamos más pequeños con tasas de interés más altas a sus clientes.
+
+\section{Moving forward: IA, FINTECHs}
+
+\section{Datos}
+\subsection{Crédito bancario}
+
+\subsubsection{Estados Unidos: datos FFIEC E.16}
+
+Para analizar el financiamiento del comercio a través del sistema bancario, utilizamos los datos del formulario \textbf{FFIEC E.16} (Country Exposure Lending Survey) que recopila la Reserva Federal de Estados Unidos. Esta base reporta, de forma trimestral, la exposición internacional de los bancos estadounidenses —incluyendo sus préstamos, inversiones en deuda y otros créditos a residentes de más de 100 países, entre ellos todos los países de América Latina y el Caribe (ALC).
+
+La información está desagregada por país contraparte (es decir, el país del prestatario), lo que permite observar los flujos de crédito hacia cada economía de ALC. Los datos se presentan en valores agregados y no identifican explícitamente si el crédito está destinado al financiamiento de exportaciones o importaciones. Sin embargo, permiten capturar patrones relevantes de exposición bancaria internacional, que incluyen componentes comerciales. Los paises de LAC incluidos en la muestra son (20): Anguilla, Argentina, Bahamas, Brazil, Cayman Islands, Chile, Colombia, Costa Rica, Dominican Republic, Ecuador, El Salvador, French Guiana, Guatemala, Honduras, Mexico, Montserrat, Panama, Peru, Uruguay, Venezuela.
+
+Estados Unidos es un actor central en el financiamiento al comercio global —y particularmente en ALC— tanto por su rol como proveedor de bienes de capital como por su sistema financiero altamente integrado. Por ello, incluir esta fuente resulta pertinente para comprender el comportamiento del crédito internacional hacia la región.
+
+REVISAR QUE CREO QUE HAY DESAGREGACION POR EL TAMANO O EL TIPO DE ENTIDAD QUE OTORGA EL CREDITO, SI ES ASI REVISAR SI LOS PATRONES CAMBIAN ENTRE DISTINTAS ENTIDADES QUE OTORGAN CREDITO.
+
+SI NO SABEMOS SI ES EXPO O IMPO QUIZAS NORMALIZAR POR EXPO MAS IMPO AL PAIS RESPECTIVO
+
+
+Estos datos nos permiten caracterizar:
+
+\textbf{Distribución geográfica} del crédito bancario estadounidense entre distintas regiones y entre paises LAC.
+
+    ESTA FIGURA CREO QUE SERIA BUENA PONERLO COMO PARTICIPACI'ON EN EL TOTAL, PONER POR UN LADO LA EVOLUCION TOTAL DE LOS FONDOS Y POR OTRO LADO EN BARRAS QUE ACUMULEN EL 100\% LA PARTICIPACION, PONIENDO A LAC ARRIBA O ABAJO DE TODO ARA QUE SEA FACIL VER SI SU PARTICIPACION SUBE O BAJA POR EJEMPLO EN 2020.
+    
+\begin{figure}
+        \centering
+        \includegraphics[width=0.85\linewidth]{Presentations/Plots and tables/trade finance composition subregion quarters.png}
+    \end{figure}
+
+    \begin{figure}
+        \centering
+        \includegraphics[width=0.85\linewidth]{Presentations/Plots and tables/tf over imports from us map.png}
+    \end{figure}
+    
+ 
+\textbf{La evolución de dichos flujos en el tiempo} y su relación con eventos macroeconómicos o regulatorios.
+
+\textbf{La comparación con otras regiones del mundo} para evaluar si LAC presenta patrones diferenciados en términos de acceso, volatilidad o participación relativa.
+
+HACER UNA TABLA CON LA VOLATILIDAD DEL CREDITO POR REGION, FULL SAMPLE, PRE COVID Y POST COVID, Y DESPUES HACER POR PAISES LAC
+
+HACER UNA TABLA QUE CRUCE  LA PARTICIPACION POR PAIS LAC, CON DESARROLLO FINANCIERO, VARIABLES de contracgt enforcement? se puede usar contract
+enforcement la del World Bank Worldwide Governance Indicators o lo que tengamos, ojala encontrar que ordenando por alguno de estos hay mas credito. 
+
+tambien lo podemos hacer por volatilidad, ver si los paises que tienen un acceso mas volatil son los que tienen menos contract enforcement y desarrollo financiero, o si se les ocurren otras variables tambien. 
+
+lo probaria para el caso que sea en niveles o normalizado por imports o total trade
+
+
+\section{Agencias de Crédito a la Exportación y Financiamiento Público a las Exportaciones}
+
+Las Agencias de Crédito a la Exportación  cumplen un rol central en el apoyo al comercio internacional, especialmente mediante garantías, seguros y financiamiento directo.
+
+\subsection{El caso del EXIM Bank (Estados Unidos)}
+
+ El EXIM Bank de Estados Unidos es una de las ECAs más relevantes a nivel global y mantiene una presencia activa en América Latina y el Caribe (ALC). Su base de datos es particularmente útil para este estudio por tres razones principales:
+
+\begin{itemize}
+    \item Se trata de una fuente pública, con información detallada a nivel de transacción sobre créditos, garantías y seguros otorgados.
+    \item Estados Unidos es un socio comercial clave para la mayoría de los países de ALC, por lo que EXIM constituye uno de los principales proveedores externos de financiamiento al comercio en la región.
+    \item La evolución de EXIM frente a episodios de estrés (como la crisis financiera global de 2008--2009) permite observar el potencial \emph{contracíclico} de este tipo de instituciones.
+\end{itemize}
+
+La base de datos incluye todas las operaciones aprobadas desde 2007 en adelante e identifica con precisión el tipo de instrumento, sus características y los actores involucrados. Entre los instrumentos se encuentran:
+
+\begin{itemize}
+    \item \textbf{Garantías}: Cobertura parcial de préstamos otorgados por bancos privados para operaciones de exportación.
+    \item \textbf{Seguros de crédito a la exportación}: Cobertura frente a riesgos comerciales y políticos en el mercado de destino.
+    \item \textbf{Préstamos directos}: Financiamiento otorgado directamente por EXIM a exportadores o compradores externos.
+\end{itemize}
+
+Para cada operación, se observa:
+
+\begin{itemize}
+    \item País de destino (153 países incluidos)
+    \item Información del exportador y del comprador.
+    \item Sector económico y tipo de producto.
+    \item Tipo de programa (trabajo de capital, garantías a PYMEs, programas especiales, etc.).
+    \item Monto aprobado (y, cuando corresponde, monto desembolsado).
+    \item La base cubre más de 18.000 transacciones de las cuales 6511 corresponden a Latinoamérica y el Caribe.
+\end{itemize}
+
+
+El análisis inicial de los datos procesados muestra que:
+
+
+    \textbf{LAC es la segunda región en términos de montos aprobados}. Dentro de los mismos las garantías representan un xx\% del total, seguidas por los seguros xx\% y por los préstamos xx\%.
+    OJO, SI AGREGAMOS LAS REGIONES EN REALIDAD ASIA PASA AL FRENTE, QUIZAS ES MEJOR LA COMPARACION CON LAS REGIONES AGREGADAS
+    \begin{figure}
+    \centering
+    \includegraphics[width=0.9\linewidth]{Presentations/Plots and tables/auth by subregion and program.png}
+  \end{figure}
+
+\textbf{Participación de las PYMEs en el financiamiento total:} Las créditos a PYMES representaron el xx\% del total aprobado con una participación relativamente constante o no? en el tiempo REVISAR Y COMPLETAR. Por su parte, los montos promedios aprobados por operación para PYMEs es aproximadamente un 17\% del valor promedio general (\$0.9 vs \$5.5 millones). Sin embargo, estos montos presentan una \textit{menor volatilidad} (desviación estándar de 7.2 frente a 42.5), lo que sugiere un patrón más estable en la asignación de financiamiento a este segmento, posiblemente reflejando montos más pequeños y consistentes a lo largo del tiempo, en contraste con operaciones más grandes y esporádicas de grandes empresas.
+
+
+\textbf{El financiamiento está altamente concentrado}: Un número reducido de grandes empresas y grandes compradores concentran la mayor parte de los montos.
+
+HACER EL ANALISIS SACANDO ESTAS OPERACIONES GIGANTES PARA VER QUE PODEMOS VER DEL RESTO
+
+\textbf{Existe una dinámica marcada por eventos globales}: Los montos aumentaron fuertemente tras la crisis financiera de 2008--2009, pero disminuyeron después de 2015 y permanecieron bajos durante la pandemia. Los años de mayores aprobaciones fueron también a través de operaciones muy grandes. La reducción de los montos pareciera haber sido en forma pareja con otras subregiones ya que no se vio afectada la participación relativa de LAC.
+
+\textbf{El destino regional es heterogéneo}: México, Brasil y Colombia aparecen de forma sistemática entre los principales receptores. OJO CONFIRMAR ESTO SIN LAS OPERACIONES GRANDES. EN LA TABLA DE TOP EXPORTERS Y TOP BORROWERS NO ME QUEDA CLARO QUE COMPARAMOS, LOS TOP EXPORTERS QUE INSTRUMENTO USAN, GARANTIAS? LOS BORROWERS ASUMO QUE SON LOANS, HABRIA QUE AGREGAR EL PAIS DE LA CONTRAPARTE PORQEU DEBE CALZAR CON LOS SALTOS QEU SE VEN EN LAS EVOLUCIONES TEMPORALES.
+
+ \textbf{No existe proporcionalidad entre financiamiento y flujos comerciales}: REPENSAR ESTO, QUIZAS ESTARIA BUENO CRUZAR EL ORDENAMIENTO CON EL RANKING DE FINANCIAL DEVELOPMENT, SEGURO QUE DA Y EL PUNTO SERIA QUE PARA ACCEDER A ESTOS INSTRUMENTOS ES CLAVE EL DESARROLLO FINANCIERO LOCAL
+
+  \begin{figure}
+        \centering
+        \includegraphics[width=0.9\linewidth]{Presentations/Plots and tables/amount map.png}
+    \end{figure}
+
+    \begin{figure}
+        \centering
+        \includegraphics[width=0.85\linewidth]{Presentations/Plots and tables/exim over us imports.png}
+    \end{figure}
+
+
+ AGREGAR COMPARACION DE la participación por tipo de firma (tamaño, sector, tipo de instrumento) para evaluar su alineación con objetivos de desarrollo, como el apoyo a PYMEs.
+
+
+
+
+\section{Lecciones de la Evidencia para América Latina}
+
+\begin{comment}
+\subsubsection{Chile}
+\begin{itemize}
+\item \textbf{Estudio de Caso Detallado}: Chile destaca por su régimen macroeconómico abierto y su red de acuerdos comerciales, lo que lo convierte en un entorno ideal para estudiar los efectos de la incertidumbre comercial.
+\item \textbf{Efectos de la Incertidumbre Comercial (TU)}: La TU afecta de forma diferenciada a exportaciones e importaciones, con canales identificados para métodos de pago como CIA o crédito comercial.
+\item \textbf{Rol de los Bancos Chilenos}: Los bancos especializados en países con alta TU otorgan menos crédito, pero son pequeños. Las empresas GVC más grandes están más expuestas a países con alta TU.
+\item \textbf{Datos y Limitaciones}: Se usaron datos de Aduanas, registros bancarios y balances. Limitaciones: tamaño de empresa no observable directamente, y discontinuidad en los préstamos.
+\item \textbf{Apoyo institucional}: InvestChile y CORFO aportaron información para estudios recientes.
+\end{itemize}
+
+\subsubsection{Brasil y Argentina}
+\begin{itemize}
+\item \textbf{Sistema de Pagos en Moneda Local (SML)}: Permitió exportaciones y facturación en BRL y ARS, facilitando comercio bilateral.
+\item \textbf{Impacto en Exportaciones}: El SML representaba el 10\% del comercio bilateral. El uso de reales creció rápidamente post implementación, con beneficios para empresas grandes y pequeñas.
+\item \textbf{Preferencias de Moneda}: Exportadores argentinos prefirieron USD por inestabilidad local; adopción fue asimétrica.
+\item \textbf{Contexto Histórico}: La región tiene experiencia con mecanismos multilaterales como el CPCR desde los años 60.
+\end{itemize}
+
+\begin{itemize}[itemsep=0.5em]
+
+  \item Barreras enfrentan las PYMEs exportadoras
+  \item Similitudes y diferencias en el acceso al credito comercial entre paises
+  \item Regulaciones relevantes 
+  \item Impacto de la digitalización aduanera y bancaria
+  \item Rol de la banca de desarrollo y efectividad de programas públicos.
+  \item 
+\end{itemize}
+\end{comment}
+\section*{Cuellos de botella}
+\begin{itemize}[itemsep=0.5em]
+  \item Acceso limitado para PYMEs y firmas informales.
+  \item Alta exposición a riesgo país y spreads soberanos.
+  \item Limitada digitalización de procesos y plataformas.
+  \item Falta de datos sistemáticos y comparables.
+  \item Escaso desarrollo de colaterales líquidos para crédito comercial.
+\end{itemize}
+
+
+%\section*{Recomendaciones de política}
+%\begin{itemize}[itemsep=0.5em]
+ % \item Fortalecer plataformas digitales regionales (integración de SCF).
+  %\item Programas públicos orientados a PYMEs exportadoras.
+  %\item Estándares comunes para recolección de datos e indicadores.
+  %\item Cooperación regional en regulación financiera para trade finance.
+%\end{itemize}
+
+\clearpage
+
+\bibliographystyle{ier} 
+\bibliography{references} 
+
+\end{document}
+
+
+\end{document}
+
+\maketitle
+
+\section{Introduction}
+
+\end{document}

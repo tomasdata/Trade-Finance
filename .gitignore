@@ -1,0 +1,12 @@
+# CSV data files - available in Google Drive
+pre-data/*.csv
+pre-data/**/*.csv
+data/*.csv
+data/**/*.csv
+
+# System files
+.DS_Store
+.env
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
