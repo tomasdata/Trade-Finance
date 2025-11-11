@@ -87,3 +87,49 @@ Este README documenta las bases ubicadas en `pre-data/` que complementan los ETL
 - **Presentación (`Trade_Finance.tex`)**: usar estos insumos para enriquecer secciones de oferta global (EXIM), impacto micro (Hardy), riesgo sistémico (BIS) e incertidumbre (WUI).
 
 > Recomendación: crear ETL específicos (ej. `exim_etl.R`, `wui_etl.R`) que limpien estas series y escriban versiones listas en `data/`, siguiendo el patrón de los países. Mantener este README actualizado cuando se agreguen nuevas fuentes.
+
+---
+
+## Plan de procesamiento pendiente (TODO)
+
+> Objetivo: preparar tablas exportables para la presentación y los scripts, sin crear ETL nuevos todavía. Priorizar lo que `Trade_Finance.tex` solicita en las secciones de oferta global y riesgo.
+
+### 1. EXIM Bank (`exim auth.csv`)
+- [x] **Limpieza base**: normalizar columnas numéricas (remover comas, convertir a float), crear `year`, `month`, `destination_region`, flags de PYME.
+- [x] **Tablas iniciales** *(guardadas en `tables_and_graphs/EXIM/`)*:
+  1. `exim_authorizations_by_country.csv` – montos aprobados 2007‑2025 para BRA/CHL/PER/MEX y resto LAC.
+  2. `exim_program_mix.csv` – distribución % por programa (Guarantee/Insurance/Loan/WC) y evolución anual.
+  3. `exim_small_business_share.csv` – share PYME vs. total por país.
+  4. `exim_term_distribution.csv` – buckets Short/Medium/Long según `Term`.
+  5. `exim_latam_summary.csv` – panorama 2007‑2025 (transacciones, aprobaciones/desembolsos).
+- [ ] **Cruces con TF doméstico** (fase 2): ratio EXIM-country / TF doméstico (`carteira_ativa_usd`, `MonedaExtranjera_num`, etc.) para capítulo “Oferta oficial”.
+
+### 2. BIS – Consolidated Banking Statistics
+- [x] **Carga eficiente**: usar pandas (archivo 136 MB); quedarnos sólo con BRA/CHL/PER/MEX como `Counterparty`.
+- [x] **Tablas generadas (`tables_and_graphs/BIS/`):**
+  1. `bis_exposure_total_by_quarter.csv` – serie 1983‑2024 de exposiciones (USD bn) por país.
+  2. `bis_exposure_by_reporting_country_latest.csv` – top bancos reportantes en 2024‑Q4.
+  3. `bis_concentration_latest.csv` – CR3/CR5/top5 share para 2024‑Q4.
+- [ ] **Pendiente:** `bis_exposure_vs_tf.csv` (ratio exposición BIS / TF doméstico) y `bis_currency_split.csv`.
+- [ ] **Indicadores extra**: volatilidad pre/post COVID (2018‑2019 vs 2020‑2024) para el capítulo de riesgo sistémico.
+
+### 3. Hardy & Saffie (`*.dta`)
+- [ ] **Catalogar llaves**: identificar campos comunes (ticker, RUT, año) para unir con `data/chile_full.csv`.
+- [ ] **Tablas piloto**:
+  1. `hardy_firm_summary.csv` – tamaño, sector, export share, dependencia de TF bancario.
+  2. `hardy_credit_shock_panels.csv` – crecimiento `d_log_capex`, `d_log_emp`, financiamiento externo, etc.
+  3. `hardy_bank_exposure.csv` – mapping firma ↔ banco usando LoanData (sirve para contrastar con CMF).
+- [ ] **Aplicación en scripts**: actualizar `Scripts/Hardy data analysis.R` para leer desde `pre-data/` y exportar gráficos/tablas compatibles con la presentación.
+
+### 4. WUI (World Uncertainty Index)
+- [ ] **ETL ligero**: pivotar a formato largo (`country`, `quarter`, `WUI`), mapear ISO3 a países objetivo y hacer forward-fill mensual para empatar con TF.
+- [ ] **Tablas**:
+  1. `wui_tradefinance_overlay.csv` – promedio trimestral del WUI y TF doméstico (normalizado).
+  2. `wui_shock_windows.csv` – marcar episodios >P75 y medir caída TF (quarter t+1).
+- [ ] **Uso**: alimentar `latam banks.R` con variable de incertidumbre para regresiones y agregar gráfico “Incidencia de shocks globales” en `Trade_Finance.tex`.
+
+### 5. Coordinación con scripts existentes
+- [ ] Crear carpeta `Scripts/external_etl/` (o similar) para guardar notebooks/R scripts temporales.
+- [ ] Documentar en este mismo README el avance por fuente (fecha + archivo generado) para mantener trazabilidad.
+
+> Una vez listos los CSV anteriores, integrar los más prioritarios (EXIM country/program y BIS exposure) en los dashboards existentes y actualizar `Trade_Finance.tex` con las visualizaciones correspondientes.

@@ -18,7 +18,6 @@ import csv
 import re
 from dataclasses import dataclass
 from pathlib import Path
-from statistics import mean
 from typing import Dict, List, Sequence, Tuple
 
 import pdfplumber
@@ -191,53 +190,55 @@ def parse_payment_terms(pdf: pdfplumber.PDF, countries: Sequence[str]) -> Dict[s
 
 
 def extract_payment_terms_from_box(page, words, bbox) -> Dict[str, float] | None:
-    x_min = max(0.0, bbox['x0'] - 250)
-    x_max = min(page.width, bbox['x1'] + 250)
-    y_min = bbox['bottom']
-    y_max = y_min + 320
-    percents = []
+    margin_x = 130
+    margin_y = 220
+    x_min = max(0.0, bbox["x0"] - margin_x)
+    x_max = min(page.width, bbox["x1"] + margin_x)
+    y_min = bbox["bottom"]
+    y_max = y_min + margin_y
+    percents: List[Tuple[float, float]] = []
     for w in words:
-        if not w['text'].endswith('%'):
+        text = w["text"]
+        if not text.endswith("%"):
             continue
-        x = w['x0']
-        y = w['top']
-        if x_min <= x <= x_max and y_min <= y <= y_max:
-            try:
-                value = float(w['text'].replace('%', ''))
-            except ValueError:
-                continue
-            percents.append((x, value))
+        x_center = (w["x0"] + w["x1"]) / 2
+        y_center = (w["top"] + w["bottom"]) / 2
+        if not (x_min <= x_center <= x_max and (y_min + 20) <= y_center <= y_max):
+            continue
+        try:
+            value = float(text.replace("%", ""))
+        except ValueError:
+            continue
+        percents.append((x_center, value))
     if not percents:
         return None
-    axis_x = min(x for x, _ in percents)
-    filtered = [(x, val) for x, val in percents if x > axis_x + 15]
-    if not filtered:
-        return None
-    filtered.sort(key=lambda item: item[0])
-    clusters: List[Tuple[float, List[float]]] = []
-    for x, val in filtered:
-        if not clusters or abs(x - clusters[-1][0]) > 20:
-            clusters.append((x, [val]))
+    percents.sort(key=lambda item: item[0])
+    clusters: List[Tuple[float, float]] = []
+    for x, val in percents:
+        if not clusters or abs(x - clusters[-1][0]) > 25:
+            clusters.append((x, val))
         else:
-            clusters[-1][1].append(val)
-    values = [sum(vals) / len(vals) for _, vals in clusters]
-    if len(values) != 5:
+            prev_x, prev_val = clusters[-1]
+            clusters[-1] = ((prev_x + x) / 2, (prev_val + val) / 2)
+    values = [round(val, 1) for _, val in clusters]
+    if len(values) < 5:
+        return None
+    values = values[:5]
+    total = sum(values)
+    if not (90 <= total <= 110):
         return None
     buckets = {
-        'payment_terms_no_credit_pct': values[0],
-        'payment_terms_1_30_pct': values[1],
-        'payment_terms_31_60_pct': values[2],
-        'payment_terms_61_90_pct': values[3],
-        'payment_terms_90_plus_pct': values[4],
+        "payment_terms_no_credit_pct": values[0],
+        "payment_terms_1_30_pct": values[1],
+        "payment_terms_31_60_pct": values[2],
+        "payment_terms_61_90_pct": values[3],
+        "payment_terms_90_plus_pct": values[4],
     }
-    return {k: round(v, 1) for k, v in buckets.items()}
+    return buckets
 
 
 def parse_payment_delays(pdf: pdfplumber.PDF, countries: Sequence[str]) -> Dict[str, Dict[str, float]]:
     result: Dict[str, Dict[str, float]] = {}
-    label_centers = infer_delay_label_centers(pdf)
-    if not label_centers:
-        return result
     for page in pdf.pages:
         text = page.extract_text(layout=True) or ""
         normalized = " ".join(text.lower().split())
@@ -251,91 +252,99 @@ def parse_payment_delays(pdf: pdfplumber.PDF, countries: Sequence[str]) -> Dict[
             if not boxes:
                 continue
             bbox = boxes[0]
-            values = extract_payment_delays_from_box(page, words, bbox, label_centers)
+            values = extract_payment_delays_from_box(page, words, bbox)
             if values:
                 result[country] = values
     return result
 
 
-def infer_delay_label_centers(pdf: pdfplumber.PDF) -> Dict[str, float]:
-    phrases = [
-        "staying the same",
-        "not experiencing payment delays",
-        "decreasing",
-        "increasing",
-    ]
-    centers: Dict[str, List[float]] = {p: [] for p in phrases}
-    for page in pdf.pages:
-        text = page.extract_text(layout=True) or ""
-        if "payment delays" not in text.lower():
-            continue
-        words = page.extract_words()
-        for phrase in phrases:
-            hits = page.search(phrase, case=False)
-            box = hits[0] if hits else None
-            if not box:
-                first_token = phrase.split()[0]
-                for w in words:
-                    token = first_token[:4].lower()
-                    if w["text"].lower().startswith(token):
-                        box = w
-                        break
-            if box:
-                centers[phrase].append((box["x0"] + box["x1"]) / 2)
-    result = {}
-    for phrase, values in centers.items():
-        if values:
-            result[phrase] = mean(values)
-    return result
+DELAY_LABELS = [
+    ("staying the same", "payment_delays_staying_pct"),
+    ("not experiencing payment delays", "payment_delays_no_delay_pct"),
+    ("decreasing", "payment_delays_decreasing_pct"),
+    ("increasing", "payment_delays_increasing_pct"),
+]
 
 
-def extract_payment_delays_from_box(page, words, bbox, label_centers: Dict[str, float]) -> Dict[str, float] | None:
-    x_min = max(0.0, bbox["x0"] - 250)
-    x_max = min(page.width, bbox["x1"] + 250)
+def extract_payment_delays_from_box(page, words, bbox) -> Dict[str, float] | None:
+    margin_x = 130
+    margin_y = 230
+    x_min = max(0.0, bbox["x0"] - margin_x)
+    x_max = min(page.width, bbox["x1"] + margin_x)
     y_min = bbox["bottom"]
-    y_max = y_min + 430
+    y_max = y_min + margin_y
+
+    def label_centers() -> Dict[str, float]:
+        centers: Dict[str, float] = {}
+        for phrase, key in DELAY_LABELS:
+            hits = page.search(phrase, case=False)
+            if not hits:
+                continue
+            for hit in hits:
+                center = (hit["x0"] + hit["x1"]) / 2
+                y_center = (hit["top"] + hit["bottom"]) / 2
+                if x_min - 40 <= center <= x_max + 40 and y_center >= y_max - 60:
+                    centers[key] = center
+                    break
+        return centers
+
+    centers = label_centers()
+
     percents: List[Tuple[float, float]] = []
     for w in words:
         text = w["text"]
         if not text.endswith("%"):
             continue
-        x = w["x0"]
-        y = w["top"]
-        if x_min <= x <= x_max and y_min <= y <= y_max:
-            try:
-                value = float(text.replace("%", ""))
-            except ValueError:
-                continue
-            percents.append((x, value))
+        x_center = (w["x0"] + w["x1"]) / 2
+        y_center = (w["top"] + w["bottom"]) / 2
+        if not (x_min <= x_center <= x_max and (y_min + 20) <= y_center <= y_max):
+            continue
+        try:
+            value = float(text.replace("%", ""))
+        except ValueError:
+            continue
+        percents.append((x_center, value))
     if not percents:
         return None
-    if not percents:
+    percents.sort(key=lambda item: item[0])
+    clusters: List[Tuple[float, float]] = []
+    for x, val in percents:
+        if not clusters or abs(x - clusters[-1][0]) > 25:
+            clusters.append((x, val))
+        else:
+            prev_x, prev_val = clusters[-1]
+            clusters[-1] = ((prev_x + x) / 2, (prev_val + val) / 2)
+
+    values_by_key: Dict[str, float] = {}
+    if centers:
+        for cluster_x, cluster_val in clusters:
+            best_key = None
+            best_dist = float("inf")
+            for key, center in centers.items():
+                dist = abs(cluster_x - center)
+                if dist < best_dist:
+                    best_dist = dist
+                    best_key = key
+            if best_key and best_key not in values_by_key:
+                values_by_key[best_key] = round(cluster_val, 1)
+    else:
+        ordered_keys = [key for _, key in DELAY_LABELS]
+        for key, cluster in zip(ordered_keys, clusters):
+            values_by_key[key] = round(cluster[1], 1)
+
+    if not values_by_key:
         return None
-    phrase_map = {
-        "staying the same": "payment_delays_staying_pct",
-        "not experiencing payment delays": "payment_delays_no_delay_pct",
-        "decreasing": "payment_delays_decreasing_pct",
-        "increasing": "payment_delays_increasing_pct",
-    }
-    assignments: Dict[str, float] = {}
-    for phrase, column in phrase_map.items():
-        center = label_centers.get(phrase)
-        if center is None:
-            continue
-        candidates = [(abs(x - center), val) for x, val in percents]
-        if not candidates:
-            continue
-        candidates.sort(key=lambda item: item[0])
-        assignments[column] = candidates[0][1]
-    if not assignments:
+
+    total = sum(values_by_key.values())
+    if total and not (90 <= total <= 110):
         return None
-    buckets = {
-        "payment_delays_staying_pct": assignments.get("payment_delays_staying_pct"),
-        "payment_delays_no_delay_pct": assignments.get("payment_delays_no_delay_pct"),
-        "payment_delays_decreasing_pct": assignments.get("payment_delays_decreasing_pct"),
-        "payment_delays_increasing_pct": assignments.get("payment_delays_increasing_pct"),
+
+    return {
+        "payment_delays_staying_pct": values_by_key.get("payment_delays_staying_pct"),
+        "payment_delays_no_delay_pct": values_by_key.get("payment_delays_no_delay_pct"),
+        "payment_delays_decreasing_pct": values_by_key.get("payment_delays_decreasing_pct"),
+        "payment_delays_increasing_pct": values_by_key.get("payment_delays_increasing_pct"),
     }
-    return {k: round(v, 1) for k, v in buckets.items()}
 
 
 REGEX_PATTERNS = [
