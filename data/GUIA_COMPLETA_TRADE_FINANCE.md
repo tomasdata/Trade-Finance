@@ -266,12 +266,26 @@ Los datasets actuales son **SUFICIENTES** para un análisis robusto de trade fin
 ### **🇨🇱 data/chile_full.csv**
 
 **Cobertura y variables adicionales**
-- 1,771,737 filas, 30 instituciones y 1,118 códigos contables (`CodigoCuenta`) desde 1998-2024.
+- 1,771,737 filas crudas; el ETL `Scripts/chile_etl.R` conserva 2015-2024 (762,687 filas) para 26 bancos y 882 cuentas activas.
 - Variables `Moneda*` (CLP corrientes) permiten composición multimoneda:
   - `MonedaTotal`: CLP 3.44e17 (mediana CLP 179; P90 CLP 5.7e8; P99 CLP 1.98e12).
   - `MonedaExtranjera`: CLP 7.48e16 (mediana 0; P90 CLP 6.2e6; P99 CLP 3.10e11) → base para aislar TF en divisas.
   - `MonedaChilenaNoReajustable`: CLP 1.67e17; `MonedaReajustablePorIPC`: CLP 1.02e17; `MonedaReajustablePorTipoDeCambio`: CLP 4.70e14 (altísima escasez de datos distintos de cero, ideal para identificar cuentas con cobertura cambiaria explícita).
-- Sólo 1.6% del stock en moneda extranjera menciona “comercio exterior” en `DescripcionCuenta`, por lo que conviene usar el catálogo CMF para identificar todos los códigos TF.
+- Sólo 1.6% del stock en moneda extranjera menciona “comercio exterior” en `DescripcionCuenta`; el ETL agrega `categoria_tf` (comercio_exterior, exportaciones, importaciones, interbancario_exterior, financiamiento_exterior, contingentes, otros) mediante el diccionario del README CMF.
+- `share_categoria` entrega la participación mensual de cada banco/cuenta dentro del total TF de su categoría, lo que facilita los análisis de concentración y proporciones (TF/colocaciones).
+- Las cuentas de control (`es_control = TRUE`) permiten validar que los agregados parciales cuadren con Totales CMF antes de filtrar por trade finance.
+
+**Clasificación TF (principales códigos CMF)**
+
+| categoría_tf | Códigos relevantes | Uso |
+|--------------|--------------------|-----|
+| `comercio_exterior` | 145400200, 145400101, 145400102 | Créditos generales TF (MonedaExtranjera_num directo en USD). |
+| `exportaciones` | 145400201, 145400202, 145400105, 145400205, 143100104/143200104 | Financiación exportaciones + interbancarios export. |
+| `importaciones` | 145400203, 145400204, 145400290, 143100105/143200105 | Financiación importaciones + interbancarios import. |
+| `interbancario_exterior` | 14310010x / 14320010x | Posiciones interbancarias TF (útiles para fondeo). |
+| `financiamiento_exterior` | 244250100, 244500100/200, 244000000 | Fondeo externo asociado a TF. |
+| `contingentes` | 813200600, 814200600, 821200600, 831200000 | Cartas de crédito y garantías contingentes. |
+| `otros` | Resto de cuentas | Contexto o denominadores (p.ej. `Créditos comerciales`). |
 
 **Principales cuentas TF (MonedaExtranjera, CLP corrientes)**
 
@@ -302,6 +316,8 @@ El resto de 25 bancos acumula 57.3%, proporcionando base para indicadores CR5/HH
 - `share`: participación (%) de cada banco-concepto-tamaño; media 1.52%, mediana 0.0008%, P99 21.6%, con valores extremos de 100% cuando un banco es único en un segmento → simplifica benchmarking competitivo sin recalcular totals.
 - `my`: llave AAAA-MM que asegura ordenamiento temporal y facilita merges con macro series.
 - `institucion_std`: 19 bancos estandarizados; los cinco principales concentran 78.6% del monto TF.
+- `tipo_cambio_venta` (BCRP PN01215PM): tipo de cambio interbancario venta fin de periodo; el nuevo ETL (`Scripts/peru_etl.R`) cruza esta serie mensual con la SBS y calcula automáticamente `total_pen/amount_pen` (S/ corrientes) y `total_usd/amount_usd` (USD), manteniendo la equivalencia original en “miles de soles” para trazabilidad.
+- `X_exports`, `M_imports`, `trade`: ahora se llenan desde BACI (código 604) para replicar el ratio TF/Comercio igual que en Brasil y México.
 
 **Montos por tipo de crédito (`amount` en miles de PEN)**
 
