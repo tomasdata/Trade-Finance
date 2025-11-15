@@ -71,26 +71,47 @@ Comprehensive research analyzing **trade finance markets** across Latin America 
 
 ---
 
-### 📋 **NOT STARTED**
+### 📋 **NOT STARTED** (Being Organized)
 
 #### 5️⃣ **Development Banks & Export Credit Agencies** (TO-DO Point 4)
 
-**Available PDFs (Unprocessed)**:
+**🗂️ Structure Defined** (`banca-desarrollo/` directory):
+- ✅ **Inventory created**: `banca-desarrollo/README.md` lists 13 institutions across 9 countries + 2 multilaterals
+- ✅ **Folder structure planned**: `<país>/<institución>/` organization
+- ⏳ **Files being downloaded**: PDFs/reports being collected and organized
 
-| Institution | Country | Files Available | Status |
+**Institutions Documented (Files Being Collected)**:
+
+| Institution | Country | Reports Planned | Status |
 |-------------|---------|-----------------|--------|
-| **BNDES** | 🇧🇷 Brazil | `bndes_relatorio_anual_2023_en.pdf` | 📄 Not extracted |
-| **CORFO** | 🇨🇱 Chile | 21 monthly PDFs (Feb 2023 - Dec 2024)<br>`informe_garantias_corfo_julio_2023.xlsx` | 📄 Not extracted<br>📊 Excel ready |
-| **Bancóldex** | 🇨🇴 Colombia | `bancoldex_reporte_anual_2023.pdf` | 📄 Not extracted |
-| **NAFIN** | 🇲🇽 Mexico | `nafinsa_informe_anual_2023.pdf` | 📄 Not extracted |
-| **Bancomext** | 🇲🇽 Mexico | `bancomext_informe_anual_2023.pdf` | 📄 Not extracted |
-| **COFIDE** | 🇵🇪 Peru | `cofide_memoria_anual_2023.pdf` | 📄 Not extracted |
+| **CORFO (COBEX/FOGAIN)** | �� Chile | 21 monthly reports (2023-2024)<br>`Informe GC Diciembre 2024_v2.pdf` | � **Being organized** |
+| **NAFIN** | �� Mexico | `nafinsa_informe_anual_2023.pdf` | 📥 Being organized |
+| **Bancomext** | 🇲🇽 Mexico | `bancomext_informe_anual_2023.pdf` | � Being organized |
+| **Bancóldex** | 🇨🇴 Colombia | `bancoldex_reporte_anual_2023.pdf` | � Being organized |
+| **Finagro** | �� Colombia | `finagro_informe_gestion_2023.pdf` | � Being organized |
+| **Findeter** | 🇨🇴 Colombia | 2 reports (gestión + sectorial 2023) | 📥 Being organized |
+| **BICE** | �� Argentina | `bice_memoria_balance_2023.pdf` | 📥 Being organized |
+| **BNDES** | 🇧🇷 Brazil | `bndes_relatorio_anual_2023_en.pdf` | � Being organized |
+| **BDP** | 🇧🇴 Bolivia | `bdp_memoria_2023.pdf` | 📥 Being organized |
+| **AFD** | 🇵� Paraguay | `afd_memoria_2023.pdf` | 📥 Being organized |
+| **BDE** | 🇪🇨 Ecuador | `bde_memoria_2023.pdf` | 📥 Being organized |
+| **ANDE** | 🇺🇾 Uruguay | `ande_memoria_2023.pdf` | 📥 Being organized |
+| **CAF** | 🌎 Multilateral | `caf_informe_anual_2023_interactivo.pdf` | � Being organized |
+| **FONPLATA** | 🌎 Multilateral | `fonplata_memoria_2023.pdf` | 📥 Being organized |
+
+**⚠️ Blocked Sources** (Manual Download Required):
+- **COFIDE** (🇵🇪 Peru): Website returns 404, needs manual authentication
+- **BCIE/CABEI** (🌎 Multilateral): Next.js/CloudFront site, requires browser execution
+- **FNG Colombia**: Incapsula protection, returns empty HTML via scripts
 
 **Next Steps**:
-1. OCR extraction pipeline for 6 development bank PDFs
-2. Process CORFO Excel (julio 2023) - **PRIORITY** (only structured data)
-3. Standardize extracted data format
-4. Clarify "COBEX" reference (folder found: `banca-desarrollo/chile/cobdx/`)
+1. **Finish file collection** into `banca-desarrollo/<país>/<institución>/` structure
+2. **OCR extraction pipeline** for 13+ development bank PDFs
+3. **Extract structured data**: disbursements, portfolio by program, guarantees
+4. **Cross-reference with TF data** to measure public vs private TF contribution
+5. **Clarify COBEX**: Inventory refers to `chile/cobdx/` folder (CORFO guarantee program)
+
+**📖 Documentation**: See `banca-desarrollo/README.md` for complete inventory and `banca-desarrollo/TODO.md` for progress tracking
 
 ---
 
@@ -443,16 +464,39 @@ documents/
 
 ---
 
-### 🎓 **7. ACADEMIC DATA (`pre-data/` root)**
+### 🎓 **7. ACADEMIC DATA & DEVELOPMENT BANKS**
 
 **Research Datasets**:
 
 ```
 ├── BryanHardy_JMP_FirmData_forMP.dta   - Firm-level data (Chile focus)
 ├── HardySaffie_CCT_Data.dta            - Conditional cash transfer impact analysis
-└── banca-desarrollo/
-    └── TODO.md                          - Development bank research plan
+│
+└── banca-desarrollo/                    🏦 DEVELOPMENT BANKS (Files Being Organized)
+    ├── README.md                        - Complete inventory: 13 institutions, 9 countries + 2 multilaterals
+    └── TODO.md                          - Progress tracking: CORFO ✅, NAFIN/Bancomext 📥, etc.
+    │
+    └── [Planned structure - files being collected]:
+        ├── chile/cobdx/                 - CORFO (COBEX/FOGAIN): 21 monthly reports 2023-2024
+        ├── mexico/nafin/                - NAFIN annual report 2023
+        ├── mexico/bancomext/            - Bancomext annual report 2023
+        ├── colombia/bancoldex/          - Bancóldex annual report 2023
+        ├── colombia/finagro/            - Finagro sustainable management 2023
+        ├── colombia/findeter/           - Findeter integrated + sectoral reports 2023
+        ├── argentina/bice/              - BICE memoria y balance 2023
+        ├── brasil/bndes/                - BNDES relatório anual 2023 (English)
+        ├── bolivia/bdp/                 - BDP memoria 2023
+        ├── paraguay/afd/                - AFD memoria sostenibilidad 2023
+        ├── ecuador/bde/                 - BDE memoria 2023
+        ├── uruguay/ande/                - ANDE memoria 2023
+        ├── multilaterales/caf/          - CAF informe anual 2023
+        └── multilaterales/fonplata/     - FONPLATA memoria anual 2023
 ```
+
+**📖 USAGE**: 
+- **Current Status**: Inventory and folder structure defined, files being downloaded/organized
+- **Objective**: Extract disbursements, guarantees, and TF-specific programs to measure public vs private TF provision
+- **Next Phase**: OCR extraction pipeline for 13+ development bank annual reports
 
 ---
 
