@@ -1,0 +1,92 @@
+period,year,quarter,table,table_num,bank_group,region,row_type,original_row_idx,country_region,Foreign_Office_Liabilities_By_Country_of_Foreign_Office_Non_Local_Currency,Local_Currency,Total,By_Country_of_Creditor,Net_Due_To_or,Memorandum_Items_9_Securities_HTM_and_AFS,Trading_Assets_Assets_Held_for_Trading,Offsetting_Positions_for_Trading,Collateralized_Claims_Not_Subject_Total_Collateral,Of_Which_Cash,Of_Which_Same_Country,Of_Which_Resale_Reverse_Repurchase
+2024Q2,2024,Q2,Table 3,3,All Banks,G-10 and Luxembourg,country_data,8,BELGIUM,3260.0,3296.0,6556.0,29101.0,16541.0,2190.0,6822.0,2140.0,3767.0,0.0,633.0,3767.0
+2024Q2,2024,Q2,Table 3,3,All Banks,G-10 and Luxembourg,country_data,9,CANADA,10954.0,35318.0,46272.0,57265.0,32549.0,21938.0,41091.0,14465.0,77947.0,822.0,15354.0,77834.0
+2024Q2,2024,Q2,Table 3,3,All Banks,G-10 and Luxembourg,country_data,10,FRANCE,5468.0,44354.0,49822.0,111948.0,19695.0,7064.0,48697.0,10726.0,106560.0,1.0,27898.0,106550.0
+2024Q2,2024,Q2,Table 3,3,All Banks,G-10 and Luxembourg,country_data,11,GERMANY,29627.0,185426.0,215053.0,154432.0,293474.0,15828.0,55432.0,14469.0,61913.0,0.0,11413.0,61913.0
+2024Q2,2024,Q2,Table 3,3,All Banks,G-10 and Luxembourg,country_data,12,ITALY,1231.0,17300.0,18531.0,67678.0,-8802.0,2496.0,41246.0,15794.0,16494.0,0.0,2894.0,16494.0
+2024Q2,2024,Q2,Table 3,3,All Banks,G-10 and Luxembourg,country_data,13,JAPAN,11220.0,109679.0,120899.0,160281.0,291598.0,12279.0,140256.0,34345.0,185223.0,1.0,81883.0,185210.0
+2024Q2,2024,Q2,Table 3,3,All Banks,G-10 and Luxembourg,country_data,14,LUXEMBOURG,85777.0,64351.0,150128.0,103315.0,-121293.0,3060.0,10390.0,529.0,11055.0,0.0,1167.0,11049.0
+2024Q2,2024,Q2,Table 3,3,All Banks,G-10 and Luxembourg,country_data,15,NETHERLANDS,27047.0,18837.0,45884.0,84023.0,-42287.0,3909.0,24769.0,3693.0,2549.0,0.0,635.0,2526.0
+2024Q2,2024,Q2,Table 3,3,All Banks,G-10 and Luxembourg,country_data,16,SWEDEN,29.0,827.0,856.0,21089.0,-580.0,1238.0,8140.0,544.0,3347.0,0.0,537.0,3347.0
+2024Q2,2024,Q2,Table 3,3,All Banks,G-10 and Luxembourg,country_data,17,SWITZERLAND,5992.0,3655.0,9647.0,51585.0,21829.0,1043.0,16614.0,716.0,8167.0,0.0,2132.0,8167.0
+2024Q2,2024,Q2,Table 3,3,All Banks,G-10 and Luxembourg,country_data,18,UNITED KINGDOM,1275585.0,321506.0,1597091.0,388379.0,99433.0,22770.0,86163.0,18505.0,70596.0,202.0,21051.0,69166.0
+2024Q2,2024,Q2,Table 3,3,All Banks,Non G-10 Developed Countries,country_data,22,AUSTRALIA,9118.0,57525.0,66643.0,88178.0,29451.0,9486.0,19541.0,3263.0,21773.0,0.0,14498.0,21753.0
+2024Q2,2024,Q2,Table 3,3,All Banks,Non G-10 Developed Countries,country_data,23,AUSTRIA,72.0,371.0,443.0,9195.0,-316.0,2564.0,5263.0,1264.0,1179.0,0.0,583.0,1179.0
+2024Q2,2024,Q2,Table 3,3,All Banks,Non G-10 Developed Countries,country_data,24,CYPRUS,0.0,0.0,0.0,5271.0,-1.0,0.0,277.0,26.0,4.0,0.0,3.0,4.0
+2024Q2,2024,Q2,Table 3,3,All Banks,Non G-10 Developed Countries,country_data,25,DENMARK,22.0,582.0,604.0,16299.0,3.0,498.0,10293.0,354.0,2289.0,0.0,257.0,2289.0
+2024Q2,2024,Q2,Table 3,3,All Banks,Non G-10 Developed Countries,country_data,26,FINLAND,0.0,158.0,158.0,10112.0,-73.0,1776.0,5807.0,933.0,3321.0,0.0,770.0,3321.0
+2024Q2,2024,Q2,Table 3,3,All Banks,Non G-10 Developed Countries,country_data,27,GREECE,29.0,1313.0,1342.0,6092.0,-1044.0,0.0,4254.0,266.0,2520.0,0.0,482.0,2520.0
+2024Q2,2024,Q2,Table 3,3,All Banks,Non G-10 Developed Countries,country_data,28,IRELAND,20848.0,52999.0,73847.0,143358.0,55817.0,14085.0,23508.0,1671.0,23398.0,0.0,1527.0,23053.0
+2024Q2,2024,Q2,Table 3,3,All Banks,Non G-10 Developed Countries,country_data,29,ISRAEL,1702.0,3706.0,5408.0,11502.0,-163.0,1139.0,5572.0,223.0,3623.0,0.0,3145.0,3623.0
+2024Q2,2024,Q2,Table 3,3,All Banks,Non G-10 Developed Countries,country_data,30,NEW ZEALAND,72.0,1230.0,1302.0,4591.0,1454.0,389.0,892.0,91.0,567.0,0.0,337.0,567.0
+2024Q2,2024,Q2,Table 3,3,All Banks,Non G-10 Developed Countries,country_data,31,NORWAY,0.0,521.0,521.0,7556.0,-261.0,1693.0,2783.0,460.0,25565.0,0.0,1967.0,25565.0
+2024Q2,2024,Q2,Table 3,3,All Banks,Non G-10 Developed Countries,country_data,32,PORTUGAL,9.0,192.0,201.0,4035.0,-159.0,10.0,3207.0,714.0,2400.0,0.0,34.0,2400.0
+2024Q2,2024,Q2,Table 3,3,All Banks,Non G-10 Developed Countries,country_data,33,SLOVAKIA,207.0,493.0,700.0,1421.0,-456.0,519.0,540.0,60.0,1384.0,0.0,26.0,1384.0
+2024Q2,2024,Q2,Table 3,3,All Banks,Non G-10 Developed Countries,country_data,34,SPAIN,621.0,2685.0,3306.0,37614.0,-736.0,2345.0,22486.0,5735.0,5901.0,0.0,945.0,5901.0
+2024Q2,2024,Q2,Table 3,3,All Banks,Non G-10 Developed Countries,country_data,35,OTHER NON G-10 DEV.,7.0,4.0,11.0,19927.0,18.0,0.0,591.0,6.0,5719.0,0.0,0.0,5719.0
+2024Q2,2024,Q2,Table 3,3,All Banks,Eastern Europe,country_data,39,BULGARIA,538.0,453.0,991.0,1323.0,-562.0,46.0,63.0,37.0,0.0,0.0,0.0,0.0
+2024Q2,2024,Q2,Table 3,3,All Banks,Eastern Europe,country_data,40,CZECH REPUBLIC,2415.0,1594.0,4009.0,5364.0,386.0,813.0,874.0,229.0,6389.0,0.0,3652.0,6389.0
+2024Q2,2024,Q2,Table 3,3,All Banks,Eastern Europe,country_data,41,HUNGARY,1115.0,1340.0,2455.0,7488.0,46.0,970.0,1843.0,301.0,199.0,0.0,195.0,199.0
+2024Q2,2024,Q2,Table 3,3,All Banks,Eastern Europe,country_data,42,KOSOVO,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2024Q2,2024,Q2,Table 3,3,All Banks,Eastern Europe,country_data,43,POLAND,4398.0,10751.0,15149.0,17689.0,2959.0,8634.0,3049.0,313.0,178.0,0.0,176.0,178.0
+2024Q2,2024,Q2,Table 3,3,All Banks,Eastern Europe,country_data,44,ROMANIA,1112.0,2407.0,3519.0,4354.0,-237.0,1479.0,1462.0,341.0,290.0,0.0,290.0,290.0
+2024Q2,2024,Q2,Table 3,3,All Banks,Eastern Europe,country_data,45,RUSSIA,349.0,4875.0,5224.0,5972.0,3203.0,277.0,87.0,7.0,1404.0,0.0,1404.0,1404.0
+2024Q2,2024,Q2,Table 3,3,All Banks,Eastern Europe,country_data,46,TURKEY,627.0,1045.0,1672.0,6720.0,746.0,133.0,4717.0,331.0,3164.0,0.0,3164.0,3164.0
+2024Q2,2024,Q2,Table 3,3,All Banks,Eastern Europe,country_data,47,OTHER E. EUROPE,373.0,1141.0,1514.0,5509.0,-76.0,326.0,1628.0,409.0,2904.0,0.0,3.0,2904.0
+2024Q2,2024,Q2,Table 3,3,All Banks,Latin America and Caribbean,country_data,51,ANGUILLA,4.0,0.0,4.0,614.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,4.0
+2024Q2,2024,Q2,Table 3,3,All Banks,Latin America and Caribbean,country_data,52,ARGENTINA,664.0,2050.0,2714.0,2558.0,2700.0,60.0,1527.0,41.0,1239.0,1.0,1239.0,1216.0
+2024Q2,2024,Q2,Table 3,3,All Banks,Latin America and Caribbean,country_data,53,BRAZIL,162.0,30895.0,31057.0,36367.0,29938.0,7644.0,56871.0,2852.0,13567.0,0.0,12529.0,13420.0
+2024Q2,2024,Q2,Table 3,3,All Banks,Latin America and Caribbean,country_data,54,CHILE,10.0,141.0,151.0,698.0,2880.0,358.0,1721.0,209.0,287.0,0.0,276.0,221.0
+2024Q2,2024,Q2,Table 3,3,All Banks,Latin America and Caribbean,country_data,55,COLOMBIA,32.0,3775.0,3807.0,3613.0,1018.0,857.0,2252.0,65.0,637.0,0.0,626.0,637.0
+2024Q2,2024,Q2,Table 3,3,All Banks,Latin America and Caribbean,country_data,56,COSTA RICA,313.0,726.0,1039.0,1051.0,287.0,283.0,91.0,4.0,0.0,0.0,0.0,0.0
+2024Q2,2024,Q2,Table 3,3,All Banks,Latin America and Caribbean,country_data,57,DOMINICAN REPUBLIC,80.0,277.0,357.0,363.0,47.0,220.0,368.0,21.0,201.0,0.0,201.0,201.0
+2024Q2,2024,Q2,Table 3,3,All Banks,Latin America and Caribbean,country_data,58,ECUADOR,664.0,0.0,664.0,581.0,98.0,50.0,136.0,19.0,0.0,0.0,0.0,0.0
+2024Q2,2024,Q2,Table 3,3,All Banks,Latin America and Caribbean,country_data,59,EL SALVADOR,160.0,0.0,160.0,148.0,107.0,109.0,45.0,8.0,0.0,0.0,0.0,0.0
+2024Q2,2024,Q2,Table 3,3,All Banks,Latin America and Caribbean,country_data,60,FRENCH GUIANA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2024Q2,2024,Q2,Table 3,3,All Banks,Latin America and Caribbean,country_data,61,GUATEMALA,122.0,220.0,342.0,339.0,31.0,263.0,67.0,7.0,50.0,0.0,50.0,50.0
+2024Q2,2024,Q2,Table 3,3,All Banks,Latin America and Caribbean,country_data,62,HONDURAS,59.0,385.0,444.0,346.0,31.0,185.0,57.0,0.0,0.0,0.0,0.0,0.0
+2024Q2,2024,Q2,Table 3,3,All Banks,Latin America and Caribbean,country_data,63,MEXICO,7403.0,82451.0,89854.0,91833.0,28346.0,25439.0,17169.0,1297.0,6696.0,0.0,4258.0,6610.0
+2024Q2,2024,Q2,Table 3,3,All Banks,Latin America and Caribbean,country_data,64,MONTSERRAT,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2024Q2,2024,Q2,Table 3,3,All Banks,Latin America and Caribbean,country_data,65,PERU,709.0,1245.0,1954.0,1811.0,522.0,787.0,1151.0,171.0,389.0,0.0,71.0,389.0
+2024Q2,2024,Q2,Table 3,3,All Banks,Latin America and Caribbean,country_data,66,URUGUAY,258.0,412.0,670.0,833.0,95.0,14.0,430.0,27.0,0.0,0.0,0.0,0.0
+2024Q2,2024,Q2,Table 3,3,All Banks,Latin America and Caribbean,country_data,67,VENEZUELA,0.0,0.0,0.0,55.0,0.0,0.0,121.0,1.0,0.0,0.0,0.0,0.0
+2024Q2,2024,Q2,Table 3,3,All Banks,Latin America and Caribbean,country_data,68,OTHER LAT. AM. & CAR.,1252.0,684.0,1936.0,46467.0,465.0,411.0,3347.0,128.0,4148.0,1.0,111.0,4117.0
+2024Q2,2024,Q2,Table 3,3,All Banks,Asia and Pacific,country_data,72,CHINA-MAINLAND,6136.0,26158.0,32294.0,53179.0,13793.0,8400.0,75130.0,534.0,23224.0,1.0,295.0,23220.0
+2024Q2,2024,Q2,Table 3,3,All Banks,Asia and Pacific,country_data,73,INDIA,3259.0,47655.0,50914.0,48130.0,26735.0,13663.0,47250.0,605.0,4939.0,0.0,4939.0,4931.0
+2024Q2,2024,Q2,Table 3,3,All Banks,Asia and Pacific,country_data,74,INDONESIA,1603.0,4781.0,6384.0,9192.0,2552.0,2154.0,5811.0,170.0,2402.0,0.0,2121.0,2402.0
+2024Q2,2024,Q2,Table 3,3,All Banks,Asia and Pacific,country_data,75,"KOREA, SOUTH",4137.0,18118.0,22255.0,36764.0,21042.0,10721.0,45137.0,223.0,13106.0,0.0,2913.0,13106.0
+2024Q2,2024,Q2,Table 3,3,All Banks,Asia and Pacific,country_data,76,KUWAIT,30.0,187.0,217.0,7315.0,-10.0,121.0,683.0,1.0,16661.0,0.0,0.0,16661.0
+2024Q2,2024,Q2,Table 3,3,All Banks,Asia and Pacific,country_data,77,MALAYSIA,5394.0,5359.0,10753.0,14457.0,4243.0,3526.0,2070.0,38.0,4493.0,0.0,4398.0,4493.0
+2024Q2,2024,Q2,Table 3,3,All Banks,Asia and Pacific,country_data,78,PAKISTAN,36.0,950.0,986.0,1197.0,-17.0,629.0,125.0,30.0,0.0,0.0,0.0,0.0
+2024Q2,2024,Q2,Table 3,3,All Banks,Asia and Pacific,country_data,79,PHILIPPINES,2098.0,3649.0,5747.0,7327.0,1278.0,1459.0,1344.0,63.0,1423.0,0.0,1165.0,1423.0
+2024Q2,2024,Q2,Table 3,3,All Banks,Asia and Pacific,country_data,80,QATAR,36.0,65.0,101.0,13679.0,-84.0,138.0,1064.0,111.0,2125.0,0.0,1569.0,2125.0
+2024Q2,2024,Q2,Table 3,3,All Banks,Asia and Pacific,country_data,81,SAUDI ARABIA,241.0,642.0,883.0,33731.0,1023.0,71.0,8190.0,176.0,8132.0,0.0,43.0,8132.0
+2024Q2,2024,Q2,Table 3,3,All Banks,Asia and Pacific,country_data,82,TAIWAN,6710.0,7500.0,14210.0,34498.0,3640.0,713.0,32306.0,784.0,20925.0,0.0,626.0,20917.0
+2024Q2,2024,Q2,Table 3,3,All Banks,Asia and Pacific,country_data,83,THAILAND,1714.0,5986.0,7700.0,11038.0,1836.0,4328.0,3313.0,118.0,2185.0,0.0,2011.0,2185.0
+2024Q2,2024,Q2,Table 3,3,All Banks,Asia and Pacific,country_data,84,UNITED ARAB EMIRATES,12899.0,4660.0,17559.0,20150.0,3005.0,5579.0,3502.0,142.0,17882.0,0.0,556.0,17882.0
+2024Q2,2024,Q2,Table 3,3,All Banks,Asia and Pacific,country_data,85,WEST BANK AND GAZA,0.0,0.0,0.0,61.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2024Q2,2024,Q2,Table 3,3,All Banks,Asia and Pacific,country_data,86,OTHER ASIA AND PACIFIC,3123.0,3315.0,6438.0,20428.0,-645.0,776.0,2258.0,161.0,635.0,0.0,41.0,635.0
+2024Q2,2024,Q2,Table 3,3,All Banks,Africa,country_data,90,ALGERIA,114.0,1059.0,1173.0,960.0,232.0,673.0,7.0,0.0,0.0,0.0,0.0,0.0
+2024Q2,2024,Q2,Table 3,3,All Banks,Africa,country_data,91,EGYPT,393.0,1026.0,1419.0,1962.0,375.0,581.0,10254.0,54.0,936.0,0.0,936.0,936.0
+2024Q2,2024,Q2,Table 3,3,All Banks,Africa,country_data,92,GHANA,0.0,0.0,0.0,192.0,0.0,0.0,105.0,13.0,0.0,0.0,0.0,0.0
+2024Q2,2024,Q2,Table 3,3,All Banks,Africa,country_data,93,KENYA,439.0,523.0,962.0,1393.0,-139.0,212.0,143.0,19.0,0.0,0.0,0.0,0.0
+2024Q2,2024,Q2,Table 3,3,All Banks,Africa,country_data,94,MOROCCO,282.0,722.0,1004.0,943.0,-378.0,462.0,127.0,42.0,0.0,0.0,0.0,0.0
+2024Q2,2024,Q2,Table 3,3,All Banks,Africa,country_data,95,NIGERIA,784.0,579.0,1363.0,4857.0,58.0,143.0,1559.0,70.0,7320.0,0.0,606.0,7320.0
+2024Q2,2024,Q2,Table 3,3,All Banks,Africa,country_data,96,SAINT HELENA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2024Q2,2024,Q2,Table 3,3,All Banks,Africa,country_data,97,SOUTH AFRICA,889.0,6139.0,7028.0,13007.0,332.0,2480.0,3846.0,453.0,1080.0,0.0,695.0,1080.0
+2024Q2,2024,Q2,Table 3,3,All Banks,Africa,country_data,98,SOUTH SUDAN,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2024Q2,2024,Q2,Table 3,3,All Banks,Africa,country_data,99,OTHER AFRICA,1811.0,2113.0,3924.0,8753.0,217.0,964.0,1378.0,225.0,58.0,0.0,0.0,58.0
+2024Q2,2024,Q2,Table 3,3,All Banks,Banking Centers,country_data,103,BAHAMAS,25.0,147.0,172.0,5462.0,2632.0,81.0,28.0,4.0,107.0,0.0,0.0,107.0
+2024Q2,2024,Q2,Table 3,3,All Banks,Banking Centers,country_data,104,BAHRAIN,292.0,114.0,406.0,786.0,-205.0,64.0,255.0,42.0,1876.0,0.0,109.0,1876.0
+2024Q2,2024,Q2,Table 3,3,All Banks,Banking Centers,country_data,105,BERMUDA,319.0,8.0,327.0,15291.0,2327.0,1136.0,5798.0,458.0,1163.0,0.0,34.0,1129.0
+2024Q2,2024,Q2,Table 3,3,All Banks,Banking Centers,country_data,106,CAYMAN ISLANDS,16294.0,4.0,16298.0,289212.0,-7857.0,110510.0,38815.0,1787.0,310777.0,280.0,17481.0,310598.0
+2024Q2,2024,Q2,Table 3,3,All Banks,Banking Centers,country_data,107,HONG KONG,81284.0,35205.0,116489.0,106270.0,-10800.0,11361.0,10938.0,154.0,13019.0,7.0,2671.0,13004.0
+2024Q2,2024,Q2,Table 3,3,All Banks,Banking Centers,country_data,108,LEBANON,169.0,28.0,197.0,1558.0,-158.0,0.0,56.0,4.0,0.0,0.0,0.0,0.0
+2024Q2,2024,Q2,Table 3,3,All Banks,Banking Centers,country_data,109,MAURITIUS,500.0,171.0,671.0,1826.0,8705.0,15.0,256.0,14.0,569.0,0.0,0.0,569.0
+2024Q2,2024,Q2,Table 3,3,All Banks,Banking Centers,country_data,110,PANAMA,903.0,35.0,938.0,1922.0,-194.0,497.0,490.0,98.0,421.0,0.0,232.0,404.0
+2024Q2,2024,Q2,Table 3,3,All Banks,Banking Centers,country_data,111,SINGAPORE,93226.0,31008.0,124234.0,102310.0,3924.0,15300.0,7997.0,250.0,41624.0,9.0,308.0,41610.0
+2024Q2,2024,Q2,Table 3,3,All Banks,Banking Centers,country_data,112,OTHER BANKING CENTERS,63990.0,3605.0,67595.0,22534.0,-55009.0,4207.0,4253.0,159.0,3056.0,0.0,2.0,3056.0
+2024Q2,2024,Q2,Table 3,3,All Banks,International & Regional Organizations,country_data,116,AFRICAN,0.0,0.0,0.0,358.0,0.0,1329.0,234.0,5.0,0.0,0.0,0.0,0.0
+2024Q2,2024,Q2,Table 3,3,All Banks,International & Regional Organizations,country_data,120,INTERNATIONAL,0.0,0.0,0.0,8449.0,0.0,12188.0,4123.0,374.0,653.0,0.0,0.0,653.0
+2024Q2,2024,Q2,Table 3,3,All Banks,International & Regional Organizations,country_data,121,LATIN AMERICAN,0.0,0.0,0.0,148.0,0.0,6648.0,1563.0,27.0,440.0,0.0,0.0,440.0
+2024Q2,2024,Q2,Table 3,3,All Banks,International & Regional Organizations,country_data,125,UNITED STATES,0.0,0.0,0.0,160747.0,-780793.0,4179821.0,1629182.0,130220.0,1131930.0,3961.0,910120.0,1110999.0

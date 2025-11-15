@@ -1,0 +1,175 @@
+REPORTE DE VALIDACIÓN - UNKNOWN
+================================================================================
+
+RESUMEN:
+  Archivos procesados: 15
+  Total de filas: 1815
+  Filas de datos de países: 1365
+
+ARCHIVOS:
+--------------------------------------------------------------------------------
+
+All_Others_Table_1.csv
+  Filas: 121
+  Columnas de datos: 13
+  Tipos de fila:
+    country_data: 91
+    empty: 9
+    region_header: 8
+    subtotal: 8
+    organization_data: 4
+    grand_total: 1
+
+All_Others_Table_4_1.csv
+  Filas: 121
+  Columnas de datos: 18
+  Tipos de fila:
+    country_data: 91
+    empty: 9
+    region_header: 8
+    subtotal: 8
+    organization_data: 4
+    grand_total: 1
+
+All_Others_Table_2.csv
+  Filas: 121
+  Columnas de datos: 8
+  Tipos de fila:
+    country_data: 91
+    empty: 9
+    region_header: 8
+    subtotal: 8
+    organization_data: 4
+    grand_total: 1
+
+All_Others_Table_3.csv
+  Filas: 121
+  Columnas de datos: 12
+  Tipos de fila:
+    country_data: 91
+    empty: 9
+    region_header: 8
+    subtotal: 8
+    organization_data: 4
+    grand_total: 1
+
+All_Others_Table_4_2.csv
+  Filas: 121
+  Columnas de datos: 14
+  Tipos de fila:
+    country_data: 91
+    empty: 9
+    region_header: 8
+    subtotal: 8
+    organization_data: 4
+    grand_total: 1
+
+LFI_Table_3.csv
+  Filas: 121
+  Columnas de datos: 12
+  Tipos de fila:
+    country_data: 91
+    empty: 9
+    region_header: 8
+    subtotal: 8
+    organization_data: 4
+    grand_total: 1
+
+LFI_Table_2.csv
+  Filas: 121
+  Columnas de datos: 8
+  Tipos de fila:
+    country_data: 91
+    empty: 9
+    region_header: 8
+    subtotal: 8
+    organization_data: 4
+    grand_total: 1
+
+LFI_Table_1.csv
+  Filas: 121
+  Columnas de datos: 13
+  Tipos de fila:
+    country_data: 91
+    empty: 9
+    region_header: 8
+    subtotal: 8
+    organization_data: 4
+    grand_total: 1
+
+LFI_Table_4_1.csv
+  Filas: 121
+  Columnas de datos: 18
+  Tipos de fila:
+    country_data: 91
+    empty: 9
+    region_header: 8
+    subtotal: 8
+    organization_data: 4
+    grand_total: 1
+
+LFI_Table_4_2.csv
+  Filas: 121
+  Columnas de datos: 14
+  Tipos de fila:
+    country_data: 91
+    empty: 9
+    region_header: 8
+    subtotal: 8
+    organization_data: 4
+    grand_total: 1
+
+All_Banks_Table_1.csv
+  Filas: 121
+  Columnas de datos: 13
+  Tipos de fila:
+    country_data: 91
+    empty: 9
+    region_header: 8
+    subtotal: 8
+    organization_data: 4
+    grand_total: 1
+
+All_Banks_Table_3.csv
+  Filas: 121
+  Columnas de datos: 12
+  Tipos de fila:
+    country_data: 91
+    empty: 9
+    region_header: 8
+    subtotal: 8
+    organization_data: 4
+    grand_total: 1
+
+All_Banks_Table_2.csv
+  Filas: 121
+  Columnas de datos: 8
+  Tipos de fila:
+    country_data: 91
+    empty: 9
+    region_header: 8
+    subtotal: 8
+    organization_data: 4
+    grand_total: 1
+
+All_Banks_Table_4_1.csv
+  Filas: 121
+  Columnas de datos: 18
+  Tipos de fila:
+    country_data: 91
+    empty: 9
+    region_header: 8
+    subtotal: 8
+    organization_data: 4
+    grand_total: 1
+
+All_Banks_Table_4_2.csv
+  Filas: 121
+  Columnas de datos: 14
+  Tipos de fila:
+    country_data: 91
+    empty: 9
+    region_header: 8
+    subtotal: 8
+    organization_data: 4
+    grand_total: 1

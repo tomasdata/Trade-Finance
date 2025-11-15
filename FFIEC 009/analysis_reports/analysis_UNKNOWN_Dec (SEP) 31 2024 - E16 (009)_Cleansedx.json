@@ -1,0 +1,729 @@
+{
+  "All Banks Table 1": {
+    "sheet_name": "All Banks Table 1",
+    "period": "UNKNOWN",
+    "csv_file": "All_Banks_Table_1.csv",
+    "dimensions": [
+      130,
+      17
+    ],
+    "data_start_row": 9,
+    "empty_columns": [
+      0,
+      8,
+      14
+    ],
+    "data_columns": 13,
+    "headers": [
+      "Col_0",
+      "Col_1",
+      "Claims - Ultimate-Risk Basis /2 | Cross-border Claims (Excluding Claims from the Fair Value of Derivative Products) | (A)",
+      "Claims on Local Residents (Excluding Claims from the Fair Value of Derivative Products) | Total | (B)",
+      "In Non-Local Currency | (B1)",
+      "In Local Currency | (B2 = B - B1)",
+      "Claims Resulting From the Fair Value of Derivative Products /3 | (C)",
+      "Country Risk Claims /4 | (D = A+B+C)",
+      "Col_8",
+      "Off-Balance Sheet Items | Cross-Border and Local Commitments and Guarantees | Unused Commitments",
+      "Guarantees (Excluding Credit Derivatives Sold)",
+      "Credit Derivatives (By Reference Entity) | Gross | Total Credit Derivatives Sold",
+      "Total Credit Derivatives Purchased",
+      "Gross-Net /5 | Total Credit Derivatives Sold",
+      "Col_14",
+      "Total Credit Derivatives Purchased",
+      "Trade Finance"
+    ],
+    "row_type_counts": {
+      "header": 9,
+      "empty": 9,
+      "group_header": 18,
+      "country_data": 0,
+      "subtotal": 8,
+      "grand_total": 1,
+      "special_category": 85,
+      "unknown": 0
+    },
+    "row_details": [
+      {
+        "row_idx": 0,
+        "row_type": "header",
+        "col1_value": null
+      },
+      {
+        "row_idx": 1,
+        "row_type": "header",
+        "col1_value": null
+      },
+      {
+        "row_idx": 2,
+        "row_type": "header",
+        "col1_value": "Country Exposure Lending Survey /1: September 30, 2024   Table 1 - Claims On Foreign Obligors Held by U.S. Banks on an Ultimate Risk Basis (Adjusted to Reflect Guarantees and Other Risk Transfers) & Off-Balance-Sheet Items   ($ Millions)   All U.S. Banks - Group A"
+      },
+      {
+        "row_idx": 3,
+        "row_type": "header",
+        "col1_value": null
+      },
+      {
+        "row_idx": 4,
+        "row_type": "header",
+        "col1_value": null
+      },
+      {
+        "row_idx": 5,
+        "row_type": "header",
+        "col1_value": null
+      },
+      {
+        "row_idx": 6,
+        "row_type": "header",
+        "col1_value": null
+      },
+      {
+        "row_idx": 7,
+        "row_type": "header",
+        "col1_value": null
+      },
+      {
+        "row_idx": 8,
+        "row_type": "header",
+        "col1_value": null
+      },
+      {
+        "row_idx": 9,
+        "row_type": "group_header",
+        "col1_value": "G-10 and Luxembourg"
+      },
+      {
+        "row_idx": 10,
+        "row_type": "special_category",
+        "col1_value": "BELGIUM"
+      },
+      {
+        "row_idx": 11,
+        "row_type": "special_category",
+        "col1_value": "CANADA"
+      },
+      {
+        "row_idx": 12,
+        "row_type": "special_category",
+        "col1_value": "FRANCE"
+      },
+      {
+        "row_idx": 13,
+        "row_type": "special_category",
+        "col1_value": "GERMANY"
+      },
+      {
+        "row_idx": 14,
+        "row_type": "special_category",
+        "col1_value": "ITALY"
+      },
+      {
+        "row_idx": 15,
+        "row_type": "special_category",
+        "col1_value": "JAPAN"
+      },
+      {
+        "row_idx": 16,
+        "row_type": "special_category",
+        "col1_value": "LUXEMBOURG"
+      },
+      {
+        "row_idx": 17,
+        "row_type": "special_category",
+        "col1_value": "NETHERLANDS"
+      },
+      {
+        "row_idx": 18,
+        "row_type": "special_category",
+        "col1_value": "SWEDEN"
+      },
+      {
+        "row_idx": 19,
+        "row_type": "special_category",
+        "col1_value": "SWITZERLAND"
+      }
+    ]
+  },
+  "All Banks Table 3": {
+    "sheet_name": "All Banks Table 3",
+    "period": "UNKNOWN",
+    "csv_file": "All_Banks_Table_3.csv",
+    "dimensions": [
+      128,
+      16
+    ],
+    "data_start_row": 7,
+    "empty_columns": [
+      0,
+      7,
+      14
+    ],
+    "data_columns": 12,
+    "headers": [
+      "Col_0",
+      "Country Exposure Lending Survey /1: September 30, 2024   Table 3 - Foreign-Office Liabilities & Memorandum Items   ($ Millions)   All U.S. Banks - Group A",
+      "Foreign Office Liabilities | By Country of Foreign Office | Non-Local Currency",
+      "Local Currency",
+      "Total",
+      "By Country of Creditor",
+      "Net Due To (or Due From) Own Related Offices in Other Countries",
+      "Col_7",
+      "Memorandum Items /9 | Securities - HTM and AFS",
+      "Trading Assets | Assets Held for Trading",
+      "Offsetting Positions for Trading Book /10",
+      "Collateralized Claims Not Subject to Risk Transfers /11 | Total Collateral",
+      "Of Which Cash",
+      "Of Which Same Country",
+      "Col_14",
+      "Of Which Resale/Reverse Repurchase Agreements & Securities Lending"
+    ],
+    "row_type_counts": {
+      "header": 7,
+      "empty": 9,
+      "group_header": 18,
+      "country_data": 0,
+      "subtotal": 8,
+      "grand_total": 1,
+      "special_category": 85,
+      "unknown": 0
+    },
+    "row_details": [
+      {
+        "row_idx": 0,
+        "row_type": "header",
+        "col1_value": null
+      },
+      {
+        "row_idx": 1,
+        "row_type": "header",
+        "col1_value": null
+      },
+      {
+        "row_idx": 2,
+        "row_type": "header",
+        "col1_value": "Country Exposure Lending Survey /1: September 30, 2024   Table 3 - Foreign-Office Liabilities & Memorandum Items   ($ Millions)   All U.S. Banks - Group A"
+      },
+      {
+        "row_idx": 3,
+        "row_type": "header",
+        "col1_value": null
+      },
+      {
+        "row_idx": 4,
+        "row_type": "header",
+        "col1_value": null
+      },
+      {
+        "row_idx": 5,
+        "row_type": "header",
+        "col1_value": null
+      },
+      {
+        "row_idx": 6,
+        "row_type": "header",
+        "col1_value": null
+      },
+      {
+        "row_idx": 7,
+        "row_type": "group_header",
+        "col1_value": "G-10 and Luxembourg"
+      },
+      {
+        "row_idx": 8,
+        "row_type": "special_category",
+        "col1_value": "BELGIUM"
+      },
+      {
+        "row_idx": 9,
+        "row_type": "special_category",
+        "col1_value": "CANADA"
+      },
+      {
+        "row_idx": 10,
+        "row_type": "special_category",
+        "col1_value": "FRANCE"
+      },
+      {
+        "row_idx": 11,
+        "row_type": "special_category",
+        "col1_value": "GERMANY"
+      },
+      {
+        "row_idx": 12,
+        "row_type": "special_category",
+        "col1_value": "ITALY"
+      },
+      {
+        "row_idx": 13,
+        "row_type": "special_category",
+        "col1_value": "JAPAN"
+      },
+      {
+        "row_idx": 14,
+        "row_type": "special_category",
+        "col1_value": "LUXEMBOURG"
+      },
+      {
+        "row_idx": 15,
+        "row_type": "special_category",
+        "col1_value": "NETHERLANDS"
+      },
+      {
+        "row_idx": 16,
+        "row_type": "special_category",
+        "col1_value": "SWEDEN"
+      },
+      {
+        "row_idx": 17,
+        "row_type": "special_category",
+        "col1_value": "SWITZERLAND"
+      },
+      {
+        "row_idx": 18,
+        "row_type": "special_category",
+        "col1_value": "UNITED KINGDOM"
+      },
+      {
+        "row_idx": 19,
+        "row_type": "subtotal",
+        "col1_value": "Total"
+      }
+    ]
+  },
+  "All Banks Table 2": {
+    "sheet_name": "All Banks Table 2",
+    "period": "UNKNOWN",
+    "csv_file": "All_Banks_Table_2.csv",
+    "dimensions": [
+      127,
+      10
+    ],
+    "data_start_row": 6,
+    "empty_columns": [
+      0
+    ],
+    "data_columns": 8,
+    "headers": [
+      "Col_0",
+      "Country Exposure Lending Survey /1: September 30, 2024   Table 2 - Claims On Foreign Obligors Held by U.S. Banks on an Immediate-Counterparty Basis & Risk Transfers   ($ Millions)   All U.S. Banks - Group A",
+      "Claims - Immediate-Counterparty Basis /6 | Cross-Border Claims (Excluding Claims from the Fair Value of Derivative Products)",
+      "Claims on Local Residents in Non-Local Currency (Excluding Claims from the Fair Value of Derivative Products)",
+      "Remaining Maturity (less than or equal to 1 year)",
+      "Claims on Local Residents in Local Currency (Excluding Claims from the Fair Value of Derivative Products)",
+      "Total Cross-Border and Local Claims on Immediate-Counterparty Basis (Excluding claims from the Fair Value of Derivative Products)",
+      "Risk Transfers | Outward Risk Transfers /7",
+      "Inward Risk Transfers /8",
+      "Total Cross-Border and Local Claims on Ultimate-Risk Basis (Excluding claims from the Fair value of Derivative Products)"
+    ],
+    "row_type_counts": {
+      "header": 6,
+      "empty": 9,
+      "group_header": 18,
+      "country_data": 0,
+      "subtotal": 8,
+      "grand_total": 1,
+      "special_category": 85,
+      "unknown": 0
+    },
+    "row_details": [
+      {
+        "row_idx": 0,
+        "row_type": "header",
+        "col1_value": null
+      },
+      {
+        "row_idx": 1,
+        "row_type": "header",
+        "col1_value": null
+      },
+      {
+        "row_idx": 2,
+        "row_type": "header",
+        "col1_value": "Country Exposure Lending Survey /1: September 30, 2024   Table 2 - Claims On Foreign Obligors Held by U.S. Banks on an Immediate-Counterparty Basis & Risk Transfers   ($ Millions)   All U.S. Banks - Group A"
+      },
+      {
+        "row_idx": 3,
+        "row_type": "header",
+        "col1_value": null
+      },
+      {
+        "row_idx": 4,
+        "row_type": "header",
+        "col1_value": null
+      },
+      {
+        "row_idx": 5,
+        "row_type": "header",
+        "col1_value": null
+      },
+      {
+        "row_idx": 6,
+        "row_type": "group_header",
+        "col1_value": "G-10 and Luxembourg"
+      },
+      {
+        "row_idx": 7,
+        "row_type": "special_category",
+        "col1_value": "BELGIUM"
+      },
+      {
+        "row_idx": 8,
+        "row_type": "special_category",
+        "col1_value": "CANADA"
+      },
+      {
+        "row_idx": 9,
+        "row_type": "special_category",
+        "col1_value": "FRANCE"
+      },
+      {
+        "row_idx": 10,
+        "row_type": "special_category",
+        "col1_value": "GERMANY"
+      },
+      {
+        "row_idx": 11,
+        "row_type": "special_category",
+        "col1_value": "ITALY"
+      },
+      {
+        "row_idx": 12,
+        "row_type": "special_category",
+        "col1_value": "JAPAN"
+      },
+      {
+        "row_idx": 13,
+        "row_type": "special_category",
+        "col1_value": "LUXEMBOURG"
+      },
+      {
+        "row_idx": 14,
+        "row_type": "special_category",
+        "col1_value": "NETHERLANDS"
+      },
+      {
+        "row_idx": 15,
+        "row_type": "special_category",
+        "col1_value": "SWEDEN"
+      },
+      {
+        "row_idx": 16,
+        "row_type": "special_category",
+        "col1_value": "SWITZERLAND"
+      },
+      {
+        "row_idx": 17,
+        "row_type": "special_category",
+        "col1_value": "UNITED KINGDOM"
+      },
+      {
+        "row_idx": 18,
+        "row_type": "subtotal",
+        "col1_value": "Total"
+      },
+      {
+        "row_idx": 19,
+        "row_type": "empty",
+        "col1_value": null
+      }
+    ]
+  },
+  "All Banks Table 4 1": {
+    "sheet_name": "All Banks Table 4 1",
+    "period": "UNKNOWN",
+    "csv_file": "All_Banks_Table_4_1.csv",
+    "dimensions": [
+      128,
+      21
+    ],
+    "data_start_row": 7,
+    "empty_columns": [
+      0,
+      18
+    ],
+    "data_columns": 18,
+    "headers": [
+      "Col_0",
+      "Country Exposure Lending Survey /1: September 30, 2024   Table 4.1 - U.S. Banks' Claims by Sector (Banking, Public and Non-Bank Financial) of Obligor/Debtor   ($ Millions)   All U.S. Banks - Group A",
+      "Claims on Banking Sector | Ultimate Risk Claims /2 | Cross-Border Claims",
+      "Claims on Local Residents",
+      "Fair Value of Derivatives /3",
+      "Total Claims",
+      "Immediate Counterparty Basis Claims /6 | Cross-Border Claims",
+      "Claims on Local Residents in Non-Local Currency",
+      "Claims on Public Sector | Ultimate Risk Claims /2 | Cross-Border Claims",
+      "Claims on Local Residents",
+      "Fair Value of Derivatives /3",
+      "Total Claims",
+      "Immediate Counterparty Basis Claims /6 | Cross-Border Claims",
+      "Claims on Local Residents in Non-Local Currency",
+      "Claims on Non-Bank Financial Sector | Ultimate Risk Claims /2 | Cross-Border Claims",
+      "Claims on Local Residents",
+      "Fair Value of Derivatives /3",
+      "Total Claims",
+      "Col_18",
+      "Immediate Counterparty Basis Claims /6 | Cross-Border Claims",
+      "Claims on Local Residents in Non-Local Currency"
+    ],
+    "row_type_counts": {
+      "header": 7,
+      "empty": 9,
+      "group_header": 18,
+      "country_data": 0,
+      "subtotal": 8,
+      "grand_total": 1,
+      "special_category": 85,
+      "unknown": 0
+    },
+    "row_details": [
+      {
+        "row_idx": 0,
+        "row_type": "header",
+        "col1_value": null
+      },
+      {
+        "row_idx": 1,
+        "row_type": "header",
+        "col1_value": null
+      },
+      {
+        "row_idx": 2,
+        "row_type": "header",
+        "col1_value": "Country Exposure Lending Survey /1: September 30, 2024   Table 4.1 - U.S. Banks' Claims by Sector (Banking, Public and Non-Bank Financial) of Obligor/Debtor   ($ Millions)   All U.S. Banks - Group A"
+      },
+      {
+        "row_idx": 3,
+        "row_type": "header",
+        "col1_value": null
+      },
+      {
+        "row_idx": 4,
+        "row_type": "header",
+        "col1_value": null
+      },
+      {
+        "row_idx": 5,
+        "row_type": "header",
+        "col1_value": null
+      },
+      {
+        "row_idx": 6,
+        "row_type": "header",
+        "col1_value": null
+      },
+      {
+        "row_idx": 7,
+        "row_type": "group_header",
+        "col1_value": "G-10 and Luxembourg"
+      },
+      {
+        "row_idx": 8,
+        "row_type": "special_category",
+        "col1_value": "BELGIUM"
+      },
+      {
+        "row_idx": 9,
+        "row_type": "special_category",
+        "col1_value": "CANADA"
+      },
+      {
+        "row_idx": 10,
+        "row_type": "special_category",
+        "col1_value": "FRANCE"
+      },
+      {
+        "row_idx": 11,
+        "row_type": "special_category",
+        "col1_value": "GERMANY"
+      },
+      {
+        "row_idx": 12,
+        "row_type": "special_category",
+        "col1_value": "ITALY"
+      },
+      {
+        "row_idx": 13,
+        "row_type": "special_category",
+        "col1_value": "JAPAN"
+      },
+      {
+        "row_idx": 14,
+        "row_type": "special_category",
+        "col1_value": "LUXEMBOURG"
+      },
+      {
+        "row_idx": 15,
+        "row_type": "special_category",
+        "col1_value": "NETHERLANDS"
+      },
+      {
+        "row_idx": 16,
+        "row_type": "special_category",
+        "col1_value": "SWEDEN"
+      },
+      {
+        "row_idx": 17,
+        "row_type": "special_category",
+        "col1_value": "SWITZERLAND"
+      },
+      {
+        "row_idx": 18,
+        "row_type": "special_category",
+        "col1_value": "UNITED KINGDOM"
+      },
+      {
+        "row_idx": 19,
+        "row_type": "subtotal",
+        "col1_value": "Total"
+      }
+    ]
+  },
+  "All Banks Table 4 2": {
+    "sheet_name": "All Banks Table 4 2",
+    "period": "UNKNOWN",
+    "csv_file": "All_Banks_Table_4_2.csv",
+    "dimensions": [
+      129,
+      17
+    ],
+    "data_start_row": 8,
+    "empty_columns": [
+      0,
+      14
+    ],
+    "data_columns": 14,
+    "headers": [
+      "Col_0",
+      "Col_1",
+      "Claims on Other Sector | Ultimate Risk Claims /2 | Cross-Border Claims | Corporate",
+      "Households",
+      "Total (Other)",
+      "Claims on Local Residents | Corporate",
+      "Households",
+      "Total (Other)",
+      "Fair Value of Derivatives /3",
+      "Total Claims",
+      "Immediate Counterparty Basis Claims /6 | Cross-Border Claims | Corporate",
+      "Households",
+      "Total (Other)",
+      "Claims on Local Residents | Corporate",
+      "Col_14",
+      "Households",
+      "Total (Other)"
+    ],
+    "row_type_counts": {
+      "header": 8,
+      "empty": 9,
+      "group_header": 18,
+      "country_data": 0,
+      "subtotal": 8,
+      "grand_total": 1,
+      "special_category": 85,
+      "unknown": 0
+    },
+    "row_details": [
+      {
+        "row_idx": 0,
+        "row_type": "header",
+        "col1_value": null
+      },
+      {
+        "row_idx": 1,
+        "row_type": "header",
+        "col1_value": null
+      },
+      {
+        "row_idx": 2,
+        "row_type": "header",
+        "col1_value": "Country Exposure Lending Survey /1: September 30, 2024   Table 4.2 - U.S. Banks' Claims by Sector (Other - Households & Corporate) of Obligor/Debtor   ($ Millions)   All U.S. Banks - Group A"
+      },
+      {
+        "row_idx": 3,
+        "row_type": "header",
+        "col1_value": null
+      },
+      {
+        "row_idx": 4,
+        "row_type": "header",
+        "col1_value": null
+      },
+      {
+        "row_idx": 5,
+        "row_type": "header",
+        "col1_value": null
+      },
+      {
+        "row_idx": 6,
+        "row_type": "header",
+        "col1_value": null
+      },
+      {
+        "row_idx": 7,
+        "row_type": "header",
+        "col1_value": null
+      },
+      {
+        "row_idx": 8,
+        "row_type": "group_header",
+        "col1_value": "G-10 and Luxembourg"
+      },
+      {
+        "row_idx": 9,
+        "row_type": "special_category",
+        "col1_value": "BELGIUM"
+      },
+      {
+        "row_idx": 10,
+        "row_type": "special_category",
+        "col1_value": "CANADA"
+      },
+      {
+        "row_idx": 11,
+        "row_type": "special_category",
+        "col1_value": "FRANCE"
+      },
+      {
+        "row_idx": 12,
+        "row_type": "special_category",
+        "col1_value": "GERMANY"
+      },
+      {
+        "row_idx": 13,
+        "row_type": "special_category",
+        "col1_value": "ITALY"
+      },
+      {
+        "row_idx": 14,
+        "row_type": "special_category",
+        "col1_value": "JAPAN"
+      },
+      {
+        "row_idx": 15,
+        "row_type": "special_category",
+        "col1_value": "LUXEMBOURG"
+      },
+      {
+        "row_idx": 16,
+        "row_type": "special_category",
+        "col1_value": "NETHERLANDS"
+      },
+      {
+        "row_idx": 17,
+        "row_type": "special_category",
+        "col1_value": "SWEDEN"
+      },
+      {
+        "row_idx": 18,
+        "row_type": "special_category",
+        "col1_value": "SWITZERLAND"
+      },
+      {
+        "row_idx": 19,
+        "row_type": "special_category",
+        "col1_value": "UNITED KINGDOM"
+      }
+    ]
+  }
+}

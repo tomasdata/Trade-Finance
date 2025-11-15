@@ -1,0 +1,122 @@
+period,year,quarter,table,table_num,bank_group,region,row_type,original_row_idx,country_region,Claims_Immediate_Counterparty_Basis_Cross_Border_Claims_Excluding_Claims,Claims_on_Local_Residents,Remaining_Maturity_less_than,Claims_on_Local_Residents,Total_Cross_Border_and_Local,Risk_Transfers_Outward_Risk_Transfers_7,Inward_Risk_Transfers_8,Total_Cross_Border_and_Local
+2020Q3,2020,Q3,Table 2,2,All Others,G-10 and Luxembourg,region_header,6,G-10 and Luxembourg,,,,,,,,
+2020Q3,2020,Q3,Table 2,2,All Others,G-10 and Luxembourg,country_data,7,BELGIUM,1814.0,321.0,1686.0,6497.0,8632.0,260.0,435.0,8805.0
+2020Q3,2020,Q3,Table 2,2,All Others,G-10 and Luxembourg,country_data,8,CANADA,39849.0,3427.0,22925.0,15905.0,59181.0,2458.0,5934.0,62800.0
+2020Q3,2020,Q3,Table 2,2,All Others,G-10 and Luxembourg,country_data,9,FRANCE,17061.0,0.0,10437.0,1257.0,18318.0,715.0,10396.0,27997.0
+2020Q3,2020,Q3,Table 2,2,All Others,G-10 and Luxembourg,country_data,10,GERMANY,18098.0,23.0,9489.0,18102.0,36223.0,2253.0,29751.0,63717.0
+2020Q3,2020,Q3,Table 2,2,All Others,G-10 and Luxembourg,country_data,11,ITALY,1209.0,1.0,901.0,1334.0,2544.0,29.0,549.0,3061.0
+2020Q3,2020,Q3,Table 2,2,All Others,G-10 and Luxembourg,country_data,12,JAPAN,29394.0,6220.0,28865.0,23860.0,59474.0,1247.0,15821.0,74046.0
+2020Q3,2020,Q3,Table 2,2,All Others,G-10 and Luxembourg,country_data,13,LUXEMBOURG,11469.0,358.0,9525.0,6026.0,17853.0,1073.0,1613.0,18392.0
+2020Q3,2020,Q3,Table 2,2,All Others,G-10 and Luxembourg,country_data,14,NETHERLANDS,8722.0,81.0,2122.0,568.0,9371.0,2033.0,1729.0,9068.0
+2020Q3,2020,Q3,Table 2,2,All Others,G-10 and Luxembourg,country_data,15,SWEDEN,4238.0,77.0,2244.0,643.0,4958.0,157.0,792.0,5592.0
+2020Q3,2020,Q3,Table 2,2,All Others,G-10 and Luxembourg,country_data,16,SWITZERLAND,4333.0,13.0,3804.0,466.0,4812.0,107.0,43554.0,48260.0
+2020Q3,2020,Q3,Table 2,2,All Others,G-10 and Luxembourg,country_data,17,UNITED KINGDOM,87109.0,13100.0,77800.0,53599.0,153808.0,32689.0,8106.0,129213.0
+2020Q3,2020,Q3,Table 2,2,All Others,G-10 and Luxembourg,subtotal,18,Total,223296.0,23621.0,169798.0,128257.0,375174.0,43021.0,118680.0,450951.0
+2020Q3,2020,Q3,Table 2,2,All Others,G-10 and Luxembourg,empty,19,,,,,,,,,
+2020Q3,2020,Q3,Table 2,2,All Others,Non G-10 Developed Countries,region_header,20,Non G-10 Developed Countries,,,,,,,,
+2020Q3,2020,Q3,Table 2,2,All Others,Non G-10 Developed Countries,country_data,21,AUSTRALIA,7295.0,22.0,3204.0,10789.0,18106.0,1654.0,1100.0,17553.0
+2020Q3,2020,Q3,Table 2,2,All Others,Non G-10 Developed Countries,country_data,22,AUSTRIA,1202.0,0.0,212.0,183.0,1385.0,38.0,19.0,1366.0
+2020Q3,2020,Q3,Table 2,2,All Others,Non G-10 Developed Countries,country_data,23,CYPRUS,4.0,0.0,4.0,0.0,4.0,0.0,76.0,80.0
+2020Q3,2020,Q3,Table 2,2,All Others,Non G-10 Developed Countries,country_data,24,DENMARK,735.0,0.0,427.0,3.0,738.0,349.0,27.0,415.0
+2020Q3,2020,Q3,Table 2,2,All Others,Non G-10 Developed Countries,country_data,25,FINLAND,1165.0,1.0,339.0,46.0,1212.0,24.0,360.0,1547.0
+2020Q3,2020,Q3,Table 2,2,All Others,Non G-10 Developed Countries,country_data,26,GREECE,27.0,0.0,25.0,0.0,27.0,24.0,9.0,12.0
+2020Q3,2020,Q3,Table 2,2,All Others,Non G-10 Developed Countries,country_data,27,IRELAND,19264.0,110.0,16242.0,7115.0,26489.0,11167.0,1128.0,16450.0
+2020Q3,2020,Q3,Table 2,2,All Others,Non G-10 Developed Countries,country_data,28,ISRAEL,1375.0,0.0,761.0,1.0,1376.0,129.0,389.0,1635.0
+2020Q3,2020,Q3,Table 2,2,All Others,Non G-10 Developed Countries,country_data,29,NEW ZEALAND,858.0,0.0,563.0,255.0,1113.0,560.0,31.0,584.0
+2020Q3,2020,Q3,Table 2,2,All Others,Non G-10 Developed Countries,country_data,30,NORWAY,2734.0,0.0,1246.0,66.0,2800.0,450.0,470.0,2820.0
+2020Q3,2020,Q3,Table 2,2,All Others,Non G-10 Developed Countries,country_data,31,PORTUGAL,370.0,0.0,220.0,0.0,370.0,135.0,3.0,238.0
+2020Q3,2020,Q3,Table 2,2,All Others,Non G-10 Developed Countries,country_data,32,SLOVAKIA,35.0,0.0,34.0,0.0,35.0,9.0,4.0,30.0
+2020Q3,2020,Q3,Table 2,2,All Others,Non G-10 Developed Countries,country_data,33,SPAIN,5592.0,13.0,3835.0,481.0,6086.0,181.0,1599.0,7504.0
+2020Q3,2020,Q3,Table 2,2,All Others,Non G-10 Developed Countries,country_data,34,OTHER NON G-10 DEV.,188.0,0.0,56.0,0.0,188.0,33.0,15.0,170.0
+2020Q3,2020,Q3,Table 2,2,All Others,Non G-10 Developed Countries,subtotal,35,Total,40844.0,146.0,27168.0,18939.0,59929.0,14753.0,5230.0,50404.0
+2020Q3,2020,Q3,Table 2,2,All Others,Non G-10 Developed Countries,empty,36,,,,,,,,,
+2020Q3,2020,Q3,Table 2,2,All Others,Eastern Europe,region_header,37,Eastern Europe,,,,,,,,
+2020Q3,2020,Q3,Table 2,2,All Others,Eastern Europe,country_data,38,BULGARIA,48.0,0.0,14.0,0.0,48.0,11.0,5.0,42.0
+2020Q3,2020,Q3,Table 2,2,All Others,Eastern Europe,country_data,39,CZECH REPUBLIC,68.0,0.0,66.0,0.0,68.0,30.0,28.0,66.0
+2020Q3,2020,Q3,Table 2,2,All Others,Eastern Europe,country_data,40,HUNGARY,159.0,0.0,123.0,1.0,160.0,96.0,4.0,68.0
+2020Q3,2020,Q3,Table 2,2,All Others,Eastern Europe,country_data,41,KOSOVO,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020Q3,2020,Q3,Table 2,2,All Others,Eastern Europe,country_data,42,POLAND,256.0,0.0,224.0,68.0,324.0,71.0,94.0,347.0
+2020Q3,2020,Q3,Table 2,2,All Others,Eastern Europe,country_data,43,ROMANIA,99.0,0.0,93.0,0.0,99.0,88.0,1.0,12.0
+2020Q3,2020,Q3,Table 2,2,All Others,Eastern Europe,country_data,44,RUSSIA,223.0,0.0,201.0,21.0,244.0,0.0,13.0,255.0
+2020Q3,2020,Q3,Table 2,2,All Others,Eastern Europe,country_data,45,TURKEY,241.0,0.0,112.0,0.0,241.0,56.0,21.0,204.0
+2020Q3,2020,Q3,Table 2,2,All Others,Eastern Europe,country_data,46,OTHER E. EUROPE,130.0,1.0,118.0,0.0,131.0,53.0,30.0,108.0
+2020Q3,2020,Q3,Table 2,2,All Others,Eastern Europe,subtotal,47,Total,1224.0,1.0,951.0,90.0,1315.0,405.0,196.0,1102.0
+2020Q3,2020,Q3,Table 2,2,All Others,Eastern Europe,empty,48,,,,,,,,,
+2020Q3,2020,Q3,Table 2,2,All Others,Latin America and Caribbean,region_header,49,Latin America and Caribbean,,,,,,,,
+2020Q3,2020,Q3,Table 2,2,All Others,Latin America and Caribbean,country_data,50,ANGUILLA,1837.0,0.0,1837.0,0.0,1837.0,68.0,31.0,1800.0
+2020Q3,2020,Q3,Table 2,2,All Others,Latin America and Caribbean,country_data,51,ARGENTINA,563.0,347.0,380.0,380.0,1290.0,359.0,155.0,1075.0
+2020Q3,2020,Q3,Table 2,2,All Others,Latin America and Caribbean,country_data,52,BRAZIL,6716.0,104.0,5219.0,331.0,7151.0,936.0,1771.0,7938.0
+2020Q3,2020,Q3,Table 2,2,All Others,Latin America and Caribbean,country_data,53,CHILE,1299.0,0.0,994.0,41.0,1340.0,332.0,68.0,1075.0
+2020Q3,2020,Q3,Table 2,2,All Others,Latin America and Caribbean,country_data,54,COLOMBIA,979.0,0.0,630.0,0.0,979.0,152.0,137.0,953.0
+2020Q3,2020,Q3,Table 2,2,All Others,Latin America and Caribbean,country_data,55,COSTA RICA,195.0,0.0,152.0,0.0,195.0,127.0,3.0,66.0
+2020Q3,2020,Q3,Table 2,2,All Others,Latin America and Caribbean,country_data,56,DOMINICAN REPUBLIC,388.0,0.0,184.0,0.0,388.0,151.0,9.0,97.0
+2020Q3,2020,Q3,Table 2,2,All Others,Latin America and Caribbean,country_data,57,ECUADOR,354.0,0.0,175.0,22.0,376.0,223.0,58.0,192.0
+2020Q3,2020,Q3,Table 2,2,All Others,Latin America and Caribbean,country_data,58,EL SALVADOR,123.0,0.0,115.0,0.0,123.0,58.0,2.0,64.0
+2020Q3,2020,Q3,Table 2,2,All Others,Latin America and Caribbean,country_data,59,FRENCH GUIANA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020Q3,2020,Q3,Table 2,2,All Others,Latin America and Caribbean,country_data,60,GUATEMALA,350.0,0.0,293.0,0.0,350.0,120.0,10.0,235.0
+2020Q3,2020,Q3,Table 2,2,All Others,Latin America and Caribbean,country_data,61,HONDURAS,128.0,0.0,113.0,0.0,128.0,74.0,2.0,53.0
+2020Q3,2020,Q3,Table 2,2,All Others,Latin America and Caribbean,country_data,62,MEXICO,5331.0,26.0,2845.0,2604.0,7961.0,2042.0,947.0,6849.0
+2020Q3,2020,Q3,Table 2,2,All Others,Latin America and Caribbean,country_data,63,MONTSERRAT,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020Q3,2020,Q3,Table 2,2,All Others,Latin America and Caribbean,country_data,64,PERU,607.0,0.0,302.0,0.0,607.0,60.0,28.0,576.0
+2020Q3,2020,Q3,Table 2,2,All Others,Latin America and Caribbean,country_data,65,URUGUAY,1134.0,3.0,1053.0,0.0,1137.0,159.0,5.0,981.0
+2020Q3,2020,Q3,Table 2,2,All Others,Latin America and Caribbean,country_data,66,VENEZUELA,759.0,0.0,381.0,0.0,759.0,426.0,109.0,432.0
+2020Q3,2020,Q3,Table 2,2,All Others,Latin America and Caribbean,country_data,67,OTHER LAT. AM. & CAR.,2852.0,413.0,2177.0,0.0,3265.0,1813.0,299.0,1752.0
+2020Q3,2020,Q3,Table 2,2,All Others,Latin America and Caribbean,subtotal,68,Total,23615.0,893.0,16850.0,3378.0,27886.0,7100.0,3634.0,24138.0
+2020Q3,2020,Q3,Table 2,2,All Others,Latin America and Caribbean,empty,69,,,,,,,,,
+2020Q3,2020,Q3,Table 2,2,All Others,Asia and Pacific,region_header,70,Asia and Pacific,,,,,,,,
+2020Q3,2020,Q3,Table 2,2,All Others,Asia and Pacific,country_data,71,CHINA-MAINLAND,5509.0,664.0,4299.0,1143.0,7316.0,508.0,3921.0,10707.0
+2020Q3,2020,Q3,Table 2,2,All Others,Asia and Pacific,country_data,72,INDIA,732.0,13.0,607.0,1473.0,2218.0,567.0,82.0,1733.0
+2020Q3,2020,Q3,Table 2,2,All Others,Asia and Pacific,country_data,73,INDONESIA,576.0,1.0,492.0,9.0,586.0,272.0,108.0,422.0
+2020Q3,2020,Q3,Table 2,2,All Others,Asia and Pacific,country_data,74,"KOREA, SOUTH",2471.0,89.0,2410.0,243.0,2803.0,855.0,1519.0,3467.0
+2020Q3,2020,Q3,Table 2,2,All Others,Asia and Pacific,country_data,75,KUWAIT,595.0,215.0,531.0,0.0,810.0,64.0,137.0,884.0
+2020Q3,2020,Q3,Table 2,2,All Others,Asia and Pacific,country_data,76,MALAYSIA,1131.0,0.0,1087.0,34.0,1165.0,2.0,60.0,1223.0
+2020Q3,2020,Q3,Table 2,2,All Others,Asia and Pacific,country_data,77,PAKISTAN,18.0,0.0,17.0,0.0,18.0,15.0,10.0,13.0
+2020Q3,2020,Q3,Table 2,2,All Others,Asia and Pacific,country_data,78,PHILIPPINES,324.0,48.0,331.0,92.0,464.0,213.0,5.0,253.0
+2020Q3,2020,Q3,Table 2,2,All Others,Asia and Pacific,country_data,79,QATAR,950.0,0.0,890.0,0.0,950.0,29.0,41.0,962.0
+2020Q3,2020,Q3,Table 2,2,All Others,Asia and Pacific,country_data,80,SAUDI ARABIA,3700.0,10.0,3340.0,37.0,3747.0,263.0,124.0,3608.0
+2020Q3,2020,Q3,Table 2,2,All Others,Asia and Pacific,country_data,81,TAIWAN,1485.0,210.0,1318.0,227.0,1922.0,54.0,493.0,2360.0
+2020Q3,2020,Q3,Table 2,2,All Others,Asia and Pacific,country_data,82,THAILAND,159.0,1.0,148.0,68.0,228.0,38.0,66.0,256.0
+2020Q3,2020,Q3,Table 2,2,All Others,Asia and Pacific,country_data,83,UNITED ARAB EMIRATES,1615.0,40.0,1421.0,1.0,1656.0,481.0,85.0,1259.0
+2020Q3,2020,Q3,Table 2,2,All Others,Asia and Pacific,country_data,84,WEST BANK AND GAZA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020Q3,2020,Q3,Table 2,2,All Others,Asia and Pacific,country_data,85,OTHER ASIA AND PACIFIC,1516.0,0.0,371.0,14.0,1530.0,896.0,179.0,812.0
+2020Q3,2020,Q3,Table 2,2,All Others,Asia and Pacific,subtotal,86,Total,20781.0,1291.0,17262.0,3341.0,25413.0,4257.0,6830.0,27959.0
+2020Q3,2020,Q3,Table 2,2,All Others,Asia and Pacific,empty,87,,,,,,,,,
+2020Q3,2020,Q3,Table 2,2,All Others,Africa,region_header,88,Africa,,,,,,,,
+2020Q3,2020,Q3,Table 2,2,All Others,Africa,country_data,89,ALGERIA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020Q3,2020,Q3,Table 2,2,All Others,Africa,country_data,90,EGYPT,107.0,0.0,105.0,0.0,107.0,14.0,0.0,93.0
+2020Q3,2020,Q3,Table 2,2,All Others,Africa,country_data,91,GHANA,12.0,0.0,11.0,0.0,12.0,2.0,1.0,11.0
+2020Q3,2020,Q3,Table 2,2,All Others,Africa,country_data,92,KENYA,12.0,0.0,11.0,0.0,12.0,1.0,0.0,11.0
+2020Q3,2020,Q3,Table 2,2,All Others,Africa,country_data,93,MOROCCO,20.0,0.0,19.0,0.0,20.0,2.0,0.0,18.0
+2020Q3,2020,Q3,Table 2,2,All Others,Africa,country_data,94,NIGERIA,360.0,0.0,353.0,0.0,360.0,43.0,0.0,317.0
+2020Q3,2020,Q3,Table 2,2,All Others,Africa,country_data,95,SAINT HELENA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020Q3,2020,Q3,Table 2,2,All Others,Africa,country_data,96,SOUTH AFRICA,120.0,0.0,93.0,0.0,120.0,12.0,3.0,111.0
+2020Q3,2020,Q3,Table 2,2,All Others,Africa,country_data,97,SOUTH SUDAN,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020Q3,2020,Q3,Table 2,2,All Others,Africa,country_data,98,OTHER AFRICA,526.0,16.0,149.0,0.0,542.0,185.0,210.0,567.0
+2020Q3,2020,Q3,Table 2,2,All Others,Africa,subtotal,99,Total,1157.0,16.0,741.0,0.0,1173.0,259.0,214.0,1128.0
+2020Q3,2020,Q3,Table 2,2,All Others,Africa,empty,100,,,,,,,,,
+2020Q3,2020,Q3,Table 2,2,All Others,Banking Centers,region_header,101,Banking Centers,,,,,,,,
+2020Q3,2020,Q3,Table 2,2,All Others,Banking Centers,country_data,102,BAHAMAS,6926.0,0.0,6592.0,0.0,6926.0,6388.0,82.0,621.0
+2020Q3,2020,Q3,Table 2,2,All Others,Banking Centers,country_data,103,BAHRAIN,101.0,0.0,43.0,0.0,101.0,29.0,5.0,77.0
+2020Q3,2020,Q3,Table 2,2,All Others,Banking Centers,country_data,104,BERMUDA,6221.0,72.0,3243.0,6.0,6299.0,601.0,434.0,6130.0
+2020Q3,2020,Q3,Table 2,2,All Others,Banking Centers,country_data,105,CAYMAN ISLANDS,61480.0,221.0,40758.0,4.0,61705.0,23670.0,3628.0,41665.0
+2020Q3,2020,Q3,Table 2,2,All Others,Banking Centers,country_data,106,HONG KONG,5231.0,919.0,5686.0,1273.0,7423.0,1372.0,807.0,6857.0
+2020Q3,2020,Q3,Table 2,2,All Others,Banking Centers,country_data,107,LEBANON,37.0,0.0,26.0,0.0,37.0,5.0,0.0,32.0
+2020Q3,2020,Q3,Table 2,2,All Others,Banking Centers,country_data,108,MAURITIUS,298.0,0.0,205.0,0.0,298.0,67.0,39.0,270.0
+2020Q3,2020,Q3,Table 2,2,All Others,Banking Centers,country_data,109,PANAMA,1338.0,1.0,844.0,0.0,1339.0,994.0,70.0,405.0
+2020Q3,2020,Q3,Table 2,2,All Others,Banking Centers,country_data,110,SINGAPORE,6026.0,106.0,5384.0,1496.0,7628.0,1041.0,817.0,7403.0
+2020Q3,2020,Q3,Table 2,2,All Others,Banking Centers,country_data,111,OTHER BANKING CENTERS,2912.0,74.0,1275.0,72.0,3058.0,898.0,694.0,2854.0
+2020Q3,2020,Q3,Table 2,2,All Others,Banking Centers,subtotal,112,Total,90570.0,1393.0,64056.0,2851.0,94814.0,35065.0,6576.0,66314.0
+2020Q3,2020,Q3,Table 2,2,All Others,Banking Centers,empty,113,,,,,,,,,
+2020Q3,2020,Q3,Table 2,2,All Others,International & Regional Organizations,region_header,114,International & Regional Organizations,,,,,,,,
+2020Q3,2020,Q3,Table 2,2,All Others,International & Regional Organizations,country_data,115,AFRICAN,564.0,0.0,0.0,0.0,564.0,0.0,0.0,564.0
+2020Q3,2020,Q3,Table 2,2,All Others,International & Regional Organizations,organization_data,116,ASIAN,3597.0,0.0,862.0,0.0,3597.0,0.0,0.0,3597.0
+2020Q3,2020,Q3,Table 2,2,All Others,International & Regional Organizations,organization_data,117,CARIBBEAN,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020Q3,2020,Q3,Table 2,2,All Others,International & Regional Organizations,organization_data,118,EUROPEAN,9154.0,0.0,2418.0,0.0,9154.0,0.0,0.0,9154.0
+2020Q3,2020,Q3,Table 2,2,All Others,International & Regional Organizations,country_data,119,INTERNATIONAL,6261.0,0.0,2615.0,0.0,6261.0,0.0,22.0,6282.0
+2020Q3,2020,Q3,Table 2,2,All Others,International & Regional Organizations,country_data,120,LATIN AMERICAN,2578.0,0.0,125.0,0.0,2578.0,0.0,10.0,2588.0
+2020Q3,2020,Q3,Table 2,2,All Others,International & Regional Organizations,organization_data,121,MIDDLE EASTERN,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020Q3,2020,Q3,Table 2,2,All Others,International & Regional Organizations,subtotal,122,Total,22154.0,0.0,6020.0,0.0,22154.0,0.0,32.0,22185.0
+2020Q3,2020,Q3,Table 2,2,All Others,International & Regional Organizations,empty,123,,,,,,,,,
+2020Q3,2020,Q3,Table 2,2,All Others,International & Regional Organizations,country_data,124,UNITED STATES,52615.0,208657.0,98356.0,6550723.0,6811995.0,190318.0,153781.0,6782732.0
+2020Q3,2020,Q3,Table 2,2,All Others,International & Regional Organizations,empty,125,,,,,,,,,
+2020Q3,2020,Q3,Table 2,2,All Others,International & Regional Organizations,grand_total,126,Grand Total,476256.0,236018.0,401202.0,6707579.0,7419853.0,295178.0,295173.0,7426913.0

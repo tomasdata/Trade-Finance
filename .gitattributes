@@ -1,0 +1,5 @@
+Brasil/brasil_full.csv filter=lfs diff=lfs merge=lfs -text
+Chile/chile_full.csv filter=lfs diff=lfs merge=lfs -text
+Consolidated[[:space:]]banking[[:space:]]statistics[[:space:]]BIS.csv filter=lfs diff=lfs merge=lfs -text
+Mexico/040_R12A_1219_133.csv filter=lfs diff=lfs merge=lfs -text
+FFIEC[[:space:]]009/Data-nic/*.CSV filter=lfs diff=lfs merge=lfs -text

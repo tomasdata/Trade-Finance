@@ -1,0 +1,122 @@
+period,year,quarter,table,table_num,bank_group,region,row_type,original_row_idx,country_region,Ultimate_Risk_Claims_2_Cross_Border_Claims_Corporate,Households,Total_Other,Claims_on_Local_Residents_Corporate,Households,Total_Other,Fair_Value_of_Derivatives_3,Total_Claims,Immediate_Counterparty_Basis_Claims_Cross_Border_Claims_Corporate,Households,Total_Other,Claims_on_Local_Residents_Corporate,Households,Total_Other
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,G-10 and Luxembourg,region_header,8,G-10 and Luxembourg,,,,,,,,,,,,,,
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,G-10 and Luxembourg,country_data,9,BELGIUM,3811.0,48.0,3859.0,5.0,42.0,47.0,261.0,4167.0,3568.0,59.0,3627.0,2.0,0.0,2.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,G-10 and Luxembourg,country_data,10,CANADA,17642.0,648.0,18290.0,22844.0,599.0,23443.0,1021.0,42754.0,14801.0,442.0,15243.0,8942.0,8.0,8950.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,G-10 and Luxembourg,country_data,11,FRANCE,24185.0,201.0,24386.0,5201.0,785.0,5986.0,2530.0,32902.0,22987.0,236.0,23223.0,702.0,11.0,713.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,G-10 and Luxembourg,country_data,12,GERMANY,27354.0,248.0,27602.0,4444.0,322.0,4766.0,3029.0,35397.0,23943.0,745.0,24688.0,611.0,15.0,626.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,G-10 and Luxembourg,country_data,13,ITALY,8420.0,272.0,8692.0,2329.0,918.0,3247.0,427.0,12366.0,7854.0,219.0,8073.0,136.0,131.0,267.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,G-10 and Luxembourg,country_data,14,JAPAN,17860.0,184.0,18044.0,40478.0,5.0,40483.0,989.0,59516.0,15091.0,138.0,15229.0,1409.0,0.0,1409.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,G-10 and Luxembourg,country_data,15,LUXEMBOURG,17273.0,4.0,17277.0,659.0,10.0,669.0,1296.0,19242.0,29079.0,4.0,29083.0,172.0,6.0,178.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,G-10 and Luxembourg,country_data,16,NETHERLANDS,21750.0,170.0,21920.0,291.0,79.0,370.0,1869.0,24159.0,24200.0,188.0,24388.0,168.0,0.0,168.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,G-10 and Luxembourg,country_data,17,SWEDEN,9088.0,55.0,9143.0,5.0,0.0,5.0,298.0,9446.0,8428.0,64.0,8492.0,2.0,0.0,2.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,G-10 and Luxembourg,country_data,18,SWITZERLAND,13886.0,590.0,14476.0,536.0,1369.0,1905.0,2920.0,19301.0,12975.0,577.0,13552.0,597.0,1068.0,1665.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,G-10 and Luxembourg,country_data,19,UNITED KINGDOM,27743.0,3573.0,31316.0,39169.0,3824.0,42993.0,7161.0,81470.0,25956.0,3419.0,29375.0,16050.0,2028.0,18078.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,G-10 and Luxembourg,subtotal,20,Total,189012.0,5993.0,195005.0,115961.0,7953.0,123914.0,21801.0,340720.0,188882.0,6091.0,194973.0,28791.0,3267.0,32058.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,G-10 and Luxembourg,empty,21,,,,,,,,,,,,,,,
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,Non G-10 Developed Countries,region_header,22,Non G-10 Developed Countries,,,,,,,,,,,,,,
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,Non G-10 Developed Countries,country_data,23,AUSTRALIA,5407.0,235.0,5642.0,13108.0,172.0,13280.0,866.0,19788.0,4190.0,247.0,4437.0,2133.0,0.0,2133.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,Non G-10 Developed Countries,country_data,24,AUSTRIA,1279.0,14.0,1293.0,0.0,0.0,0.0,82.0,1375.0,1464.0,55.0,1519.0,0.0,0.0,0.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,Non G-10 Developed Countries,country_data,25,CYPRUS,1211.0,145.0,1356.0,0.0,0.0,0.0,3.0,1359.0,1000.0,102.0,1102.0,0.0,0.0,0.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,Non G-10 Developed Countries,country_data,26,DENMARK,4602.0,12.0,4614.0,2.0,0.0,2.0,212.0,4828.0,4469.0,8.0,4477.0,1.0,0.0,1.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,Non G-10 Developed Countries,country_data,27,FINLAND,3469.0,1.0,3470.0,1.0,0.0,1.0,134.0,3605.0,3196.0,7.0,3203.0,0.0,0.0,0.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,Non G-10 Developed Countries,country_data,28,GREECE,1314.0,74.0,1388.0,43.0,0.0,43.0,13.0,1444.0,1293.0,74.0,1367.0,0.0,0.0,0.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,Non G-10 Developed Countries,country_data,29,IRELAND,15533.0,158.0,15691.0,4028.0,0.0,4028.0,608.0,20327.0,14299.0,167.0,14466.0,582.0,0.0,582.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,Non G-10 Developed Countries,country_data,30,ISRAEL,4341.0,180.0,4521.0,308.0,0.0,308.0,317.0,5146.0,4026.0,225.0,4251.0,136.0,0.0,136.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,Non G-10 Developed Countries,country_data,31,NEW ZEALAND,1049.0,22.0,1071.0,173.0,0.0,173.0,32.0,1276.0,1000.0,21.0,1021.0,3.0,0.0,3.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,Non G-10 Developed Countries,country_data,32,NORWAY,2423.0,7.0,2430.0,0.0,0.0,0.0,334.0,2764.0,2475.0,10.0,2485.0,0.0,0.0,0.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,Non G-10 Developed Countries,country_data,33,PORTUGAL,717.0,49.0,766.0,1.0,1.0,2.0,1021.0,1789.0,727.0,49.0,776.0,0.0,0.0,0.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,Non G-10 Developed Countries,country_data,34,SLOVAKIA,133.0,0.0,133.0,102.0,0.0,102.0,109.0,344.0,160.0,0.0,160.0,0.0,0.0,0.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,Non G-10 Developed Countries,country_data,35,SPAIN,10132.0,487.0,10619.0,698.0,1.0,699.0,1331.0,12649.0,9494.0,484.0,9978.0,143.0,0.0,143.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,Non G-10 Developed Countries,country_data,36,OTHER NON G-10 DEV.,282.0,199.0,481.0,0.0,0.0,0.0,9.0,490.0,220.0,174.0,394.0,0.0,0.0,0.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,Non G-10 Developed Countries,subtotal,37,Total,51892.0,1583.0,53475.0,18464.0,174.0,18638.0,5071.0,77184.0,48013.0,1623.0,49636.0,2998.0,0.0,2998.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,Non G-10 Developed Countries,empty,38,,,,,,,,,,,,,,,
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,Eastern Europe,region_header,39,Eastern Europe,,,,,,,,,,,,,,
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,Eastern Europe,country_data,40,BULGARIA,82.0,8.0,90.0,82.0,0.0,82.0,36.0,208.0,82.0,8.0,90.0,43.0,0.0,43.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,Eastern Europe,country_data,41,CZECH REPUBLIC,1131.0,10.0,1141.0,662.0,0.0,662.0,291.0,2094.0,1076.0,10.0,1086.0,561.0,0.0,561.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,Eastern Europe,country_data,42,HUNGARY,479.0,4.0,483.0,248.0,0.0,248.0,67.0,798.0,510.0,4.0,514.0,228.0,0.0,228.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,Eastern Europe,country_data,43,KOSOVO,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,Eastern Europe,country_data,44,POLAND,888.0,28.0,916.0,2305.0,946.0,3251.0,646.0,4813.0,885.0,26.0,911.0,740.0,9.0,749.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,Eastern Europe,country_data,45,ROMANIA,71.0,14.0,85.0,201.0,0.0,201.0,3.0,289.0,155.0,14.0,169.0,250.0,0.0,250.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,Eastern Europe,country_data,46,RUSSIA,261.0,33.0,294.0,2818.0,189.0,3007.0,24.0,3325.0,284.0,33.0,317.0,106.0,1.0,107.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,Eastern Europe,country_data,47,TURKEY,2485.0,71.0,2556.0,581.0,0.0,581.0,33.0,3170.0,3285.0,70.0,3355.0,353.0,0.0,353.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,Eastern Europe,country_data,48,OTHER E. EUROPE,966.0,98.0,1064.0,53.0,0.0,53.0,36.0,1153.0,906.0,50.0,956.0,44.0,0.0,44.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,Eastern Europe,subtotal,49,Total,6363.0,267.0,6630.0,6950.0,1135.0,8085.0,1136.0,15851.0,7183.0,216.0,7399.0,2325.0,10.0,2335.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,Eastern Europe,empty,50,,,,,,,,,,,,,,,
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,Latin America and Caribbean,region_header,51,Latin America and Caribbean,,,,,,,,,,,,,,
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,Latin America and Caribbean,country_data,52,ANGUILLA,35.0,1.0,36.0,0.0,0.0,0.0,6.0,42.0,36.0,1.0,37.0,0.0,0.0,0.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,Latin America and Caribbean,country_data,53,ARGENTINA,340.0,72.0,412.0,436.0,0.0,436.0,0.0,848.0,682.0,195.0,877.0,14.0,0.0,14.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,Latin America and Caribbean,country_data,54,BRAZIL,21811.0,866.0,22677.0,9787.0,43.0,9830.0,2572.0,35079.0,21251.0,945.0,22196.0,2138.0,0.0,2138.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,Latin America and Caribbean,country_data,55,CHILE,1616.0,65.0,1681.0,28.0,0.0,28.0,404.0,2113.0,1688.0,142.0,1830.0,11.0,0.0,11.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,Latin America and Caribbean,country_data,56,COLOMBIA,1678.0,94.0,1772.0,595.0,0.0,595.0,59.0,2426.0,1745.0,105.0,1850.0,0.0,0.0,0.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,Latin America and Caribbean,country_data,57,COSTA RICA,57.0,31.0,88.0,27.0,0.0,27.0,33.0,148.0,107.0,31.0,138.0,6.0,0.0,6.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,Latin America and Caribbean,country_data,58,DOMINICAN REPUBLIC,195.0,130.0,325.0,45.0,0.0,45.0,1.0,371.0,279.0,99.0,378.0,12.0,0.0,12.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,Latin America and Caribbean,country_data,59,ECUADOR,79.0,53.0,132.0,375.0,0.0,375.0,1.0,508.0,383.0,121.0,504.0,443.0,0.0,443.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,Latin America and Caribbean,country_data,60,EL SALVADOR,70.0,35.0,105.0,16.0,0.0,16.0,0.0,121.0,116.0,56.0,172.0,20.0,0.0,20.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,Latin America and Caribbean,country_data,61,FRENCH GUIANA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,Latin America and Caribbean,country_data,62,GUATEMALA,294.0,33.0,327.0,4.0,0.0,4.0,0.0,331.0,283.0,77.0,360.0,0.0,0.0,0.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,Latin America and Caribbean,country_data,63,HONDURAS,22.0,18.0,40.0,17.0,0.0,17.0,0.0,57.0,51.0,21.0,72.0,3.0,0.0,3.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,Latin America and Caribbean,country_data,64,MEXICO,14182.0,2544.0,16726.0,14202.0,15538.0,29740.0,2688.0,49154.0,14269.0,3538.0,17807.0,5462.0,67.0,5529.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,Latin America and Caribbean,country_data,65,MONTSERRAT,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,Latin America and Caribbean,country_data,66,PERU,1354.0,226.0,1580.0,280.0,0.0,280.0,179.0,2039.0,996.0,351.0,1347.0,190.0,0.0,190.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,Latin America and Caribbean,country_data,67,URUGUAY,266.0,68.0,334.0,65.0,0.0,65.0,22.0,421.0,374.0,41.0,415.0,24.0,0.0,24.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,Latin America and Caribbean,country_data,68,VENEZUELA,9.0,546.0,555.0,0.0,0.0,0.0,0.0,555.0,13.0,698.0,711.0,0.0,0.0,0.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,Latin America and Caribbean,country_data,69,OTHER LAT. AM. & CAR.,8219.0,264.0,8483.0,497.0,0.0,497.0,271.0,9251.0,9736.0,1143.0,10879.0,431.0,0.0,431.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,Latin America and Caribbean,subtotal,70,Total,50227.0,5046.0,55273.0,26374.0,15581.0,41955.0,6236.0,103464.0,52009.0,7564.0,59573.0,8754.0,67.0,8821.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,Latin America and Caribbean,empty,71,,,,,,,,,,,,,,,
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,Asia and Pacific,region_header,72,Asia and Pacific,,,,,,,,,,,,,,
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,Asia and Pacific,country_data,73,CHINA-MAINLAND,68573.0,938.0,69511.0,7481.0,2634.0,10115.0,277.0,79903.0,66112.0,801.0,66913.0,316.0,8.0,324.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,Asia and Pacific,country_data,74,INDIA,13326.0,926.0,14252.0,9895.0,39.0,9934.0,187.0,24373.0,11933.0,936.0,12869.0,1783.0,0.0,1783.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,Asia and Pacific,country_data,75,INDONESIA,1325.0,692.0,2017.0,1372.0,574.0,1946.0,28.0,3991.0,1624.0,585.0,2209.0,878.0,0.0,878.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,Asia and Pacific,country_data,76,"KOREA, SOUTH",17528.0,53.0,17581.0,5777.0,7130.0,12907.0,455.0,30943.0,13319.0,55.0,13374.0,2443.0,16.0,2459.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,Asia and Pacific,country_data,77,KUWAIT,492.0,72.0,564.0,31.0,0.0,31.0,0.0,595.0,498.0,73.0,571.0,1.0,0.0,1.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,Asia and Pacific,country_data,78,MALAYSIA,853.0,200.0,1053.0,1075.0,0.0,1075.0,46.0,2174.0,905.0,202.0,1107.0,1275.0,0.0,1275.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,Asia and Pacific,country_data,79,PAKISTAN,28.0,71.0,99.0,55.0,0.0,55.0,0.0,154.0,28.0,71.0,99.0,15.0,0.0,15.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,Asia and Pacific,country_data,80,PHILIPPINES,584.0,361.0,945.0,681.0,0.0,681.0,29.0,1655.0,520.0,365.0,885.0,226.0,0.0,226.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,Asia and Pacific,country_data,81,QATAR,4160.0,72.0,4232.0,0.0,0.0,0.0,2.0,4234.0,4209.0,72.0,4281.0,0.0,0.0,0.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,Asia and Pacific,country_data,82,SAUDI ARABIA,3284.0,234.0,3518.0,365.0,0.0,365.0,17.0,3900.0,4124.0,204.0,4328.0,315.0,0.0,315.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,Asia and Pacific,country_data,83,TAIWAN,18289.0,314.0,18603.0,4064.0,7754.0,11818.0,30.0,30451.0,17316.0,334.0,17650.0,2176.0,5.0,2181.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,Asia and Pacific,country_data,84,THAILAND,3116.0,184.0,3300.0,1192.0,0.0,1192.0,166.0,4658.0,3117.0,179.0,3296.0,133.0,0.0,133.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,Asia and Pacific,country_data,85,UNITED ARAB EMIRATES,3116.0,1106.0,4222.0,938.0,202.0,1140.0,82.0,5444.0,3152.0,1190.0,4342.0,1053.0,0.0,1053.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,Asia and Pacific,country_data,86,WEST BANK AND GAZA,0.0,5.0,5.0,0.0,0.0,0.0,0.0,5.0,0.0,5.0,5.0,0.0,0.0,0.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,Asia and Pacific,country_data,87,OTHER ASIA AND PACIFIC,2374.0,249.0,2623.0,1087.0,0.0,1087.0,80.0,3790.0,3331.0,249.0,3580.0,512.0,0.0,512.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,Asia and Pacific,subtotal,88,Total,137048.0,5477.0,142525.0,34013.0,18333.0,52346.0,1399.0,196270.0,130188.0,5321.0,135509.0,11126.0,29.0,11155.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,Asia and Pacific,empty,89,,,,,,,,,,,,,,,
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,Africa,region_header,90,Africa,,,,,,,,,,,,,,
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,Africa,country_data,91,ALGERIA,0.0,2.0,2.0,205.0,0.0,205.0,0.0,207.0,0.0,2.0,2.0,50.0,0.0,50.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,Africa,country_data,92,EGYPT,137.0,43.0,180.0,109.0,0.0,109.0,1.0,290.0,752.0,43.0,795.0,48.0,0.0,48.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,Africa,country_data,93,GHANA,5.0,4.0,9.0,0.0,0.0,0.0,0.0,9.0,5.0,4.0,9.0,0.0,0.0,0.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,Africa,country_data,94,KENYA,57.0,8.0,65.0,344.0,0.0,344.0,2.0,411.0,61.0,8.0,69.0,218.0,0.0,218.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,Africa,country_data,95,MOROCCO,177.0,3.0,180.0,101.0,0.0,101.0,13.0,294.0,177.0,3.0,180.0,9.0,0.0,9.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,Africa,country_data,96,NIGERIA,161.0,30.0,191.0,482.0,0.0,482.0,30.0,703.0,619.0,30.0,649.0,350.0,0.0,350.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,Africa,country_data,97,SAINT HELENA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,Africa,country_data,98,SOUTH AFRICA,1139.0,23.0,1162.0,2954.0,0.0,2954.0,83.0,4199.0,812.0,27.0,839.0,145.0,0.0,145.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,Africa,country_data,99,SOUTH SUDAN,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,Africa,country_data,100,OTHER AFRICA,1288.0,36.0,1324.0,672.0,0.0,672.0,73.0,2069.0,2102.0,36.0,2138.0,291.0,0.0,291.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,Africa,subtotal,101,Total,2964.0,149.0,3113.0,4867.0,0.0,4867.0,202.0,8182.0,4528.0,153.0,4681.0,1111.0,0.0,1111.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,Africa,empty,102,,,,,,,,,,,,,,,
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,Banking Centers,region_header,103,Banking Centers,,,,,,,,,,,,,,
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,Banking Centers,country_data,104,BAHAMAS,399.0,123.0,522.0,0.0,0.0,0.0,3.0,525.0,437.0,331.0,768.0,5.0,0.0,5.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,Banking Centers,country_data,105,BAHRAIN,107.0,23.0,130.0,10.0,0.0,10.0,0.0,140.0,334.0,23.0,357.0,2.0,0.0,2.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,Banking Centers,country_data,106,BERMUDA,7779.0,23.0,7802.0,1.0,0.0,1.0,206.0,8009.0,5901.0,38.0,5939.0,0.0,0.0,0.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,Banking Centers,country_data,107,CAYMAN ISLANDS,43870.0,64.0,43934.0,243.0,0.0,243.0,480.0,44657.0,40309.0,90.0,40399.0,38.0,0.0,38.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,Banking Centers,country_data,108,HONG KONG,8826.0,2262.0,11088.0,5477.0,16261.0,21738.0,223.0,33049.0,7864.0,2015.0,9879.0,3893.0,1921.0,5814.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,Banking Centers,country_data,109,LEBANON,16.0,40.0,56.0,3.0,0.0,3.0,0.0,59.0,16.0,40.0,56.0,0.0,0.0,0.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,Banking Centers,country_data,110,MAURITIUS,849.0,5.0,854.0,55.0,0.0,55.0,3.0,912.0,1005.0,5.0,1010.0,37.0,0.0,37.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,Banking Centers,country_data,111,PANAMA,1022.0,95.0,1117.0,130.0,0.0,130.0,67.0,1314.0,1861.0,445.0,2306.0,161.0,0.0,161.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,Banking Centers,country_data,112,SINGAPORE,3452.0,2125.0,5577.0,6558.0,11645.0,18203.0,546.0,24326.0,2726.0,2211.0,4937.0,4854.0,2940.0,7794.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,Banking Centers,country_data,113,OTHER BANKING CENTERS,9751.0,373.0,10124.0,348.0,0.0,348.0,521.0,10993.0,8751.0,379.0,9130.0,330.0,22.0,352.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,Banking Centers,subtotal,114,Total,76071.0,5133.0,81204.0,12825.0,27906.0,40731.0,2049.0,123984.0,69204.0,5577.0,74781.0,9320.0,4883.0,14203.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,Banking Centers,empty,115,,,,,,,,,,,,,,,
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,International & Regional Organizations,region_header,116,International & Regional Organizations,,,,,,,,,,,,,,
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,International & Regional Organizations,country_data,117,AFRICAN,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,International & Regional Organizations,organization_data,118,ASIAN,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,International & Regional Organizations,organization_data,119,CARIBBEAN,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,International & Regional Organizations,organization_data,120,EUROPEAN,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,International & Regional Organizations,country_data,121,INTERNATIONAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,International & Regional Organizations,country_data,122,LATIN AMERICAN,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,International & Regional Organizations,organization_data,123,MIDDLE EASTERN,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,International & Regional Organizations,subtotal,124,Total,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,International & Regional Organizations,empty,125,,,,,,,,,,,,,,,
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,International & Regional Organizations,country_data,126,UNITED STATES,46110.0,3764.0,49874.0,1397276.0,1723724.0,3121000.0,47408.0,3218282.0,32149.0,3572.0,35721.0,8631.0,308.0,8939.0
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,International & Regional Organizations,empty,127,,,,,,,,,,,,,,,
+2023Q2,2023,Q2,Table 4.2,4.2,LFI,International & Regional Organizations,grand_total,128,Grand Total,559687.0,27412.0,587099.0,1616730.0,1794806.0,3411536.0,85302.0,4083937.0,532156.0,30117.0,562273.0,73056.0,8564.0,81620.0

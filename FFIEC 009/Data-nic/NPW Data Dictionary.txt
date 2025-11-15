@@ -1,0 +1,2731 @@
+BOARD OF GOVERNORS
+OF THE
+FEDERAL RESERVE SYSTEM
+
+BULK DATA DOWNLOAD
+DATA DICTIONARY AND REFERENCE GUIDE
+Document Version 2.0
+
+Prepared By:
+National Information Center
+
+Rev. 4/25
+
+This page was intentionally left blank.
+
+TABLE OF CONTENTS
+
+SECTION I – GENERAL INFORMATION...............................................................................................................1
+SECTION II – HOW TO USE THE DATA DICTIONARY .....................................................................................2
+SECTION III –TABLE ELEMENTS..........................................................................................................................3
+SECTION IV – ATTRIBUTES TABLE DETAILS ...................................................................................................4
+SECTION V – RELATIONSHIPS TABLE DETAILS...........................................................................................31
+SECTION VI – TRANSFORMATIONS TABLE DETAILS .................................................................................40
+
+SECTION I – GENERAL INFORMATION
+BULK DATA DOWNLOAD
+The Bulk Data Download feature was developed in response to growing demand from the public
+for data in bulk format. Data being provided are considered non-confidential, public data. As our
+first iteration of this feature, we are releasing the tables related to attributes, relationships, and
+transformations. Details of these tables can be found in the subsequent sections of this Data
+Dictionary.
+Future developments of this feature are planned with the intent of expanding the available data
+provided on the NIC public website on an individual institution basis. In the interim, additional
+requests for data can be made via our Freedom of Information Act Office. Additionally, we
+welcome feedback regarding the presentation of the data via our feedback link.
+
+1
+
+SECTION II – HOW TO USE THE DATA DICTIONARY
+DATA ELEMENTS
+The Data Dictionary consists of data elements stored in tables that describe an entity, its
+structure, its relationships with other entities, and its existence over time. The tables in the Bulk
+Data Download are:
+•
+
+Attributes: The data are broken down into three files based on the status of the institution
+or branch.
+o
+
+Active: Provides information describing the characteristics of open and active
+institutions.
+
+o
+
+Closed: Provides the last instance of closed / failed institutions.
+
+o
+
+Branches: Provides the last instance of branches whose head office is listed in either
+the Active or Closed Attributes tables.
+
+•
+
+Relationships: Provides the history of ownership between two entities.
+
+•
+
+Transformations: Provides information on mergers and failures.
+
+While all entities have data in the Attributes category, records within other categories are
+initialized only when applicable.
+LINKING TABLES
+When linking the tables, please note the primary keys which should be used:
+•
+
+Attributes: ID_RSSD, D_DT_START
+
+•
+
+Relationships: ID_RSSD_PARENT, ID_RSSD_OFFSPRING, D_DT_START,
+RELN_LVL
+
+•
+
+Transformations: ID_RSSD_PREDECESSOR, ID_RSSD_SUCCESSOR, D_DT_TRANS
+
+2
+
+SECTION III –TABLE ELEMENTS
+ATTRIBUTES
+ACT_PRIM_CD
+AUTH_REG_DIST_FRS
+BANK_CNT
+BHC_IND
+BNK_TYPE_ANALYS_C
+D
+BROAD_REG_CD
+CHTR_AUTH_CD
+CHTR_TYPE_CD
+CITY
+CNSRVTR_CD
+CNTRY_CD
+CNTRY_INC_CD
+CNTRY_INC_NM
+CNTRY_NM
+COUNTY_CD
+D_DT_END
+D_DT_EXIST_CMNC
+D_DT_EXIST_TERM
+D_DT_INSUR
+D_DT_OPEN
+D_DT_START
+DIST_FRS
+DOMESTIC_IND
+DT_END
+
+DT_EXIST_CMNC
+DT_EXIST_TERM
+DT_INSUR
+DT_OPEN
+DT_START
+ENTITY_TYPE
+EST_TYPE_CD
+FBO_4C9_IND
+FHC_IND
+FISC_YREND_MMDD
+FNCL_SUB_HOLDER
+FNCL_SUB_IND
+FUNC_REG
+IBF_IND
+ID_ABA_PRIM
+ID_CUSIP
+ID_FDIC_CERT
+ID_LEI
+ID_NCUA
+ID_OCC
+ID_RSSD
+ID_RSSD_HD_OFF
+ID_TAX
+ID_THRIFT
+ID_THRIFT_HC
+
+IHC_IND
+INSUR_PRI_CD
+MBR_FHLBS_IND
+MBR_FRS_IND
+MJR_OWN_MNRTY
+NM_LGL
+NM_SHORT
+NM_SRCH_CD
+ORG_TYPE_CD
+PLACE_CD
+PRIM_FED_FEG
+PROV_REGION
+REASON_TERM_CD
+SEC_RPTG_STATUS
+SLHC_IND
+SLHC_TYPE_IND
+STATE_ABBR_NM
+STATE_CD
+STATE_HOME_CD
+STATE_INC_ABBR_NM
+STATE_INC_CD
+STREET_LINE1
+STREET_LINE2
+URL
+ZIP_CD
+
+RELATIONSHIPS
+CTRL_IND
+D_DT_END
+D_DT_RELN_EST
+D_DT_START
+DT_END
+DT_RELN_EST
+DT_START
+EQUITY_IND
+
+FC_IND
+ID_RSSD_OFFSPRING
+ID_RSSD_PARENT
+MB_COST
+OTHER_BASIS_IND
+PCT_EQUITY
+PCT_EQUITY_BRACKET
+
+PCT_EQUITY_FORMAT
+PCT_OTHER
+REASON_ROW_CRTD
+REASON_TERM_RELN
+REG_IND
+REGK_INV
+RELN_LVL
+
+TRANSFORMATIONS
+ACCT_METHOD
+D_DT_TRANS
+
+DT_TRANS
+ID_RSSD_PRECESSOR
+
+ID_RSSD_SUCCESSOR
+TRNSFM_CD
+
+3
+
+ATTRIBUTES TABLE
+
+SECTION IV – ATTRIBUTES TABLE DETAILS
+The data elements in the Attributes Table characterize an entity. Each entity has a unique
+identifier, the ID_RSSD. This table contains entity descriptors that define the legal and commonly
+used characteristics of an entity, e.g. the type of charter, the insurer, location, etc. These
+characteristics are consistently valid for the entity within the specified date range. Not all data
+items are required for each entity's Attributes rows. All entities must have an Attributes row in
+order to have any other structure or financial data associated with the entity stored on the database.
+COLUMN:
+DATA TYPE:
+DESCRIPTION:
+
+ACT_PRIM_CD
+CHARACTER [6]
+PRIMARY ACTIVITY CODE
+
+The Primary Activity Code is a five or six-digit North American Industry Classification System
+(NAICS) Code value that best describes the primary activity conducted by an entity. A full
+description of all NAICS codes may be found at the U.S. Census Bureau’s website at
+http://www.census.gov/naics/.
+If the entity is inactive, this item should contain 0 (zero) except in the cases of Edge and
+Agreement Corporations and electric power companies (including co-generators) that report on FR
+2009a/b/c.
+0 = Not applicable (for branches), or inactive (with the exception of Edge and Agreement
+Corporations and electric power companies that are co-generators reporting on FR 2009a/b/c)
+COLUMN:
+DATA TYPE:
+DESCRIPTION:
+
+AUTH_REG_DIST_FRS (ARDF)
+INTEGER
+FEDERAL RESERVE REGULATORY DISTRICT CODE
+
+The Federal Reserve Regulatory District Code is a two-digit numeric code designating the Federal
+Reserve District of regulatory authority for institutions. Refer to the Attributes DIST_FRS column
+entry for code to district translations.
+Entity types included are:
+•
+•
+•
+•
+•
+•
+•
+
+Depository Institutions (e.g., Banks, Thrifts, Credit Unions, etc.)
+Bank Holding Companies
+Savings and Loan Holding Companies
+Foreign Banking Organizations
+Edge Corporations
+Agreement Corporations
+Sole foreign owners of a subsidiary Edge or Agreement Corporation
+
+Changes in Regulations D and I, effective October 1, 1997, allow depository institutions to denote
+4
+
+ATTRIBUTES TABLE
+
+a Federal Reserve office other than where the entity is physically located for purposes of Federal
+Reserve membership and/or reserve account maintenance. In these instances,
+AUTH_REG_DIST_FRS should be used to denote the district chosen by the institution.
+COLUMN:
+DATA TYPE:
+DESCRIPTION:
+
+BANK_CNT
+INTEGER
+BANK COUNT
+
+The Bank Count is a derived count of U.S. banking subsidiaries in the organizational structure of a
+bank holding company during the date range of the Attributes row. The bank holding company is
+defined as BHC_IND = 1 in the Attributes table, the banking subsidiary is defined as
+BROAD_REG_CD = 1 in the Attributes table, and all the relationships between the bank holding
+company and the banking subsidiary are controlled, defined as CTRL_IND = 1 in the
+Relationships table.
+COLUMN:
+DATA TYPE:
+DESCRIPTION:
+
+BHC_IND
+INTEGER
+BANK HOLDING COMPANY INDICATOR
+
+The Bank Holding Company (BHC) Indicator is an indicator of whether a head office entity is a
+Bank Holding Company (as defined in Section 2(a) of the Bank Holding Company Act (BHCA)
+including BHCs that may also be Foreign Banking Organizations (FBOs)) or non-BHC entities
+that control a grandfathered non-bank bank.
+0 = Not applicable (for entities other than head offices and for head office entities other than
+BHCs or non-BHC entities that control a grandfathered non-bank bank)
+1 = Entity is a BHC
+2 = Entity is not a BHC but it directly or indirectly controls a grandfathered non-bank
+bank
+COLUMN:
+DATA TYPE:
+DESCRIPTION:
+
+BNK_TYPE_ANALYS_CD
+INTEGER
+BANK TYPE ANALYSIS CODE
+
+The Bank Type Analysis Code is a code to indicate certain entities are subject to special analysis.
+0=
+
+Not applicable
+
+1=
+
+A bankers bank that is subject to reserve requirements
+
+2=
+
+A bankers bank that is not subject to reserve requirements
+
+3=
+
+Grandfathered non-bank bank
+5
+
+ATTRIBUTES TABLE
+
+4=
+
+Entity is primarily conducting credit card activities
+
+5=
+
+Wholesale bank (with commercial bank charter)
+
+6=
+
+Standalone Internet Bank (SAIB). Refers to a domestic head office depository entity
+only (no branches) with no physical location to which customers can go to obtain banking
+services. All transactions occur via the Internet.
+
+7=
+
+Workout entity (problem-loan, spin-off, or collecting bank)
+
+8=
+
+Depository Institution National Bank (DINB)
+
+9=
+
+Depository trust company
+
+10 =
+
+Bridge entity
+
+11 =
+
+Banking Edge or Agreement Corporation
+
+12 =
+
+Investment Edge or Agreement Corporation
+
+13 =
+
+Data processing services
+
+14 =
+
+Trust preferred securities subsidiary
+
+15 =
+
+Cash management banks
+
+16 =
+
+Farm credit system institution
+
+17 =
+
+10L Election – An election made by a state savings bank to be deemed a savings
+association under section 10(l) of the Home Owners' Loan Act.
+
+18 =
+
+Grandfathered SLHC
+
+19 =
+
+Securities Holding Company
+
+20 =
+
+Designated Financial Market Utility
+
+COLUMN:
+DATA TYPE:
+DESCRIPTION:
+
+BROAD_REG_CD
+INTEGER
+BROAD REGULATORY CODE
+
+The Broad Regulatory Code is a code intended to permit retrieval of major groups of entities
+based on their actual (not their potential) depository and legal status with regard to Regulation Y
+and the BHC Act.
+0 = Not applicable (branches and other non-head office entities)
+1 = Denotes entities that are defined as banks in the Bank Holding Company Act, as
+amended and implemented in the Federal Reserve's Regulation Y.
+Note: The statutory language used in CEBA is not employed.
+6
+
+ATTRIBUTES TABLE
+
+The term bank is defined as follows:
+
+(a) An institution organized under the laws of the United States (including the District of
+Columbia, any territory of the United States, Puerto Rico, Guam, American Samoa, or the
+Virgin Islands) that accepts demand deposits or deposits that the depositor may withdraw by
+check or similar means for payment to third parties or others and is engaged in the business of
+making commercial loans.
+(b) An institution that is defined as an insured bank in section 3(h) of the FDIC act, including
+state chartered savings banks; or,
+(c) An institution that meets either of the above two criteria and was a Savings Association and
+that has converted to a bank charter, even though it may continue as a member of the Savings
+Association Insurance Fund (SAIF).
+The term bank does NOT include the following types of institutions:
+(a) A bank organized under the laws of a foreign country and resident outside the legal
+boundaries of the United States, even if the bank has a U.S. presence
+(b) An insured institution that is a savings association that is one of the following:
+i. an industrial loan company, industrial bank or other similar institution;
+ii. a subsidiary of the Great Western Financial Corporation of New York;
+iii. a Qualified Thrift Lender (QLTF) as defined in the FIRREA of 1989; for example, savings
+and loan associations, cooperative banks, federal savings banks;
+iv. an institution that does not directly or indirectly, through association with the Great Western
+Financial Corporation, engage in the sale or underwriting of insurance.
+(c) An organization that does no business in the United States except as a means to do its
+overseas business.
+(d) An institution that functions solely in a trust or fiduciary capacity, and meets all of the
+following criteria:
+i. all, or substantially all, of the deposits are in trust funds and received in a bona fide fiduciary
+capacity
+ii. no deposits of the institution are insured by the FDIC or affiliated with the FDIC in any way
+iii. the institution does not accept demand deposits
+iv. the institution does not obtain payment services from the Federal Reserve or exercise
+discount or borrowing privileges from the Federal Reserve.
+(e) Credit Card Banks with a limited charter and that have not been approved under Section 3 of
+the BHC Act by the Federal Reserve System
+(f) Private Banks
+(g) An institution that either accepts deposits or makes commercial loans but does not do both
+types of business
+(h) Edge and Agreement Corporations
+7
+
+ATTRIBUTES TABLE
+
+(i) Credit Unions
+
+Entities that may submit a Call Report but are generally not included in BROAD_REG_CD of 1
+classification include: credit card banks, non-bank banks, cooperative banks, industrial banks, and
+federal savings banks.
+2 = Other depository institution – An entity that accepts deposits, including entities of the types
+defined in the Federal Reserve Act, Section 19(b)(1)(A) and in Regulation D, Section 204.2
+m, n, o, and p excluding those entities of the type defined in "1" above.
+3 = Non-depository institution - All active entities not covered in 1 or 2
+4 = Inactive institution
+COLUMN:
+DATA TYPE:
+DESCRIPTION:
+
+CHTR_AUTH_CD
+INTEGER
+AUTHORITY CHARTER
+
+The Authority Charter is a code indicating the chartering authority of the following entity types
+located in the United States or the U.S. territories (or possessions): banking type entities
+(charter types 200 and 250), thrifts (charter types 300, 310, 320 and 340), credit unions (charter
+type 330), and Edge corporations – which should always have federal charters, and agreement
+corporations, which should always have state charters (charter type 400). An Authority Charter is
+also required for U.S. branches or agencies of non-U.S. banks (where country code is not equal to
+1007). In the case that the entity’s charter type is a government agency, this field identifies the
+level of government.
+0 = Not applicable (non-U.S. entities chartered by non-U.S. authorities, pseudo entities, or
+charter types other than U.S. banking)
+1 = Federal (National)
+2 = State (or equivalent)
+
+COLUMN:
+DATA TYPE:
+DESCRIPTION:
+
+CHTR_TYPE_CD
+INTEGER
+CHARTER TYPE
+
+The Charter Type is a code indicating the type of entity based on either
+•
+•
+
+The legal documents issued by the chartering or licensing authority or other documents of
+formation
+The generally accepted common name that summarizes the characteristics and business
+activities of the entity when a formal charter is not issued
+
+8
+
+ATTRIBUTES TABLE
+
+0 = Not available or not applicable (for branches)
+
+110 = Government Agency (other than the Overseeing Regulatory Body and the U.S. Central
+Bank of Liquidity Agency); Government Sponsored Enterprise, [GSE], (e.g., farm credit
+banks)
+200 = Commercial Bank (including depository trust companies, credit card companies with
+commercial bank charters, private banks, development banks, limited charter banks
+[BNK_TYPE_ANALYS_CD = 4, 5], and foreign banks)
+250 = Non-deposit Trust Company
+300 = Savings Bank
+310 = Savings & Loan Association
+320 = Cooperative Bank
+330 = Credit Union (excluding Corporate Credit Union)
+340 = Industrial Bank (includes industrial loan companies and Morris Plan banks)
+400 = Edge or Agreement Corporation
+500 = Holding Company only, not itself any other charter type (not necessarily a BHC)
+550 = Insurance Broker or Agent and/or Insurance Company (includes insurance
+underwriting)
+610 = Employee Stock Ownership Plan/Trust (ESOP or ESOT)
+700 = Securities Broker and/or Dealer (includes securities underwriting)
+710 = Utility Company or Electric Power Co-generator
+720 = Other Non-Depository Institution (including credit card companies without commercial
+bank charters)
+COLUMN:
+DATA TYPE:
+DESCRIPTION:
+
+CITY
+CHARACTER [25]
+CITY/TOWN TEXT NAME
+
+The City/Town Text Name field is the name of the city or town in which the entity is physically
+located.
+COLUMN:
+DATA TYPE:
+DESCRIPTION:
+
+CNSRVTR_CD
+INTEGER
+CONSERVATORSHIP CODE
+9
+
+ATTRIBUTES TABLE
+
+The Conservatorship Code is a code identifying entities for which the federal or state government
+has intervened and possibly provided financial assistance.
+0 = Not applicable
+1 = In conservatorship - RTC (not valid after 19951231)
+2 = In conservatorship - OCC
+3 = In conservatorship - FDIC
+4 = In conservatorship - STATE
+5 = In conservatorship - NCUA
+COLUMN:
+DATA TYPE:
+DESCRIPTION:
+
+CNTRY_CD
+DECIMAL [5]
+COUNTRY CODE
+
+The County Code is the numeric code assigned to the country, dependency, or area of special
+sovereignty in which the entity is physically located.
+Source: Geographical Classification, the Department of the Treasury.
+Note: I n the current version of the Department of Treasury's Geographical Classification,
+countries of the United Kingdom, including England, Scotland, Wales, Northern Ireland, Channel
+Islands, Hebrides, Isle of Man, Orkney, and Shetland Islands, are included under the country code
+of the United Kingdom. However, at the request of the Federal Reserve Bank of New York,
+separate codes were assigned to England, Scotland, Wales, Northern Ireland, and Channel Islands.
+Additionally, the Treasury has given the Federal Reserve System separate codes for the United
+States, American Samoa, Guam, Marshall Islands, Northern Mariana Islands, Palau, Puerto Rico,
+U.S. Minor Outlying Islands, the U.S. Virgin Islands, and Federated States of Micronesia.
+
+COLUMN:
+DATA TYPE:
+DESCRIPTION:
+
+CNTRY_INC_CD
+INTEGER
+COUNTRY INCORPORATION CODE
+
+The Country Incorporation Code is the numeric code assigned to the country, dependency, or area
+of special sovereignty in which the entity is incorporated.
+COLUMN:
+DATA TYPE:
+DESCRIPTION:
+
+CNTRY_INC_NM
+CHARACTER [40]
+COUNTRY INCORPORATION NAME
+
+10
+
+ATTRIBUTES TABLE
+
+The Country Incorporation Name is the name of the country of incorporation.
+COLUMN:
+DATA TYPE:
+DESCRIPTION:
+
+CNTRY_NM
+CHARACTER [40]
+COUNTRY NAME
+
+The Country Name is the alpha name text of a country.
+COLUMN:
+DATA TYPE:
+DESCRIPTION:
+
+COUNTY_CD
+INTEGER
+COUNTY CODE
+
+The Country Code is the numeric code assigned to the county within the state in which the entity is
+physically located. This code only has meaning when used in conjunction with state code. Source:
+FIPS 6-4.
+0 = Not applicable (non-U.S. domiciled entities)
+COLUMN:
+DATA TYPE:
+DESCRIPTION:
+
+D_DT_END
+DATETIME
+DATE END
+
+The Date End is the value of DT_END converted to a DB2 date format. For querying, the format
+is ‘YYYY- MM-DD HH:MM:SS’ and must be enclosed in quotes.
+COLUMN:
+DATA TYPE:
+DESCRIPTION:
+
+D_DT_EXIST_CMNC
+DATE
+COMMENCEMENT OF EXISTENCE
+
+The date on which the entity came into existence, e.g., the date on its papers of incorporation
+or formation document, or the date on which it was granted a license.
+COLUMN:
+DATA TYPE:
+DESCRIPTION:
+
+D_DT_EXIST_TERM
+DATETIME
+FINAL DAY OF EXISTENCE
+
+The Final Day of Existence is the value of DT_EXIST_TERM converted to a DB2 date format.
+For querying, the format is ‘YYYY- MM-DD HH:MM:SS’ and must be enclosed in quotes.
+
+COLUMN:
+
+D_DT_INSUR
+11
+
+DATA TYPE:
+DESCRIPTION:
+
+ATTRIBUTES TABLE
+
+DATETIME
+DATE INSURED
+
+The Date Insured is the value of DT_INSUR converted to a DB2 date format. For querying, the
+format is ‘YYYY- MM-DD HH:MM:SS’ and must be enclosed in quotes.
+COLUMN:
+DATA TYPE:
+DESCRIPTION:
+
+D_DT_OPEN
+DATE
+DATE OF OPENING
+
+The date on which the entity's general ledger was opened for the first time and/or the date on
+which the entity became active. Format is YYYYMMDD.
+0 = Not applicable (individuals and pseudo entities)
+COLUMN:
+DATA TYPE:
+DESCRIPTION:
+
+D_DT_START
+DATETIME
+DATE START
+
+The Date Start is the value of DT_START converted to a DB2 date format. For querying, the
+format is ‘YYYY- MM-DD HH:MM:SS’ and must be enclosed in quotes.
+COLUMN:
+DATA TYPE:
+DESCRIPTION:
+
+DIST_FRS
+INTEGER
+FEDERAL RESERVE DISTRICT CODE
+
+The Federal Reserve District Code is the two-digit numeric code assigned to the Federal Reserve
+District that denotes the physical location of the entity. The value for this field is derived from the
+state and county.
+0=
+01 =
+02 =
+03 =
+04 =
+05 =
+06 =
+07 =
+08 =
+09 =
+10 =
+11 =
+
+Not applicable (non-U.S. domiciled entities)
+Boston
+New York
+Philadelphia
+Cleveland
+Richmond
+Atlanta
+Chicago
+St. Louis
+Minneapolis
+Kansas City
+Dallas
+12
+
+ATTRIBUTES TABLE
+
+12 = San Francisco
+COLUMN:
+DOMESTIC_IND
+DATA TYPE:
+CHARACTER [1]
+DESCRIPTION:
+DOMESTIC INDICATOR
+
+The Domestic Indicator is a flag indicating whether the country of physical location is the United
+States (including its territories and possessions.) (Derived from COUNTRY_CD).
+N = Not U.S.
+Y = U.S.
+
+COLUMN:
+DATA TYPE:
+DESCRIPTION:
+
+DT_END
+INTEGER
+DATE END
+
+The Date End is the last date for which the information in the record was known to be valid.
+Format is YYYYMMDD.
+99991231 = Non-terminated record
+COLUMN:
+DATA TYPE:
+DESCRIPTION:
+
+DT_EXIST_CMNC
+INTEGER
+COMMENCEMENT OF EXISTENCE
+
+The Commencement of Existence is the date on which the entity came into existence, e.g., the date
+on its papers of incorporation or formation document, or the date on which it was granted a
+license. Format is YYYYMMDD.
+0 = Not applicable
+COLUMN:
+DATA TYPE:
+DESCRIPTION:
+
+DT_EXIST_TERM
+INTEGER
+FINAL DAY OF EXISTENCE
+
+The Final Day of Existence is the last full day that the entity existed. Format is YYYYMMDD.
+99991231 = Non-terminated entities
+COLUMN:
+DATA TYPE:
+DESCRIPTION:
+
+DT_INSUR
+INTEGER
+DATE INSURED
+
+The Date Insured is the date on which insurance became effective. Format is YYYYMMDD.
+13
+
+ATTRIBUTES TABLE
+
+0 = Not applicable
+COLUMN:
+DATA TYPE:
+DESCRIPTION:
+
+DT_OPEN
+INTEGER
+DATE OF OPENING
+
+The Date of Opening is the date on which the entity's general ledger was opened for the first time
+and/or the date on which the entity became active. Format is YYYYMMDD.
+COLUMN:
+DATA TYPE:
+DESCRIPTION:
+
+DT_START
+INTEGER
+DATE START
+
+The Date Start is the first date for which the information in the record is known to be valid. Format
+is YYYYMMDD.
+COLUMN:
+DATA TYPE:
+DESCRIPTION:
+
+ENTITY_TYPE
+CHARACTER [4]
+ENTITY TYPE
+
+The Entity Type field is derived from other fields. The entity types listed below are in alphabetic
+sequence by entity code.
+AGB
+
+Agreement Corporation - Banking
+
+AGI
+
+Agreement Corporation - Investment
+
+BHC
+
+Bank Holding Company
+
+CPB
+
+Cooperative Bank
+
+CSA
+
+Covered Savings Institution
+
+DBR
+
+Domestic Branch of a Domestic Bank
+
+DEO
+
+Domestic Entity Other
+
+DPS
+
+Data Processing Servicer
+
+EBR
+
+Edge Corporation - Domestic Branch
+
+EDB
+
+Edge Corporation - Banking
+
+EDI
+
+Edge Corporation - Investment
+
+FBH
+
+Foreign Banking Organization as a BHC
+
+FBK
+
+Foreign Bank
+
+FBO
+
+Foreign Banking Organization
+14
+
+ATTRIBUTES TABLE
+
+FCU
+
+Federal Credit Union
+
+FEO
+
+Foreign Entity Other
+
+FHD
+
+Financial Holding Company / BHC (Note: Can be a domestic or foreigndomiciled holding company)
+
+FHF
+
+Financial Holding Company / FBO
+
+FNC
+
+Finance Company
+
+FSB
+
+Federal Savings Bank
+
+IBK
+
+International Bank of a U.S. Depository - Edge or Trust Co.
+
+IBR
+
+Foreign Branch of a U.S. Bank
+
+IHC
+
+Intermediate Holding Company
+
+IFB
+
+Insured Federal Branch of an FBO
+
+INB
+
+International Non-bank Subs of Domestic Entities
+
+ISB
+
+Insured State Branch of an FBO
+
+MTC
+
+Non-deposit Trust Company - Member
+
+NAT
+
+National Bank
+
+NMB
+
+Non-member Bank
+
+NTC
+
+Non-deposit Trust Company - Non-member
+
+NYI
+
+New York Investment Company
+
+PST
+
+Non-U.S. Branch managed by a U.S. Branch/Agency of a Foreign Bank for
+002’s reporting - Pseudo Twig
+
+REP
+
+Representative Office
+
+SAL
+
+Savings & Loan Association
+
+SBD
+
+Securities Broker / Dealer
+
+SCU
+
+State Credit Union
+
+SLHC
+
+Savings and Loan Holding Company
+
+SMB
+
+State Member Bank
+
+SSB
+
+State Savings Bank
+
+TWG
+
+Non-U.S. Branch managed by a U.S. Branch/Agency of a Foreign Bank TWIG
+
+UFA
+
+Uninsured Federal Agency of an FBO
+
+UFB
+
+Uninsured Federal Branch of an FBO
+15
+
+ATTRIBUTES TABLE
+
+USA
+
+Uninsured State Agency of an FBO
+
+USB
+
+Uninsured State Branch of an FBO
+
+COLUMN:
+DATA TYPE:
+DESCRIPTION:
+
+EST_TYPE_CD
+INTEGER
+ESTABLISHMENT TYPE CODE
+
+The Establishment Type Code is the type of physical establishment of an institution identifying the
+scope and limitations under which this entity is permitted to operate
+1=
+
+Headquarters (head office)
+
+2=
+
+Full service branch or regional office of regulatory agency, excluding 8 and 9
+
+3=
+
+Limited service branch, excluding 8 and 9
+
+5=
+
+Agency, excluding 8 and 9
+
+6=
+
+Back office money operation -- location to which funds are delivered for distribution to
+offices of banks (non-deposit-taking office)
+
+7=
+
+Military facility
+
+8=
+
+Super agency -- State licensed agency acting as a full service branch under the IBA,
+excluding 2, 3, 5 and 9; may service both domestic (U.S.) and international business, e.g.,
+sell large denomination CDs.
+
+9=
+
+Limited super agency -- State licensed agency acting as a limited branch under the IBA
+excluding 2, 3, 5 and 8; may service only international business, e.g., sell large
+denomination CDs to foreigners only.
+
+11 =
+
+Check processing center, regional or otherwise (non-deposit-taking office)
+
+12 =
+
+Other branch or non-independent facility (non-deposit-taking office)
+
+13 =
+
+Loan production office
+
+14 =
+
+Representative office of a foreign bank
+
+15 =
+
+Non-U.S. branch that is managed or controlled by a U.S. branch or agency of a
+foreign bank
+
+16 =
+
+Non-U.S. branch that is managed or controlled by more than one U.S. branch or
+agency of a foreign bank; the entity is set up for FFIEC 002s reporting purposes only, is
+considered a pseudo branch, and will have '002s Reporter' as a suffix to its legal name.
+16
+
+ATTRIBUTES TABLE
+
+17 =
+
+Office, division or branch of a non-bank entity (e.g., subdivisions of data processing
+servicers (DPS) non-bank head offices)
+
+18 =
+
+Trust -- An office that only conducts trust activities and does not accept deposits
+
+19 = Electronic Banking -- A facility with a phone, PC, and/or website services through which
+customers can open accounts, apply for loans, make fund transfers into accounts, and other
+types of electronic transactions from a remote location.
+COLUMN:
+DATA TYPE:
+DESCRIPTION:
+
+FBO_4C9_IND
+INTEGER
+FBO/4C9 QUALIFICATION INDICATOR
+
+The FBO/4C9 Qualification Indicator is an indicator of whether a Foreign Banking Organization
+(FBO) is exempt from non-bank activity restrictions under Section 4(c) 9 of the Bank Holding
+Company Act or Section 211.23 of Regulation K.
+An FBO is eligible for exemption if, disregarding its U.S. banking business, more than half of its
+worldwide business is banking and more than half of its banking business is outside the U.S
+An FBO is eligible for exemption if, disregarding its U.S. banking business, more than half of its
+worldwide business is banking and more than half of its banking business is outside the U.S.
+
+COLUMN:
+DATA TYPE:
+DESCRIPTION:
+
+FHC_IND
+INTEGER
+FINANCIAL HOLDING COMPANY INDICATOR
+
+The Financial Holding Company Indicator is an indicator of whether a Bank Holding Company or
+Foreign Banking entity has been designated a Financial Holding Company as defined in the GLB
+Act and Section 4(k) of the Bank Holding Company Act.
+0=
+
+Not applicable (for non-head office, and head office entities that are not designated as
+FHCs)
+
+1=
+
+Entity is an FHC
+
+2=
+
+Entity is an SLHC which has been designated an FHC
+
+COLUMN:
+DATA TYPE:
+DESCRIPTION:
+
+FISC_YREND_MMDD
+DECIMAL [4]
+DATE OF FISCAL YEAR END
+17
+
+ATTRIBUTES TABLE
+
+The Date of Fiscal Year End is the date the fiscal year ends for the Bank Holding Company,
+Savings and Loan Holding Company, Foreign Banking Organization or other FR Y-7 filer. Format
+is MMDD.
+0=
+
+Not applicable (entity is not a BHC, FBO, or other F.R. Y-7 filer)
+
+COLUMN:
+DATA TYPE:
+DESCRIPTION:
+
+FNCL_SUB_HOLDER
+INTEGER
+FINANCIAL SUBSIDIARY HOLDER
+
+The Financial Subsidiary Holder field is a field to indicate whether a bank conducts expanded
+financial activities through its direct or indirect ownership and control of an approved “financial
+subsidiary” as defined in the GLB Act, and in Section 4(k) of the Bank Holding Company Act.
+This field is only applicable to banks (BROAD_REG_CD = 1) and effective when the bank,
+through a financial subsidiary, conducts expanded financial activities.
+0=
+
+Not applicable
+
+1=
+
+Holds one or more financial subsidiaries
+
+2=
+
+Other
+
+COLUMN:
+DATA TYPE:
+DESCRIPTION:
+
+FNCL_SUB_IND
+INTEGER
+FINANCIAL SUBSIDIARY INDICATOR
+
+The Financial Subsidiary Indicator field indicates whether a non-bank subsidiary of a state or
+nationally chartered bank, after providing notice to its primary federal regulator, engages in
+activities that are “financial in nature” pursuant to section 4(k)4 of the BHC Act. Financial
+subsidiaries cannot have a start date prior to March 13, 2000, and cannot engage in most insurance
+underwriting activities, real estate development or real estate investment, or merchant
+bank/insurance company investment activities.
+0=
+
+Not applicable
+
+1=
+
+Conducting expanded activities that are financial in nature
+
+2=
+
+Other
+
+COLUMN:
+DATA TYPE:
+DESCRIPTION:
+
+FUNC_REG
+INTEGER
+FUNCTIONAL REGULATOR
+
+The Functional Regulator field indicates the functional regulator of financial subsidiaries of
+unaffiliated state member banks; regulated financial subsidiaries of commercial banks (i.e., part of
+18
+
+ATTRIBUTES TABLE
+
+a BHC or FHC); and regulated U.S. non-bank subsidiaries of financial holding companies, bank
+holding companies and foreign banking organizations (only required if the FBO non-bank
+subsidiary has operations in the U.S.). For non-financial subsidiaries of unaffiliated state member
+or regulated commercial banks, and bank subsidiaries and non-bank subsidiaries of BHCs, FHCs
+or FBOs that do not have a functional regulator as shown below, use zero for not applicable.
+0=
+
+Not applicable
+
+1=
+
+SEC/CFTC (Regulated by both)
+
+2=
+
+SEC (Securities and Exchange Commission)
+
+3=
+
+State Securities Department
+
+4=
+
+State Insurance Regulator
+
+5=
+
+CFTC (Commodity Futures Trading Commission)
+
+6=
+
+Other
+
+COLUMN:
+DATA TYPE:
+DESCRIPTION:
+
+IBF_IND
+INTEGER
+IBF INDICATOR
+
+The IBF Indicator designates that the entity has an IBF (International Banking Facility).
+0=
+
+Entity does not operate an IBF
+
+1=
+
+Entity operates an IBF. Note: Earliest DT_START 19811203
+
+COLUMN:
+ID_ABA_PRIM
+DATA TYPE:
+INTEGER
+DESCRIPTION:
+PRIMARY ABA NUMBER
+The Primary ABA Number identifies the primary account of the entity, not the entity itself. The
+ABA (American Bankers Association) number is an ID assigned by Accuity (formerly Thomson
+Financial Publishing) to any depository institution applying for one. In addition, in certain other
+circumstances, it may also be assigned by the Federal Reserve District Bank. The routing number
+is used to clear checks and other means of payment and so embodies geographic information. An
+entity may request one when it is established or at any other time. It is possible that the same
+ABA number may be used for different entities over time, but no two concurrent entities may
+have the same ABA number.
+COLUMN:
+DATA TYPE:
+DESCRIPTION:
+
+ID_CUSIP
+CHARACTER [15]
+CUSIP ID
+
+19
+
+ATTRIBUTES TABLE
+
+CUSIP stands for Committee on Uniform Securities Identification Procedures. A CUSIP ID
+number identifies most securities, including (1) stocks and debt of all SEC-registered U.S.
+companies and (2) U.S. government and municipal bonds. The CUSIP system, owned by the
+American Bankers Association and operated by Standard & Poor’s, facilitates the clearing and
+settlement process of securities. The number consists of six characters (including letters and
+numbers) that uniquely identify a company or issuer and the type of security.
+COLUMN:
+DATA TYPE:
+DESCRIPTION:
+
+ID_FDIC_CERT
+INTEGER
+FDIC CERTIFICATE ID
+
+The FDIC Certificate ID is a number assigned to each head office depository institution by the
+Federal Deposit Insurance Corporation (FDIC). Check digits are not to be entered.
+0=
+
+Not applicable
+
+COLUMN:
+DATA TYPE:
+DESCRIPTION:
+
+ID_LEI
+CHARACTER [20]
+LEGAL ENTITY IDENTIFIER
+
+The Legal Entity Identifier (LEI) is a 20-digit alpha-numeric reference code to uniquely identify a
+legally distinct entity that engages in a financial transaction. LEIs are issued by approved local
+operating units around the world in conjunction with the Global LEI Foundation, overseen by the
+LEI Regulatory Oversight Committee.
+COLUMN:
+DATA TYPE:
+
+ID_NCUA
+INTEGER
+
+20
+
+DESCRIPTION:
+
+ATTRIBUTES TABLE
+
+NCUA CHARTER ID
+
+The NCUA Charter ID is a number assigned to credit unions, including corporate credit unions, by
+the National Credit Union Administration for all NCUA-insured credit unions and some nonfederally insured credit unions. The NCUA assigns charter numbers as follows:
+0
+
+=
+
+Not applicable
+
+1 – 59999
+
+=
+
+Federal
+
+60000 – 79999
+
+=
+
+Federally Insured, State Chartered
+
+80000 +
+COLUMN:
+DATA TYPE:
+DESCRIPTION:
+
+=
+Non-Federally Insured
+ID_OCC
+INTEGER
+OCC CHARTER ID
+
+The OCC Charter ID is a number assigned by the Office of the Comptroller of the Currency to all
+entities to which it grants a charter. Beginning July 21, 2011, the OCC began using the OCC
+charter field to facilitate storage of supervisory information for nationally chartered thrifts. These
+IDs consist of the thrift docket number plus 700,000.
+0=
+
+Not applicable
+
+COLUMN:
+DATA TYPE:
+DESCRIPTION:
+
+ID_RSSD
+INTEGER
+RSSD ID
+
+The RSSD ID is the primary identifier on the database. It is a unique, one-up number (with a
+check digit) that is assigned by the RSSD software when an entity is first added to the database.
+This identifier has no inherent attribute information, never changes, and is never reused. Each
+entity has one and only one ID_RSSD during its life cycle; this is essential for tracing an entity's
+existence and relationships and linking it to financial data.
+While the entity may undergo major changes, for example, of charter type or establishment type, it
+will continue to have the same ID_RSSD. An entity ceases to exist when it is liquidated or
+permanently closed. Even after its existence is completely terminated, it will remain on the
+database with the same ID_RSSD.
+COLUMN:
+DATA TYPE:
+DESCRIPTION:
+
+ID_RSSD_HD_OFF
+INTEGER
+HEAD OFFICE ID_RSSD
+
+The Head Office ID RSSD is the ID_RSSD of the head office of branches, agencies, and other
+non-independent facilities, i.e., for entities with EST_TYPE_CD greater than 1.
+
+21
+
+0=
+
+ATTRIBUTES TABLE
+
+Not applicable (entities with EST_TYPE_CD equal 1)
+
+COLUMN:
+DATA TYPE:
+DESCRIPTION:
+
+ID_TAX
+INTEGER
+TAX ID
+
+The Tax ID is a federal tax identification number (also known as an employer identification
+number or EIN) is a nine-digit number assigned solely to a business by the Internal Revenue
+Service. Effective 20081231.
+
+COLUMN:
+DATA TYPE:
+DESCRIPTION:
+
+ID_THRIFT
+INTEGER
+THRIFT ID
+
+The Thrift ID is a docket number assigned to any institution with a CHTR_TYPE_CD of 300 or
+310 that is a member of a Federal Home Loan Bank. This number is assigned by the Office of
+Thrift Supervision (OTS). Although this field is nine characters long, the updater software only
+allows five characters to be entered (in the right-most positions).
+0=
+
+Not applicable
+
+COLUMN:
+DATA TYPE:
+DESCRIPTION:
+
+ID_THRIFT_HC
+CHARACTER [6]
+THRIFT HOLDING COMPANY ID
+
+The Thrift Holding Company ID is an alpha-numeric code ("H" + 5 numbers) assigned by the
+Office of Thrift Supervision (OTS) to entities that own one or more savings and loan associations
+or one or more federal savings banks.
+0=
+
+Not applicable
+
+COLUMN:
+DATA TYPE:
+DESCRIPTION:
+
+IHC_IND
+SMALL INTEGER
+INTERMEDIATE HOLDING COMPANY INDICATOR
+
+The Intermediate Holding Company Indicator is an indicator of whether an entity is an
+Intermediate Holding Company
+0 = Not applicable
+1 = Entity is an IHC
+
+22
+
+ATTRIBUTES TABLE
+
+COLUMN:
+DATA TYPE:
+DESCRIPTION:
+
+INSUR_PRI_CD
+INTEGER
+PRIMARY INSURER
+
+The Primary Insurer is a Code indicating the highest level of deposit-related insurance of the head
+office of a U.S. depository institution or U.S. branch of a foreign bank. If an entity is insured by
+FDIC and state, the appropriate FDIC value should be used.
+0=
+1=
+2=
+3=
+4=
+5=
+6=
+7=
+
+Not applicable, or not insured
+FDIC/BIF (Banking Insurance Fund). Prior to the effective date of FIRREA, August 9,
+1989, this value had the meaning of FDIC. Not valid after 20060330.
+FDIC/SAIF (Savings Association Insurance Fund). Prior to the effective date of FIRREA,
+August 9, 1989, this value had the meaning of FSLIC. Not valid after 20060330.
+NCUSIF (National Credit Union Share Insurance Fund, Effective 19710104)
+State
+Other
+FDIC/BIF and FDIC/SAIF. In use only as of the effective date of FIRREA, August 9,
+1989, this value did not exist. Not valid after 20060330.
+DIF (Deposit Insurance Fund). FDIC merged the BIF and SAIF funds to form DIF. Not
+valid prior to 20060331.
+
+COLUMN:
+DATA TYPE:
+DESCRIPTION:
+
+MBR_FHLBS_IND
+INTEGER
+FHLBS MEMBERSHIP INDICATOR
+
+The FHLBS Membership Indicator is a code indicating that an entity is a member of the Federal
+Home Loan Bank System.
+0=
+1=
+
+Not applicable, or non-member
+Member
+
+COLUMN:
+DATA TYPE:
+DESCRIPTION:
+
+MBR_FRS_IND
+INTEGER
+FRS MEMBERSHIP INDICATOR
+
+THE FRS Membership Indicator is a code indicating that an entity is a member of the Federal
+Reserve System.
+0=
+1=
+
+Not applicable, or non-member
+Member
+23
+
+ATTRIBUTES TABLE
+
+COLUMN:
+DATA TYPE:
+DESCRIPTION:
+
+MJR_OWN_MNRTY
+INTEGER
+MAJORITY-OWNED BY MINORITIES OR WOMEN
+
+The Majority Owned By Minorities or Women is a code indicating whether a bank, savings and
+loan association, or non-FBO Bank Holding Company is more than 50% owned by one or more
+minorities or women with identification of the minority. Also included are certain branches
+(located in the continental U.S.) of Puerto Rican banks which are designated by the Treasury. If
+the ownership is by a woman who is also a member of a minority, the item is coded as minority.
+Not all ethnic groups are represented, nor will they be. These values are defined in Executive
+Order 11625 SEC (6A) and are required as defined for Board use. See
+https://www.fiscal.treasury.gov/fsservices/gov/rvnColl/mnrtyBankDep/rvnColl_mbdp.htm
+0=
+Not applicable
+1=
+African American
+5=
+Caucasian Women
+10 =
+Hispanic
+20 =
+Asian American
+30 =
+Native American
+35 =
+Eskimo
+37 =
+Aleuts
+39 =
+Low Income Credit Union
+99 =
+Other Minorities
+COLUMN:
+NM_LGL
+DATA TYPE:
+CHARACTER [120]
+DESCRIPTION:
+LEGAL NAME
+The Legal Name field indicates the legal name as found on the charter or formation document of
+the entity. Names that have articles such as "The" or "A" as the first word should be stored with
+the article at the end of the name proceeded by a comma. For branches, only the branch portion of
+the name is stored. This is a required field.
+
+COLUMN:
+DATA TYPE:
+DESCRIPTION:
+
+NM_SHORT
+CHARACTER [30]
+SHORT NAME
+
+The Short Name field indicates an abbreviated version of the legal name used for processing
+purposes. This is a required field.
+COLUMN:
+DATA TYPE:
+
+NM_SRCH_CD
+INTEGER
+24
+
+DESCRIPTION:
+
+ATTRIBUTES TABLE
+
+NUMERIC SEARCH CODE
+
+The Numeric Search Code is a code derived from NM_LGL to speed up automated search for the
+row by institution name.
+COLUMN:
+DATA TYPE:
+DESCRIPTION:
+
+ORG_TYPE_CD
+INTEGER
+ORGANIZATION TYPE
+
+The Organization Type is a code indicating the legal structure of the organization.
+0=
+Not applicable (branches)
+1=
+Corporation (stock)
+2=
+General Partnership
+3=
+Limited Partnership
+4=
+Business Trust (fiduciary)
+5=
+Sole Proprietorship
+6=
+Mutual
+9=
+Cooperative
+10 = LLP (Limited liability partnership)
+11 = LLC/C (Limited liability company/corporation)
+12 = Estate Trust
+13 = Limited Liability Limited Partnership
+99 = Other
+COLUMN:
+PLACE_CD
+DATA TYPE:
+INTEGER
+DESCRIPTION:
+PHYSICAL PLACE CODE
+The Physical Place Code is a numeric code assigned to incorporated places, census designated
+places, primary county divisions (such as townships, New England towns, and census county
+divisions), counties, and recognized Indian reservations and Alaska Native villages. These codes
+are also assigned to places in the files of the Geographic Names Information System of the U.S.
+Geological Survey, as well as names of airports, military bases, national parks, and U.S. Post
+Offices. Prior to June 1, 2003, place codes are required to derive MSA and CMSA codes for all
+New England states and Sullivan County, Missouri (in these places MSA codes do not encompass
+an entire county). For all other areas, the state/county combination is sufficient for the derivation.
+0=
+
+Not applicable (for all other cities/counties not listed above and non-U.S. domiciled
+entities)
+
+COLUMN:
+DATA TYPE:
+DESCRIPTION:
+
+PRIM_FED_REG
+CHARACTER [20]
+PRIMARY FEDERAL REGULATOR
+25
+
+ATTRIBUTES TABLE
+
+The Primary Federal Regulator column contains the name of the agency that is the primary
+regulator of a depository institution, non-deposit trust company, bank holding company, thrift
+holding company, farm credit bank, or federal housing enterprise. The following agencies are
+represented:
+FCA
+FDIC
+FHFA
+FRS
+NCUA
+OCC
+OTS
+
+=
+=
+=
+=
+=
+=
+=
+
+Farm Credit Administration
+Federal Deposit Insurance Corporation
+Federal Housing Finance Agency
+Federal Reserve System
+National Credit Union Administration
+Office of the Comptroller of the Currency
+Office of Thrift Supervision (only valid until July 21, 2011)
+
+An institution's primary regulator may change through its history if it changed its charter from
+federal to state or vice versa, began or ended membership in the Federal Reserve System, etc. It
+may also change due to legislation, for example the transfer of OTS supervisory responsibilities as
+mandated by the Dodd-Frank Act. Therefore ATTRIBUTES rows for the same ID_RSSD may
+have different PRIM_FED_REG values.
+PRIM_FED_REG is null in ATTRIBUTES rows where it does not apply, such as branch offices
+and non-bank companies (including non-bank subsidiaries of BHCs).
+PRIM_FED_REG is derived nightly to reflect the latest updates to ATTRIBUTES tables,
+according to a set of rules based on applicable law and regulation. In very rare, exceptional cases,
+the derivation may be manually overridden.
+COLUMN:
+PROV_REGION
+DATA TYPE:
+CHARACTER [40]
+DESCRIPTION:
+PROVINCE REGION
+The Province Region is a territorial unit within a country or state in which the entity is physically
+located.
+COLUMN:
+DATA TYPE:
+DESCRIPTION:
+
+REASON_TERM_CD
+INTEGER
+REASON FOR TERMINATION OF AN ENTITY
+
+The Reason for Termination of an Entity is a code for the circumstances under which an entity
+ceased to exist or an indicator that an entity failed but remained open. This field is to be used for
+head office entities only, not branches.
+Non-failure: The entity terminated or ceased to exist without using FDIC, RTC, NCUA, State or
+other regulatory agency assistance.
+0=
+
+Not applicable or entity continues to exist. In the case of a merger, the entity continues
+26
+
+ATTRIBUTES TABLE
+
+to exist under the same ID_RSSD. This includes mergers where the head office becomes a
+branch and/or branches become branches of the survivor.
+1=
+
+Voluntary liquidation. No merger or failure has occurred. (No Transformations row
+should be present.).
+
+2 = Closure. Head office closes and does not continue following a merger. If a head office
+closes, its branches, if any, may continue with a new head office. (Transformation row
+should be present.).
+3=
+
+Entity is either inactive or no longer regulated by the Federal Reserve.
+
+Failure
+4=
+
+Failure, entity continues to exist. Resolution was arranged by the FDIC, RTC, NCUA,
+State, or other regulatory agency. (No Transformation row should be present.).
+
+5=
+
+Failure, entity ceases to exist. Resolution was arranged by the FDIC, RTC, NCUA,
+State, or other regulatory agency. (A Transformation row may or may not be present.).
+
+COLUMN:
+DATA TYPE:
+DESCRIPTION:
+
+SEC_RPTG_STATUS
+INTEGER
+SEC REPORTING STATUS
+
+The SEC Reporting Status is a code indicating the registration or reporting status of an entity
+whose securities are traded and are subject to registration, or reporting requirements pursuant to
+the Securities Exchange Act of 1934.
+0=
+
+Not applicable
+
+1=
+
+Registered with the SEC (Not valid after 20051231)
+
+2=
+
+Not registered with the SEC
+
+3=
+
+Subject to section 13(a) or 15(d) of the Securities Exchange Act of 1934 and section 404
+of the Sarbanes-Oxley Act of 2002 (Effective 20051231)
+
+4=
+
+Subject to section 13(a) or 15(d) of the Securities Exchange Act of 1934 and NOT
+section 404 of the Sarbanes-Oxley Act of 2002 (Effective 20051231)
+
+5=
+
+Terminated or suspended its reporting requirements under section 13(a) or 15(d) of
+the Securities Exchange Act of 1934 (Effective 20051231)
+
+COLUMN:
+DATA TYPE:
+DESCRIPTION:
+
+SLHC_IND
+INTEGER
+SAVINGS AND LOAN HOLDING COMPANY INDICATOR
+27
+
+ATTRIBUTES TABLE
+
+The Savings and Loan Holding Company Indicator indicates whether a head office entity is a
+Savings and Loan Holding Company regulated by the Federal Reserve System effective July 21,
+2011. An entity which controls both banks and thrift institutions is considered a BHC, not an
+SLHC.
+0=
+
+Not applicable (not a SLHC, or historical rows where DT_START < 20110721)
+
+1=
+
+Entity is a savings and loan holding company
+
+COLUMN:
+DATA TYPE:
+DESCRIPTION:
+
+SLHC_TYPE_IND
+INTEGER
+SAVINGS AND LOAN HOLDING COMPANY
+
+The Savings and Loan Holding Company field is an indicator of the type of Savings and Loan
+Holding Company.
+0=
+
+Not applicable (not a SLHC, or historical rows where DT_START < 20110721)
+
+1=
+
+Entity is a Home Owners Loan Act Mutual Holding Company that holds a savings
+bank that has made a 10L election to be treated as a thrift
+
+2=
+
+Entity is a Home Owners Loan Act Stock Holding Company that holds a savings bank
+that has made a 10L election to be treated as a thrift
+
+3=
+
+Entity is a Mutual Holding Company (non- Home Owners Loan Act) that holds a
+savings association
+
+4=
+
+Entity is a Stock Holding Company (non- Home Owners Loan Act) that holds a savings
+association
+
+5=
+
+Entity is a Trust (family or estate) Holding Company. These entities are registered
+savings and loan holding companies.
+
+COLUMN:
+DATA TYPE:
+DESCRIPTION:
+
+STATE_ABBR_NM
+CHARACTER [2]
+ABBREVIATED STATE NAME
+
+The Abbreviated State Name is two character state abbreviation as assigned to a state or territory.
+Source: FIPS 5-2.
+
+COLUMN:
+DATA TYPE:
+DESCRIPTION:
+
+STATE_CD
+INTEGER
+PHYSICAL STATE CODE
+
+The Physical State Code is a two-digit numeric FIPS State code assigned to a state of the United
+28
+
+ATTRIBUTES TABLE
+
+States or a U.S. territory in which the entity is physically located. Source: FIPS 5-2.
+0=
+
+Not applicable (non-U.S. domiciled entities)
+
+COLUMN:
+DATA TYPE:
+DESCRIPTION:
+
+STATE_HOME_CD
+INTEGER
+HOME STATE
+
+The Home State is a two-digit numeric FIPS State code identifying the home state of a Foreign
+Banking Organization. In the absence of grandfather rights, it may not accept domestic deposits in
+other states. Further, such foreign bank is subject to the home state limitations imposed by
+Sections 5(a) and (b) of the IBA (which include Section 3(d) of the BHC Act).
+0=
+
+Not applicable (entities other than those specified in the definition)
+
+COLUMN:
+DATA TYPE:
+DESCRIPTION:
+
+STATE_INC_ABBR_NM
+CHARACTER [2]
+ABBREVIATED STATE OF INCORPORATION
+
+The Abbreviated State of Incorporation is a two character state abbreviation as assigned to a
+state or territory in which the entity is incorporated. Source: FIPS 5 -2.
+COLUMN:
+DATA TYPE:
+DESCRIPTION:
+
+STATE_INC_CD
+INTEGER
+STATE OF INCORPORATION
+
+The State of Incorporation is a two-digit numeric FIPS State code assigned to a state of the
+United States or a U.S. territory in which the entity is incorporated. (Implemented 20120101)
+Source: FIPS 5-2.
+0=
+
+Not applicable (non-U.S. domiciled entities, and national banks, ESOPs)
+
+COLUMN:
+DATA TYPE:
+DESCRIPTION:
+
+STREET_LINE1
+CHARACTER [40]
+PHYSICAL FIRST STREET LINE
+
+The Physical First Street Line is the first of two street address lines of the physical location of the
+entity.
+COLUMN:
+DATA TYPE:
+
+STREET_LINE2
+CHARACTER [40]
+29
+
+DESCRIPTION:
+
+ATTRIBUTES TABLE
+
+PHYSICAL SECOND STREET LINE
+
+The Physical Second Street line is the second of two street address lines of the physical location of
+the entity. Note: STREET_LINE2 should not contain any extraneous information that is in
+conflict with the information contained in STREET_LINE1, CITY, STATE_CD and ZIP_CD.
+For example, P.O. Boxes should not be included in STREET_LINE2.
+COLUMN:
+DATA TYPE:
+DESCRIPTION:
+
+URL
+CHARACTER [255]
+WEB SITE
+
+The Web Site is the web address of the reporting company's web site.
+COLUMN:
+DATA TYPE:
+DESCRIPTION:
+
+ZIP_CD
+CHARACTER [9]
+ZIP/FOREIGN MAILING CODE
+
+The Zip/Foreign Mailing Code is the zip code or foreign mailing code of the physical location of
+the entity.
+
+30
+
+RELATIONSHIPS TABLE
+
+SECTION V – RELATIONSHIPS TABLE DETAILS
+These data elements provide information on the history of an entity's relationships with other
+entities over time. The levels of relationships between entities can be direct or indirect (where
+control exists). Data elements will be stored for all regulated relationships and selected
+unregulated relationships.
+COLUMN:
+DATA TYPE:
+DESCRIPTION:
+
+CTRL_IND
+DECIMAL [1]
+CONTROL INDICATOR
+
+The Control Indicator is a code to indicate whether Parent controls Offspring.
+0=
+
+Not applicable
+
+1=
+
+Controlled
+
+If REG_IND is 1, the definition of control relates to the statute or regulation under which the
+entity is held, i.e. the legal authority. The value of 1 in the CTRL_IND shall mean control of a
+bank or other company where
+a)
+
+ownership, control, or power to vote 25 percent or more of the outstanding shares of any
+class of voting securities of the bank or other company, directly or indirectly or acting
+through one or more other persons
+
+b)
+
+control in any manner over the election of a majority of the individuals, or general partners
+(or persons exercising similar function) of the bank or other company
+
+c)
+
+the power to exercise, directly or indirectly, a controlling influence over the management
+or policies of the bank or other company. See Regulation Y Section 225.2 (e)(1)(i)(ii)(iii)
+or 12 CFR Part 574 for savings and loan holding companies.
+
+If REG_IND is 2, control is based on the percentage of ownership or if the Federal Reserve
+System determines control exists. For example, savings and loan holding companies that are not
+bank holding companies and foreign owners.
+2=
+
+Non-controlled
+
+If REG_IND is 1, the definition of control relates to the statute or regulation under which the
+entity is held, i.e., the legal authority.
+If REG_IND is 2, control is based on the percentage of ownership or if the Federal
+Reserve System determines that control does not exist.
+COLUMN:
+DATA TYPE:
+DESCRIPTION:
+
+D_DT_END
+DATETIME
+DATE END
+31
+
+RELATIONSHIPS TABLE
+
+The Date End is the value of DT_END converted to a DB2 date format. For querying, the format
+is ‘YYYY-MM- DD HH:MM:SS’ and must be enclosed in quotes.
+COLUMN:
+DATA TYPE:
+DESCRIPTION:
+
+D_DT_RELN_EST
+DATETIME
+DATE RELATIONSHIP WAS ESTABLISHED
+
+The Date Relationship was Established is the value of DT_RELN_EST converted to a DB2
+date format. For querying, the format is ‘YYYY- MM-DD HH:MM:SS’ and must be enclosed
+in quotes.
+COLUMN:
+DATA TYPE:
+DESCRIPTION:
+
+D_DT_START
+DATETIME
+DATE START
+
+The Date Start is the value of DT_START converted to a DB2 date format. For querying, the
+format is ‘YYYY- MM-DD HH:MM:SS’ and must be enclosed in quotes.
+COLUMN:
+DATA TYPE:
+DESCRIPTION:
+
+DT_END
+INTEGER
+DATE END
+
+The Date End is the last date for which the information in the record was known to be valid.
+Format is YYYYMMDD.
+99991231 = Non-terminated record
+COLUMN:
+DATA TYPE:
+DESCRIPTION:
+
+DT_RELN_EST
+INTEGER
+DATE RELATIONSHIP WAS ESTABLISHED
+
+The Date Relationship was established is the date the relationship between Parent and Offspring
+was established. Date Relationship Established will equal the Date Start of the initial
+Relationships row except when the date the relationship established was prior to the date the bank
+holding company became regulated, i.e., pre-1956 bank holding companies, pre-1970 bank
+holding companies, pre-1978 foreign banking organizations or pre-existing entities that become
+BHCs or FBOs.
+COLUMN:
+DATA TYPE:
+DESCRIPTION:
+
+DT_START
+INTEGER
+DATE START
+
+The Date Start is the date on which the information in the record became effective or was known
+32
+
+RELATIONSHIPS TABLE
+
+to be valid. Format is YYYYMMDD.
+
+The date start for the initial record for a regulated relationship between Parent and Offspring is the
+effective date on which the relationship became regulated. Often, date start will be the same as the
+effective date on which the relationship was established.
+The date start in an unregulated relationship is either the effective date of the information or the
+date it was known to be valid.
+The date start in an indirect relationship is the date that Offspring became controlled by the BHC
+or FBO organization as the result of ownership by two or more direct holders within the
+organization of Parent although no direct holder has control.
+COLUMN:
+DATA TYPE:
+DESCRIPTION:
+
+EQUITY_IND
+DECIMAL [1]
+EQUITY INDICATOR
+
+The Equity Indicator is an indicator that identifies the form of ownership or control by the direct
+holder in the reportable company.
+0=
+
+Other basis of control. Voting equity is not the basis for ownership/control.
+
+1=
+
+Ownership / control is in a BHC, SLHC, bank or FBO. Exact percent is reported.
+
+2=
+
+Ownership / control is in a non-banking company. Percent is reported in a bracket.
+
+COLUMN:
+DATA TYPE:
+DESCRIPTION:
+
+FC_IND
+DECIMAL [1]
+FINANCIAL CONSOLIDATION INDICATOR
+
+The Financial Consolidation Indicator is a code indicating whether the banking or non-banking
+company is consolidated in the reporter's financial statements. This would be reportable if the
+banking company is consolidated in any subsidiary domestic commercial bank's Consolidated
+Reports of Condition and Income within the reporter's organization with respect to foreign
+investments only. Or, this reportable if the non-banking company is consolidated in any
+subsidiary domestic commercial bank’s Consolidated Reports of Condition and Income and is one
+of the following "foreign" offices:
+(1)
+
+a consolidated subsidiary in a foreign country,
+
+(2)
+
+a majority-owned Edge or agreement subsidiary.
+
+0=
+
+Not Applicable
+
+1=
+
+Yes
+
+2=
+
+No
+33
+
+COLUMN:
+DATA TYPE:
+DESCRIPTION:
+
+RELATIONSHIPS TABLE
+
+ID_RSSD_OFFSPRING
+INTEGER
+RSSD ID OF OFFSPRING
+
+The RSSD ID of Offspring is the ID_RSSD of the entity that is owned or controlled by Parent.
+COLUMN:
+DATA TYPE:
+DESCRIPTION:
+
+ID_RSSD_PARENT
+INTEGER
+RSSD ID OF PARENT
+
+The RSSD ID of Parent ID_RSSD of the entity that generally owns or controls Offspring. More
+specifically it is
+A.
+
+In a relationship with level of direct, which means the Parent:
+•
+Owns or controls Offspring
+•
+Has a director, officer, or employee in common with Offspring (in this type of
+relationship it is irrelevant which of the entities is Parent or Offspring)
+•
+Is the bank holding company organization as represented by the ID_RSSD of the
+top-tier U.S Bank Holding Company or the top tier Foreign Banking Organization
+as reported on the FR Y-10.
+
+B.
+
+In a relationship with level of indirect, which means the Parent is one of the following:
+•
+The top-tier U.S. Bank Holding Company, or the top-tier Foreign Banking
+Organization as reported on the FR Y-10 which indicates the overall controlling
+position of the BHC or FBO organization when Offspring is owned by two or
+more direct holders within the same BHC/FBO organization but no direct holder
+has control,
+•
+A Bank Holding Company other than the type described above which is
+necessary in order to facilitate the building of structure trees when starting
+below a top-tier.
+
+COLUMN:
+DATA TYPE:
+DESCRIPTION:
+
+MB_COST
+DECIMAL [8]
+MERCHANT BANKING / INSURANCE COMPANY INVESTMENT
+
+The Merchant Banking / Insurance Company Investment is the dollar amount (in millions) of FHC
+investments held under one of the following:
+•
+
+The merchant bank authority of the BHC Act, section 4(k)(4)(H)
+
+•
+
+Insurance company investments through a subsidiary that predominantly is engaged in
+underwriting insurance (other than credit-related insurance), or providing or issuing
+annuities pursuant to section 4(k) (4) (I) of the BHC Act.
+
+Not valid prior to 20010901.
+34
+
+0=
+
+Not applicable
+
+COLUMN:
+DATA TYPE:
+DESCRIPTION:
+
+RELATIONSHIPS TABLE
+
+OTHER_BASIS_IND
+DECIMAL [1]
+OTHER BASIS FOR RELATIONSHIP INDICATOR
+
+The Other Basis for Relationship Indication is an indicator of a basis other than equity for the
+relationship between Parent and Offspring (with the exception of item 3).
+0=
+
+Other is not a basis
+
+1=
+
+Other basis of ownership/control (other than a voting interest; e.g., management
+contract, election of majority of directors, or fiduciary)
+
+2=
+
+Non-voting equity
+
+3=
+
+Voting securities in a merchant banking or insurance company investment
+
+4=
+
+Subordinated debt
+
+5=
+
+Limited partnership
+
+6=
+
+Subordinated debt and non-voting equity
+
+7=
+
+Subordinated debt and limited partnership
+
+8=
+
+Assets (interest in the merchant banking or insurance company investment is in assets)
+
+9=
+
+Total equity in a merchant banking or insurance company investment
+
+COLUMN:
+DATA TYPE:
+DESCRIPTION:
+
+PCT_EQUITY
+DECIMAL [5, 2]
+PERCENT OF EQUITY VOTING CONTROL
+
+The Percent of Equity Voting Control is the Parent's percent of ownership or control of Offspring.
+Ownership or control by the direct holder of a BHC, bank, or FBO is the exact percentage of the
+outstanding shares in a class of voting securities, or the exact percentage of non-voting equity.
+Ownership or control by the direct holder of a non-banking company or interests held under
+subpart A or C of Regulation K is the value in the lower range of percent ownership interest in a
+class of voting securities.
+0=
+
+Not applicable
+
+COLUMN:
+DATA TYPE:
+DESCRIPTION:
+
+PCT_EQUITY_BRACKET
+CHARACTER [8]
+PERCENT EQUITY BRACKET
+35
+
+RELATIONSHIPS TABLE
+
+The Percent Equity Bracket is a derived value within the bracket based upon the value reported in
+PCT_EQUITY. The range within each bracket is one of the following:
+100*
+80 - <100
+>50 - <80
+25 - 50
+< 25
+0
+* Prior to June 30, 2007, the values in this bracket were defined as 80 – 100. The FR Y-10
+Report was revised effective June 30, 2007, to include a separate bracket for 100% ownership.
+COLUMN:
+DATA TYPE:
+DESCRIPTION:
+
+PCT_EQUITY_FORMAT
+CHARACTER [8]
+PERCENT EQUITY FORMAT
+
+The Percent Equity Format is a text description of the form the percent of ownership or control
+reported. This field is derived in the user access environment based upon the value of
+EQUITY_IND.
+Other
+
+=
+
+Other basis of control (EQUITY_IND = 0)
+
+Exact
+
+=
+
+Exact percentage reported (EQUITY_IND = 1)
+
+Bracket
+
+=
+
+Percent reported in a range (EQUITY_IND = 2)
+
+COLUMN:
+DATA TYPE:
+DESCRIPTION:
+
+PCT_OTHER
+DECIMAL [5, 2]
+PERCENT OF OTHER VOTING CONTROL
+
+The Percent of Other Voting Control is the Parent's exact percent of ownership of Offspring when
+the basis for the relationship is non-voting or a merchant banking/insurance company investment.
+Offspring must be a BHC, bank, FBO, or merchant banking investment.
+0=
+
+Not applicable
+
+COLUMN:
+DATA TYPE:
+DESCRIPTION:
+
+REASON_ROW_CRTD
+DECIMAL [1]
+REASON FOR CREATION OF THE RELATIONSHIP
+
+The Reason for Creation of the Relationship is the reason for starting the relationship.
+36
+
+RELATIONSHIPS TABLE
+
+1=
+
+Initial relationship record. Date Start is date the relationship became known or valid.
+
+2=
+
+Increase/Decrease in voting rights including non-participation in capital increase
+
+3=
+
+Reestablishment of a relationship (reacquisition and/or resumption of reportability)
+
+4=
+
+Change in basis for relationship or change in relationship (addition or termination of a
+basis)
+
+5=
+
+Change in Control Indicator
+
+6=
+
+Change in Regulatory Indicator
+
+7=
+
+Change in Regulatory Indicator along with reasons 2 and/or 4 above
+
+8=
+
+Other. Any other reason to create a new row that is not defined in the other available
+codes.
+
+COLUMN:
+DATA TYPE:
+DESCRIPTION:
+
+REASON_TERM_RELN
+DECIMAL [1]
+REASON FOR TERMINATION OF THE RELATIONSHIP
+
+The Reason for Termination of the Relationship is the reason for the termination of a relationship
+between entities or of the regulation of the relationship.
+0=
+
+Not applicable (value for ongoing relationship).
+
+1 = Termination of relationship between Parent and Offspring for reasons other than 2
+through 6 with no remaining basis for a relationship (no ongoing relationship record
+between Parent and Offspring); also used for termination of indirect relationship records
+when only one parent or no parent continues.
+2=
+
+Parent terminates relationship with Offspring by selling or transferring all the
+control it (Parent) has over Offspring. This code also applies if Parent is merged into
+another entity and Offspring is not simultaneously merged.
+
+3=
+
+Relationship between Parent and Offspring is terminated because Offspring is
+liquidated or merged. This code also applies if both Parent and Offspring are
+simultaneously merged into other surviving entities.
+
+4=
+
+Termination of regulation of relationship between Parent and Offspring because
+control criteria of Offspring fell below regulatory reportable level.
+
+5=
+
+Termination of regulation of relationship between Parent and Offspring because
+Parent ceased to be controlled or reportable.
+
+6=
+
+Termination of regulation of relationship between Parent and Offspring because of
+change to regulatory reporting criteria.
+
+37
+
+COLUMN:
+DATA TYPE:
+DESCRIPTION:
+
+RELATIONSHIPS TABLE
+
+REG_IND
+DECIMAL [1]
+REGULATED INDICATOR
+
+The Regulated Indicator is the code indicating whether or not Parent’s relationship with Offspring
+is governed by applicable banking statutes, which are either federal or state banking laws.
+Unregulated means that the relationship is not, not yet, or no longer governed by U.S. banking
+statutes but in which there is a Federal Reserve supervisory interest, e.g., (1) savings and loan
+holding companies that are not also bank holding companies; (2) relationships falling below the
+regulatory threshold (5%); (3) bank holding companies prior to 1956 and the 1970 amendments
+depending on the number of banks; and (4) foreign central banks and jointly-acting foreign
+owners.
+1=
+
+Regulated
+
+2=
+
+Unregulated - never, not yet, or no longer regulated
+
+COLUMN:
+DATA TYPE:
+DESCRIPTION:
+
+REGK_INV
+DECIMAL [1]
+REGULATION K, SUBPART A INVESTMENT
+
+The Regulation K, Subpart A Investment is the code that indicates the aggregate investment in a
+non-banking company that is held under authority of Subpart A of Regulation K
+0=
+
+Not applicable
+
+1=
+
+Portfolio Investment– (The non-banking company is neither joint venture nor subsidiary.)
+
+2=
+
+Joint Venture (–The non-banking company is not a subsidiary of the FR Y-10 reporter,
+but the reporter directly or indirectly holds 20 - 50 percent of the nonbanking company’s
+voting shares.)
+
+3=
+
+Subsidiary (–the FR Y-10 reporter directly or indirectly holds more than 50 percent of the
+non-banking company’s voting shares; the reporter or any of its subsidiaries is a general
+partner of the nonbanking company; the reporter directly or indirectly holds more than 50
+percent of the equity of the non-banking company; or the reporter directly or indirectly
+otherwise controls the non-banking company). Not valid prior to 20040601.
+
+COLUMN:
+DATA TYPE:
+DESCRIPTION:
+
+RELN_LVL
+DECIMAL [1]
+RELATIONSHIP LEVEL
+
+The Relationship Level is an indicator of the level of relationship between Parent and Offspring.
+1=
+
+Direct relationship which identifies Parent, the immediate holder (owner or controller),
+and Offspring, the entity that is owned or controlled.
+
+2=
+
+Indirect relationship which identifies a relationship where there is an intervening
+38
+
+RELATIONSHIPS TABLE
+
+controlled or regulated company between Parent, the indirect holder (not necessarily an
+immediate owner or controller), and Offspring. An indirect relationship identifies a
+relationship that ties the Offspring to the overall regulated or controlled position of the
+U.S. Bank Holding Company or Foreign Banking Organization.
+3=
+
+2G3 relationship. A 2G3 relationship describes the section of the BHCA (i.e.2(g)(3)) and
+indicates that control is continued when a bank holding company transfers shares to an
+individual or company that is indebted to the BHC, or when there are one or more officers,
+directors, trustees, or beneficiaries in common between Parent and Offspring. Section
+2(g)(3) of the BHC Act was repealed by Section 2207 of the Economic Growth and
+Regulatory Paperwork Reduction Act of 1996. The date of enactment is September 30,
+1996. As a result, these relationships are no longer reportable.
+
+4=
+
+Debt Previously Contracted (DPC) relationship; not valid after August 31, 2001 with
+the exception of banks and bank holding companies held DPC.
+
+This level of relationship identifies the fact that Parent acquired Offspring under one of the
+following legal authorities and that Offspring must be divested within a specified period of time.
+This identifies the portion acquired DPC and generally will not be concurrent with any other basis
+for a relationship between the same Parent and Offspring.
+The legal authorities are
+Section 3, Exemption A(ii) of the BHC Act
+Section 4(c) 2 of the BHC Act
+Section 211.5(e) of Regulation K
+
+39
+
+TRANSFORMATIONS TABLE
+
+SECTION VI – TRANSFORMATIONS TABLE DETAILS
+These data elements catalog events that transform entities. These events include the merger of two
+or more entities or the split of an entity into two or more entities.
+COLUMN:
+DATA TYPE:
+DESCRIPTION:
+
+ACCT_METHOD
+DECIMAL [2]
+ACCOUNTING METHOD
+
+The Accounting Method field indicates the accounting method used in resolving a non-failure
+merger. Applicable when the survivor is a domestic bank, private bank, trust company, or
+industrial bank (ATTRIBUTES table field CHTR_TYPE_CD = 200, 250, 340).
+0=
+
+Not applicable
+
+1 =
+
+Pooling of interests or entities under common control. The pooling of interests
+accounting method occurs when the assets, liabilities, and capital of the merging entities are
+added together on a line-by-line basis, and the (year-cumulative) income and expenses for
+the entities are combined. The transactions are recorded at book value.
+
+2=
+
+Purchase/Acquisition. The purchase method occurs when one entity purchases some or all
+of the assets, and assumes some or all of the liabilities of another entity. Income and
+expenses are NOT combined. Transactions are recorded at market value.
+
+COLUMN:
+DATA TYPE:
+DESCRIPTION:
+
+D_DT_TRANS
+DATETIME
+DATE OF TRANSFORMATION
+
+The Date of Transformation is the value of DT_TRANS converted to a DB2 date format. For
+querying, the format is ‘YYYY- MM-DD HH:MM:SS’ and must be enclosed in quotes.
+COLUMN:
+DATA TYPE:
+DESCRIPTION:
+
+DT_TRANS
+INTEGER
+DATE OF TRANSFORMATION
+
+The Date of Transformation is the date on which the transformation of an entity became effective.
+Format is YYYYMMDD.
+COLUMN:
+DATA TYPE:
+DESCRIPTION:
+
+ID_RSSD_PREDECESSOR
+INTEGER
+RSSD ID OF PREDECESSOR
+
+The RSSD ID Predecessor is the ID_RSSD of the entity that was transformed as a result of the
+40
+
+TRANSFORMATIONS TABLE
+
+event identified in the field TRNSFM_CD. In the event of a merger, this is the predecessor or "nonsurvivor".
+COLUMN:
+DATA TYPE:
+DESCRIPTION:
+
+ID_RSSD_SUCCESSOR
+INTEGER
+RSSD ID OF SUCCESSOR
+
+The RSSD ID Successor is the ID_RSSD of the entity that came into existence or continues to
+exist as a result of the event identified in the field TRNSFM_CD. In the event of a merger, this is
+the successor or "survivor".
+COLUMN:
+DATA TYPE:
+DESCRIPTION:
+
+TRNSFM_CD
+DECIMAL [2]
+TRANSFORMATION TYPE CODE
+
+The Transformation Type Code is a code describing an event involving a single entity or more
+entities that cause one of the entities to be transformed into one or more new head office entities,
+entirely cease to exist, have major changes to its balance sheet, or become an establishment type
+other than head office. A guiding principle is that an entity is defined by its associated collection
+of assets and liabilities. Any structure activity causing a transformation fitting the descriptor codes
+below should be entered in the Transformations Table (this includes branch sales). Predecessor
+and Successor are defined as their ID_RSSD numbers in this description. If more than one
+Predecessor or Successor is involved, apply the analysis to each Predecessor/Successor pair.
+1=
+
+Charter Discontinued (Merger or Purchase & Assumption). Predecessor transfers its
+assets to one or more Successors. Predecessor ceases to exist as a head office. One charter
+has been discontinued, or will be discontinued in the near future. Predecessor has not
+failed; government assistance is not involved.
+
+5=
+
+Split. Predecessor transfers between 40 and 94 percent of its assets to one or more newly
+formed Successors. Predecessor and Successor continue to exist. Predecessor has not
+failed; government assistance is not involved.
+
+7=
+
+Sale of Assets. Predecessor transfers between 40 and 94 percent of its assets to one or
+more existing Successors. Predecessor and Successor continue to exist. Predecessor has
+not failed; government assistance is not involved.
+
+9=
+
+Charter Retained (Merger or Purchase & Assumption). Predecessor transfers 95 percent
+or more of its assets to one or more Successors. The charter that had been associated with
+Predecessor continues to exist and a new ID_RSSD is assigned to it. Predecessor has not
+failed; government assistance is not involved.
+
+50 =
+
+Failure, Government Assistance Provided. Predecessor fails and ceases to exist.
+Disposition was arranged by the FDIC, RTC, NCUA, or other regulatory agency. Assets
+may be distributed to other entities as well as the regulatory agency.
+41
+
+TRANSFORMATIONS TABLE
+
+Note: The Resolution Trust Corporation (RTC) was formed by Congress in 1989 to respond to
+S&L insolvencies. In 1995, its duties were transferred to the Savings Association
+Insurance Fund.
+
+42
+
+

@@ -1,0 +1,161 @@
+REPORTE DE ANÁLISIS - UNKNOWN_Dec (SEP) 31 2024 - E16 (009)_Cleansedx
+================================================================================
+
+
+All Banks Table 1
+--------------------------------------------------------------------------------
+Dimensiones: [130, 17]
+Inicio datos: fila 9
+Columnas vacías: [0, 8, 14]
+Columnas de datos: 13
+
+Tipos de filas:
+  header: 9
+  empty: 9
+  group_header: 18
+  subtotal: 8
+  grand_total: 1
+  special_category: 85
+
+Encabezados detectados:
+  Col 2: Claims - Ultimate-Risk Basis /2 | Cross-border Claims (Excluding Claims from the
+  Col 3: Claims on Local Residents (Excluding Claims from the Fair Value of Derivative Pr
+  Col 4: In Non-Local Currency | (B1)
+  Col 5: In Local Currency | (B2 = B - B1)
+  Col 6: Claims Resulting From the Fair Value of Derivative Products /3 | (C)
+  Col 7: Country Risk Claims /4 | (D = A+B+C)
+  Col 9: Off-Balance Sheet Items | Cross-Border and Local Commitments and Guarantees | Un
+  Col 10: Guarantees (Excluding Credit Derivatives Sold)
+  Col 11: Credit Derivatives (By Reference Entity) | Gross | Total Credit Derivatives Sold
+  Col 12: Total Credit Derivatives Purchased
+  Col 13: Gross-Net /5 | Total Credit Derivatives Sold
+  Col 15: Total Credit Derivatives Purchased
+  Col 16: Trade Finance
+
+
+All Banks Table 3
+--------------------------------------------------------------------------------
+Dimensiones: [128, 16]
+Inicio datos: fila 7
+Columnas vacías: [0, 7, 14]
+Columnas de datos: 12
+
+Tipos de filas:
+  header: 7
+  empty: 9
+  group_header: 18
+  subtotal: 8
+  grand_total: 1
+  special_category: 85
+
+Encabezados detectados:
+  Col 1: Country Exposure Lending Survey /1: September 30, 2024   Table 3 - Foreign-Offic
+  Col 2: Foreign Office Liabilities | By Country of Foreign Office | Non-Local Currency
+  Col 3: Local Currency
+  Col 4: Total
+  Col 5: By Country of Creditor
+  Col 6: Net Due To (or Due From) Own Related Offices in Other Countries
+  Col 8: Memorandum Items /9 | Securities - HTM and AFS
+  Col 9: Trading Assets | Assets Held for Trading
+  Col 10: Offsetting Positions for Trading Book /10
+  Col 11: Collateralized Claims Not Subject to Risk Transfers /11 | Total Collateral
+  Col 12: Of Which Cash
+  Col 13: Of Which Same Country
+  Col 15: Of Which Resale/Reverse Repurchase Agreements & Securities Lending
+
+
+All Banks Table 2
+--------------------------------------------------------------------------------
+Dimensiones: [127, 10]
+Inicio datos: fila 6
+Columnas vacías: [0]
+Columnas de datos: 8
+
+Tipos de filas:
+  header: 6
+  empty: 9
+  group_header: 18
+  subtotal: 8
+  grand_total: 1
+  special_category: 85
+
+Encabezados detectados:
+  Col 1: Country Exposure Lending Survey /1: September 30, 2024   Table 2 - Claims On For
+  Col 2: Claims - Immediate-Counterparty Basis /6 | Cross-Border Claims (Excluding Claims
+  Col 3: Claims on Local Residents in Non-Local Currency (Excluding Claims from the Fair 
+  Col 4: Remaining Maturity (less than or equal to 1 year)
+  Col 5: Claims on Local Residents in Local Currency (Excluding Claims from the Fair Valu
+  Col 6: Total Cross-Border and Local Claims on Immediate-Counterparty Basis (Excluding c
+  Col 7: Risk Transfers | Outward Risk Transfers /7
+  Col 8: Inward Risk Transfers /8
+  Col 9: Total Cross-Border and Local Claims on Ultimate-Risk Basis (Excluding claims fro
+
+
+All Banks Table 4 1
+--------------------------------------------------------------------------------
+Dimensiones: [128, 21]
+Inicio datos: fila 7
+Columnas vacías: [0, 18]
+Columnas de datos: 18
+
+Tipos de filas:
+  header: 7
+  empty: 9
+  group_header: 18
+  subtotal: 8
+  grand_total: 1
+  special_category: 85
+
+Encabezados detectados:
+  Col 1: Country Exposure Lending Survey /1: September 30, 2024   Table 4.1 - U.S. Banks'
+  Col 2: Claims on Banking Sector | Ultimate Risk Claims /2 | Cross-Border Claims
+  Col 3: Claims on Local Residents
+  Col 4: Fair Value of Derivatives /3
+  Col 5: Total Claims
+  Col 6: Immediate Counterparty Basis Claims /6 | Cross-Border Claims
+  Col 7: Claims on Local Residents in Non-Local Currency
+  Col 8: Claims on Public Sector | Ultimate Risk Claims /2 | Cross-Border Claims
+  Col 9: Claims on Local Residents
+  Col 10: Fair Value of Derivatives /3
+  Col 11: Total Claims
+  Col 12: Immediate Counterparty Basis Claims /6 | Cross-Border Claims
+  Col 13: Claims on Local Residents in Non-Local Currency
+  Col 14: Claims on Non-Bank Financial Sector | Ultimate Risk Claims /2 | Cross-Border Cla
+  Col 15: Claims on Local Residents
+  Col 16: Fair Value of Derivatives /3
+  Col 17: Total Claims
+  Col 19: Immediate Counterparty Basis Claims /6 | Cross-Border Claims
+  Col 20: Claims on Local Residents in Non-Local Currency
+
+
+All Banks Table 4 2
+--------------------------------------------------------------------------------
+Dimensiones: [129, 17]
+Inicio datos: fila 8
+Columnas vacías: [0, 14]
+Columnas de datos: 14
+
+Tipos de filas:
+  header: 8
+  empty: 9
+  group_header: 18
+  subtotal: 8
+  grand_total: 1
+  special_category: 85
+
+Encabezados detectados:
+  Col 2: Claims on Other Sector | Ultimate Risk Claims /2 | Cross-Border Claims | Corpora
+  Col 3: Households
+  Col 4: Total (Other)
+  Col 5: Claims on Local Residents | Corporate
+  Col 6: Households
+  Col 7: Total (Other)
+  Col 8: Fair Value of Derivatives /3
+  Col 9: Total Claims
+  Col 10: Immediate Counterparty Basis Claims /6 | Cross-Border Claims | Corporate
+  Col 11: Households
+  Col 12: Total (Other)
+  Col 13: Claims on Local Residents | Corporate
+  Col 15: Households
+  Col 16: Total (Other)
+

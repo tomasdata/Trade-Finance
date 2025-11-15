@@ -1,0 +1,122 @@
+period,year,quarter,table,table_num,bank_group,region,row_type,original_row_idx,country_region,Claims_on_Banking_Sector_Ultimate_Risk_Claims_2_Cross_Border_Claims,Claims_on_Local_Residents,Fair_Value_of_Derivatives_3,Total_Claims,Immediate_Counterparty_Basis_Claims_Cross_Border_Claims,Claims_on_Local_Residents,Claims_on_Public_Sector_Ultimate_Risk_Claims_2_Cross_Border_Claims,Claims_on_Local_Residents,Fair_Value_of_Derivatives_3,Total_Claims,Immediate_Counterparty_Basis_Claims_Cross_Border_Claims,Claims_on_Local_Residents,Claims_on_Non_Bank_Financial_Sector_Ultimate_Risk_Claims_2_Cross_Border_Claims,Claims_on_Local_Residents,Fair_Value_of_Derivatives_3,Total_Claims,Immediate_Counterparty_Basis_Claims_Cross_Border_Claims,Claims_on_Local_Residents
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,G-10 and Luxembourg,region_header,7,G-10 and Luxembourg,,,,,,,,,,,,,,,,,,
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,G-10 and Luxembourg,country_data,8,BELGIUM,3019.0,870.0,1182.0,5071.0,3450.0,736.0,8653.0,4695.0,641.0,13989.0,8408.0,47.0,2212.0,298.0,17.0,2527.0,2157.0,275.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,G-10 and Luxembourg,country_data,9,CANADA,30667.0,8183.0,6230.0,45080.0,28748.0,1886.0,10204.0,11391.0,2189.0,23784.0,6390.0,279.0,31702.0,5713.0,6484.0,43899.0,32183.0,638.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,G-10 and Luxembourg,country_data,10,FRANCE,35716.0,574.0,7873.0,44163.0,26755.0,1.0,31523.0,3722.0,2968.0,38213.0,30112.0,0.0,85516.0,720.0,2535.0,88771.0,85252.0,10.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,G-10 and Luxembourg,country_data,11,GERMANY,63181.0,621.0,7293.0,71095.0,21760.0,10.0,69712.0,108858.0,9952.0,188522.0,65294.0,4.0,28491.0,1476.0,5853.0,35820.0,27739.0,131.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,G-10 and Luxembourg,country_data,12,ITALY,10262.0,175.0,1347.0,11784.0,10231.0,35.0,17664.0,286.0,15944.0,33894.0,17654.0,0.0,6796.0,693.0,998.0,8487.0,6566.0,93.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,G-10 and Luxembourg,country_data,13,JAPAN,72877.0,59239.0,4575.0,136691.0,46140.0,48910.0,21983.0,112335.0,2048.0,136366.0,21972.0,5123.0,21908.0,79398.0,5375.0,106681.0,19821.0,2250.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,G-10 and Luxembourg,country_data,14,LUXEMBOURG,2052.0,335.0,178.0,2565.0,4061.0,28.0,2528.0,8719.0,62.0,11309.0,2460.0,0.0,32804.0,2266.0,5228.0,40298.0,37797.0,1603.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,G-10 and Luxembourg,country_data,15,NETHERLANDS,11852.0,96.0,9433.0,21381.0,9527.0,18.0,6139.0,8161.0,861.0,15161.0,5772.0,1.0,18542.0,451.0,3368.0,22361.0,18722.0,9.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,G-10 and Luxembourg,country_data,16,SWEDEN,14151.0,34.0,758.0,14943.0,12239.0,0.0,3835.0,608.0,157.0,4600.0,3744.0,0.0,5574.0,13.0,340.0,5927.0,5572.0,10.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,G-10 and Luxembourg,country_data,17,SWITZERLAND,64831.0,283.0,1336.0,66450.0,6578.0,121.0,4354.0,16202.0,54.0,20610.0,4145.0,1.0,5513.0,254.0,2952.0,8719.0,5182.0,213.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,G-10 and Luxembourg,country_data,18,UNITED KINGDOM,52820.0,47235.0,15959.0,116014.0,89804.0,30398.0,9095.0,113819.0,11273.0,134187.0,6712.0,1822.0,50266.0,161734.0,14993.0,226993.0,48910.0,66053.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,G-10 and Luxembourg,subtotal,19,Total,361428.0,117645.0,56164.0,535237.0,259293.0,82143.0,185690.0,388796.0,46149.0,620635.0,172663.0,7277.0,289324.0,253016.0,48143.0,590483.0,289901.0,71285.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,G-10 and Luxembourg,empty,20,,,,,,,,,,,,,,,,,,,
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,Non G-10 Developed Countries,region_header,21,Non G-10 Developed Countries,,,,,,,,,,,,,,,,,,
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,Non G-10 Developed Countries,country_data,22,AUSTRALIA,13155.0,7933.0,1748.0,22836.0,13274.0,422.0,712.0,21612.0,138.0,22462.0,761.0,0.0,11116.0,9924.0,1614.0,22654.0,11229.0,845.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,Non G-10 Developed Countries,country_data,23,AUSTRIA,1892.0,1.0,168.0,2061.0,1930.0,0.0,6683.0,1.0,404.0,7088.0,6669.0,0.0,1120.0,1.0,12.0,1133.0,920.0,0.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,Non G-10 Developed Countries,country_data,24,CYPRUS,168.0,0.0,0.0,168.0,176.0,0.0,39.0,0.0,0.0,39.0,39.0,0.0,1319.0,0.0,115.0,1434.0,1493.0,0.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,Non G-10 Developed Countries,country_data,25,DENMARK,4312.0,2.0,601.0,4915.0,3001.0,0.0,417.0,185.0,127.0,729.0,317.0,0.0,3141.0,12.0,793.0,3946.0,3100.0,1.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,Non G-10 Developed Countries,country_data,26,FINLAND,1484.0,28.0,19.0,1531.0,2573.0,20.0,5414.0,17.0,619.0,6050.0,5303.0,0.0,1741.0,1.0,177.0,1919.0,1723.0,0.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,Non G-10 Developed Countries,country_data,27,GREECE,8886.0,0.0,260.0,9146.0,8884.0,0.0,206.0,32.0,754.0,992.0,205.0,0.0,35.0,62.0,1.0,98.0,58.0,0.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,Non G-10 Developed Countries,country_data,28,IRELAND,2496.0,419.0,344.0,3259.0,39822.0,197.0,1743.0,7150.0,268.0,9161.0,1638.0,0.0,51213.0,1077.0,3198.0,55488.0,62072.0,2135.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,Non G-10 Developed Countries,country_data,29,ISRAEL,558.0,48.0,121.0,727.0,551.0,6.0,705.0,1304.0,66.0,2075.0,769.0,5.0,110.0,5.0,156.0,271.0,365.0,0.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,Non G-10 Developed Countries,country_data,30,NEW ZEALAND,512.0,512.0,117.0,1141.0,684.0,0.0,353.0,585.0,30.0,968.0,352.0,0.0,593.0,105.0,67.0,765.0,572.0,0.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,Non G-10 Developed Countries,country_data,31,NORWAY,5124.0,37.0,90.0,5251.0,4835.0,0.0,6556.0,103.0,290.0,6949.0,6053.0,0.0,1060.0,49.0,67.0,1176.0,1661.0,44.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,Non G-10 Developed Countries,country_data,32,PORTUGAL,2235.0,7.0,31.0,2273.0,2224.0,0.0,1903.0,1.0,74.0,1978.0,1901.0,0.0,178.0,0.0,18.0,196.0,173.0,0.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,Non G-10 Developed Countries,country_data,33,SLOVAKIA,2.0,1.0,1.0,4.0,0.0,0.0,212.0,120.0,15.0,347.0,212.0,0.0,5.0,16.0,0.0,21.0,0.0,0.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,Non G-10 Developed Countries,country_data,34,SPAIN,13686.0,109.0,1781.0,15576.0,12654.0,14.0,8141.0,570.0,134.0,8845.0,8140.0,0.0,3472.0,101.0,443.0,4016.0,3362.0,0.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,Non G-10 Developed Countries,country_data,35,OTHER NON G-10 DEV.,337.0,1.0,32.0,370.0,598.0,0.0,1839.0,0.0,190.0,2029.0,1839.0,0.0,606.0,0.0,14.0,620.0,403.0,0.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,Non G-10 Developed Countries,subtotal,36,Total,54847.0,9098.0,5313.0,69258.0,91206.0,659.0,34923.0,31680.0,3109.0,69712.0,34198.0,5.0,75709.0,11353.0,6675.0,93737.0,87131.0,3025.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,Non G-10 Developed Countries,empty,37,,,,,,,,,,,,,,,,,,,
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,Eastern Europe,region_header,38,Eastern Europe,,,,,,,,,,,,,,,,,,
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,Eastern Europe,country_data,39,BULGARIA,21.0,8.0,0.0,29.0,24.0,0.0,2.0,128.0,0.0,130.0,2.0,18.0,5.0,0.0,2.0,7.0,1.0,0.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,Eastern Europe,country_data,40,CZECH REPUBLIC,4594.0,83.0,32.0,4709.0,4618.0,3.0,708.0,2528.0,33.0,3269.0,708.0,0.0,3097.0,15.0,0.0,3112.0,3097.0,1.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,Eastern Europe,country_data,41,HUNGARY,199.0,52.0,22.0,273.0,311.0,4.0,1253.0,1193.0,2.0,2448.0,1253.0,48.0,60.0,15.0,8.0,83.0,60.0,0.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,Eastern Europe,country_data,42,KOSOVO,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,Eastern Europe,country_data,43,POLAND,628.0,243.0,87.0,958.0,588.0,38.0,1431.0,5528.0,0.0,6959.0,1430.0,620.0,130.0,417.0,80.0,627.0,161.0,2.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,Eastern Europe,country_data,44,ROMANIA,14.0,85.0,5.0,104.0,56.0,6.0,145.0,918.0,0.0,1063.0,141.0,384.0,42.0,101.0,7.0,150.0,42.0,61.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,Eastern Europe,country_data,45,RUSSIA,1467.0,468.0,64.0,1999.0,1414.0,81.0,995.0,2703.0,6.0,3704.0,851.0,10.0,584.0,1230.0,6.0,1820.0,529.0,475.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,Eastern Europe,country_data,46,TURKEY,11165.0,263.0,779.0,12207.0,10811.0,6.0,706.0,844.0,46.0,1596.0,886.0,403.0,688.0,112.0,7.0,807.0,784.0,97.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,Eastern Europe,country_data,47,OTHER E. EUROPE,185.0,4.0,1.0,190.0,234.0,2.0,1203.0,330.0,28.0,1561.0,1206.0,0.0,88.0,1.0,3.0,92.0,90.0,0.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,Eastern Europe,subtotal,48,Total,18273.0,1206.0,990.0,20469.0,18056.0,140.0,6443.0,14172.0,115.0,20730.0,6477.0,1483.0,4694.0,1891.0,113.0,6698.0,4764.0,636.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,Eastern Europe,empty,49,,,,,,,,,,,,,,,,,,,
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,Latin America and Caribbean,region_header,50,Latin America and Caribbean,,,,,,,,,,,,,,,,,,
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,Latin America and Caribbean,country_data,51,ANGUILLA,19.0,0.0,0.0,19.0,19.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3661.0,0.0,49.0,3710.0,3613.0,0.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,Latin America and Caribbean,country_data,52,ARGENTINA,199.0,213.0,0.0,412.0,274.0,15.0,2581.0,1654.0,0.0,4235.0,2523.0,196.0,235.0,21.0,0.0,256.0,231.0,0.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,Latin America and Caribbean,country_data,53,BRAZIL,8027.0,10443.0,366.0,18836.0,3528.0,12.0,13447.0,19376.0,2.0,32825.0,13420.0,0.0,2564.0,1321.0,741.0,4626.0,2057.0,50.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,Latin America and Caribbean,country_data,54,CHILE,5381.0,34.0,890.0,6305.0,5430.0,1.0,154.0,510.0,0.0,664.0,87.0,0.0,618.0,2158.0,295.0,3071.0,645.0,0.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,Latin America and Caribbean,country_data,55,COLOMBIA,2257.0,184.0,69.0,2510.0,2113.0,12.0,561.0,1307.0,2.0,1870.0,548.0,0.0,357.0,76.0,61.0,494.0,377.0,2.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,Latin America and Caribbean,country_data,56,COSTA RICA,391.0,85.0,10.0,486.0,428.0,54.0,18.0,406.0,0.0,424.0,17.0,199.0,0.0,7.0,0.0,7.0,9.0,7.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,Latin America and Caribbean,country_data,57,DOMINICAN REPUBLIC,474.0,12.0,0.0,486.0,494.0,0.0,208.0,341.0,0.0,549.0,254.0,19.0,15.0,0.0,0.0,15.0,30.0,0.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,Latin America and Caribbean,country_data,58,ECUADOR,92.0,64.0,4.0,160.0,118.0,44.0,75.0,117.0,0.0,192.0,74.0,117.0,3.0,0.0,0.0,3.0,3.0,0.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,Latin America and Caribbean,country_data,59,EL SALVADOR,213.0,10.0,0.0,223.0,239.0,10.0,111.0,152.0,0.0,263.0,111.0,152.0,10.0,0.0,0.0,10.0,37.0,0.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,Latin America and Caribbean,country_data,60,FRENCH GUIANA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,Latin America and Caribbean,country_data,61,GUATEMALA,987.0,110.0,0.0,1097.0,1037.0,75.0,55.0,338.0,0.0,393.0,55.0,81.0,2.0,0.0,0.0,2.0,3.0,0.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,Latin America and Caribbean,country_data,62,HONDURAS,109.0,8.0,0.0,117.0,144.0,0.0,42.0,100.0,0.0,142.0,42.0,27.0,68.0,0.0,0.0,68.0,69.0,0.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,Latin America and Caribbean,country_data,63,MEXICO,1637.0,4642.0,879.0,7158.0,1455.0,264.0,3428.0,23870.0,214.0,27512.0,3881.0,372.0,1364.0,7989.0,383.0,9736.0,1724.0,8.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,Latin America and Caribbean,country_data,64,MONTSERRAT,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,Latin America and Caribbean,country_data,65,PERU,1806.0,87.0,36.0,1929.0,1815.0,16.0,383.0,919.0,23.0,1325.0,383.0,246.0,142.0,40.0,16.0,198.0,88.0,2.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,Latin America and Caribbean,country_data,66,URUGUAY,309.0,4.0,13.0,326.0,310.0,0.0,208.0,547.0,117.0,872.0,186.0,48.0,23.0,48.0,1.0,72.0,26.0,2.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,Latin America and Caribbean,country_data,67,VENEZUELA,3.0,1.0,0.0,4.0,10.0,0.0,505.0,20.0,26.0,551.0,2671.0,0.0,16.0,0.0,0.0,16.0,29.0,0.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,Latin America and Caribbean,country_data,68,OTHER LAT. AM. & CAR.,333.0,178.0,2.0,513.0,407.0,63.0,154.0,570.0,70.0,794.0,159.0,96.0,15329.0,1.0,623.0,15953.0,20527.0,2.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,Latin America and Caribbean,subtotal,69,Total,22237.0,16075.0,2269.0,40581.0,17821.0,566.0,21930.0,50227.0,454.0,72611.0,24411.0,1553.0,24407.0,11661.0,2169.0,38237.0,29468.0,73.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,Latin America and Caribbean,empty,70,,,,,,,,,,,,,,,,,,,
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,Asia and Pacific,region_header,71,Asia and Pacific,,,,,,,,,,,,,,,,,,
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,Asia and Pacific,country_data,72,CHINA-MAINLAND,22214.0,5634.0,1904.0,29752.0,18763.0,1481.0,19746.0,13991.0,536.0,34273.0,19688.0,3522.0,8254.0,3804.0,287.0,12345.0,7747.0,863.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,Asia and Pacific,country_data,73,INDIA,14399.0,2879.0,109.0,17387.0,11040.0,19.0,6050.0,15397.0,2.0,21449.0,6008.0,4.0,5825.0,4447.0,632.0,10904.0,5568.0,249.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,Asia and Pacific,country_data,74,INDONESIA,1148.0,693.0,33.0,1874.0,1346.0,923.0,3345.0,2496.0,8.0,5849.0,3382.0,483.0,225.0,790.0,11.0,1026.0,245.0,180.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,Asia and Pacific,country_data,75,"KOREA, SOUTH",5848.0,3250.0,382.0,9480.0,4617.0,615.0,15778.0,16691.0,367.0,32836.0,15091.0,1212.0,3588.0,2366.0,1112.0,7066.0,3460.0,212.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,Asia and Pacific,country_data,76,KUWAIT,597.0,21.0,71.0,689.0,657.0,0.0,6728.0,168.0,6.0,6902.0,6719.0,0.0,958.0,41.0,18.0,1017.0,959.0,28.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,Asia and Pacific,country_data,77,MALAYSIA,1872.0,1170.0,151.0,3193.0,1540.0,613.0,9.0,4551.0,2.0,4562.0,9.0,389.0,490.0,427.0,10.0,927.0,493.0,201.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,Asia and Pacific,country_data,78,PAKISTAN,124.0,7.0,7.0,138.0,129.0,3.0,83.0,991.0,0.0,1074.0,83.0,9.0,1.0,0.0,3.0,4.0,1.0,0.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,Asia and Pacific,country_data,79,PHILIPPINES,1279.0,1113.0,7.0,2399.0,1503.0,1012.0,298.0,2277.0,12.0,2587.0,295.0,54.0,99.0,191.0,5.0,295.0,101.0,0.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,Asia and Pacific,country_data,80,QATAR,2400.0,236.0,37.0,2673.0,2433.0,200.0,517.0,0.0,58.0,575.0,472.0,0.0,431.0,0.0,5.0,436.0,40.0,0.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,Asia and Pacific,country_data,81,SAUDI ARABIA,1745.0,610.0,430.0,2785.0,1709.0,24.0,13546.0,109.0,104.0,13759.0,13489.0,0.0,286.0,140.0,87.0,513.0,334.0,0.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,Asia and Pacific,country_data,82,TAIWAN,2855.0,1460.0,183.0,4498.0,2571.0,506.0,5024.0,7823.0,32.0,12879.0,5023.0,11.0,7581.0,444.0,230.0,8255.0,7620.0,242.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,Asia and Pacific,country_data,83,THAILAND,550.0,975.0,120.0,1645.0,572.0,3.0,2511.0,3685.0,26.0,6222.0,2511.0,0.0,226.0,167.0,20.0,413.0,232.0,1.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,Asia and Pacific,country_data,84,UNITED ARAB EMIRATES,2967.0,725.0,404.0,4096.0,3866.0,718.0,1590.0,3089.0,50.0,4729.0,1658.0,829.0,815.0,82.0,110.0,1007.0,922.0,72.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,Asia and Pacific,country_data,85,WEST BANK AND GAZA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,Asia and Pacific,country_data,86,OTHER ASIA AND PACIFIC,1683.0,182.0,27.0,1892.0,2201.0,22.0,1576.0,2787.0,24.0,4387.0,1866.0,1449.0,517.0,88.0,20.0,625.0,940.0,60.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,Asia and Pacific,subtotal,87,Total,59681.0,18955.0,3865.0,82501.0,52947.0,6139.0,76801.0,74055.0,1227.0,152083.0,76294.0,7962.0,29296.0,12987.0,2550.0,44833.0,28662.0,2108.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,Asia and Pacific,empty,88,,,,,,,,,,,,,,,,,,,
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,Africa,region_header,89,Africa,,,,,,,,,,,,,,,,,,
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,Africa,country_data,90,ALGERIA,4.0,176.0,0.0,180.0,4.0,0.0,0.0,551.0,0.0,551.0,0.0,130.0,0.0,11.0,0.0,11.0,0.0,0.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,Africa,country_data,91,EGYPT,297.0,4.0,0.0,301.0,347.0,4.0,7188.0,586.0,0.0,7774.0,7188.0,19.0,25.0,15.0,0.0,40.0,91.0,15.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,Africa,country_data,92,GHANA,72.0,0.0,1.0,73.0,83.0,0.0,365.0,0.0,1.0,366.0,997.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,Africa,country_data,93,KENYA,77.0,27.0,1.0,105.0,76.0,21.0,180.0,425.0,0.0,605.0,180.0,23.0,7.0,0.0,0.0,7.0,7.0,0.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,Africa,country_data,94,MOROCCO,275.0,109.0,11.0,395.0,285.0,15.0,31.0,122.0,0.0,153.0,31.0,0.0,2.0,0.0,0.0,2.0,2.0,0.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,Africa,country_data,95,NIGERIA,449.0,16.0,20.0,485.0,512.0,3.0,4692.0,832.0,14.0,5538.0,4692.0,0.0,19.0,9.0,1.0,29.0,19.0,7.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,Africa,country_data,96,SAINT HELENA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,Africa,country_data,97,SOUTH AFRICA,2063.0,179.0,477.0,2719.0,2147.0,0.0,845.0,1902.0,5.0,2752.0,569.0,0.0,1012.0,1366.0,701.0,3079.0,1016.0,45.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,Africa,country_data,98,SOUTH SUDAN,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,Africa,country_data,99,OTHER AFRICA,105.0,117.0,0.0,222.0,103.0,11.0,1180.0,652.0,69.0,1901.0,1377.0,43.0,135.0,31.0,6.0,172.0,408.0,0.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,Africa,subtotal,100,Total,3342.0,628.0,510.0,4480.0,3557.0,54.0,14481.0,5070.0,89.0,19640.0,15034.0,215.0,1200.0,1432.0,708.0,3340.0,1543.0,67.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,Africa,empty,101,,,,,,,,,,,,,,,,,,,
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,Banking Centers,region_header,102,Banking Centers,,,,,,,,,,,,,,,,,,
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,Banking Centers,country_data,103,BAHAMAS,309.0,3.0,0.0,312.0,1854.0,0.0,19.0,121.0,28.0,168.0,16.0,0.0,7038.0,6.0,51.0,7095.0,7912.0,5.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,Banking Centers,country_data,104,BAHRAIN,322.0,44.0,27.0,393.0,824.0,27.0,177.0,199.0,1.0,377.0,177.0,0.0,5.0,0.0,0.0,5.0,3.0,0.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,Banking Centers,country_data,105,BERMUDA,603.0,18.0,2.0,623.0,352.0,42.0,11.0,0.0,0.0,11.0,11.0,0.0,12905.0,51.0,968.0,13924.0,14603.0,17.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,Banking Centers,country_data,106,CAYMAN ISLANDS,872.0,37.0,3.0,912.0,14875.0,181.0,245.0,4.0,26.0,275.0,185.0,2.0,313242.0,741.0,11026.0,325009.0,344565.0,751.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,Banking Centers,country_data,107,HONG KONG,10589.0,2109.0,486.0,13184.0,11658.0,2543.0,121.0,14164.0,78.0,14363.0,160.0,2.0,7208.0,4853.0,528.0,12589.0,7334.0,1157.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,Banking Centers,country_data,108,LEBANON,1010.0,42.0,15.0,1067.0,1190.0,40.0,430.0,58.0,4.0,492.0,430.0,23.0,0.0,0.0,0.0,0.0,0.0,0.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,Banking Centers,country_data,109,MAURITIUS,129.0,90.0,21.0,240.0,157.0,121.0,0.0,77.0,0.0,77.0,0.0,0.0,715.0,115.0,77.0,907.0,981.0,106.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,Banking Centers,country_data,110,PANAMA,1673.0,132.0,22.0,1827.0,1994.0,213.0,254.0,682.0,133.0,1069.0,429.0,593.0,264.0,1.0,5.0,270.0,450.0,0.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,Banking Centers,country_data,111,SINGAPORE,7750.0,2955.0,362.0,11067.0,9389.0,2361.0,26454.0,18765.0,134.0,45353.0,25982.0,22.0,6337.0,3612.0,531.0,10480.0,6598.0,3701.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,Banking Centers,country_data,112,OTHER BANKING CENTERS,466.0,42.0,3.0,511.0,4064.0,48.0,186.0,40.0,2.0,228.0,231.0,0.0,8221.0,576.0,1625.0,10422.0,10077.0,557.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,Banking Centers,subtotal,113,Total,23723.0,5472.0,941.0,30136.0,46357.0,5576.0,27897.0,34110.0,406.0,62413.0,27621.0,642.0,355935.0,9955.0,14811.0,380701.0,392523.0,6294.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,Banking Centers,empty,114,,,,,,,,,,,,,,,,,,,
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,International & Regional Organizations,region_header,115,International & Regional Organizations,,,,,,,,,,,,,,,,,,
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,International & Regional Organizations,country_data,116,AFRICAN,0.0,0.0,0.0,0.0,0.0,0.0,671.0,0.0,271.0,942.0,661.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,International & Regional Organizations,organization_data,117,ASIAN,0.0,0.0,0.0,0.0,0.0,0.0,3990.0,0.0,503.0,4493.0,3776.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,International & Regional Organizations,organization_data,118,CARIBBEAN,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,International & Regional Organizations,organization_data,119,EUROPEAN,0.0,0.0,0.0,0.0,0.0,0.0,16778.0,0.0,673.0,17451.0,16315.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,International & Regional Organizations,country_data,120,INTERNATIONAL,0.0,0.0,0.0,0.0,0.0,0.0,10367.0,0.0,3510.0,13877.0,9333.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,International & Regional Organizations,country_data,121,LATIN AMERICAN,0.0,0.0,0.0,0.0,0.0,0.0,4811.0,0.0,532.0,5343.0,4744.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,International & Regional Organizations,organization_data,122,MIDDLE EASTERN,0.0,0.0,0.0,0.0,0.0,0.0,31.0,0.0,0.0,31.0,31.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,International & Regional Organizations,subtotal,123,Total,0.0,0.0,0.0,0.0,0.0,0.0,36648.0,0.0,5489.0,42137.0,34860.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,International & Regional Organizations,empty,124,,,,,,,,,,,,,,,,,,,
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,International & Regional Organizations,country_data,125,UNITED STATES,45152.0,310433.0,21938.0,377523.0,37512.0,10239.0,61863.0,3088948.0,14623.0,3165434.0,59666.0,26611.0,73103.0,3043944.0,56156.0,3173203.0,66733.0,16025.0
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,International & Regional Organizations,empty,126,,,,,,,,,,,,,,,,,,,
+2017Q4,2017,Q4,Table 4.1,4.1,All Banks,International & Regional Organizations,grand_total,127,Grand Total,588683.0,479512.0,91990.0,1160185.0,526749.0,105516.0,466676.0,3687058.0,71661.0,4225395.0,451224.0,45748.0,853668.0,3346239.0,131325.0,4331232.0,900725.0,99513.0

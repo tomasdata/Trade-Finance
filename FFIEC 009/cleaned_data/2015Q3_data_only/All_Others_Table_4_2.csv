@@ -1,0 +1,92 @@
+period,year,quarter,table,table_num,bank_group,region,row_type,original_row_idx,country_region,Ultimate_Risk_Claims_2_Cross_Border_Claims_Corporate,Households,Total_Other,Claims_on_Local_Residents_Corporate,Households,Total_Other,Fair_Value_of_Derivatives_3,Total_Claims,Immediate_Counterparty_Basis_Claims_Cross_Border_Claims_Corporate,Households,Total_Other,Claims_on_Local_Residents_Corporate,Households,Total_Other
+2015Q3,2015,Q3,Table 4.2,4.2,All Others,G-10 and Luxembourg,country_data,9,BELGIUM,420.0,19.0,439.0,31.0,0.0,31.0,0.0,470.0,375.0,18.0,393.0,0.0,0.0,0.0
+2015Q3,2015,Q3,Table 4.2,4.2,All Others,G-10 and Luxembourg,country_data,10,CANADA,8256.0,749.0,9005.0,12483.0,7210.0,19693.0,464.0,29162.0,7153.0,738.0,7891.0,1971.0,22.0,1993.0
+2015Q3,2015,Q3,Table 4.2,4.2,All Others,G-10 and Luxembourg,country_data,11,FRANCE,2259.0,792.0,3051.0,8444.0,5601.0,14045.0,2.0,17098.0,2058.0,751.0,2809.0,403.0,0.0,403.0
+2015Q3,2015,Q3,Table 4.2,4.2,All Others,G-10 and Luxembourg,country_data,12,GERMANY,3503.0,672.0,4175.0,4467.0,71.0,4538.0,1.0,8714.0,3291.0,666.0,3957.0,54.0,0.0,54.0
+2015Q3,2015,Q3,Table 4.2,4.2,All Others,G-10 and Luxembourg,country_data,13,ITALY,708.0,28.0,736.0,5084.0,793.0,5877.0,0.0,6613.0,598.0,25.0,623.0,79.0,0.0,79.0
+2015Q3,2015,Q3,Table 4.2,4.2,All Others,G-10 and Luxembourg,country_data,14,JAPAN,1106.0,135.0,1241.0,5679.0,1118.0,6797.0,0.0,8038.0,286.0,127.0,413.0,124.0,0.0,124.0
+2015Q3,2015,Q3,Table 4.2,4.2,All Others,G-10 and Luxembourg,country_data,15,LUXEMBOURG,3289.0,248.0,3537.0,84.0,4.0,88.0,2.0,3627.0,3226.0,243.0,3469.0,11.0,0.0,11.0
+2015Q3,2015,Q3,Table 4.2,4.2,All Others,G-10 and Luxembourg,country_data,16,NETHERLANDS,2553.0,49.0,2602.0,1221.0,164.0,1385.0,25.0,4012.0,4094.0,47.0,4141.0,25.0,2.0,27.0
+2015Q3,2015,Q3,Table 4.2,4.2,All Others,G-10 and Luxembourg,country_data,17,SWEDEN,419.0,158.0,577.0,144.0,11.0,155.0,0.0,732.0,430.0,158.0,588.0,3.0,0.0,3.0
+2015Q3,2015,Q3,Table 4.2,4.2,All Others,G-10 and Luxembourg,country_data,18,SWITZERLAND,714.0,146.0,860.0,185.0,0.0,185.0,10.0,1055.0,827.0,139.0,966.0,40.0,0.0,40.0
+2015Q3,2015,Q3,Table 4.2,4.2,All Others,G-10 and Luxembourg,country_data,19,UNITED KINGDOM,5877.0,677.0,6554.0,6040.0,15850.0,21890.0,25.0,28469.0,5138.0,729.0,5867.0,1367.0,25.0,1392.0
+2015Q3,2015,Q3,Table 4.2,4.2,All Others,Non G-10 Developed Countries,country_data,23,AUSTRALIA,2315.0,939.0,3254.0,4345.0,4786.0,9131.0,3.0,12388.0,2419.0,943.0,3362.0,911.0,0.0,911.0
+2015Q3,2015,Q3,Table 4.2,4.2,All Others,Non G-10 Developed Countries,country_data,24,AUSTRIA,147.0,8.0,155.0,26.0,30.0,56.0,0.0,211.0,161.0,8.0,169.0,0.0,0.0,0.0
+2015Q3,2015,Q3,Table 4.2,4.2,All Others,Non G-10 Developed Countries,country_data,25,CYPRUS,71.0,0.0,71.0,80.0,0.0,80.0,0.0,151.0,29.0,0.0,29.0,0.0,0.0,0.0
+2015Q3,2015,Q3,Table 4.2,4.2,All Others,Non G-10 Developed Countries,country_data,26,DENMARK,182.0,2.0,184.0,25.0,0.0,25.0,0.0,209.0,133.0,2.0,135.0,1.0,0.0,1.0
+2015Q3,2015,Q3,Table 4.2,4.2,All Others,Non G-10 Developed Countries,country_data,27,FINLAND,100.0,2.0,102.0,31.0,52.0,83.0,0.0,185.0,109.0,2.0,111.0,1.0,0.0,1.0
+2015Q3,2015,Q3,Table 4.2,4.2,All Others,Non G-10 Developed Countries,country_data,28,GREECE,105.0,6.0,111.0,0.0,0.0,0.0,0.0,111.0,87.0,6.0,93.0,0.0,0.0,0.0
+2015Q3,2015,Q3,Table 4.2,4.2,All Others,Non G-10 Developed Countries,country_data,29,IRELAND,2001.0,95.0,2096.0,167.0,0.0,167.0,10.0,2273.0,2437.0,97.0,2534.0,7.0,0.0,7.0
+2015Q3,2015,Q3,Table 4.2,4.2,All Others,Non G-10 Developed Countries,country_data,30,ISRAEL,520.0,19.0,539.0,3.0,0.0,3.0,0.0,542.0,263.0,27.0,290.0,0.0,0.0,0.0
+2015Q3,2015,Q3,Table 4.2,4.2,All Others,Non G-10 Developed Countries,country_data,31,NEW ZEALAND,116.0,47.0,163.0,579.0,976.0,1555.0,0.0,1718.0,304.0,47.0,351.0,5.0,0.0,5.0
+2015Q3,2015,Q3,Table 4.2,4.2,All Others,Non G-10 Developed Countries,country_data,32,NORWAY,496.0,19.0,515.0,62.0,0.0,62.0,0.0,577.0,429.0,14.0,443.0,20.0,0.0,20.0
+2015Q3,2015,Q3,Table 4.2,4.2,All Others,Non G-10 Developed Countries,country_data,33,PORTUGAL,142.0,2.0,144.0,43.0,90.0,133.0,0.0,277.0,104.0,2.0,106.0,0.0,0.0,0.0
+2015Q3,2015,Q3,Table 4.2,4.2,All Others,Non G-10 Developed Countries,country_data,34,SLOVAKIA,5.0,0.0,5.0,97.0,0.0,97.0,0.0,102.0,12.0,0.0,12.0,0.0,0.0,0.0
+2015Q3,2015,Q3,Table 4.2,4.2,All Others,Non G-10 Developed Countries,country_data,35,SPAIN,612.0,29.0,641.0,747.0,797.0,1544.0,0.0,2185.0,664.0,47.0,711.0,1.0,0.0,1.0
+2015Q3,2015,Q3,Table 4.2,4.2,All Others,Non G-10 Developed Countries,country_data,36,OTHER NON G-10 DEV.,315.0,9.0,324.0,0.0,0.0,0.0,0.0,324.0,220.0,9.0,229.0,0.0,0.0,0.0
+2015Q3,2015,Q3,Table 4.2,4.2,All Others,Eastern Europe,country_data,40,BULGARIA,1.0,1.0,2.0,0.0,0.0,0.0,0.0,2.0,10.0,0.0,10.0,0.0,0.0,0.0
+2015Q3,2015,Q3,Table 4.2,4.2,All Others,Eastern Europe,country_data,41,CZECH REPUBLIC,40.0,1.0,41.0,2129.0,2121.0,4250.0,0.0,4291.0,56.0,0.0,56.0,245.0,0.0,245.0
+2015Q3,2015,Q3,Table 4.2,4.2,All Others,Eastern Europe,country_data,42,HUNGARY,409.0,3.0,412.0,22.0,0.0,22.0,0.0,434.0,414.0,3.0,417.0,0.0,0.0,0.0
+2015Q3,2015,Q3,Table 4.2,4.2,All Others,Eastern Europe,country_data,43,KOSOVO,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2015Q3,2015,Q3,Table 4.2,4.2,All Others,Eastern Europe,country_data,44,POLAND,138.0,4.0,142.0,1108.0,5299.0,6407.0,0.0,6549.0,157.0,3.0,160.0,215.0,3758.0,3973.0
+2015Q3,2015,Q3,Table 4.2,4.2,All Others,Eastern Europe,country_data,45,ROMANIA,3.0,2.0,5.0,0.0,0.0,0.0,0.0,5.0,41.0,2.0,43.0,0.0,0.0,0.0
+2015Q3,2015,Q3,Table 4.2,4.2,All Others,Eastern Europe,country_data,46,RUSSIA,497.0,40.0,537.0,9.0,0.0,9.0,0.0,546.0,422.0,33.0,455.0,0.0,0.0,0.0
+2015Q3,2015,Q3,Table 4.2,4.2,All Others,Eastern Europe,country_data,47,TURKEY,398.0,29.0,427.0,0.0,0.0,0.0,0.0,427.0,392.0,18.0,410.0,9.0,0.0,9.0
+2015Q3,2015,Q3,Table 4.2,4.2,All Others,Eastern Europe,country_data,48,OTHER E. EUROPE,154.0,13.0,167.0,0.0,0.0,0.0,0.0,167.0,169.0,4.0,173.0,0.0,0.0,0.0
+2015Q3,2015,Q3,Table 4.2,4.2,All Others,Latin America and Caribbean,country_data,52,ANGUILLA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,4.0,0.0,0.0,0.0
+2015Q3,2015,Q3,Table 4.2,4.2,All Others,Latin America and Caribbean,country_data,53,ARGENTINA,106.0,112.0,218.0,226.0,355.0,581.0,13.0,812.0,265.0,128.0,393.0,37.0,37.0,74.0
+2015Q3,2015,Q3,Table 4.2,4.2,All Others,Latin America and Caribbean,country_data,54,BRAZIL,5804.0,381.0,6185.0,94.0,1.0,95.0,4.0,6284.0,4148.0,459.0,4607.0,6.0,0.0,6.0
+2015Q3,2015,Q3,Table 4.2,4.2,All Others,Latin America and Caribbean,country_data,55,CHILE,1317.0,19.0,1336.0,18.0,0.0,18.0,45.0,1399.0,1553.0,66.0,1619.0,1.0,0.0,1.0
+2015Q3,2015,Q3,Table 4.2,4.2,All Others,Latin America and Caribbean,country_data,56,COLOMBIA,704.0,139.0,843.0,2.0,0.0,2.0,4.0,849.0,840.0,106.0,946.0,0.0,0.0,0.0
+2015Q3,2015,Q3,Table 4.2,4.2,All Others,Latin America and Caribbean,country_data,57,COSTA RICA,73.0,8.0,81.0,0.0,0.0,0.0,0.0,81.0,75.0,12.0,87.0,0.0,0.0,0.0
+2015Q3,2015,Q3,Table 4.2,4.2,All Others,Latin America and Caribbean,country_data,58,DOMINICAN REPUBLIC,57.0,22.0,79.0,0.0,0.0,0.0,0.0,79.0,173.0,54.0,227.0,0.0,0.0,0.0
+2015Q3,2015,Q3,Table 4.2,4.2,All Others,Latin America and Caribbean,country_data,59,ECUADOR,140.0,66.0,206.0,0.0,0.0,0.0,0.0,206.0,271.0,79.0,350.0,0.0,0.0,0.0
+2015Q3,2015,Q3,Table 4.2,4.2,All Others,Latin America and Caribbean,country_data,60,EL SALVADOR,7.0,29.0,36.0,0.0,0.0,0.0,0.0,36.0,44.0,34.0,78.0,0.0,0.0,0.0
+2015Q3,2015,Q3,Table 4.2,4.2,All Others,Latin America and Caribbean,country_data,61,FRENCH GUIANA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2015Q3,2015,Q3,Table 4.2,4.2,All Others,Latin America and Caribbean,country_data,62,GUATEMALA,58.0,21.0,79.0,0.0,0.0,0.0,0.0,79.0,137.0,50.0,187.0,0.0,0.0,0.0
+2015Q3,2015,Q3,Table 4.2,4.2,All Others,Latin America and Caribbean,country_data,63,HONDURAS,22.0,18.0,40.0,0.0,0.0,0.0,0.0,40.0,60.0,30.0,90.0,0.0,0.0,0.0
+2015Q3,2015,Q3,Table 4.2,4.2,All Others,Latin America and Caribbean,country_data,64,MEXICO,3865.0,788.0,4653.0,5825.0,1679.0,7504.0,7.0,12164.0,5007.0,1044.0,6051.0,4136.0,7.0,4143.0
+2015Q3,2015,Q3,Table 4.2,4.2,All Others,Latin America and Caribbean,country_data,65,MONTSERRAT,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2015Q3,2015,Q3,Table 4.2,4.2,All Others,Latin America and Caribbean,country_data,66,PERU,395.0,29.0,424.0,0.0,0.0,0.0,2.0,426.0,481.0,84.0,565.0,0.0,0.0,0.0
+2015Q3,2015,Q3,Table 4.2,4.2,All Others,Latin America and Caribbean,country_data,67,URUGUAY,28.0,19.0,47.0,96.0,32.0,128.0,0.0,175.0,211.0,29.0,240.0,83.0,4.0,87.0
+2015Q3,2015,Q3,Table 4.2,4.2,All Others,Latin America and Caribbean,country_data,68,VENEZUELA,192.0,621.0,813.0,0.0,0.0,0.0,0.0,813.0,680.0,905.0,1585.0,0.0,0.0,0.0
+2015Q3,2015,Q3,Table 4.2,4.2,All Others,Latin America and Caribbean,country_data,69,OTHER LAT. AM. & CAR.,917.0,172.0,1089.0,181.0,332.0,513.0,7.0,1609.0,2280.0,239.0,2519.0,107.0,190.0,297.0
+2015Q3,2015,Q3,Table 4.2,4.2,All Others,Asia and Pacific,country_data,73,CHINA-MAINLAND,726.0,495.0,1221.0,571.0,54.0,625.0,0.0,1846.0,706.0,478.0,1184.0,50.0,0.0,50.0
+2015Q3,2015,Q3,Table 4.2,4.2,All Others,Asia and Pacific,country_data,74,INDIA,330.0,20.0,350.0,526.0,200.0,726.0,0.0,1076.0,325.0,20.0,345.0,1.0,0.0,1.0
+2015Q3,2015,Q3,Table 4.2,4.2,All Others,Asia and Pacific,country_data,75,INDONESIA,208.0,17.0,225.0,1.0,0.0,1.0,0.0,226.0,116.0,17.0,133.0,1.0,0.0,1.0
+2015Q3,2015,Q3,Table 4.2,4.2,All Others,Asia and Pacific,country_data,76,"KOREA, SOUTH",399.0,22.0,421.0,1.0,0.0,1.0,0.0,422.0,297.0,12.0,309.0,0.0,0.0,0.0
+2015Q3,2015,Q3,Table 4.2,4.2,All Others,Asia and Pacific,country_data,77,KUWAIT,68.0,7.0,75.0,0.0,0.0,0.0,0.0,75.0,68.0,7.0,75.0,0.0,0.0,0.0
+2015Q3,2015,Q3,Table 4.2,4.2,All Others,Asia and Pacific,country_data,78,MALAYSIA,128.0,6.0,134.0,24.0,0.0,24.0,0.0,158.0,129.0,7.0,136.0,23.0,0.0,23.0
+2015Q3,2015,Q3,Table 4.2,4.2,All Others,Asia and Pacific,country_data,79,PAKISTAN,0.0,2.0,2.0,0.0,0.0,0.0,0.0,2.0,0.0,2.0,2.0,11.0,0.0,11.0
+2015Q3,2015,Q3,Table 4.2,4.2,All Others,Asia and Pacific,country_data,80,PHILIPPINES,271.0,22.0,293.0,3.0,0.0,3.0,0.0,296.0,257.0,22.0,279.0,0.0,0.0,0.0
+2015Q3,2015,Q3,Table 4.2,4.2,All Others,Asia and Pacific,country_data,81,QATAR,93.0,3.0,96.0,0.0,0.0,0.0,0.0,96.0,84.0,3.0,87.0,0.0,0.0,0.0
+2015Q3,2015,Q3,Table 4.2,4.2,All Others,Asia and Pacific,country_data,82,SAUDI ARABIA,419.0,67.0,486.0,0.0,0.0,0.0,0.0,486.0,405.0,44.0,449.0,4.0,0.0,4.0
+2015Q3,2015,Q3,Table 4.2,4.2,All Others,Asia and Pacific,country_data,83,TAIWAN,68.0,58.0,126.0,5.0,143.0,148.0,0.0,274.0,54.0,56.0,110.0,0.0,1.0,1.0
+2015Q3,2015,Q3,Table 4.2,4.2,All Others,Asia and Pacific,country_data,84,THAILAND,20.0,7.0,27.0,84.0,104.0,188.0,0.0,215.0,14.0,8.0,22.0,0.0,0.0,0.0
+2015Q3,2015,Q3,Table 4.2,4.2,All Others,Asia and Pacific,country_data,85,UNITED ARAB EMIRATES,439.0,30.0,469.0,0.0,0.0,0.0,0.0,469.0,339.0,29.0,368.0,0.0,0.0,0.0
+2015Q3,2015,Q3,Table 4.2,4.2,All Others,Asia and Pacific,country_data,86,WEST BANK AND GAZA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2015Q3,2015,Q3,Table 4.2,4.2,All Others,Asia and Pacific,country_data,87,OTHER ASIA AND PACIFIC,812.0,20.0,832.0,0.0,19.0,19.0,0.0,851.0,229.0,20.0,249.0,9.0,0.0,9.0
+2015Q3,2015,Q3,Table 4.2,4.2,All Others,Africa,country_data,91,ALGERIA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2015Q3,2015,Q3,Table 4.2,4.2,All Others,Africa,country_data,92,EGYPT,17.0,3.0,20.0,0.0,0.0,0.0,0.0,20.0,0.0,3.0,3.0,0.0,0.0,0.0
+2015Q3,2015,Q3,Table 4.2,4.2,All Others,Africa,country_data,93,GHANA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2015Q3,2015,Q3,Table 4.2,4.2,All Others,Africa,country_data,94,KENYA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,3.0,0.0,0.0,0.0
+2015Q3,2015,Q3,Table 4.2,4.2,All Others,Africa,country_data,95,MOROCCO,0.0,2.0,2.0,0.0,0.0,0.0,0.0,2.0,3.0,2.0,5.0,0.0,0.0,0.0
+2015Q3,2015,Q3,Table 4.2,4.2,All Others,Africa,country_data,96,NIGERIA,1.0,12.0,13.0,0.0,0.0,0.0,0.0,13.0,4.0,12.0,16.0,0.0,0.0,0.0
+2015Q3,2015,Q3,Table 4.2,4.2,All Others,Africa,country_data,97,SAINT HELENA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2015Q3,2015,Q3,Table 4.2,4.2,All Others,Africa,country_data,98,SOUTH AFRICA,247.0,8.0,255.0,0.0,0.0,0.0,0.0,255.0,229.0,8.0,237.0,0.0,0.0,0.0
+2015Q3,2015,Q3,Table 4.2,4.2,All Others,Africa,country_data,99,SOUTH SUDAN,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0
+2015Q3,2015,Q3,Table 4.2,4.2,All Others,Africa,country_data,100,OTHER AFRICA,100.0,5.0,105.0,0.0,0.0,0.0,10.0,115.0,412.0,5.0,417.0,0.0,0.0,0.0
+2015Q3,2015,Q3,Table 4.2,4.2,All Others,Banking Centers,country_data,104,BAHAMAS,26.0,37.0,63.0,5.0,1.0,6.0,0.0,69.0,412.0,40.0,452.0,1.0,0.0,1.0
+2015Q3,2015,Q3,Table 4.2,4.2,All Others,Banking Centers,country_data,105,BAHRAIN,47.0,1.0,48.0,0.0,0.0,0.0,0.0,48.0,47.0,1.0,48.0,2.0,0.0,2.0
+2015Q3,2015,Q3,Table 4.2,4.2,All Others,Banking Centers,country_data,106,BERMUDA,1507.0,23.0,1530.0,12.0,0.0,12.0,2.0,1544.0,1614.0,22.0,1636.0,0.0,0.0,0.0
+2015Q3,2015,Q3,Table 4.2,4.2,All Others,Banking Centers,country_data,107,CAYMAN ISLANDS,1847.0,121.0,1968.0,34.0,1.0,35.0,37.0,2040.0,3179.0,127.0,3306.0,0.0,0.0,0.0
+2015Q3,2015,Q3,Table 4.2,4.2,All Others,Banking Centers,country_data,108,HONG KONG,1074.0,719.0,1793.0,479.0,36.0,515.0,0.0,2308.0,579.0,716.0,1295.0,518.0,2.0,520.0
+2015Q3,2015,Q3,Table 4.2,4.2,All Others,Banking Centers,country_data,109,LEBANON,7.0,5.0,12.0,0.0,0.0,0.0,0.0,12.0,7.0,5.0,12.0,0.0,0.0,0.0
+2015Q3,2015,Q3,Table 4.2,4.2,All Others,Banking Centers,country_data,110,MAURITIUS,31.0,0.0,31.0,30.0,0.0,30.0,0.0,61.0,8.0,0.0,8.0,31.0,0.0,31.0
+2015Q3,2015,Q3,Table 4.2,4.2,All Others,Banking Centers,country_data,111,PANAMA,272.0,25.0,297.0,0.0,0.0,0.0,1.0,298.0,724.0,32.0,756.0,1.0,0.0,1.0
+2015Q3,2015,Q3,Table 4.2,4.2,All Others,Banking Centers,country_data,112,SINGAPORE,515.0,141.0,656.0,75.0,317.0,392.0,9.0,1057.0,519.0,141.0,660.0,58.0,0.0,58.0
+2015Q3,2015,Q3,Table 4.2,4.2,All Others,Banking Centers,country_data,113,OTHER BANKING CENTERS,312.0,10.0,322.0,0.0,0.0,0.0,0.0,322.0,441.0,9.0,450.0,0.0,0.0,0.0
+2015Q3,2015,Q3,Table 4.2,4.2,All Others,International & Regional Organizations,country_data,117,AFRICAN,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2015Q3,2015,Q3,Table 4.2,4.2,All Others,International & Regional Organizations,country_data,121,INTERNATIONAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2015Q3,2015,Q3,Table 4.2,4.2,All Others,International & Regional Organizations,country_data,122,LATIN AMERICAN,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2015Q3,2015,Q3,Table 4.2,4.2,All Others,International & Regional Organizations,country_data,126,UNITED STATES,49879.0,32319.0,82198.0,1345544.0,1223191.0,2568735.0,8390.0,2659323.0,52250.0,32369.0,84619.0,60083.0,37972.0,98055.0

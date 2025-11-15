@@ -1,0 +1,243 @@
+{
+  "periods": 1,
+  "total_files": 15,
+  "total_rows": 1815,
+  "period_details": {
+    "UNKNOWN": {
+      "period": "UNKNOWN",
+      "files_processed": [
+        {
+          "filename": "All_Others_Table_1.csv",
+          "rows": 121,
+          "columns": 23,
+          "row_types": {
+            "country_data": 91,
+            "empty": 9,
+            "region_header": 8,
+            "subtotal": 8,
+            "organization_data": 4,
+            "grand_total": 1
+          },
+          "regions": 8,
+          "data_columns": 13
+        },
+        {
+          "filename": "All_Others_Table_4_1.csv",
+          "rows": 121,
+          "columns": 28,
+          "row_types": {
+            "country_data": 91,
+            "empty": 9,
+            "region_header": 8,
+            "subtotal": 8,
+            "organization_data": 4,
+            "grand_total": 1
+          },
+          "regions": 8,
+          "data_columns": 18
+        },
+        {
+          "filename": "All_Others_Table_2.csv",
+          "rows": 121,
+          "columns": 18,
+          "row_types": {
+            "country_data": 91,
+            "empty": 9,
+            "region_header": 8,
+            "subtotal": 8,
+            "organization_data": 4,
+            "grand_total": 1
+          },
+          "regions": 8,
+          "data_columns": 8
+        },
+        {
+          "filename": "All_Others_Table_3.csv",
+          "rows": 121,
+          "columns": 22,
+          "row_types": {
+            "country_data": 91,
+            "empty": 9,
+            "region_header": 8,
+            "subtotal": 8,
+            "organization_data": 4,
+            "grand_total": 1
+          },
+          "regions": 8,
+          "data_columns": 12
+        },
+        {
+          "filename": "All_Others_Table_4_2.csv",
+          "rows": 121,
+          "columns": 24,
+          "row_types": {
+            "country_data": 91,
+            "empty": 9,
+            "region_header": 8,
+            "subtotal": 8,
+            "organization_data": 4,
+            "grand_total": 1
+          },
+          "regions": 8,
+          "data_columns": 14
+        },
+        {
+          "filename": "LFI_Table_3.csv",
+          "rows": 121,
+          "columns": 22,
+          "row_types": {
+            "country_data": 91,
+            "empty": 9,
+            "region_header": 8,
+            "subtotal": 8,
+            "organization_data": 4,
+            "grand_total": 1
+          },
+          "regions": 8,
+          "data_columns": 12
+        },
+        {
+          "filename": "LFI_Table_2.csv",
+          "rows": 121,
+          "columns": 18,
+          "row_types": {
+            "country_data": 91,
+            "empty": 9,
+            "region_header": 8,
+            "subtotal": 8,
+            "organization_data": 4,
+            "grand_total": 1
+          },
+          "regions": 8,
+          "data_columns": 8
+        },
+        {
+          "filename": "LFI_Table_1.csv",
+          "rows": 121,
+          "columns": 23,
+          "row_types": {
+            "country_data": 91,
+            "empty": 9,
+            "region_header": 8,
+            "subtotal": 8,
+            "organization_data": 4,
+            "grand_total": 1
+          },
+          "regions": 8,
+          "data_columns": 13
+        },
+        {
+          "filename": "LFI_Table_4_1.csv",
+          "rows": 121,
+          "columns": 28,
+          "row_types": {
+            "country_data": 91,
+            "empty": 9,
+            "region_header": 8,
+            "subtotal": 8,
+            "organization_data": 4,
+            "grand_total": 1
+          },
+          "regions": 8,
+          "data_columns": 18
+        },
+        {
+          "filename": "LFI_Table_4_2.csv",
+          "rows": 121,
+          "columns": 24,
+          "row_types": {
+            "country_data": 91,
+            "empty": 9,
+            "region_header": 8,
+            "subtotal": 8,
+            "organization_data": 4,
+            "grand_total": 1
+          },
+          "regions": 8,
+          "data_columns": 14
+        },
+        {
+          "filename": "All_Banks_Table_1.csv",
+          "rows": 121,
+          "columns": 23,
+          "row_types": {
+            "country_data": 91,
+            "empty": 9,
+            "region_header": 8,
+            "subtotal": 8,
+            "organization_data": 4,
+            "grand_total": 1
+          },
+          "regions": 8,
+          "data_columns": 13
+        },
+        {
+          "filename": "All_Banks_Table_3.csv",
+          "rows": 121,
+          "columns": 22,
+          "row_types": {
+            "country_data": 91,
+            "empty": 9,
+            "region_header": 8,
+            "subtotal": 8,
+            "organization_data": 4,
+            "grand_total": 1
+          },
+          "regions": 8,
+          "data_columns": 12
+        },
+        {
+          "filename": "All_Banks_Table_2.csv",
+          "rows": 121,
+          "columns": 18,
+          "row_types": {
+            "country_data": 91,
+            "empty": 9,
+            "region_header": 8,
+            "subtotal": 8,
+            "organization_data": 4,
+            "grand_total": 1
+          },
+          "regions": 8,
+          "data_columns": 8
+        },
+        {
+          "filename": "All_Banks_Table_4_1.csv",
+          "rows": 121,
+          "columns": 28,
+          "row_types": {
+            "country_data": 91,
+            "empty": 9,
+            "region_header": 8,
+            "subtotal": 8,
+            "organization_data": 4,
+            "grand_total": 1
+          },
+          "regions": 8,
+          "data_columns": 18
+        },
+        {
+          "filename": "All_Banks_Table_4_2.csv",
+          "rows": 121,
+          "columns": 24,
+          "row_types": {
+            "country_data": 91,
+            "empty": 9,
+            "region_header": 8,
+            "subtotal": 8,
+            "organization_data": 4,
+            "grand_total": 1
+          },
+          "regions": 8,
+          "data_columns": 14
+        }
+      ],
+      "validations": [],
+      "summary": {
+        "total_files": 15,
+        "total_rows": 1815,
+        "total_country_data_rows": 1365
+      }
+    }
+  }
+}

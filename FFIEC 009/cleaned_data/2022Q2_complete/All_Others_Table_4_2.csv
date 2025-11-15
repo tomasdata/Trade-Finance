@@ -1,0 +1,122 @@
+period,year,quarter,table,table_num,bank_group,region,row_type,original_row_idx,country_region,Ultimate_Risk_Claims_2_Cross_Border_Claims_Corporate,Households,Total_Other,Claims_on_Local_Residents_Corporate,Households,Total_Other,Fair_Value_of_Derivatives_3,Total_Claims,Immediate_Counterparty_Basis_Claims_Cross_Border_Claims_Corporate,Households,Total_Other,Claims_on_Local_Residents_Corporate,Households,Total_Other
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,G-10 and Luxembourg,region_header,8,G-10 and Luxembourg,,,,,,,,,,,,,,
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,G-10 and Luxembourg,country_data,9,BELGIUM,344.0,5.0,349.0,34.0,76.0,110.0,1.0,460.0,393.0,15.0,408.0,0.0,0.0,0.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,G-10 and Luxembourg,country_data,10,CANADA,10779.0,2649.0,13428.0,6358.0,4947.0,11305.0,156.0,24889.0,9143.0,2566.0,11709.0,1631.0,46.0,1677.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,G-10 and Luxembourg,country_data,11,FRANCE,1282.0,94.0,1376.0,494.0,523.0,1017.0,2.0,2395.0,1338.0,73.0,1411.0,0.0,0.0,0.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,G-10 and Luxembourg,country_data,12,GERMANY,2978.0,559.0,3537.0,663.0,575.0,1238.0,0.0,4775.0,3046.0,560.0,3606.0,9.0,0.0,9.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,G-10 and Luxembourg,country_data,13,ITALY,132.0,30.0,162.0,543.0,727.0,1270.0,0.0,1432.0,46.0,27.0,73.0,0.0,0.0,0.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,G-10 and Luxembourg,country_data,14,JAPAN,1397.0,228.0,1625.0,1826.0,2590.0,4416.0,5.0,6046.0,749.0,219.0,968.0,0.0,0.0,0.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,G-10 and Luxembourg,country_data,15,LUXEMBOURG,2095.0,36.0,2131.0,19.0,0.0,19.0,40.0,2190.0,2536.0,41.0,2577.0,14.0,0.0,14.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,G-10 and Luxembourg,country_data,16,NETHERLANDS,3071.0,9.0,3080.0,125.0,132.0,257.0,54.0,3391.0,3391.0,18.0,3409.0,0.0,0.0,0.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,G-10 and Luxembourg,country_data,17,SWEDEN,313.0,328.0,641.0,24.0,102.0,126.0,0.0,767.0,324.0,325.0,649.0,0.0,0.0,0.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,G-10 and Luxembourg,country_data,18,SWITZERLAND,1976.0,192.0,2168.0,1.0,0.0,1.0,16.0,2185.0,931.0,289.0,1220.0,0.0,0.0,0.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,G-10 and Luxembourg,country_data,19,UNITED KINGDOM,8842.0,1154.0,9996.0,6031.0,7710.0,13741.0,138.0,23875.0,8348.0,1208.0,9556.0,1307.0,6.0,1313.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,G-10 and Luxembourg,subtotal,20,Total,33209.0,5284.0,38493.0,16118.0,17382.0,33500.0,412.0,72405.0,30245.0,5341.0,35586.0,2961.0,52.0,3013.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,G-10 and Luxembourg,empty,21,,,,,,,,,,,,,,,
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,Non G-10 Developed Countries,region_header,22,Non G-10 Developed Countries,,,,,,,,,,,,,,
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,Non G-10 Developed Countries,country_data,23,AUSTRALIA,1555.0,83.0,1638.0,3607.0,1855.0,5462.0,116.0,7216.0,1413.0,85.0,1498.0,52.0,0.0,52.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,Non G-10 Developed Countries,country_data,24,AUSTRIA,147.0,5.0,152.0,37.0,36.0,73.0,0.0,225.0,140.0,18.0,158.0,0.0,0.0,0.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,Non G-10 Developed Countries,country_data,25,CYPRUS,0.0,4.0,4.0,0.0,0.0,0.0,0.0,4.0,0.0,4.0,4.0,0.0,0.0,0.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,Non G-10 Developed Countries,country_data,26,DENMARK,194.0,13.0,207.0,8.0,0.0,8.0,1.0,216.0,174.0,13.0,187.0,0.0,0.0,0.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,Non G-10 Developed Countries,country_data,27,FINLAND,43.0,1.0,44.0,8.0,50.0,58.0,0.0,102.0,87.0,1.0,88.0,0.0,0.0,0.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,Non G-10 Developed Countries,country_data,28,GREECE,40.0,5.0,45.0,0.0,0.0,0.0,0.0,45.0,17.0,5.0,22.0,0.0,0.0,0.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,Non G-10 Developed Countries,country_data,29,IRELAND,4083.0,20.0,4103.0,40.0,0.0,40.0,142.0,4285.0,3645.0,18.0,3663.0,8.0,0.0,8.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,Non G-10 Developed Countries,country_data,30,ISRAEL,625.0,184.0,809.0,0.0,0.0,0.0,0.0,809.0,412.0,189.0,601.0,0.0,0.0,0.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,Non G-10 Developed Countries,country_data,31,NEW ZEALAND,239.0,7.0,246.0,154.0,102.0,256.0,0.0,502.0,288.0,18.0,306.0,0.0,0.0,0.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,Non G-10 Developed Countries,country_data,32,NORWAY,252.0,74.0,326.0,14.0,0.0,14.0,0.0,340.0,197.0,71.0,268.0,0.0,0.0,0.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,Non G-10 Developed Countries,country_data,33,PORTUGAL,22.0,33.0,55.0,0.0,0.0,0.0,0.0,55.0,49.0,48.0,97.0,0.0,0.0,0.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,Non G-10 Developed Countries,country_data,34,SLOVAKIA,0.0,3.0,3.0,0.0,0.0,0.0,0.0,3.0,8.0,2.0,10.0,0.0,0.0,0.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,Non G-10 Developed Countries,country_data,35,SPAIN,219.0,349.0,568.0,161.0,108.0,269.0,16.0,853.0,352.0,384.0,736.0,4.0,0.0,4.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,Non G-10 Developed Countries,country_data,36,OTHER NON G-10 DEV.,174.0,58.0,232.0,0.0,0.0,0.0,0.0,232.0,144.0,57.0,201.0,0.0,0.0,0.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,Non G-10 Developed Countries,subtotal,37,Total,7593.0,839.0,8432.0,4029.0,2151.0,6180.0,275.0,14887.0,6926.0,913.0,7839.0,64.0,0.0,64.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,Non G-10 Developed Countries,empty,38,,,,,,,,,,,,,,,
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,Eastern Europe,region_header,39,Eastern Europe,,,,,,,,,,,,,,
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,Eastern Europe,country_data,40,BULGARIA,0.0,3.0,3.0,0.0,0.0,0.0,0.0,3.0,5.0,3.0,8.0,0.0,0.0,0.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,Eastern Europe,country_data,41,CZECH REPUBLIC,4.0,8.0,12.0,0.0,0.0,0.0,0.0,12.0,17.0,2.0,19.0,0.0,0.0,0.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,Eastern Europe,country_data,42,HUNGARY,0.0,6.0,6.0,3.0,0.0,3.0,22.0,31.0,60.0,6.0,66.0,0.0,0.0,0.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,Eastern Europe,country_data,43,KOSOVO,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,Eastern Europe,country_data,44,POLAND,32.0,8.0,40.0,38.0,0.0,38.0,0.0,78.0,73.0,5.0,78.0,1.0,0.0,1.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,Eastern Europe,country_data,45,ROMANIA,12.0,3.0,15.0,0.0,0.0,0.0,0.0,15.0,24.0,3.0,27.0,0.0,0.0,0.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,Eastern Europe,country_data,46,RUSSIA,56.0,12.0,68.0,12.0,0.0,12.0,0.0,80.0,85.0,10.0,95.0,0.0,0.0,0.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,Eastern Europe,country_data,47,TURKEY,20.0,54.0,74.0,0.0,0.0,0.0,0.0,74.0,106.0,49.0,155.0,0.0,0.0,0.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,Eastern Europe,country_data,48,OTHER E. EUROPE,8.0,7.0,15.0,0.0,0.0,0.0,0.0,15.0,49.0,7.0,56.0,0.0,0.0,0.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,Eastern Europe,subtotal,49,Total,132.0,101.0,233.0,53.0,0.0,53.0,22.0,308.0,419.0,85.0,504.0,1.0,0.0,1.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,Eastern Europe,empty,50,,,,,,,,,,,,,,,
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,Latin America and Caribbean,region_header,51,Latin America and Caribbean,,,,,,,,,,,,,,
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,Latin America and Caribbean,country_data,52,ANGUILLA,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,16.0,0.0,16.0,0.0,0.0,0.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,Latin America and Caribbean,country_data,53,ARGENTINA,112.0,250.0,362.0,430.0,202.0,632.0,2.0,996.0,333.0,226.0,559.0,160.0,23.0,183.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,Latin America and Caribbean,country_data,54,BRAZIL,750.0,1200.0,1950.0,0.0,0.0,0.0,0.0,1950.0,960.0,1162.0,2122.0,27.0,0.0,27.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,Latin America and Caribbean,country_data,55,CHILE,508.0,91.0,599.0,7.0,0.0,7.0,21.0,627.0,804.0,116.0,920.0,0.0,0.0,0.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,Latin America and Caribbean,country_data,56,COLOMBIA,202.0,245.0,447.0,0.0,0.0,0.0,2.0,449.0,360.0,128.0,488.0,0.0,0.0,0.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,Latin America and Caribbean,country_data,57,COSTA RICA,35.0,28.0,63.0,0.0,0.0,0.0,0.0,63.0,118.0,37.0,155.0,0.0,0.0,0.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,Latin America and Caribbean,country_data,58,DOMINICAN REPUBLIC,5.0,40.0,45.0,0.0,0.0,0.0,0.0,45.0,136.0,90.0,226.0,0.0,0.0,0.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,Latin America and Caribbean,country_data,59,ECUADOR,69.0,146.0,215.0,0.0,0.0,0.0,0.0,215.0,238.0,147.0,385.0,0.0,0.0,0.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,Latin America and Caribbean,country_data,60,EL SALVADOR,1.0,14.0,15.0,0.0,0.0,0.0,0.0,15.0,23.0,31.0,54.0,0.0,0.0,0.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,Latin America and Caribbean,country_data,61,FRENCH GUIANA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,Latin America and Caribbean,country_data,62,GUATEMALA,22.0,82.0,104.0,0.0,0.0,0.0,0.0,104.0,119.0,126.0,245.0,0.0,0.0,0.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,Latin America and Caribbean,country_data,63,HONDURAS,5.0,30.0,35.0,0.0,0.0,0.0,0.0,35.0,39.0,46.0,85.0,0.0,0.0,0.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,Latin America and Caribbean,country_data,64,MEXICO,2130.0,970.0,3100.0,753.0,1928.0,2681.0,74.0,5855.0,3116.0,1738.0,4854.0,16.0,2.0,18.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,Latin America and Caribbean,country_data,65,MONTSERRAT,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,Latin America and Caribbean,country_data,66,PERU,464.0,92.0,556.0,0.0,0.0,0.0,1.0,557.0,532.0,126.0,658.0,0.0,0.0,0.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,Latin America and Caribbean,country_data,67,URUGUAY,33.0,38.0,71.0,0.0,0.0,0.0,1.0,72.0,235.0,76.0,311.0,0.0,0.0,0.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,Latin America and Caribbean,country_data,68,VENEZUELA,17.0,352.0,369.0,0.0,0.0,0.0,0.0,369.0,162.0,557.0,719.0,0.0,0.0,0.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,Latin America and Caribbean,country_data,69,OTHER LAT. AM. & CAR.,1463.0,364.0,1827.0,93.0,258.0,351.0,11.0,2189.0,3034.0,453.0,3487.0,96.0,262.0,358.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,Latin America and Caribbean,subtotal,70,Total,5817.0,3942.0,9759.0,1283.0,2388.0,3671.0,112.0,13542.0,10225.0,5059.0,15284.0,299.0,287.0,586.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,Latin America and Caribbean,empty,71,,,,,,,,,,,,,,,
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,Asia and Pacific,region_header,72,Asia and Pacific,,,,,,,,,,,,,,
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,Asia and Pacific,country_data,73,CHINA-MAINLAND,821.0,3092.0,3913.0,557.0,0.0,557.0,1.0,4471.0,691.0,3458.0,4149.0,122.0,0.0,122.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,Asia and Pacific,country_data,74,INDIA,87.0,37.0,124.0,128.0,431.0,559.0,0.0,683.0,105.0,36.0,141.0,0.0,0.0,0.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,Asia and Pacific,country_data,75,INDONESIA,36.0,40.0,76.0,0.0,0.0,0.0,0.0,76.0,61.0,40.0,101.0,0.0,0.0,0.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,Asia and Pacific,country_data,76,"KOREA, SOUTH",349.0,40.0,389.0,0.0,0.0,0.0,0.0,389.0,249.0,41.0,290.0,0.0,0.0,0.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,Asia and Pacific,country_data,77,KUWAIT,89.0,19.0,108.0,0.0,0.0,0.0,0.0,108.0,117.0,19.0,136.0,0.0,0.0,0.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,Asia and Pacific,country_data,78,MALAYSIA,33.0,35.0,68.0,4.0,0.0,4.0,0.0,72.0,33.0,35.0,68.0,0.0,0.0,0.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,Asia and Pacific,country_data,79,PAKISTAN,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,Asia and Pacific,country_data,80,PHILIPPINES,19.0,51.0,70.0,31.0,1.0,32.0,0.0,102.0,5.0,55.0,60.0,0.0,0.0,0.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,Asia and Pacific,country_data,81,QATAR,81.0,9.0,90.0,0.0,0.0,0.0,33.0,123.0,87.0,8.0,95.0,0.0,0.0,0.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,Asia and Pacific,country_data,82,SAUDI ARABIA,86.0,34.0,120.0,0.0,0.0,0.0,0.0,120.0,118.0,34.0,152.0,0.0,0.0,0.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,Asia and Pacific,country_data,83,TAIWAN,178.0,845.0,1023.0,9.0,99.0,108.0,0.0,1131.0,118.0,881.0,999.0,0.0,0.0,0.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,Asia and Pacific,country_data,84,THAILAND,52.0,14.0,66.0,4.0,60.0,64.0,0.0,130.0,52.0,13.0,65.0,0.0,1.0,1.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,Asia and Pacific,country_data,85,UNITED ARAB EMIRATES,276.0,110.0,386.0,0.0,0.0,0.0,12.0,398.0,297.0,113.0,410.0,0.0,0.0,0.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,Asia and Pacific,country_data,86,WEST BANK AND GAZA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,Asia and Pacific,country_data,87,OTHER ASIA AND PACIFIC,274.0,27.0,301.0,0.0,10.0,10.0,3.0,314.0,330.0,30.0,360.0,0.0,0.0,0.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,Asia and Pacific,subtotal,88,Total,2381.0,4354.0,6735.0,733.0,601.0,1334.0,49.0,8118.0,2263.0,4764.0,7027.0,122.0,1.0,123.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,Asia and Pacific,empty,89,,,,,,,,,,,,,,,
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,Africa,region_header,90,Africa,,,,,,,,,,,,,,
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,Africa,country_data,91,ALGERIA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,Africa,country_data,92,EGYPT,1.0,15.0,16.0,0.0,0.0,0.0,0.0,16.0,9.0,15.0,24.0,0.0,0.0,0.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,Africa,country_data,93,GHANA,0.0,2.0,2.0,0.0,0.0,0.0,0.0,2.0,1.0,2.0,3.0,0.0,0.0,0.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,Africa,country_data,94,KENYA,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,2.0,1.0,3.0,0.0,0.0,0.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,Africa,country_data,95,MOROCCO,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,3.0,2.0,5.0,0.0,0.0,0.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,Africa,country_data,96,NIGERIA,0.0,6.0,6.0,0.0,0.0,0.0,0.0,6.0,9.0,7.0,16.0,0.0,0.0,0.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,Africa,country_data,97,SAINT HELENA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,Africa,country_data,98,SOUTH AFRICA,61.0,14.0,75.0,0.0,0.0,0.0,0.0,75.0,96.0,13.0,109.0,0.0,0.0,0.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,Africa,country_data,99,SOUTH SUDAN,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,Africa,country_data,100,OTHER AFRICA,269.0,24.0,293.0,0.0,0.0,0.0,7.0,300.0,264.0,23.0,287.0,0.0,0.0,0.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,Africa,subtotal,101,Total,331.0,63.0,394.0,0.0,0.0,0.0,7.0,401.0,384.0,63.0,447.0,0.0,0.0,0.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,Africa,empty,102,,,,,,,,,,,,,,,
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,Banking Centers,region_header,103,Banking Centers,,,,,,,,,,,,,,
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,Banking Centers,country_data,104,BAHAMAS,324.0,44.0,368.0,0.0,0.0,0.0,9.0,377.0,634.0,65.0,699.0,0.0,0.0,0.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,Banking Centers,country_data,105,BAHRAIN,0.0,2.0,2.0,0.0,0.0,0.0,8.0,10.0,0.0,2.0,2.0,0.0,0.0,0.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,Banking Centers,country_data,106,BERMUDA,3388.0,130.0,3518.0,0.0,0.0,0.0,93.0,3611.0,3395.0,153.0,3548.0,0.0,0.0,0.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,Banking Centers,country_data,107,CAYMAN ISLANDS,9242.0,45.0,9287.0,9.0,0.0,9.0,25.0,9321.0,10134.0,122.0,10256.0,174.0,0.0,174.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,Banking Centers,country_data,108,HONG KONG,300.0,547.0,847.0,503.0,392.0,895.0,9.0,1751.0,296.0,663.0,959.0,240.0,21.0,261.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,Banking Centers,country_data,109,LEBANON,3.0,42.0,45.0,0.0,0.0,0.0,0.0,45.0,8.0,43.0,51.0,0.0,0.0,0.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,Banking Centers,country_data,110,MAURITIUS,52.0,1.0,53.0,0.0,0.0,0.0,0.0,53.0,58.0,1.0,59.0,0.0,0.0,0.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,Banking Centers,country_data,111,PANAMA,266.0,60.0,326.0,0.0,0.0,0.0,11.0,337.0,932.0,97.0,1029.0,1.0,0.0,1.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,Banking Centers,country_data,112,SINGAPORE,366.0,986.0,1352.0,114.0,427.0,541.0,46.0,1939.0,334.0,996.0,1330.0,36.0,0.0,36.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,Banking Centers,country_data,113,OTHER BANKING CENTERS,1553.0,110.0,1663.0,0.0,0.0,0.0,55.0,1718.0,1697.0,87.0,1784.0,0.0,0.0,0.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,Banking Centers,subtotal,114,Total,15494.0,1967.0,17461.0,626.0,819.0,1445.0,256.0,19162.0,17488.0,2229.0,19717.0,451.0,21.0,472.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,Banking Centers,empty,115,,,,,,,,,,,,,,,
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,International & Regional Organizations,region_header,116,International & Regional Organizations,,,,,,,,,,,,,,
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,International & Regional Organizations,country_data,117,AFRICAN,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,International & Regional Organizations,organization_data,118,ASIAN,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,International & Regional Organizations,organization_data,119,CARIBBEAN,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,International & Regional Organizations,organization_data,120,EUROPEAN,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,International & Regional Organizations,country_data,121,INTERNATIONAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,International & Regional Organizations,country_data,122,LATIN AMERICAN,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,International & Regional Organizations,organization_data,123,MIDDLE EASTERN,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,International & Regional Organizations,subtotal,124,Total,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,International & Regional Organizations,empty,125,,,,,,,,,,,,,,,
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,International & Regional Organizations,country_data,126,UNITED STATES,30780.0,5042.0,35822.0,1754491.0,1728689.0,3483180.0,23913.0,3542915.0,32500.0,4903.0,37403.0,83418.0,53651.0,137069.0
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,International & Regional Organizations,empty,127,,,,,,,,,,,,,,,
+2022Q2,2022,Q2,Table 4.2,4.2,All Others,International & Regional Organizations,grand_total,128,Grand Total,95737.0,21592.0,117329.0,1777333.0,1752030.0,3529363.0,25046.0,3671738.0,100450.0,23357.0,123807.0,87316.0,54012.0,141328.0

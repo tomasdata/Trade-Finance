@@ -1,0 +1,92 @@
+period,year,quarter,table,table_num,bank_group,region,row_type,original_row_idx,country_region,Claims_Immediate_Counterparty_Basis_Cross_Border_Claims_Excluding_Claims,Claims_on_Local_Residents,Remaining_Maturity_less_than,Claims_on_Local_Residents,Total_Cross_Border_and_Local,Risk_Transfers_Outward_Risk_Transfers_7,Inward_Risk_Transfers_8,Total_Cross_Border_and_Local
+2019Q3,2019,Q3,Table 2,2,All Banks,G-10 and Luxembourg,country_data,7,BELGIUM,22640.0,564.0,19751.0,9777.0,32981.0,1191.0,3106.0,34896.0
+2019Q3,2019,Q3,Table 2,2,All Banks,G-10 and Luxembourg,country_data,8,CANADA,93906.0,11284.0,70792.0,56326.0,161516.0,8958.0,14735.0,167282.0
+2019Q3,2019,Q3,Table 2,2,All Banks,G-10 and Luxembourg,country_data,9,FRANCE,140783.0,1037.0,122269.0,23469.0,165289.0,3690.0,16179.0,177774.0
+2019Q3,2019,Q3,Table 2,2,All Banks,G-10 and Luxembourg,country_data,10,GERMANY,116270.0,1053.0,85949.0,160657.0,277980.0,10203.0,72769.0,340457.0
+2019Q3,2019,Q3,Table 2,2,All Banks,G-10 and Luxembourg,country_data,11,ITALY,54003.0,861.0,42799.0,4904.0,59768.0,353.0,2536.0,61952.0
+2019Q3,2019,Q3,Table 2,2,All Banks,G-10 and Luxembourg,country_data,12,JAPAN,115598.0,50037.0,132784.0,275869.0,441504.0,7910.0,37692.0,470983.0
+2019Q3,2019,Q3,Table 2,2,All Banks,G-10 and Luxembourg,country_data,13,LUXEMBOURG,79739.0,2064.0,58074.0,13194.0,94997.0,20622.0,4025.0,78406.0
+2019Q3,2019,Q3,Table 2,2,All Banks,G-10 and Luxembourg,country_data,14,NETHERLANDS,55910.0,936.0,32122.0,12864.0,69710.0,11210.0,9171.0,64473.0
+2019Q3,2019,Q3,Table 2,2,All Banks,G-10 and Luxembourg,country_data,15,SWEDEN,23546.0,12.0,18267.0,219.0,23777.0,3222.0,2582.0,23144.0
+2019Q3,2019,Q3,Table 2,2,All Banks,G-10 and Luxembourg,country_data,16,SWITZERLAND,28123.0,5472.0,27362.0,24277.0,57872.0,3698.0,54159.0,108281.0
+2019Q3,2019,Q3,Table 2,2,All Banks,G-10 and Luxembourg,country_data,17,UNITED KINGDOM,182789.0,112835.0,228806.0,244816.0,540440.0,87431.0,27445.0,480440.0
+2019Q3,2019,Q3,Table 2,2,All Banks,Non G-10 Developed Countries,country_data,21,AUSTRALIA,26700.0,4021.0,19606.0,71852.0,102573.0,8755.0,3567.0,97384.0
+2019Q3,2019,Q3,Table 2,2,All Banks,Non G-10 Developed Countries,country_data,22,AUSTRIA,9876.0,0.0,5440.0,92.0,9968.0,1431.0,625.0,9162.0
+2019Q3,2019,Q3,Table 2,2,All Banks,Non G-10 Developed Countries,country_data,23,CYPRUS,3106.0,0.0,2202.0,0.0,3106.0,296.0,352.0,3162.0
+2019Q3,2019,Q3,Table 2,2,All Banks,Non G-10 Developed Countries,country_data,24,DENMARK,8007.0,0.0,7266.0,467.0,8474.0,773.0,2709.0,10412.0
+2019Q3,2019,Q3,Table 2,2,All Banks,Non G-10 Developed Countries,country_data,25,FINLAND,11808.0,0.0,8819.0,142.0,11950.0,64.0,1840.0,13724.0
+2019Q3,2019,Q3,Table 2,2,All Banks,Non G-10 Developed Countries,country_data,26,GREECE,6703.0,3.0,5851.0,258.0,6964.0,301.0,165.0,6826.0
+2019Q3,2019,Q3,Table 2,2,All Banks,Non G-10 Developed Countries,country_data,27,IRELAND,97504.0,2746.0,76978.0,10115.0,110365.0,23361.0,3579.0,90504.0
+2019Q3,2019,Q3,Table 2,2,All Banks,Non G-10 Developed Countries,country_data,28,ISRAEL,5396.0,97.0,3930.0,1360.0,6853.0,825.0,853.0,6881.0
+2019Q3,2019,Q3,Table 2,2,All Banks,Non G-10 Developed Countries,country_data,29,NEW ZEALAND,2840.0,106.0,1774.0,1715.0,4661.0,1255.0,164.0,3570.0
+2019Q3,2019,Q3,Table 2,2,All Banks,Non G-10 Developed Countries,country_data,30,NORWAY,14624.0,0.0,11514.0,110.0,14734.0,1302.0,1877.0,15305.0
+2019Q3,2019,Q3,Table 2,2,All Banks,Non G-10 Developed Countries,country_data,31,PORTUGAL,3604.0,0.0,3066.0,28.0,3632.0,190.0,207.0,3647.0
+2019Q3,2019,Q3,Table 2,2,All Banks,Non G-10 Developed Countries,country_data,32,SLOVAKIA,1086.0,8.0,976.0,189.0,1283.0,69.0,14.0,1228.0
+2019Q3,2019,Q3,Table 2,2,All Banks,Non G-10 Developed Countries,country_data,33,SPAIN,40151.0,156.0,27235.0,2418.0,42725.0,1844.0,4012.0,44893.0
+2019Q3,2019,Q3,Table 2,2,All Banks,Non G-10 Developed Countries,country_data,34,OTHER NON G-10 DEV.,21933.0,0.0,2053.0,0.0,21933.0,249.0,647.0,22330.0
+2019Q3,2019,Q3,Table 2,2,All Banks,Eastern Europe,country_data,38,BULGARIA,94.0,122.0,130.0,140.0,356.0,73.0,12.0,295.0
+2019Q3,2019,Q3,Table 2,2,All Banks,Eastern Europe,country_data,39,CZECH REPUBLIC,1747.0,353.0,1996.0,2969.0,5069.0,226.0,28.0,4871.0
+2019Q3,2019,Q3,Table 2,2,All Banks,Eastern Europe,country_data,40,HUNGARY,1449.0,281.0,1597.0,1418.0,3148.0,242.0,31.0,2938.0
+2019Q3,2019,Q3,Table 2,2,All Banks,Eastern Europe,country_data,41,KOSOVO,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2019Q3,2019,Q3,Table 2,2,All Banks,Eastern Europe,country_data,42,POLAND,3499.0,2200.0,4510.0,10505.0,16204.0,666.0,310.0,15847.0
+2019Q3,2019,Q3,Table 2,2,All Banks,Eastern Europe,country_data,43,ROMANIA,618.0,489.0,688.0,1373.0,2480.0,156.0,15.0,2339.0
+2019Q3,2019,Q3,Table 2,2,All Banks,Eastern Europe,country_data,44,RUSSIA,6213.0,627.0,5395.0,6005.0,12845.0,779.0,684.0,12746.0
+2019Q3,2019,Q3,Table 2,2,All Banks,Eastern Europe,country_data,45,TURKEY,8727.0,855.0,6999.0,1657.0,11239.0,750.0,611.0,11097.0
+2019Q3,2019,Q3,Table 2,2,All Banks,Eastern Europe,country_data,46,OTHER E. EUROPE,3569.0,57.0,3496.0,635.0,4261.0,283.0,152.0,4129.0
+2019Q3,2019,Q3,Table 2,2,All Banks,Latin America and Caribbean,country_data,50,ANGUILLA,522.0,0.0,514.0,0.0,522.0,34.0,74.0,562.0
+2019Q3,2019,Q3,Table 2,2,All Banks,Latin America and Caribbean,country_data,51,ARGENTINA,5994.0,1135.0,4856.0,2664.0,9793.0,1192.0,227.0,8819.0
+2019Q3,2019,Q3,Table 2,2,All Banks,Latin America and Caribbean,country_data,52,BRAZIL,49411.0,858.0,38465.0,37385.0,87654.0,5475.0,13761.0,95926.0
+2019Q3,2019,Q3,Table 2,2,All Banks,Latin America and Caribbean,country_data,53,CHILE,9796.0,26.0,7543.0,3295.0,13117.0,634.0,332.0,12812.0
+2019Q3,2019,Q3,Table 2,2,All Banks,Latin America and Caribbean,country_data,54,COLOMBIA,5079.0,373.0,3276.0,2384.0,7836.0,1232.0,706.0,7302.0
+2019Q3,2019,Q3,Table 2,2,All Banks,Latin America and Caribbean,country_data,55,COSTA RICA,673.0,397.0,790.0,370.0,1440.0,255.0,51.0,1235.0
+2019Q3,2019,Q3,Table 2,2,All Banks,Latin America and Caribbean,country_data,56,DOMINICAN REPUBLIC,1504.0,111.0,1090.0,319.0,1934.0,524.0,50.0,1458.0
+2019Q3,2019,Q3,Table 2,2,All Banks,Latin America and Caribbean,country_data,57,ECUADOR,2696.0,665.0,2107.0,22.0,3383.0,501.0,68.0,2945.0
+2019Q3,2019,Q3,Table 2,2,All Banks,Latin America and Caribbean,country_data,58,EL SALVADOR,595.0,223.0,681.0,0.0,818.0,194.0,34.0,657.0
+2019Q3,2019,Q3,Table 2,2,All Banks,Latin America and Caribbean,country_data,59,FRENCH GUIANA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2019Q3,2019,Q3,Table 2,2,All Banks,Latin America and Caribbean,country_data,60,GUATEMALA,1677.0,114.0,1541.0,207.0,1998.0,294.0,183.0,1888.0
+2019Q3,2019,Q3,Table 2,2,All Banks,Latin America and Caribbean,country_data,61,HONDURAS,506.0,55.0,382.0,91.0,652.0,173.0,8.0,486.0
+2019Q3,2019,Q3,Table 2,2,All Banks,Latin America and Caribbean,country_data,62,MEXICO,23555.0,7519.0,17290.0,73274.0,104348.0,8844.0,3399.0,98893.0
+2019Q3,2019,Q3,Table 2,2,All Banks,Latin America and Caribbean,country_data,63,MONTSERRAT,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2019Q3,2019,Q3,Table 2,2,All Banks,Latin America and Caribbean,country_data,64,PERU,3912.0,391.0,2631.0,1498.0,5801.0,575.0,722.0,5945.0
+2019Q3,2019,Q3,Table 2,2,All Banks,Latin America and Caribbean,country_data,65,URUGUAY,1132.0,399.0,818.0,291.0,1822.0,316.0,73.0,1580.0
+2019Q3,2019,Q3,Table 2,2,All Banks,Latin America and Caribbean,country_data,66,VENEZUELA,1527.0,5.0,657.0,3.0,1535.0,872.0,244.0,898.0
+2019Q3,2019,Q3,Table 2,2,All Banks,Latin America and Caribbean,country_data,67,OTHER LAT. AM. & CAR.,48146.0,881.0,37406.0,786.0,49813.0,14808.0,1225.0,36223.0
+2019Q3,2019,Q3,Table 2,2,All Banks,Asia and Pacific,country_data,71,CHINA-MAINLAND,59063.0,5103.0,60347.0,32290.0,96456.0,4721.0,12939.0,104659.0
+2019Q3,2019,Q3,Table 2,2,All Banks,Asia and Pacific,country_data,72,INDIA,25421.0,3581.0,24881.0,44892.0,73894.0,4602.0,6021.0,75301.0
+2019Q3,2019,Q3,Table 2,2,All Banks,Asia and Pacific,country_data,73,INDONESIA,8008.0,3129.0,9219.0,4875.0,16012.0,2349.0,1134.0,14801.0
+2019Q3,2019,Q3,Table 2,2,All Banks,Asia and Pacific,country_data,74,"KOREA, SOUTH",37259.0,5073.0,38476.0,41629.0,83961.0,1533.0,6171.0,88597.0
+2019Q3,2019,Q3,Table 2,2,All Banks,Asia and Pacific,country_data,75,KUWAIT,11671.0,4.0,11316.0,238.0,11913.0,241.0,371.0,12042.0
+2019Q3,2019,Q3,Table 2,2,All Banks,Asia and Pacific,country_data,76,MALAYSIA,3960.0,2377.0,5587.0,10415.0,16752.0,1002.0,492.0,16240.0
+2019Q3,2019,Q3,Table 2,2,All Banks,Asia and Pacific,country_data,77,PAKISTAN,118.0,41.0,153.0,717.0,876.0,126.0,17.0,766.0
+2019Q3,2019,Q3,Table 2,2,All Banks,Asia and Pacific,country_data,78,PHILIPPINES,3615.0,1267.0,4369.0,4752.0,9634.0,466.0,510.0,9674.0
+2019Q3,2019,Q3,Table 2,2,All Banks,Asia and Pacific,country_data,79,QATAR,12156.0,0.0,7326.0,68.0,12224.0,216.0,1933.0,13940.0
+2019Q3,2019,Q3,Table 2,2,All Banks,Asia and Pacific,country_data,80,SAUDI ARABIA,24993.0,266.0,15704.0,1022.0,26281.0,2779.0,2103.0,25606.0
+2019Q3,2019,Q3,Table 2,2,All Banks,Asia and Pacific,country_data,81,TAIWAN,28658.0,4895.0,32706.0,18586.0,52139.0,552.0,1507.0,53091.0
+2019Q3,2019,Q3,Table 2,2,All Banks,Asia and Pacific,country_data,82,THAILAND,3950.0,128.0,3725.0,10014.0,14092.0,467.0,172.0,13795.0
+2019Q3,2019,Q3,Table 2,2,All Banks,Asia and Pacific,country_data,83,UNITED ARAB EMIRATES,11534.0,3478.0,9985.0,4088.0,19100.0,1783.0,1518.0,18837.0
+2019Q3,2019,Q3,Table 2,2,All Banks,Asia and Pacific,country_data,84,WEST BANK AND GAZA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2019Q3,2019,Q3,Table 2,2,All Banks,Asia and Pacific,country_data,85,OTHER ASIA AND PACIFIC,9528.0,1587.0,6827.0,2706.0,13821.0,4254.0,1213.0,10782.0
+2019Q3,2019,Q3,Table 2,2,All Banks,Africa,country_data,89,ALGERIA,19.0,169.0,47.0,1196.0,1384.0,322.0,0.0,1062.0
+2019Q3,2019,Q3,Table 2,2,All Banks,Africa,country_data,90,EGYPT,8226.0,71.0,7723.0,1105.0,9402.0,520.0,12.0,8893.0
+2019Q3,2019,Q3,Table 2,2,All Banks,Africa,country_data,91,GHANA,1512.0,0.0,1347.0,0.0,1512.0,174.0,73.0,1410.0
+2019Q3,2019,Q3,Table 2,2,All Banks,Africa,country_data,92,KENYA,305.0,167.0,376.0,558.0,1030.0,22.0,4.0,1013.0
+2019Q3,2019,Q3,Table 2,2,All Banks,Africa,country_data,93,MOROCCO,394.0,65.0,446.0,515.0,974.0,53.0,38.0,960.0
+2019Q3,2019,Q3,Table 2,2,All Banks,Africa,country_data,94,NIGERIA,8954.0,118.0,8456.0,965.0,10037.0,681.0,105.0,9461.0
+2019Q3,2019,Q3,Table 2,2,All Banks,Africa,country_data,95,SAINT HELENA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2019Q3,2019,Q3,Table 2,2,All Banks,Africa,country_data,96,SOUTH AFRICA,7071.0,136.0,5224.0,10379.0,17586.0,763.0,789.0,17613.0
+2019Q3,2019,Q3,Table 2,2,All Banks,Africa,country_data,97,SOUTH SUDAN,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2019Q3,2019,Q3,Table 2,2,All Banks,Africa,country_data,98,OTHER AFRICA,4627.0,285.0,3123.0,1193.0,6105.0,2277.0,384.0,4209.0
+2019Q3,2019,Q3,Table 2,2,All Banks,Banking Centers,country_data,102,BAHAMAS,15527.0,10.0,13786.0,40.0,15577.0,4316.0,189.0,11453.0
+2019Q3,2019,Q3,Table 2,2,All Banks,Banking Centers,country_data,103,BAHRAIN,1989.0,27.0,1512.0,397.0,2413.0,480.0,15.0,1947.0
+2019Q3,2019,Q3,Table 2,2,All Banks,Banking Centers,country_data,104,BERMUDA,29215.0,61.0,21917.0,11.0,29287.0,5810.0,2911.0,26375.0
+2019Q3,2019,Q3,Table 2,2,All Banks,Banking Centers,country_data,105,CAYMAN ISLANDS,549264.0,815.0,411745.0,6.0,550085.0,68158.0,10841.0,492767.0
+2019Q3,2019,Q3,Table 2,2,All Banks,Banking Centers,country_data,106,HONG KONG,34706.0,15350.0,42834.0,41341.0,91397.0,12360.0,7717.0,86748.0
+2019Q3,2019,Q3,Table 2,2,All Banks,Banking Centers,country_data,107,LEBANON,1730.0,123.0,1031.0,51.0,1904.0,186.0,24.0,1742.0
+2019Q3,2019,Q3,Table 2,2,All Banks,Banking Centers,country_data,108,MAURITIUS,3782.0,545.0,2334.0,639.0,4966.0,1234.0,8.0,3190.0
+2019Q3,2019,Q3,Table 2,2,All Banks,Banking Centers,country_data,109,PANAMA,5173.0,759.0,2913.0,14.0,5946.0,2323.0,542.0,4158.0
+2019Q3,2019,Q3,Table 2,2,All Banks,Banking Centers,country_data,110,SINGAPORE,43396.0,16271.0,54102.0,35453.0,95120.0,7928.0,3716.0,90930.0
+2019Q3,2019,Q3,Table 2,2,All Banks,Banking Centers,country_data,111,OTHER BANKING CENTERS,24437.0,1000.0,14018.0,222.0,25659.0,4753.0,1585.0,22485.0
+2019Q3,2019,Q3,Table 2,2,All Banks,International & Regional Organizations,country_data,115,AFRICAN,836.0,0.0,399.0,0.0,836.0,0.0,2.0,838.0
+2019Q3,2019,Q3,Table 2,2,All Banks,International & Regional Organizations,country_data,119,INTERNATIONAL,12300.0,0.0,5324.0,0.0,12300.0,0.0,699.0,13001.0
+2019Q3,2019,Q3,Table 2,2,All Banks,International & Regional Organizations,country_data,120,LATIN AMERICAN,4969.0,0.0,1974.0,0.0,4969.0,0.0,66.0,5035.0
+2019Q3,2019,Q3,Table 2,2,All Banks,International & Regional Organizations,country_data,124,UNITED STATES,217124.0,195654.0,228287.0,12607532.0,13020310.0,440900.0,462342.0,13051647.0

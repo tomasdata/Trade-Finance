@@ -1,0 +1,148 @@
+═══════════════════════════════════════════════════════════════════════════════
+ PIPELINE DE PROCESAMIENTO - FFIEC 009
+═══════════════════════════════════════════════════════════════════════════════
+
+ENTRADA: 40 archivos Excel FFIEC 009 (2015-2024)
+  → Cada archivo: 16 hojas (1 portada + 15 tablas)
+  → Por tabla: ~120 filas × 8-21 columnas
+
+                    ↓
+
+[PASO 1] 1_extract_raw.py - EXTRACCIÓN CRUDA
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  ✓ Copia EXACTA Excel → CSV
+  ✓ Preserva TODO (headers, vacías, caracteres especiales)
+  ✓ Genera metadatos JSON
+
+  Salida: extracted_raw/[periodo]/
+          ├── All_Banks_Table_1.csv (130×17)
+          ├── LFI_Table_1.csv
+          └── file_metadata.json
+
+                    ↓
+
+[PASO 2] 2_analyze_structure.py - ANÁLISIS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  ✓ Detecta fila de inicio automáticamente
+  ✓ Identifica columnas vacías por tabla
+  ✓ Construye encabezados multi-nivel
+  ✓ Clasifica tipos de filas
+
+  Hallazgos:
+    • Table 1: inicio fila 9, cols vacías [0,8,14]
+    • 91 filas de datos de países
+    • 8 encabezados de región
+    • 8 subtotales + 1 grand total
+
+  Salida: analysis_reports/
+          ├── analysis_[periodo].json
+          └── report_[periodo].txt
+
+                    ↓
+
+[PASO 3] 3_clean_and_organize.py - LIMPIEZA
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  ✓ Limpia caracteres (\n, \xa0, espacios dobles)
+  ✓ Elimina columnas vacías
+  ✓ Construye nombres descriptivos
+  ✓ Convierte tipos (string → float)
+  ✓ Clasifica cada fila
+  ✓ Agrega 9 columnas de metadatos
+
+  Metadatos agregados:
+    1. period (2024Q3)
+    2. year (2024)
+    3. quarter (Q3)
+    4. table (Table 1)
+    5. table_num (1)
+    6. bank_group (All Banks/LFI/All Others)
+    7. region (G-10 and Luxembourg)
+    8. row_type (country_data/subtotal/etc)
+    9. original_row_idx (10)
+
+  Salida: cleaned_data/[periodo]/
+          ├── All_Banks_Table_1.csv (121×23)
+          ├── LFI_Table_1.csv
+          └── processing_summary.json
+
+                    ↓
+
+[PASO 4] 4_validate_and_document.py - VALIDACIÓN
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  ✓ Valida filas (original vs procesado)
+  ✓ Compara Grand Total
+  ✓ Confirma regiones detectadas
+  ✓ Genera estadísticas
+
+  Salida: validation_reports/
+          ├── validation_[periodo].json
+          ├── validation_[periodo].txt
+          └── global_summary.json
+
+                    ↓
+
+SALIDA FINAL: CSVs Limpios
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Estructura de cada CSV:
+
+  ┌─────────────┬──────────┬───────────────┐
+  │ Metadatos   │ ID       │ Datos (8-18)  │
+  │ (9 cols)    │ (1 col)  │ numéricas     │
+  └─────────────┴──────────┴───────────────┘
+
+Ejemplo de fila:
+  2024Q3 | 2024 | Q3 | Table 1 | 1 | All Banks |
+  G-10 and Luxembourg | country_data | 10 | BELGIUM |
+  25382.0 | 10683.0 | 360.0 | ...
+
+═══════════════════════════════════════════════════════════════════════════════
+ ESTADÍSTICAS (Archivo de Prueba)
+═══════════════════════════════════════════════════════════════════════════════
+
+  📊 Archivos procesados: 1 período
+  📊 Tablas: 15 (3 grupos × 5 tipos)
+  📊 Filas totales: 1,815
+  📊 Filas de datos: ~1,365
+
+  Clasificación por tabla:
+    • country_data: 91 (70%)
+    • region_header: 8 (7%)
+    • subtotal: 8 (7%)
+    • organization_data: 4 (3%)
+    • grand_total: 1 (1%)
+    • empty: 9 (7%)
+
+═══════════════════════════════════════════════════════════════════════════════
+ USO PARA ANÁLISIS
+═══════════════════════════════════════════════════════════════════════════════
+
+  import pandas as pd
+
+  # Cargar datos
+  df = pd.read_csv('cleaned_data/2024Q3/All_Banks_Table_1.csv')
+
+  # Solo países (sin totales)
+  countries = df[df['row_type'] == 'country_data']
+
+  # Por región
+  g10 = df[df['region'] == 'G-10 and Luxembourg']
+
+  # Filtrar vacías y totales
+  clean = df[~df['row_type'].isin(['empty', 'subtotal', 'grand_total'])]
+
+  # Combinar períodos
+  all_data = pd.concat([df_q1, df_q2, df_q3, df_q4])
+
+═══════════════════════════════════════════════════════════════════════════════
+ GARANTÍAS ✓
+═══════════════════════════════════════════════════════════════════════════════
+
+  ✓ Sin pérdida de información
+  ✓ Tipos de datos correctos
+  ✓ Metadatos completos
+  ✓ Trazabilidad total
+  ✓ Clasificación precisa
+  ✓ Estructura consistente
+  ✓ Validación automatizada
+  ✓ Documentación completa

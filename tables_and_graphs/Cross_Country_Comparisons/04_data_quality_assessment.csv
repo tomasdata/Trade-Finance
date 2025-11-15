@@ -1,0 +1,5 @@
+Country,Overall_Score,Granularity,Time_Span_Years,Observations,Firm_Size_Data,Geographic_Data,Sector_Data,Maturity_Data,NPL_Data,Currency_Data,Export_Import_Split,Main_Gap
+Brazil,5,Excellent,13,838167,Yes,Yes (states),Yes (CNAE),Yes,Yes,BRL/USD,No,None
+Chile,3,Good,26,762687,No,No,Operation type,No,No,CLP/FX/IPC,Yes,Firm size
+Peru,4,Very Good,14,96496,Yes (5 levels),No,No,No,No,PEN/USD,No,Geography
+Mexico,2,Limited,3,2204,No,No,No,No,No,USD only,No,75-85% of TF missing

@@ -1,0 +1,92 @@
+period,year,quarter,table,table_num,bank_group,region,row_type,original_row_idx,country_region,Ultimate_Risk_Claims_2_Cross_Border_Claims_Corporate,Households,Total_Other,Claims_on_Local_Residents_Corporate,Households,Total_Other,Fair_Value_of_Derivatives_3,Total_Claims,Immediate_Counterparty_Basis_Claims_Cross_Border_Claims_Corporate,Households,Total_Other,Claims_on_Local_Residents_Corporate,Households,Total_Other
+2021Q1,2021,Q1,Table 4.2,4.2,All Banks,G-10 and Luxembourg,country_data,9,BELGIUM,3241.0,69.0,3310.0,44.0,93.0,137.0,477.0,3924.0,3103.0,85.0,3188.0,0.0,3.0,3.0
+2021Q1,2021,Q1,Table 4.2,4.2,All Banks,G-10 and Luxembourg,country_data,10,CANADA,22987.0,3111.0,26098.0,21950.0,7482.0,29432.0,2591.0,58121.0,19236.0,2784.0,22020.0,8118.0,39.0,8157.0
+2021Q1,2021,Q1,Table 4.2,4.2,All Banks,G-10 and Luxembourg,country_data,11,FRANCE,20748.0,472.0,21220.0,8540.0,1644.0,10184.0,2650.0,34054.0,18916.0,448.0,19364.0,682.0,9.0,691.0
+2021Q1,2021,Q1,Table 4.2,4.2,All Banks,G-10 and Luxembourg,country_data,12,GERMANY,28867.0,734.0,29601.0,5083.0,766.0,5849.0,6637.0,42087.0,24634.0,1260.0,25894.0,859.0,104.0,963.0
+2021Q1,2021,Q1,Table 4.2,4.2,All Banks,G-10 and Luxembourg,country_data,13,ITALY,8364.0,282.0,8646.0,2707.0,1568.0,4275.0,400.0,13321.0,7905.0,250.0,8155.0,230.0,42.0,272.0
+2021Q1,2021,Q1,Table 4.2,4.2,All Banks,G-10 and Luxembourg,country_data,14,JAPAN,16020.0,517.0,16537.0,23352.0,2659.0,26011.0,605.0,43153.0,11787.0,414.0,12201.0,1214.0,0.0,1214.0
+2021Q1,2021,Q1,Table 4.2,4.2,All Banks,G-10 and Luxembourg,country_data,15,LUXEMBOURG,14026.0,17.0,14043.0,1612.0,0.0,1612.0,1506.0,17161.0,20963.0,29.0,20992.0,436.0,0.0,436.0
+2021Q1,2021,Q1,Table 4.2,4.2,All Banks,G-10 and Luxembourg,country_data,16,NETHERLANDS,21787.0,130.0,21917.0,1303.0,175.0,1478.0,2137.0,25532.0,27123.0,161.0,27284.0,44.0,0.0,44.0
+2021Q1,2021,Q1,Table 4.2,4.2,All Banks,G-10 and Luxembourg,country_data,17,SWEDEN,5221.0,426.0,5647.0,13.0,102.0,115.0,143.0,5905.0,5069.0,421.0,5490.0,1.0,0.0,1.0
+2021Q1,2021,Q1,Table 4.2,4.2,All Banks,G-10 and Luxembourg,country_data,18,SWITZERLAND,11596.0,715.0,12311.0,472.0,2363.0,2835.0,1388.0,16534.0,11765.0,511.0,12276.0,703.0,1448.0,2151.0
+2021Q1,2021,Q1,Table 4.2,4.2,All Banks,G-10 and Luxembourg,country_data,19,UNITED KINGDOM,24124.0,4801.0,28925.0,49270.0,9532.0,58802.0,7873.0,95600.0,23145.0,4952.0,28097.0,12670.0,807.0,13477.0
+2021Q1,2021,Q1,Table 4.2,4.2,All Banks,Non G-10 Developed Countries,country_data,23,AUSTRALIA,5780.0,261.0,6041.0,14577.0,10891.0,25468.0,1180.0,32689.0,4454.0,264.0,4718.0,1415.0,0.0,1415.0
+2021Q1,2021,Q1,Table 4.2,4.2,All Banks,Non G-10 Developed Countries,country_data,24,AUSTRIA,1384.0,53.0,1437.0,36.0,31.0,67.0,42.0,1546.0,2044.0,69.0,2113.0,0.0,0.0,0.0
+2021Q1,2021,Q1,Table 4.2,4.2,All Banks,Non G-10 Developed Countries,country_data,25,CYPRUS,649.0,53.0,702.0,0.0,0.0,0.0,8.0,710.0,660.0,41.0,701.0,0.0,0.0,0.0
+2021Q1,2021,Q1,Table 4.2,4.2,All Banks,Non G-10 Developed Countries,country_data,26,DENMARK,2986.0,85.0,3071.0,12.0,0.0,12.0,302.0,3385.0,2918.0,32.0,2950.0,1.0,0.0,1.0
+2021Q1,2021,Q1,Table 4.2,4.2,All Banks,Non G-10 Developed Countries,country_data,27,FINLAND,3231.0,4.0,3235.0,7.0,50.0,57.0,131.0,3423.0,2975.0,4.0,2979.0,0.0,0.0,0.0
+2021Q1,2021,Q1,Table 4.2,4.2,All Banks,Non G-10 Developed Countries,country_data,28,GREECE,492.0,61.0,553.0,227.0,0.0,227.0,19.0,799.0,444.0,60.0,504.0,0.0,0.0,0.0
+2021Q1,2021,Q1,Table 4.2,4.2,All Banks,Non G-10 Developed Countries,country_data,29,IRELAND,13043.0,147.0,13190.0,1979.0,0.0,1979.0,1014.0,16183.0,13840.0,141.0,13981.0,460.0,0.0,460.0
+2021Q1,2021,Q1,Table 4.2,4.2,All Banks,Non G-10 Developed Countries,country_data,30,ISRAEL,2954.0,231.0,3185.0,156.0,0.0,156.0,399.0,3740.0,2574.0,282.0,2856.0,162.0,0.0,162.0
+2021Q1,2021,Q1,Table 4.2,4.2,All Banks,Non G-10 Developed Countries,country_data,31,NEW ZEALAND,742.0,38.0,780.0,363.0,113.0,476.0,77.0,1333.0,763.0,39.0,802.0,49.0,0.0,49.0
+2021Q1,2021,Q1,Table 4.2,4.2,All Banks,Non G-10 Developed Countries,country_data,32,NORWAY,3047.0,61.0,3108.0,10.0,0.0,10.0,310.0,3428.0,3080.0,60.0,3140.0,0.0,0.0,0.0
+2021Q1,2021,Q1,Table 4.2,4.2,All Banks,Non G-10 Developed Countries,country_data,33,PORTUGAL,1242.0,68.0,1310.0,2.0,0.0,2.0,208.0,1520.0,1390.0,70.0,1460.0,1.0,0.0,1.0
+2021Q1,2021,Q1,Table 4.2,4.2,All Banks,Non G-10 Developed Countries,country_data,34,SLOVAKIA,214.0,2.0,216.0,181.0,0.0,181.0,34.0,431.0,223.0,2.0,225.0,5.0,0.0,5.0
+2021Q1,2021,Q1,Table 4.2,4.2,All Banks,Non G-10 Developed Countries,country_data,35,SPAIN,12273.0,763.0,13036.0,830.0,165.0,995.0,704.0,14735.0,11437.0,863.0,12300.0,155.0,1.0,156.0
+2021Q1,2021,Q1,Table 4.2,4.2,All Banks,Non G-10 Developed Countries,country_data,36,OTHER NON G-10 DEV.,307.0,263.0,570.0,0.0,0.0,0.0,10.0,580.0,309.0,216.0,525.0,0.0,0.0,0.0
+2021Q1,2021,Q1,Table 4.2,4.2,All Banks,Eastern Europe,country_data,40,BULGARIA,153.0,6.0,159.0,51.0,0.0,51.0,13.0,223.0,193.0,6.0,199.0,38.0,0.0,38.0
+2021Q1,2021,Q1,Table 4.2,4.2,All Banks,Eastern Europe,country_data,41,CZECH REPUBLIC,140.0,13.0,153.0,509.0,0.0,509.0,131.0,793.0,230.0,3.0,233.0,366.0,0.0,366.0
+2021Q1,2021,Q1,Table 4.2,4.2,All Banks,Eastern Europe,country_data,42,HUNGARY,124.0,13.0,137.0,295.0,0.0,295.0,93.0,525.0,235.0,13.0,248.0,246.0,0.0,246.0
+2021Q1,2021,Q1,Table 4.2,4.2,All Banks,Eastern Europe,country_data,43,KOSOVO,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2021Q1,2021,Q1,Table 4.2,4.2,All Banks,Eastern Europe,country_data,44,POLAND,837.0,78.0,915.0,2319.0,1631.0,3950.0,263.0,5128.0,835.0,78.0,913.0,550.0,15.0,565.0
+2021Q1,2021,Q1,Table 4.2,4.2,All Banks,Eastern Europe,country_data,45,ROMANIA,97.0,6.0,103.0,308.0,0.0,308.0,4.0,415.0,200.0,4.0,204.0,195.0,0.0,195.0
+2021Q1,2021,Q1,Table 4.2,4.2,All Banks,Eastern Europe,country_data,46,RUSSIA,2626.0,53.0,2679.0,1333.0,627.0,1960.0,85.0,4724.0,2537.0,55.0,2592.0,384.0,2.0,386.0
+2021Q1,2021,Q1,Table 4.2,4.2,All Banks,Eastern Europe,country_data,47,TURKEY,2097.0,116.0,2213.0,855.0,0.0,855.0,128.0,3196.0,1979.0,101.0,2080.0,439.0,0.0,439.0
+2021Q1,2021,Q1,Table 4.2,4.2,All Banks,Eastern Europe,country_data,48,OTHER E. EUROPE,297.0,147.0,444.0,61.0,1.0,62.0,5.0,511.0,332.0,54.0,386.0,26.0,0.0,26.0
+2021Q1,2021,Q1,Table 4.2,4.2,All Banks,Latin America and Caribbean,country_data,52,ANGUILLA,36.0,1.0,37.0,0.0,0.0,0.0,2.0,39.0,52.0,1.0,53.0,0.0,0.0,0.0
+2021Q1,2021,Q1,Table 4.2,4.2,All Banks,Latin America and Caribbean,country_data,53,ARGENTINA,997.0,292.0,1289.0,1020.0,132.0,1152.0,15.0,2456.0,1354.0,347.0,1701.0,335.0,9.0,344.0
+2021Q1,2021,Q1,Table 4.2,4.2,All Banks,Latin America and Caribbean,country_data,54,BRAZIL,21616.0,2030.0,23646.0,6140.0,55.0,6195.0,1147.0,30988.0,22474.0,2010.0,24484.0,1458.0,0.0,1458.0
+2021Q1,2021,Q1,Table 4.2,4.2,All Banks,Latin America and Caribbean,country_data,55,CHILE,1515.0,133.0,1648.0,578.0,0.0,578.0,506.0,2732.0,1823.0,224.0,2047.0,1.0,0.0,1.0
+2021Q1,2021,Q1,Table 4.2,4.2,All Banks,Latin America and Caribbean,country_data,56,COLOMBIA,1529.0,318.0,1847.0,468.0,0.0,468.0,260.0,2575.0,1828.0,212.0,2040.0,7.0,0.0,7.0
+2021Q1,2021,Q1,Table 4.2,4.2,All Banks,Latin America and Caribbean,country_data,57,COSTA RICA,146.0,26.0,172.0,15.0,0.0,15.0,27.0,214.0,228.0,46.0,274.0,7.0,0.0,7.0
+2021Q1,2021,Q1,Table 4.2,4.2,All Banks,Latin America and Caribbean,country_data,58,DOMINICAN REPUBLIC,310.0,101.0,411.0,57.0,0.0,57.0,17.0,485.0,478.0,158.0,636.0,8.0,0.0,8.0
+2021Q1,2021,Q1,Table 4.2,4.2,All Banks,Latin America and Caribbean,country_data,59,ECUADOR,187.0,155.0,342.0,163.0,0.0,163.0,1.0,506.0,567.0,187.0,754.0,204.0,0.0,204.0
+2021Q1,2021,Q1,Table 4.2,4.2,All Banks,Latin America and Caribbean,country_data,60,EL SALVADOR,157.0,46.0,203.0,11.0,0.0,11.0,0.0,214.0,196.0,81.0,277.0,18.0,0.0,18.0
+2021Q1,2021,Q1,Table 4.2,4.2,All Banks,Latin America and Caribbean,country_data,61,FRENCH GUIANA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2021Q1,2021,Q1,Table 4.2,4.2,All Banks,Latin America and Caribbean,country_data,62,GUATEMALA,512.0,70.0,582.0,4.0,0.0,4.0,25.0,611.0,530.0,119.0,649.0,1.0,0.0,1.0
+2021Q1,2021,Q1,Table 4.2,4.2,All Banks,Latin America and Caribbean,country_data,63,HONDURAS,85.0,38.0,123.0,11.0,0.0,11.0,1.0,135.0,113.0,59.0,172.0,3.0,0.0,3.0
+2021Q1,2021,Q1,Table 4.2,4.2,All Banks,Latin America and Caribbean,country_data,64,MEXICO,15905.0,3432.0,19337.0,14734.0,15276.0,30010.0,1428.0,50775.0,16679.0,4071.0,20750.0,4690.0,55.0,4745.0
+2021Q1,2021,Q1,Table 4.2,4.2,All Banks,Latin America and Caribbean,country_data,65,MONTSERRAT,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2021Q1,2021,Q1,Table 4.2,4.2,All Banks,Latin America and Caribbean,country_data,66,PERU,1319.0,214.0,1533.0,317.0,0.0,317.0,115.0,1965.0,1348.0,302.0,1650.0,132.0,0.0,132.0
+2021Q1,2021,Q1,Table 4.2,4.2,All Banks,Latin America and Caribbean,country_data,67,URUGUAY,140.0,67.0,207.0,49.0,3.0,52.0,36.0,295.0,331.0,86.0,417.0,74.0,3.0,77.0
+2021Q1,2021,Q1,Table 4.2,4.2,All Banks,Latin America and Caribbean,country_data,68,VENEZUELA,49.0,938.0,987.0,2.0,0.0,2.0,1.0,990.0,193.0,1345.0,1538.0,0.0,0.0,0.0
+2021Q1,2021,Q1,Table 4.2,4.2,All Banks,Latin America and Caribbean,country_data,69,OTHER LAT. AM. & CAR.,9119.0,832.0,9951.0,580.0,280.0,860.0,723.0,11534.0,11917.0,1912.0,13829.0,545.0,285.0,830.0
+2021Q1,2021,Q1,Table 4.2,4.2,All Banks,Asia and Pacific,country_data,73,CHINA-MAINLAND,55584.0,3191.0,58775.0,7072.0,3437.0,10509.0,422.0,69706.0,49384.0,3463.0,52847.0,5518.0,7.0,5525.0
+2021Q1,2021,Q1,Table 4.2,4.2,All Banks,Asia and Pacific,country_data,74,INDIA,11963.0,394.0,12357.0,10077.0,3912.0,13989.0,431.0,26777.0,10218.0,411.0,10629.0,2204.0,0.0,2204.0
+2021Q1,2021,Q1,Table 4.2,4.2,All Banks,Asia and Pacific,country_data,75,INDONESIA,1178.0,1122.0,2300.0,1539.0,650.0,2189.0,68.0,4557.0,1601.0,955.0,2556.0,759.0,15.0,774.0
+2021Q1,2021,Q1,Table 4.2,4.2,All Banks,Asia and Pacific,country_data,76,"KOREA, SOUTH",18598.0,74.0,18672.0,5296.0,18260.0,23556.0,331.0,42559.0,14591.0,77.0,14668.0,1955.0,40.0,1995.0
+2021Q1,2021,Q1,Table 4.2,4.2,All Banks,Asia and Pacific,country_data,77,KUWAIT,718.0,103.0,821.0,51.0,0.0,51.0,1.0,873.0,735.0,104.0,839.0,1.0,0.0,1.0
+2021Q1,2021,Q1,Table 4.2,4.2,All Banks,Asia and Pacific,country_data,78,MALAYSIA,1249.0,295.0,1544.0,1430.0,3494.0,4924.0,307.0,6775.0,1124.0,282.0,1406.0,1290.0,0.0,1290.0
+2021Q1,2021,Q1,Table 4.2,4.2,All Banks,Asia and Pacific,country_data,79,PAKISTAN,19.0,15.0,34.0,121.0,0.0,121.0,1.0,156.0,19.0,16.0,35.0,8.0,0.0,8.0
+2021Q1,2021,Q1,Table 4.2,4.2,All Banks,Asia and Pacific,country_data,80,PHILIPPINES,861.0,358.0,1219.0,668.0,1065.0,1733.0,77.0,3029.0,511.0,429.0,940.0,117.0,0.0,117.0
+2021Q1,2021,Q1,Table 4.2,4.2,All Banks,Asia and Pacific,country_data,81,QATAR,1062.0,132.0,1194.0,2.0,0.0,2.0,72.0,1268.0,1131.0,130.0,1261.0,0.0,0.0,0.0
+2021Q1,2021,Q1,Table 4.2,4.2,All Banks,Asia and Pacific,country_data,82,SAUDI ARABIA,4481.0,234.0,4715.0,286.0,0.0,286.0,175.0,5176.0,5393.0,204.0,5597.0,183.0,0.0,183.0
+2021Q1,2021,Q1,Table 4.2,4.2,All Banks,Asia and Pacific,country_data,83,TAIWAN,25341.0,537.0,25878.0,5695.0,8186.0,13881.0,72.0,39831.0,23108.0,599.0,23707.0,3357.0,19.0,3376.0
+2021Q1,2021,Q1,Table 4.2,4.2,All Banks,Asia and Pacific,country_data,84,THAILAND,2117.0,207.0,2324.0,835.0,3058.0,3893.0,144.0,6361.0,2077.0,213.0,2290.0,73.0,0.0,73.0
+2021Q1,2021,Q1,Table 4.2,4.2,All Banks,Asia and Pacific,country_data,85,UNITED ARAB EMIRATES,3026.0,1398.0,4424.0,2000.0,729.0,2729.0,346.0,7499.0,3482.0,1376.0,4858.0,2015.0,0.0,2015.0
+2021Q1,2021,Q1,Table 4.2,4.2,All Banks,Asia and Pacific,country_data,86,WEST BANK AND GAZA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2021Q1,2021,Q1,Table 4.2,4.2,All Banks,Asia and Pacific,country_data,87,OTHER ASIA AND PACIFIC,3482.0,404.0,3886.0,766.0,258.0,1024.0,204.0,5114.0,4330.0,404.0,4734.0,377.0,0.0,377.0
+2021Q1,2021,Q1,Table 4.2,4.2,All Banks,Africa,country_data,91,ALGERIA,0.0,1.0,1.0,313.0,0.0,313.0,0.0,314.0,0.0,1.0,1.0,28.0,0.0,28.0
+2021Q1,2021,Q1,Table 4.2,4.2,All Banks,Africa,country_data,92,EGYPT,174.0,15.0,189.0,112.0,0.0,112.0,0.0,301.0,219.0,23.0,242.0,32.0,0.0,32.0
+2021Q1,2021,Q1,Table 4.2,4.2,All Banks,Africa,country_data,93,GHANA,1.0,6.0,7.0,0.0,0.0,0.0,9.0,16.0,17.0,6.0,23.0,0.0,0.0,0.0
+2021Q1,2021,Q1,Table 4.2,4.2,All Banks,Africa,country_data,94,KENYA,29.0,15.0,44.0,310.0,0.0,310.0,1.0,355.0,45.0,15.0,60.0,218.0,0.0,218.0
+2021Q1,2021,Q1,Table 4.2,4.2,All Banks,Africa,country_data,95,MOROCCO,137.0,6.0,143.0,89.0,0.0,89.0,24.0,256.0,137.0,7.0,144.0,1.0,0.0,1.0
+2021Q1,2021,Q1,Table 4.2,4.2,All Banks,Africa,country_data,96,NIGERIA,179.0,30.0,209.0,282.0,0.0,282.0,15.0,506.0,529.0,30.0,559.0,115.0,0.0,115.0
+2021Q1,2021,Q1,Table 4.2,4.2,All Banks,Africa,country_data,97,SAINT HELENA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2021Q1,2021,Q1,Table 4.2,4.2,All Banks,Africa,country_data,98,SOUTH AFRICA,2722.0,48.0,2770.0,2575.0,0.0,2575.0,408.0,5753.0,1861.0,37.0,1898.0,94.0,0.0,94.0
+2021Q1,2021,Q1,Table 4.2,4.2,All Banks,Africa,country_data,99,SOUTH SUDAN,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2021Q1,2021,Q1,Table 4.2,4.2,All Banks,Africa,country_data,100,OTHER AFRICA,2502.0,63.0,2565.0,630.0,0.0,630.0,247.0,3442.0,3748.0,65.0,3813.0,261.0,0.0,261.0
+2021Q1,2021,Q1,Table 4.2,4.2,All Banks,Banking Centers,country_data,104,BAHAMAS,357.0,212.0,569.0,29.0,0.0,29.0,17.0,615.0,773.0,323.0,1096.0,18.0,0.0,18.0
+2021Q1,2021,Q1,Table 4.2,4.2,All Banks,Banking Centers,country_data,105,BAHRAIN,194.0,57.0,251.0,6.0,144.0,150.0,18.0,419.0,350.0,57.0,407.0,1.0,0.0,1.0
+2021Q1,2021,Q1,Table 4.2,4.2,All Banks,Banking Centers,country_data,106,BERMUDA,10351.0,201.0,10552.0,2.0,0.0,2.0,388.0,10942.0,8813.0,219.0,9032.0,0.0,0.0,0.0
+2021Q1,2021,Q1,Table 4.2,4.2,All Banks,Banking Centers,country_data,107,CAYMAN ISLANDS,63864.0,354.0,64218.0,545.0,0.0,545.0,758.0,65521.0,53822.0,177.0,53999.0,556.0,0.0,556.0
+2021Q1,2021,Q1,Table 4.2,4.2,All Banks,Banking Centers,country_data,108,HONG KONG,8505.0,4452.0,12957.0,7030.0,14026.0,21056.0,531.0,34544.0,7948.0,3418.0,11366.0,6220.0,2441.0,8661.0
+2021Q1,2021,Q1,Table 4.2,4.2,All Banks,Banking Centers,country_data,109,LEBANON,11.0,40.0,51.0,26.0,0.0,26.0,0.0,77.0,21.0,41.0,62.0,24.0,0.0,24.0
+2021Q1,2021,Q1,Table 4.2,4.2,All Banks,Banking Centers,country_data,110,MAURITIUS,527.0,0.0,527.0,177.0,0.0,177.0,107.0,811.0,673.0,0.0,673.0,173.0,0.0,173.0
+2021Q1,2021,Q1,Table 4.2,4.2,All Banks,Banking Centers,country_data,111,PANAMA,2167.0,78.0,2245.0,157.0,0.0,157.0,139.0,2541.0,3509.0,218.0,3727.0,158.0,0.0,158.0
+2021Q1,2021,Q1,Table 4.2,4.2,All Banks,Banking Centers,country_data,112,SINGAPORE,4474.0,1021.0,5495.0,5010.0,13560.0,18570.0,1623.0,25688.0,3738.0,1596.0,5334.0,4684.0,3700.0,8384.0
+2021Q1,2021,Q1,Table 4.2,4.2,All Banks,Banking Centers,country_data,113,OTHER BANKING CENTERS,7478.0,442.0,7920.0,183.0,17.0,200.0,651.0,8771.0,6574.0,356.0,6930.0,117.0,61.0,178.0
+2021Q1,2021,Q1,Table 4.2,4.2,All Banks,International & Regional Organizations,country_data,117,AFRICAN,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2021Q1,2021,Q1,Table 4.2,4.2,All Banks,International & Regional Organizations,country_data,121,INTERNATIONAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2021Q1,2021,Q1,Table 4.2,4.2,All Banks,International & Regional Organizations,country_data,122,LATIN AMERICAN,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2021Q1,2021,Q1,Table 4.2,4.2,All Banks,International & Regional Organizations,country_data,126,UNITED STATES,71945.0,8046.0,79991.0,2935188.0,3192046.0,6127234.0,126914.0,6334139.0,58641.0,7854.0,66495.0,84362.0,50042.0,134404.0

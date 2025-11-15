@@ -1,0 +1,153 @@
+{
+  "source_file": "Sep 30 2016 - E16 (009).xls",
+  "period": "2016Q3",
+  "year": "2016",
+  "quarter": "Q3",
+  "extraction_date": "2025-11-15T14:33:46.964968",
+  "sheets": {
+    "E16_009": {
+      "csv_file": "E16_009.csv",
+      "dimensions": [
+        7,
+        4
+      ],
+      "non_null_cells": 3,
+      "total_cells": 28
+    },
+    "All Banks - Table 1": {
+      "csv_file": "All_Banks_Table_1.csv",
+      "dimensions": [
+        130,
+        17
+      ],
+      "non_null_cells": 1504,
+      "total_cells": 2210
+    },
+    "All Banks - Table 2": {
+      "csv_file": "All_Banks_Table_2.csv",
+      "dimensions": [
+        127,
+        10
+      ],
+      "non_null_cells": 955,
+      "total_cells": 1270
+    },
+    "All Banks - Table 3": {
+      "csv_file": "All_Banks_Table_3.csv",
+      "dimensions": [
+        128,
+        16
+      ],
+      "non_null_cells": 1378,
+      "total_cells": 2048
+    },
+    "All Banks - Table 4.1": {
+      "csv_file": "All_Banks_Table_4_1.csv",
+      "dimensions": [
+        128,
+        21
+      ],
+      "non_null_cells": 2012,
+      "total_cells": 2688
+    },
+    "All Banks - Table 4.2": {
+      "csv_file": "All_Banks_Table_4_2.csv",
+      "dimensions": [
+        129,
+        17
+      ],
+      "non_null_cells": 1590,
+      "total_cells": 2193
+    },
+    "LFI - Table 1": {
+      "csv_file": "LFI_Table_1.csv",
+      "dimensions": [
+        126,
+        17
+      ],
+      "non_null_cells": 1448,
+      "total_cells": 2142
+    },
+    "LFI - Table 2": {
+      "csv_file": "LFI_Table_2.csv",
+      "dimensions": [
+        123,
+        10
+      ],
+      "non_null_cells": 919,
+      "total_cells": 1230
+    },
+    "LFI - Table 3": {
+      "csv_file": "LFI_Table_3.csv",
+      "dimensions": [
+        124,
+        16
+      ],
+      "non_null_cells": 1326,
+      "total_cells": 1984
+    },
+    "LFI - Table 4.1": {
+      "csv_file": "LFI_Table_4_1.csv",
+      "dimensions": [
+        124,
+        21
+      ],
+      "non_null_cells": 1936,
+      "total_cells": 2604
+    },
+    "LFI - Table 4.2": {
+      "csv_file": "LFI_Table_4_2.csv",
+      "dimensions": [
+        125,
+        17
+      ],
+      "non_null_cells": 1530,
+      "total_cells": 2125
+    },
+    "All Others - Table 1": {
+      "csv_file": "All_Others_Table_1.csv",
+      "dimensions": [
+        130,
+        17
+      ],
+      "non_null_cells": 1504,
+      "total_cells": 2210
+    },
+    "All Others - Table 2": {
+      "csv_file": "All_Others_Table_2.csv",
+      "dimensions": [
+        127,
+        10
+      ],
+      "non_null_cells": 955,
+      "total_cells": 1270
+    },
+    "All Others - Table 3": {
+      "csv_file": "All_Others_Table_3.csv",
+      "dimensions": [
+        128,
+        16
+      ],
+      "non_null_cells": 1378,
+      "total_cells": 2048
+    },
+    "All Others - Table 4.1": {
+      "csv_file": "All_Others_Table_4_1.csv",
+      "dimensions": [
+        128,
+        21
+      ],
+      "non_null_cells": 2012,
+      "total_cells": 2688
+    },
+    "All Others - Table 4.2": {
+      "csv_file": "All_Others_Table_4_2.csv",
+      "dimensions": [
+        129,
+        17
+      ],
+      "non_null_cells": 1590,
+      "total_cells": 2193
+    }
+  }
+}

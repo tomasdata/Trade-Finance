@@ -1,0 +1,5 @@
+Country,TF_Trade_Ratio,Data_Coverage,Estimated_Full_TF_Trade,Data_Quality,Years_Available,Note
+Brazil,67.4,Full TF,67.4,Excellent,2012-2024,May overestimate coverage
+Chile,0.88,Full TF,Under-reported,Good,2015-2024,Severe under-reporting suspected
+Peru,0.64,Full TF,Under-reported,Very Good,2010-2024,Severe under-reporting suspected
+Mexico,0.83,LC only (15-26%),-0.7999999999999998,Limited,2022-2025,"Only LC data, multiply by 4-7x for full TF"

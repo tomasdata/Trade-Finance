@@ -1,0 +1,117 @@
+period,year,quarter,table,table_num,bank_group,region,row_type,original_row_idx,country_region,Claims_Immediate_Counterparty_Basis_Cross_Border_Claims_Excluding_Claims,Claims_on_Local_Residents,Remaining_Maturity_less_than,Claims_on_Local_Residents,Total_Cross_Border_and_Local,Risk_Transfers_Outward_Risk_Transfers_7,Inward_Risk_Transfers_8,Total_Cross_Border_and_Local
+2016Q4,2016,Q4,Table 2,2,LFI,G-10 and Luxembourg,region_header,6,G-10 and Luxembourg,,,,,,,,
+2016Q4,2016,Q4,Table 2,2,LFI,G-10 and Luxembourg,country_data,7,BELGIUM,12820.0,381.0,7325.0,3910.0,17111.0,1614.0,3091.0,18587.0
+2016Q4,2016,Q4,Table 2,2,LFI,G-10 and Luxembourg,country_data,8,CANADA,38903.0,9215.0,29431.0,35724.0,83842.0,7035.0,5801.0,82623.0
+2016Q4,2016,Q4,Table 2,2,LFI,G-10 and Luxembourg,country_data,9,FRANCE,153041.0,213.0,128115.0,8925.0,162179.0,6691.0,15014.0,170507.0
+2016Q4,2016,Q4,Table 2,2,LFI,G-10 and Luxembourg,country_data,10,GERMANY,109292.0,737.0,71907.0,79846.0,189875.0,7104.0,19448.0,202204.0
+2016Q4,2016,Q4,Table 2,2,LFI,G-10 and Luxembourg,country_data,11,ITALY,45463.0,315.0,36645.0,3815.0,49593.0,2730.0,1709.0,48602.0
+2016Q4,2016,Q4,Table 2,2,LFI,G-10 and Luxembourg,country_data,12,JAPAN,68534.0,61828.0,113289.0,221341.0,351703.0,3964.0,17490.0,364956.0
+2016Q4,2016,Q4,Table 2,2,LFI,G-10 and Luxembourg,country_data,13,LUXEMBOURG,41133.0,1245.0,24992.0,8258.0,50636.0,7648.0,3343.0,45900.0
+2016Q4,2016,Q4,Table 2,2,LFI,G-10 and Luxembourg,country_data,14,NETHERLANDS,59923.0,57.0,26838.0,4173.0,64153.0,15392.0,5154.0,53694.0
+2016Q4,2016,Q4,Table 2,2,LFI,G-10 and Luxembourg,country_data,15,SWEDEN,19401.0,3.0,15356.0,1209.0,20613.0,632.0,1332.0,21314.0
+2016Q4,2016,Q4,Table 2,2,LFI,G-10 and Luxembourg,country_data,16,SWITZERLAND,26527.0,5853.0,25959.0,14617.0,46997.0,2789.0,6469.0,50779.0
+2016Q4,2016,Q4,Table 2,2,LFI,G-10 and Luxembourg,country_data,17,UNITED KINGDOM,76834.0,100040.0,135225.0,219619.0,396493.0,32497.0,30681.0,394679.0
+2016Q4,2016,Q4,Table 2,2,LFI,G-10 and Luxembourg,subtotal,18,Total,651871.0,179887.0,615082.0,601437.0,1433195.0,88096.0,109532.0,1453845.0
+2016Q4,2016,Q4,Table 2,2,LFI,G-10 and Luxembourg,empty,19,,,,,,,,,
+2016Q4,2016,Q4,Table 2,2,LFI,Non G-10 Developed Countries,region_header,20,Non G-10 Developed Countries,,,,,,,,
+2016Q4,2016,Q4,Table 2,2,LFI,Non G-10 Developed Countries,country_data,21,AUSTRALIA,24260.0,2358.0,12681.0,54154.0,80772.0,5747.0,3124.0,78146.0
+2016Q4,2016,Q4,Table 2,2,LFI,Non G-10 Developed Countries,country_data,22,AUSTRIA,11700.0,0.0,5564.0,1.0,11701.0,1831.0,739.0,10610.0
+2016Q4,2016,Q4,Table 2,2,LFI,Non G-10 Developed Countries,country_data,23,CYPRUS,2228.0,0.0,1357.0,0.0,2228.0,603.0,15.0,1638.0
+2016Q4,2016,Q4,Table 2,2,LFI,Non G-10 Developed Countries,country_data,24,DENMARK,7042.0,11.0,6242.0,88.0,7141.0,358.0,604.0,7387.0
+2016Q4,2016,Q4,Table 2,2,LFI,Non G-10 Developed Countries,country_data,25,FINLAND,9043.0,1.0,5560.0,24.0,9068.0,338.0,406.0,9136.0
+2016Q4,2016,Q4,Table 2,2,LFI,Non G-10 Developed Countries,country_data,26,GREECE,9710.0,0.0,9181.0,319.0,10029.0,440.0,34.0,9623.0
+2016Q4,2016,Q4,Table 2,2,LFI,Non G-10 Developed Countries,country_data,27,IRELAND,62101.0,2782.0,48063.0,2834.0,67717.0,9322.0,3159.0,61555.0
+2016Q4,2016,Q4,Table 2,2,LFI,Non G-10 Developed Countries,country_data,28,ISRAEL,4044.0,219.0,2729.0,865.0,5128.0,581.0,1428.0,5976.0
+2016Q4,2016,Q4,Table 2,2,LFI,Non G-10 Developed Countries,country_data,29,NEW ZEALAND,1664.0,5.0,1252.0,1740.0,3409.0,611.0,128.0,2924.0
+2016Q4,2016,Q4,Table 2,2,LFI,Non G-10 Developed Countries,country_data,30,NORWAY,13309.0,9.0,11154.0,70.0,13388.0,615.0,926.0,13699.0
+2016Q4,2016,Q4,Table 2,2,LFI,Non G-10 Developed Countries,country_data,31,PORTUGAL,3849.0,22.0,2846.0,88.0,3959.0,558.0,213.0,3613.0
+2016Q4,2016,Q4,Table 2,2,LFI,Non G-10 Developed Countries,country_data,32,SLOVAKIA,277.0,25.0,85.0,230.0,532.0,35.0,120.0,619.0
+2016Q4,2016,Q4,Table 2,2,LFI,Non G-10 Developed Countries,country_data,33,SPAIN,28329.0,42.0,20780.0,2269.0,30640.0,1997.0,2821.0,31456.0
+2016Q4,2016,Q4,Table 2,2,LFI,Non G-10 Developed Countries,country_data,34,OTHER NON G-10 DEV.,1611.0,1.0,1257.0,3.0,1615.0,387.0,377.0,1603.0
+2016Q4,2016,Q4,Table 2,2,LFI,Non G-10 Developed Countries,subtotal,35,Total,179167.0,5475.0,128751.0,62685.0,247327.0,23423.0,14094.0,237985.0
+2016Q4,2016,Q4,Table 2,2,LFI,Non G-10 Developed Countries,empty,36,,,,,,,,,
+2016Q4,2016,Q4,Table 2,2,LFI,Eastern Europe,region_header,37,Eastern Europe,,,,,,,,
+2016Q4,2016,Q4,Table 2,2,LFI,Eastern Europe,country_data,38,BULGARIA,66.0,90.0,127.0,199.0,355.0,44.0,0.0,311.0
+2016Q4,2016,Q4,Table 2,2,LFI,Eastern Europe,country_data,39,CZECH REPUBLIC,1235.0,369.0,1129.0,2274.0,3878.0,259.0,3.0,3622.0
+2016Q4,2016,Q4,Table 2,2,LFI,Eastern Europe,country_data,40,HUNGARY,2092.0,257.0,1235.0,2034.0,4383.0,437.0,63.0,4008.0
+2016Q4,2016,Q4,Table 2,2,LFI,Eastern Europe,country_data,41,POLAND,2248.0,1172.0,2080.0,8384.0,11804.0,571.0,83.0,11317.0
+2016Q4,2016,Q4,Table 2,2,LFI,Eastern Europe,country_data,42,ROMANIA,422.0,443.0,711.0,1075.0,1940.0,52.0,0.0,1889.0
+2016Q4,2016,Q4,Table 2,2,LFI,Eastern Europe,country_data,43,RUSSIA,6103.0,1186.0,5167.0,5134.0,12423.0,1110.0,1600.0,12935.0
+2016Q4,2016,Q4,Table 2,2,LFI,Eastern Europe,country_data,44,TURKEY,15373.0,677.0,12503.0,2500.0,18550.0,1337.0,1277.0,18488.0
+2016Q4,2016,Q4,Table 2,2,LFI,Eastern Europe,country_data,45,OTHER E. EUROPE,1856.0,16.0,1261.0,576.0,2448.0,354.0,22.0,2116.0
+2016Q4,2016,Q4,Table 2,2,LFI,Eastern Europe,subtotal,46,Total,29395.0,4210.0,24213.0,22176.0,55781.0,4164.0,3048.0,54686.0
+2016Q4,2016,Q4,Table 2,2,LFI,Eastern Europe,empty,47,,,,,,,,,
+2016Q4,2016,Q4,Table 2,2,LFI,Latin America and Caribbean,region_header,48,Latin America and Caribbean,,,,,,,,
+2016Q4,2016,Q4,Table 2,2,LFI,Latin America and Caribbean,country_data,49,ANGUILLA,4105.0,0.0,4041.0,0.0,4105.0,29.0,2.0,4078.0
+2016Q4,2016,Q4,Table 2,2,LFI,Latin America and Caribbean,country_data,50,ARGENTINA,2513.0,672.0,2576.0,3286.0,6471.0,763.0,42.0,5749.0
+2016Q4,2016,Q4,Table 2,2,LFI,Latin America and Caribbean,country_data,51,BRAZIL,39680.0,3685.0,26377.0,32783.0,76148.0,6132.0,15526.0,85520.0
+2016Q4,2016,Q4,Table 2,2,LFI,Latin America and Caribbean,country_data,52,CHILE,7187.0,0.0,4540.0,2482.0,9669.0,443.0,553.0,9777.0
+2016Q4,2016,Q4,Table 2,2,LFI,Latin America and Caribbean,country_data,53,COLOMBIA,5623.0,34.0,3719.0,4209.0,9866.0,1074.0,457.0,9250.0
+2016Q4,2016,Q4,Table 2,2,LFI,Latin America and Caribbean,country_data,54,COSTA RICA,784.0,209.0,802.0,321.0,1314.0,169.0,64.0,1210.0
+2016Q4,2016,Q4,Table 2,2,LFI,Latin America and Caribbean,country_data,55,DOMINICAN REPUBLIC,977.0,65.0,824.0,376.0,1418.0,273.0,12.0,1157.0
+2016Q4,2016,Q4,Table 2,2,LFI,Latin America and Caribbean,country_data,56,ECUADOR,832.0,389.0,1017.0,121.0,1342.0,151.0,2.0,1192.0
+2016Q4,2016,Q4,Table 2,2,LFI,Latin America and Caribbean,country_data,57,EL SALVADOR,409.0,325.0,590.0,0.0,734.0,167.0,16.0,582.0
+2016Q4,2016,Q4,Table 2,2,LFI,Latin America and Caribbean,country_data,58,GUATEMALA,1313.0,144.0,1074.0,852.0,2309.0,230.0,258.0,2337.0
+2016Q4,2016,Q4,Table 2,2,LFI,Latin America and Caribbean,country_data,59,HONDURAS,291.0,38.0,206.0,105.0,434.0,108.0,1.0,326.0
+2016Q4,2016,Q4,Table 2,2,LFI,Latin America and Caribbean,country_data,60,MEXICO,21391.0,6627.0,14869.0,58368.0,86386.0,5858.0,1205.0,81738.0
+2016Q4,2016,Q4,Table 2,2,LFI,Latin America and Caribbean,country_data,61,PERU,3045.0,1053.0,2684.0,896.0,4994.0,381.0,218.0,4832.0
+2016Q4,2016,Q4,Table 2,2,LFI,Latin America and Caribbean,country_data,62,URUGUAY,724.0,190.0,561.0,233.0,1147.0,169.0,3.0,981.0
+2016Q4,2016,Q4,Table 2,2,LFI,Latin America and Caribbean,country_data,63,VENEZUELA,2993.0,0.0,562.0,50.0,3043.0,2353.0,32.0,719.0
+2016Q4,2016,Q4,Table 2,2,LFI,Latin America and Caribbean,country_data,64,OTHER LAT. AM. & CAR.,29250.0,334.0,22225.0,923.0,30507.0,15291.0,1088.0,15628.0
+2016Q4,2016,Q4,Table 2,2,LFI,Latin America and Caribbean,subtotal,65,Total,121117.0,13765.0,86667.0,105005.0,239887.0,33591.0,19479.0,225076.0
+2016Q4,2016,Q4,Table 2,2,LFI,Latin America and Caribbean,empty,66,,,,,,,,,
+2016Q4,2016,Q4,Table 2,2,LFI,Asia and Pacific,region_header,67,Asia and Pacific,,,,,,,,
+2016Q4,2016,Q4,Table 2,2,LFI,Asia and Pacific,country_data,68,CHINA-MAINLAND,40026.0,6905.0,43151.0,29339.0,76270.0,5138.0,8263.0,79443.0
+2016Q4,2016,Q4,Table 2,2,LFI,Asia and Pacific,country_data,69,INDIA,33767.0,4433.0,31634.0,29379.0,67579.0,4444.0,6689.0,69755.0
+2016Q4,2016,Q4,Table 2,2,LFI,Asia and Pacific,country_data,70,INDONESIA,8597.0,3158.0,10497.0,4077.0,15832.0,2791.0,897.0,13957.0
+2016Q4,2016,Q4,Table 2,2,LFI,Asia and Pacific,country_data,71,"KOREA, SOUTH",26360.0,5153.0,27648.0,40949.0,72462.0,2783.0,4331.0,74003.0
+2016Q4,2016,Q4,Table 2,2,LFI,Asia and Pacific,country_data,72,KUWAIT,7342.0,44.0,6932.0,267.0,7653.0,261.0,651.0,8041.0
+2016Q4,2016,Q4,Table 2,2,LFI,Asia and Pacific,country_data,73,MALAYSIA,5339.0,1386.0,5270.0,8797.0,15522.0,702.0,296.0,15114.0
+2016Q4,2016,Q4,Table 2,2,LFI,Asia and Pacific,country_data,74,PAKISTAN,370.0,22.0,334.0,1077.0,1469.0,171.0,19.0,1317.0
+2016Q4,2016,Q4,Table 2,2,LFI,Asia and Pacific,country_data,75,PHILIPPINES,2660.0,1224.0,3212.0,4334.0,8218.0,492.0,395.0,8122.0
+2016Q4,2016,Q4,Table 2,2,LFI,Asia and Pacific,country_data,76,QATAR,3596.0,0.0,1506.0,60.0,3656.0,441.0,693.0,3909.0
+2016Q4,2016,Q4,Table 2,2,LFI,Asia and Pacific,country_data,77,SAUDI ARABIA,10796.0,895.0,7798.0,1509.0,13200.0,944.0,353.0,12624.0
+2016Q4,2016,Q4,Table 2,2,LFI,Asia and Pacific,country_data,78,TAIWAN,20078.0,3194.0,22722.0,17551.0,40823.0,485.0,2033.0,42367.0
+2016Q4,2016,Q4,Table 2,2,LFI,Asia and Pacific,country_data,79,THAILAND,2787.0,175.0,2664.0,7524.0,10486.0,512.0,298.0,10274.0
+2016Q4,2016,Q4,Table 2,2,LFI,Asia and Pacific,country_data,80,UNITED ARAB EMIRATES,9764.0,3828.0,9833.0,3023.0,16615.0,2168.0,1329.0,15780.0
+2016Q4,2016,Q4,Table 2,2,LFI,Asia and Pacific,country_data,81,WEST BANK AND GAZA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2016Q4,2016,Q4,Table 2,2,LFI,Asia and Pacific,country_data,82,OTHER ASIA AND PACIFIC,6967.0,1955.0,5886.0,2066.0,10988.0,2405.0,405.0,8987.0
+2016Q4,2016,Q4,Table 2,2,LFI,Asia and Pacific,subtotal,83,Total,178449.0,32372.0,179087.0,149952.0,360773.0,23737.0,26652.0,363693.0
+2016Q4,2016,Q4,Table 2,2,LFI,Asia and Pacific,empty,84,,,,,,,,,
+2016Q4,2016,Q4,Table 2,2,LFI,Africa,region_header,85,Africa,,,,,,,,
+2016Q4,2016,Q4,Table 2,2,LFI,Africa,country_data,86,ALGERIA,118.0,198.0,212.0,1169.0,1485.0,353.0,0.0,1133.0
+2016Q4,2016,Q4,Table 2,2,LFI,Africa,country_data,87,EGYPT,763.0,130.0,606.0,1597.0,2490.0,273.0,0.0,2217.0
+2016Q4,2016,Q4,Table 2,2,LFI,Africa,country_data,88,GHANA,952.0,0.0,577.0,0.0,952.0,655.0,200.0,497.0
+2016Q4,2016,Q4,Table 2,2,LFI,Africa,country_data,89,KENYA,369.0,202.0,502.0,642.0,1213.0,28.0,2.0,1188.0
+2016Q4,2016,Q4,Table 2,2,LFI,Africa,country_data,90,MOROCCO,549.0,15.0,519.0,432.0,996.0,116.0,10.0,891.0
+2016Q4,2016,Q4,Table 2,2,LFI,Africa,country_data,91,NIGERIA,1185.0,177.0,1200.0,1247.0,2609.0,234.0,57.0,2434.0
+2016Q4,2016,Q4,Table 2,2,LFI,Africa,country_data,92,SOUTH AFRICA,6036.0,841.0,4303.0,5009.0,11886.0,547.0,2553.0,13904.0
+2016Q4,2016,Q4,Table 2,2,LFI,Africa,country_data,93,SOUTH SUDAN,2.0,0.0,2.0,0.0,2.0,2.0,0.0,0.0
+2016Q4,2016,Q4,Table 2,2,LFI,Africa,country_data,94,OTHER AFRICA,3100.0,323.0,2217.0,1041.0,4464.0,1277.0,148.0,3334.0
+2016Q4,2016,Q4,Table 2,2,LFI,Africa,subtotal,95,Total,13074.0,1886.0,10138.0,11137.0,26097.0,3485.0,2970.0,25598.0
+2016Q4,2016,Q4,Table 2,2,LFI,Africa,empty,96,,,,,,,,,
+2016Q4,2016,Q4,Table 2,2,LFI,Banking Centers,region_header,97,Banking Centers,,,,,,,,
+2016Q4,2016,Q4,Table 2,2,LFI,Banking Centers,country_data,98,BAHAMAS,15429.0,75.0,14649.0,218.0,15722.0,6912.0,132.0,8942.0
+2016Q4,2016,Q4,Table 2,2,LFI,Banking Centers,country_data,99,BAHRAIN,1161.0,94.0,1134.0,381.0,1636.0,727.0,47.0,955.0
+2016Q4,2016,Q4,Table 2,2,LFI,Banking Centers,country_data,100,BERMUDA,16443.0,76.0,11956.0,20.0,16539.0,3969.0,3260.0,15832.0
+2016Q4,2016,Q4,Table 2,2,LFI,Banking Centers,country_data,101,CAYMAN ISLANDS,324071.0,1316.0,218925.0,348.0,325735.0,32599.0,4999.0,298110.0
+2016Q4,2016,Q4,Table 2,2,LFI,Banking Centers,country_data,102,HONG KONG,23043.0,10722.0,28189.0,29148.0,62913.0,12840.0,4895.0,54995.0
+2016Q4,2016,Q4,Table 2,2,LFI,Banking Centers,country_data,103,LEBANON,1269.0,153.0,694.0,31.0,1453.0,165.0,12.0,1300.0
+2016Q4,2016,Q4,Table 2,2,LFI,Banking Centers,country_data,104,MAURITIUS,2024.0,309.0,1170.0,234.0,2567.0,968.0,19.0,1240.0
+2016Q4,2016,Q4,Table 2,2,LFI,Banking Centers,country_data,105,PANAMA,3470.0,802.0,2072.0,94.0,4366.0,1770.0,143.0,2742.0
+2016Q4,2016,Q4,Table 2,2,LFI,Banking Centers,country_data,106,SINGAPORE,32159.0,11385.0,39375.0,26395.0,69939.0,6871.0,6230.0,69284.0
+2016Q4,2016,Q4,Table 2,2,LFI,Banking Centers,country_data,107,OTHER BANKING CENTERS,17275.0,949.0,9621.0,174.0,18398.0,5193.0,2114.0,15313.0
+2016Q4,2016,Q4,Table 2,2,LFI,Banking Centers,subtotal,108,Total,436344.0,25881.0,327785.0,57043.0,519268.0,72014.0,21851.0,468713.0
+2016Q4,2016,Q4,Table 2,2,LFI,Banking Centers,empty,109,,,,,,,,,
+2016Q4,2016,Q4,Table 2,2,LFI,International & Regional Organizations,region_header,110,International & Regional Organizations,,,,,,,,
+2016Q4,2016,Q4,Table 2,2,LFI,International & Regional Organizations,country_data,111,AFRICAN,452.0,0.0,264.0,0.0,452.0,0.0,13.0,465.0
+2016Q4,2016,Q4,Table 2,2,LFI,International & Regional Organizations,organization_data,112,ASIAN,1160.0,0.0,582.0,0.0,1160.0,0.0,268.0,1427.0
+2016Q4,2016,Q4,Table 2,2,LFI,International & Regional Organizations,organization_data,113,EUROPEAN,14798.0,0.0,3203.0,0.0,14798.0,0.0,589.0,15387.0
+2016Q4,2016,Q4,Table 2,2,LFI,International & Regional Organizations,country_data,114,INTERNATIONAL,4924.0,0.0,2310.0,0.0,4924.0,0.0,441.0,5365.0
+2016Q4,2016,Q4,Table 2,2,LFI,International & Regional Organizations,country_data,115,LATIN AMERICAN,1429.0,0.0,641.0,0.0,1429.0,0.0,30.0,1459.0
+2016Q4,2016,Q4,Table 2,2,LFI,International & Regional Organizations,organization_data,116,MIDDLE EASTERN,34.0,0.0,34.0,0.0,34.0,0.0,0.0,34.0
+2016Q4,2016,Q4,Table 2,2,LFI,International & Regional Organizations,subtotal,117,Total,22797.0,0.0,7034.0,0.0,22797.0,0.0,1341.0,24137.0
+2016Q4,2016,Q4,Table 2,2,LFI,International & Regional Organizations,empty,118,,,,,,,,,
+2016Q4,2016,Q4,Table 2,2,LFI,International & Regional Organizations,country_data,119,UNITED STATES,133780.0,11545.0,105824.0,7065062.0,7210387.0,264763.0,314307.0,7261791.0
+2016Q4,2016,Q4,Table 2,2,LFI,International & Regional Organizations,empty,120,,,,,,,,,
+2016Q4,2016,Q4,Table 2,2,LFI,International & Regional Organizations,grand_total,121,Grand Total,1765994.0,275021.0,1484581.0,8074497.0,10115512.0,513273.0,513274.0,10115524.0
