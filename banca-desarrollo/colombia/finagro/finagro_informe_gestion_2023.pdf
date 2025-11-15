@@ -1,0 +1,829 @@
+<!DOCTYPE html>
+<html lang="es" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+    <meta charset="utf-8" />
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-39350834-1"></script>
+<script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("set", "developer_id.dMDhkMT", true);gtag("config", "UA-39350834-1", {"groups":"default","anonymize_ip":true,"page_path":"/404.html?page=" + document.location.pathname + document.location.search + "&from=" + document.referrer});gtag("config", "G-EHQ7N9EPTH", {"groups":"default","page_location":"/404.html?page=" + document.location.pathname + document.location.search + "&from=" + document.referrer});</script>
+<meta name="description" content="La Planeación Participativa es entendida como el mecanismo mediante el cual la sociedad civil decide el rumbo de las políticas, planes, programas, proyectos o trámites de acuerdo con sus necesidades. FINAGRO al ser una sociedad de economía mixta, no está obligada a tener una planeación participativa. Sin embargo, está disponible a la toda la ciudadanía:" />
+<link rel="canonical" href="https://www.finagro.com.co/transparencia-acceso-informacion-publica/participa/planeacion-presupuesto-participativo" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="La Planeación Participativa es entendida como el mecanismo mediante el cual la sociedad civil decide el rumbo de las políticas, planes, programas, proyectos o trámites de acuerdo con sus necesidades. FINAGRO al ser una sociedad de economía mixta, no está obligada a tener una planeación participativa. Sin embargo, está disponible a la toda la ciudadanía:" />
+<meta name="twitter:site" content="@Finagro" />
+<meta name="twitter:title" content="Planeación y presupuesto participativo" />
+<meta name="twitter:url" content="https://www.finagro.com.co/transparencia-acceso-informacion-publica/participa/planeacion-presupuesto-participativo" />
+<meta name="Generator" content="Drupal 9 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<script>var _paq = _paq || [];(function(){var u=(("https:" == document.location.protocol) ? "" : "https://www.finagro.com.co");_paq.push(["setSiteId", 1]);_paq.push(["setTrackerUrl", u+"/visitors/_track"]);_paq.push(["setUserId", 0]);_paq.push(["setDocumentTitle", "404/URL = " + encodeURIComponent(document.location.pathname+document.location.search) + "/From = " + encodeURIComponent(document.referrer)]);_paq.push(["setCustomVariable", 7, "route", "entity.node.canonical", "visit"]);_paq.push(["setCustomVariable", 8, "path", "\/sites\/default\/files\/2024-04\/Informe_de_Gestion_Sostenible_2023_Final.pdf", "visit"]);_paq.push(["setCustomVariable", 9, "viewed", ["node:77836"], "visit"]);if (!window.matomo_search_results_active) {_paq.push(["trackPageView"]);}var d=document,g=d.createElement("script"),s=d.getElementsByTagName("script")[0];g.type="text/javascript";g.defer=true;g.async=true;g.src=u+"/modules/contrib/visitors/js/tracker.js";s.parentNode.insertBefore(g,s);})();</script>
+<link rel="icon" href="/sites/default/files/Favicon-FINAGRO-32X32.png" type="image/png" />
+<link rel="alternate" hreflang="es" href="https://www.finagro.com.co/transparencia-acceso-informacion-publica/participa/planeacion-presupuesto-participativo" />
+<link rel="manifest" href="/sites/default/files/pwa/manifest.json" />
+<link rel="apple-touch-icon" href="/sites/default/files/pwa/images/launcher-icon-180.png" />
+
+    <title>Planeación y presupuesto participativo | Finagro</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_ykcyrjBuUOfqF4M9w-x_-Ew1X1O6_Gft-jAbVzka5Yk.css" />
+<link rel="stylesheet" media="all" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_WNuoDC8JM9N1ygoDNJ-XeOknoJD2JoMbLnwnNjDgC4k.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_X1FCueHX7t6Zgua5mgukN5a6Xffl2u70i3hj9ug0rv0.css" />
+<link rel="stylesheet" media="all" href="/themes/custom/cleanplus/css/components/messages.css?t0le60" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_Za2HjjobSbeEdneAOhLp6TcQVf8spkBFb18meweN01E.css" />
+<link rel="stylesheet" media="all" href="//use.fontawesome.com/releases/v5.11.2/css/all.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_FAoS8I5GfORdiwPeJitPMDxVTyY2tsKNxzqqUBJTNUQ.css" />
+<link rel="stylesheet" media="all" href="//fonts.googleapis.com/css?family=Open+Sans+Condensed:300,300italic,700&amp;subset=latin,vietnamese,greek,cyrillic,latin-ext" />
+<link rel="stylesheet" media="all" href="//fonts.googleapis.com/css?family=Open+Sans:400,400i,600,600i,700,700i,800,800i&amp;amp;subset=greek" />
+<link rel="stylesheet" media="all" href="//fonts.googleapis.com/css?family=Source+Code+Pro&amp;subset=latin,latin-ext" />
+<link rel="stylesheet" media="all" href="//fonts.googleapis.com/css?family=PT+Serif:400,700,400italic,700italic&amp;subset=latin,latin-ext" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_X0ZApU4_hu1GVmWMq9am_2IARJwBk0WtzBUy8rGpWek.css" />
+<link rel="stylesheet" media="all" href="/themes/custom/cleanplus/css/theme/button-shapes.css?t0le60" />
+<link rel="stylesheet" media="all" href="/themes/custom/cleanplus/css/theme/form-shapes.css?t0le60" />
+<link rel="stylesheet" media="all" href="/themes/custom/cleanplus/css/theme/image-shapes.css?t0le60" />
+<link rel="stylesheet" media="all" href="/themes/custom/cleanplus/css/theme/menu-shapes.css?t0le60" />
+<link rel="stylesheet" media="all" href="/themes/custom/cleanplus/css/theme/link-styles.css?t0le60" />
+<link rel="stylesheet" media="all" href="/themes/custom/cleanplus/css/theme/utility.css?t0le60" />
+<link rel="stylesheet" media="all" href="/themes/custom/cleanplus/css/theme/color-sdht.css?t0le60" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_w-6TmW4ldrAgPk5PPmdVep0aI63249lWKAugq2QduXs.css" />
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.1/js/all.min.js" defer crossorigin="anonymous" integrity="ha512-M+hXwltZ3+0nFQJiVke7pqXY7VdtWW2jVG31zrml+eteTP7im25FdwtLhIBTWkaHRQyPrhO2uy8glLMHZzhFog=="></script>
+
+          <script type="text/javascript" src="/modules/contrib/seckit/js/seckit.document_write.js"></script>
+        <link type="text/css" rel="stylesheet" id="seckit-clickjacking-no-body" media="all" href="/modules/contrib/seckit/css/seckit.no_body.css" />
+        <!-- stop SecKit protection -->
+        <noscript>
+        <link type="text/css" rel="stylesheet" id="seckit-clickjacking-noscript-tag" media="all" href="/modules/contrib/seckit/css/seckit.noscript_tag.css" />
+        <div id="seckit-noscript-tag">
+          Disculpe, se necesita activar JavaScript para navegar este sitio web.
+        </div>
+        </noscript>        <script type="text/javascript" src="/modules/contrib/seckit/js/seckit.document_write.js"></script>
+        <link type="text/css" rel="stylesheet" id="seckit-clickjacking-no-body" media="all" href="/modules/contrib/seckit/css/seckit.no_body.css" />
+        <!-- stop SecKit protection -->
+        <noscript>
+        <link type="text/css" rel="stylesheet" id="seckit-clickjacking-noscript-tag" media="all" href="/modules/contrib/seckit/css/seckit.noscript_tag.css" />
+        <div id="seckit-noscript-tag">
+          Disculpe, se necesita activar JavaScript para navegar este sitio web.
+        </div>
+        </noscript></head>
+  <body class="layout-one-sidebar layout-sidebar-second mt-color-scheme-sdht mt-style-sharp mt-style-button-rounded mt-style-form-rounded mt-style-image-sharp mt-style-menu-sharp mt-style-custom-global mt-link-style-animated-icon-2 boxed hff-38 pff-06 sff-38 slff-06 paragraph-responsive-typography-enabled page-container-border-enabled slideout-side-right page-node-77836 path-sites page-node-type-page">
+        <a href="#main-content" class="visually-hidden focusable skip-link">
+      Pasar al contenido principal
+    </a>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+<div class="page-container">
+  <div class="head">
+      <div class="region region-head">
+    <div class="views-element-container clearfix block block-views block-views-blockbloque-gobierno-block-1" id="block-views-block-bloque-gobierno-block-1">
+  
+    
+        <div><div class="block-gob-logo col-md-3 view view-bloque-gobierno view-id-bloque_gobierno view-display-id-block_1 js-view-dom-id-f6c73e14cbfd083e613eb62c7056d00edd90f4fecc017f1a3d698de9c9b00d23">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-field-imagen"><div class="field-content"><a href="https://www.gov.co" target="_blank">  <img loading="lazy" src="/sites/default/files/2022-08/Logo_GOV.CO_.png" width="680" height="148" alt="Logo GOV" typeof="foaf:Image" />
+
+</a></div></div><div class="views-field views-field-nothing"><span class="field-content"><h2 class="d-none">Fondo para el financiamiento del sector agropecuario</h2></span></div></div>
+
+    </div>
+  
+          
+      </div>
+</div>
+
+  </div>
+
+  </div>
+
+  </div>
+                  <div class="header-container">
+                            <div class="clearfix header-top-highlighted region--default-background region--no-block-paddings region--no-paddings">
+            <div class="container-fluid">
+                            <div class="clearfix header-top-highlighted__container"
+                >
+                <div class="row">
+                                      <div class="col-12">
+                                            <div class="clearfix header-top-highlighted__section header-top-highlighted-first">
+                          <div class="region region-header-top-highlighted-first">
+    <div id="block-agrolineanacional" class="clearfix block block-block-content block-block-content9e2ddf1e-04c9-41f4-ba88-77fb2bc65c8a">
+  
+    
+      <div class="content">
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><div class="navbar-brand text-right">
+<div class="nav__social--networks">
+<p style="text-align: right;"><b>Contáctenos: </b> Agrolínea Nacional <span class="text--bold"> 018000912219 </span>                                                                                     <a aria-label="" href="https://twitter.com/Finagro" id="" rel="" target="" title="X"><img alt="X" data-entity-type="file" data-entity-uuid="754d34a7-c1d3-4b5f-8f2d-a420d80703b9" height="32" src="/sites/default/files/inline-images/Boton_X_0.png" width="32" loading="lazy" /></a><b><a aria-label="" href="https://www.linkedin.com/company/finagro/?originalSubdomain=co" id="" rel="" target="" title="Linkedin"><img alt="Linkedln" data-entity-type="file" data-entity-uuid="f859aa5d-6b3e-402e-94b5-918df7ff6e2e" height="32" src="/sites/default/files/inline-images/Boton_LinkeIn_0.png" width="32" loading="lazy" /></a><a aria-label="" href="https://www.youtube.com/channel/UCgi9s3GC8ZctLYOVD4T2fBg" id="" rel="" target="" title="Youtube"><img alt="youtube" data-entity-type="file" data-entity-uuid="0ea7b46c-c6b6-4315-a44b-a045698dafe6" height="32" src="/sites/default/files/inline-images/Boton_Youtube_0.png" width="32" loading="lazy" /></a><a aria-label="" href="https://www.facebook.com/FinagroColombia/" id="" rel="" target="" title="Facebook"><img alt="facebook" data-entity-type="file" data-entity-uuid="cc8ad6dd-ef60-42b3-8401-bacc07e90a45" height="32" src="/sites/default/files/inline-images/Boton_Facebook_0.png" width="32" loading="lazy" /></a></b><span class="text--bold"><span class="text--bold"></span><b><b><a aria-label="" href="https://www.instagram.com/finagroco/" id="" rel="" target="" title="Instagram"><img alt="Instagram" data-entity-type="file" data-entity-uuid="dab26655-dfb3-4f35-be64-eb15901a6120" height="32" src="/sites/default/files/inline-images/Boton_Instagram.png" width="32" loading="lazy" /></a></b></b><span class="text--bold"><b><b><a aria-label="" href="https://whatsapp.com/channel/0029Vag3n9mAojZ1oNMBAG0n" id="" rel="" target="" title="WhatsApp"><img alt="WhatsApp" data-entity-type="file" data-entity-uuid="904fae67-5edf-4321-8cf4-f07801d068e7" height="32" src="/sites/default/files/inline-images/Boton_Whatsapp_2.png" width="32" loading="lazy" /></a></b></b></span> | Eng <span class="text--bold"><span class="text--bold"><span class="text--bold"><a href="https://www.finagro.com.co/institutional-information" title="Cambiar idioma"><img alt="ingles" data-entity-type="file" data-entity-uuid="24a8b71b-8138-4495-8fdb-5cde275c5792" height="25" src="/sites/default/files/inline-images/ingles-13.png" width="28" loading="lazy" /></a></span></span></span>    </span></p>
+</div>
+</div>
+</div>
+      
+    </div>
+  </div>
+
+  </div>
+
+                      </div>
+                                          </div>
+                                                    </div>
+              </div>
+                          </div>
+          </div>
+                  
+                            <div class="clearfix header-top region--default-background region--no-block-paddings region--no-paddings">
+            <div class="container-fluid">
+                            <div class="clearfix header-top__container"
+                >
+                <div class="row">
+                                      <div class="col-6">
+                                            <div class="clearfix header-top__section header-top-first">
+                          <div class="region region-header-top-first">
+    <div id="block-customsitebrandiginternalpages" class="clearfix block block-block-content block-block-content219fc3c1-377d-4c8f-b3f8-2f32f39af5bb">
+  
+    
+      <div class="content">
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><div class="clearfix site-branding logo-enabled block block-system block-system-branding-block" id="block-cleanplus-branding">
+<div class="logo-and-site-name-wrapper clearfix">
+<div class="logo"><a class="site-branding__logo" href="/" rel="home" title="Inicio"><img alt="Inicio" src="/sites/default/files/logo-finagro.png" /></a></div>
+</div>
+</div>
+</div>
+      
+    </div>
+  </div>
+
+  </div>
+
+                      </div>
+                                          </div>
+                                                        <div class="col-6">
+                                            <div class="clearfix header-top__section header-top-second">
+                          <div class="region region-header-top-second">
+    <div id="block-loginformpopup-2" class="clearfix block block-login-popup block-login-form-popup">
+  
+    
+      <div class="content">
+      <div class="Login-popup-link"><a href="/user/login" class="use-ajax login-popup-form" data-dialog-type="modal">Iniciar sesión</a></div>
+    </div>
+  </div>
+<div id="block-titulosegmentacion" class="clearfix block block-block-content block-block-content34042eec-39e0-4eb4-9ad3-b1a76c1b8243">
+  
+    
+      <div class="content">
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p class="text-align-right" style="color: black; font-weight: bold;"><a href="https://www.finagro.com.co/beneficiarios" style="color: black; font-weight: bold;">Beneficiarios</a> | <a href="https://www.finagro.com.co/intermediarios" style="color: black; font-weight: bold;">Intermediarios financieros</a></p>
+</div>
+      
+    </div>
+  </div>
+<div class="views-exposed-form clearfix block block-views block-views-exposed-filter-blockmt-advanced-search-page-1" data-drupal-selector="views-exposed-form-mt-advanced-search-page-1" id="block-formularioexpuestomt-advanced-searchpage-1">
+  
+    
+      <div class="content">
+      <form action="/buscar" method="get" id="views-exposed-form-mt-advanced-search-page-1" accept-charset="UTF-8">
+  <div class="js-form-item form-item js-form-type-textfield form-type-textfield js-form-item-frase form-item-frase">
+      <label for="edit-frase">Buscar</label>
+        <label class="d-none" for="frase">label</label>
+<input placeholder="Buscar en sede electrónica" data-drupal-selector="edit-frase" type="text" id="edit-frase" name="frase" value="" size="30" maxlength="128" class="form-text" />
+            <div id="edit-frase--description" class="description">
+      Buscar
+    </div>
+  </div>
+<div class="js-form-item form-item js-form-type-select form-type-select js-form-item-items-per-page form-item-items-per-page">
+      <label for="edit-items-per-page">Resultados</label>
+        <select data-drupal-selector="edit-items-per-page" id="edit-items-per-page" name="items_per_page" class="form-select"><option value="5">5</option><option value="10">10</option><option value="25" selected="selected">25</option><option value="50">50</option><option value="100">100</option></select>
+        </div>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><label class="d-none" for="frase">label</label>
+<input data-drupal-selector="edit-submit-mt-advanced-search" type="submit" id="edit-submit-mt-advanced-search" value="Buscar" class="button js-form-submit form-submit" /></div>
+
+</form>
+
+    </div>
+  </div>
+
+  </div>
+
+                      </div>
+                                          </div>
+                                  </div>
+              </div>
+                          </div>
+          </div>
+                  
+                                                <header role="banner" class="clearfix header region--default-background full-width one-column region--no-block-paddings region--no-paddings">
+            <div class="container-fluid ">
+                            <div class="clearfix header__container">
+                <div class="row align-items-center">
+                                                        <div class="col-12">
+                                            <div class="clearfix header__section header-second">
+                          <div class="region region-header">
+    <div id="block-menu-finagro-internas" class="clearfix block block-superfish block-superfishmenu-finagro">
+  
+    
+      <div class="content">
+      
+<ul id="superfish-menu-finagro" class="menu sf-menu sf-menu-finagro sf-horizontal sf-style-none">
+  
+<li id="menu-finagro-menu-link-contentbc4aab38-1a6c-400d-bd6c-c385b46d6f22" class="sf-depth-1 sf-no-children"><a href="/" class="sf-depth-1">Inicio</a></li><li id="menu-finagro-menu-link-contentc03b1c84-cbf1-4f18-aeed-765199c9f44c" class="sf-depth-1 menuparent"><span class="sf-depth-1 menuparent nolink">Nuestra entidad</span><ul><li id="menu-finagro-menu-link-content4881017c-4de5-43ac-97fd-80b0638b3747" class="sf-depth-2 menuparent"><a href="/transparencia-acceso-informacion-publica/informacion-entidad/mision-vision-funciones-deberes/informacion-institucional" class="sf-depth-2 menuparent">Información institucional</a><ul><li id="menu-finagro-menu-link-contentf148d4cc-006b-42c8-b6ca-aaa99891ef12" class="sf-depth-3 sf-no-children"><a href="/quienes-somos/finagro" class="sf-depth-3">¿Qué es Finagro?</a></li><li id="menu-finagro-menu-link-content6ea1610b-e88e-4717-99aa-fed23b1be4ac" class="sf-depth-3 sf-no-children"><a href="/transparencia-acceso-informacion-publica/informacion-entidad/mision-vision" class="sf-depth-3">Misión y Visión</a></li><li id="menu-finagro-menu-link-content7167b09d-e6ea-404e-b09d-ae81505e6ae3" class="sf-depth-3 sf-no-children"><a href="/quienes-somos/informacion-institucional/principios-valores-corporativos" class="sf-depth-3">Principios y Valores Corporativos</a></li><li id="menu-finagro-menu-link-content91ee5036-12a1-47e9-824f-06c47581398c" class="sf-depth-3 sf-no-children"><a href="/quienes-somos/informacion-institucional/mapa-estrategico" class="sf-depth-3">Mapa estratégico</a></li><li id="menu-finagro-menu-link-content0a4d911e-45ca-4ef0-87ed-aa31d2a366aa" class="sf-depth-3 menuparent"><span title="Políticas institucionales" class="sf-depth-3 menuparent nolink">Políticas institucionales</span><ul><li id="menu-finagro-menu-link-contenta361d07f-f879-43bb-8121-0094b4dd7afe" class="sf-depth-4 sf-no-children"><a href="/quienes-somos/informacion-institucional/politica-calidad" class="sf-depth-4">Política de calidad</a></li><li id="menu-finagro-menu-link-content84a111dd-24e6-4b64-8228-295bcab7ad1b" class="sf-depth-4 sf-no-children"><a href="/quienes-somos/informacion-institucional/politica-responsabilidad-ambiental" class="sf-depth-4">Política de responsabilidad ambiental</a></li><li id="menu-finagro-menu-link-content0295307b-8d6c-4b55-940d-85f6e493d76b" class="sf-depth-4 sf-no-children"><a href="/politica-gestion-energia" class="sf-depth-4">Política de gestión de la energía</a></li><li id="menu-finagro-menu-link-contente1aaaf4f-532c-4e9e-ae09-1f7c3a5b7c8a" class="sf-depth-4 sf-no-children"><a href="/quienes-somos/informacion-institucional/lineamientos-politica-genero" class="sf-depth-4">Lineamientos de política de género</a></li><li id="menu-finagro-menu-link-content6da95b8b-3535-484f-8d1a-2aa444e6f26c" class="sf-depth-4 sf-no-children"><a href="/quienes-somos/informacion-institucional/lineamientos-politica-gestion-riesgos-ambientales-sociales" class="sf-depth-4">Lineamientos de política de gestión de riesgos ambientales y sociales</a></li></ul></li><li id="menu-finagro-menu-link-content775aa176-ac5d-44a6-9fd4-655e78aa035c" class="sf-depth-3 sf-no-children"><a href="/quienes-somos/informacion-institucional/directivos" class="sf-depth-3">Directivos</a></li><li id="menu-finagro-menu-link-content55260df4-882a-420c-923c-bf9a76351963" class="sf-depth-3 sf-no-children"><a href="/transparencia-acceso-informacion-publica/informacion-entidad/directorio-servidores-publicos-empleados-contratistas/directorio-servidores-publicos-empleados-contratistas" class="sf-depth-3">Colaboradores</a></li><li id="menu-finagro-menu-link-content8a1a4dd1-9fa7-41b4-ab59-572f25b10a24" class="sf-depth-3 sf-no-children"><a href="/transparencia-acceso-informacion-publica/informacion-entidad/estructura-organica-organigrama/organigrama" class="sf-depth-3">Organigrama</a></li><li id="menu-finagro-menu-link-content139675f9-ddf4-4eb7-ba6a-1e543a591148" class="sf-depth-3 sf-no-children"><a href="https://www.finagro.com.co/gobierno-corporativo" class="sf-depth-3 sf-external">Gobierno Corporativo </a></li><li id="menu-finagro-menu-link-content47e57faa-d1bd-4b5a-965c-211bb9a64aa8" class="sf-depth-3 sf-no-children"><a href="/quienes-somos/sig-sistema-integrado-gestion/sig" class="sf-depth-3">SIG- Sistema Integrado de Gestión</a></li><li id="menu-finagro-menu-link-contentca004a60-d9cf-47f5-91a1-da8c6b64ae68" class="sf-depth-3 sf-no-children"><a href="/atencion-servicios-ciudadania/tramites-opa-consulta-informacion/titulos-desarrollo-agropecuario-tdas" class="sf-depth-3">Títulos de desarrollo agropecuario</a></li><li id="menu-finagro-menu-link-content09d39b04-3d65-406d-b205-42b38bb9954e" class="sf-depth-3 sf-no-children"><a href="/quienes-somos/seccion-ninos" class="sf-depth-3">FINAGRO para niños</a></li></ul></li><li id="menu-finagro-menu-link-content0e2df6d0-26d4-4534-8ba8-95eb392805b1" class="sf-depth-2 menuparent"><span class="sf-depth-2 menuparent nolink">Gestión financiera</span><ul><li id="menu-finagro-menu-link-content6c72b86d-1d6b-4d31-a29a-9f03efee2f70" class="sf-depth-3 menuparent"><a href="/transparencia-acceso-informacion-publica/planeacion-presupuesto-informes/presupuesto-general-de-ingresos-gastos-e-inversion" class="sf-depth-3 menuparent">Presupuesto</a><ul><li id="menu-finagro-menu-link-contentbc4472b7-cedc-428e-b091-8ad19a19fb3b" class="sf-depth-4 sf-no-children"><a href="/transparencia-acceso-informacion-publica/planeacion-presupuesto-informes/presupuesto-general-ingresos-gastos-e-inversion" class="sf-depth-4">Presupuesto Finagro</a></li><li id="menu-finagro-menu-link-content32ae3400-22de-40c6-a3f7-910d26298c5a" class="sf-depth-4 sf-no-children"><a href="/quienes-somos/presupuesto/presupuesto-fag" class="sf-depth-4">Presupuesto FAG</a></li></ul></li><li id="menu-finagro-menu-link-contentf3d3996c-0d71-4303-af84-75ee57bde947" class="sf-depth-3 menuparent"><a href="/quienes-somos/estados-financieros" class="sf-depth-3 menuparent">Estados financieros</a><ul><li id="menu-finagro-menu-link-content5f5425fb-ab19-4392-84e8-4a1e10198c7b" class="sf-depth-4 sf-no-children"><a href="/quienes-somos/estados-financieros" class="sf-depth-4">Operaciones Recíprocas</a></li><li id="menu-finagro-menu-link-contented4af81e-c473-4d2e-9abb-53255e5e3218" class="sf-depth-4 sf-no-children"><a href="/quienes-somos/estados-financieros-trimestral" class="sf-depth-4">Estados Financieros (Trimestrales)</a></li><li id="menu-finagro-menu-link-contente5cda07a-95cd-4b31-85a2-639309cfe31f" class="sf-depth-4 sf-no-children"><a href="/quienes-somos/estados-financieros-anual" class="sf-depth-4">Estados Financieros (Anuales)</a></li></ul></li><li id="menu-finagro-menu-link-content674ba9c2-b52c-422d-b410-2b50963ff635" class="sf-depth-3 menuparent"><a href="/transparencia-acceso-informacion/planeaci%C3%B3n-presupuesto/padrecertificado" class="sf-depth-3 menuparent">Certificados Tributarios</a><ul><li id="menu-finagro-menu-link-content5a80a252-eb23-4bd3-abaf-c49a8597f88f" class="sf-depth-4 sf-no-children"><a href="/get-user-details" class="sf-depth-4">Renta</a></li><li id="menu-finagro-menu-link-contentf1d7540a-44d7-47df-ac7f-f5b3efbdb01e" class="sf-depth-4 sf-no-children"><a href="/get-user-form-bimestre" class="sf-depth-4">IVA e ICA</a></li><li id="menu-finagro-menu-link-content190de34e-174a-4dc2-a507-89ac6edd3e86" class="sf-depth-4 menuparent"><a href="/transparencia-acceso-publica/organigrama" class="sf-depth-4 menuparent">Administración Certificados</a><ul></ul></li></ul></li></ul></li><li id="menu-finagro-menu-link-content51882fbd-d132-4544-a6c9-929f50d3e5d7" class="sf-depth-2 sf-no-children"><a href="/quienes-somos/gestion-documental" class="sf-depth-2">Gestión documental</a></li><li id="menu-finagro-menu-link-content8356a2e4-0aeb-4241-8b71-8f65ba4920cf" class="sf-depth-2 menuparent"><span class="sf-depth-2 menuparent nolink">Contratación</span><ul><li id="menu-finagro-menu-link-content95aa3f95-ef05-424d-a2c0-368c440632d2" class="sf-depth-3 sf-no-children"><a href="/transparencia-acceso-informacion-publica/contratacion/manual-contratacion-adquisicion-compras/manual-contratacion" class="sf-depth-3">Manual de contratación</a></li><li id="menu-finagro-menu-link-content24c6e578-0abb-4f92-90e5-c11bbb832895" class="sf-depth-3 sf-no-children"><a href="/transparencia-acceso-informacion-publica/contratacion/plan-general-compras" class="sf-depth-3">Plan Anual de Adquisiciones</a></li><li id="menu-finagro-menu-link-content6c0cd261-5f14-49ea-b65b-bb882e634a28" class="sf-depth-3 menuparent"><span class="sf-depth-3 menuparent nolink">Pre-contractual</span><ul><li id="menu-finagro-menu-link-content367c6f05-b482-4a31-8428-e18b75040ee7" class="sf-depth-4 sf-no-children"><a href="/transparencia-acceso-informacion-publica/contratacion/pre-contractual/invitaciones-publicas" class="sf-depth-4">Invitaciones públicas</a></li><li id="menu-finagro-menu-link-contentca85b00a-85ae-4da4-9284-5142b5aac38b" class="sf-depth-4 sf-no-children"><a href="/transparencia-acceso-informacion-publica/contratacion/pre-contractual/seleccionados-otras-modalidades" class="sf-depth-4">Seleccionados otras modalidades</a></li></ul></li><li id="menu-finagro-menu-link-contentcb672c6f-4d0d-4c7b-a011-d33c8ba5d456" class="sf-depth-3 sf-no-children"><a href="/transparencia-acceso-informacion-publica/contratacion/post-contractual" class="sf-depth-3">Post-contractual</a></li><li id="menu-finagro-menu-link-content8c169d4c-e1d2-4822-bbb2-1cff81af8fcd" class="sf-depth-3 sf-no-children"><a href="/transparencia-acceso-informacion-publica/contratacion/informes-ejecucion" class="sf-depth-3">Informes de ejecución</a></li></ul></li><li id="menu-finagro-menu-link-content1f86ace0-6c29-4a18-9a5f-323527a48b22" class="sf-depth-2 sf-no-children"><a href="https://www.finagro.com.co/quienes-somos/estados-financieros/certificacion-sarlaft" class="sf-depth-2 sf-external">SARLAFT</a></li><li id="menu-finagro-menu-link-content27b7d49d-2515-42b7-9c8c-0416752e6426" class="sf-depth-2 sf-no-children"><a href="https://www.finagro.com.co/transparencia-acceso-informacion-publica/contratacion/muebles-e-inmuebles-venta-0" class="sf-depth-2 sf-external">Muebles e Inmuebles en venta</a></li><li id="menu-finagro-menu-link-content4a7de763-b852-47b1-a49e-0a555ab01918" class="sf-depth-2 sf-no-children"><a href="https://www.finagro.com.co/listado-encuestadores" class="sf-depth-2 sf-external">Listado de visitadores y encuestadores</a></li><li id="menu-finagro-menu-link-content90edc1f7-ae82-4eaa-be63-706aa8ea84c0" class="sf-depth-2 sf-no-children"><a href="/quienes-somos/nuestros-aliados" class="sf-depth-2">Nuestros aliados</a></li><li id="menu-finagro-menu-link-content52b09708-6155-436a-bcce-d56a009d227c" class="sf-depth-2 menuparent"><span class="sf-depth-2 menuparent nolink">Noticias</span><ul><li id="menu-finagro-menu-link-content24e3fd94-e129-4666-ba9a-dfb48e03a2a8" class="sf-depth-3 sf-no-children"><a href="/noticias/articulos" class="sf-depth-3">Artículos</a></li><li id="menu-finagro-menu-link-content5344dbae-966b-406c-852d-c3061c272e0a" class="sf-depth-3 sf-no-children"><a href="/noticias/eventos" class="sf-depth-3">Eventos</a></li><li id="menu-finagro-menu-link-contentced01f6e-f050-4202-9e20-f54bfb9c63f6" class="sf-depth-3 sf-no-children"><a href="https://www.finagro.com.co/noticias/experiencias-exitosas/casos-exito1" title="Experiencias exitosas" class="sf-depth-3 sf-external">Experiencias exitosas</a></li></ul></li><li id="menu-finagro-menu-link-contentb9b39205-3502-426d-8a1c-5b9e3cf9c17b" class="sf-depth-2 menuparent"><a href="/institutional-information" class="sf-depth-2 menuparent">English</a><ul><li id="menu-finagro-menu-link-contentd21f0b58-9715-4686-9f64-4b79972d282b" class="sf-depth-3 sf-no-children"><a href="/overview" class="sf-depth-3">Overview</a></li><li id="menu-finagro-menu-link-content38ccccce-ebd0-409b-9521-98bf216fc30c" class="sf-depth-3 sf-no-children"><a href="/products-and-services" class="sf-depth-3">Products and services</a></li></ul></li></ul></li><li id="menu-finagro-menu-link-content2c592fd7-d4f2-4429-8ca2-29ab64b9bee7" class="sf-depth-1 menuparent"><span class="sf-depth-1 menuparent nolink">Productos y servicios</span><ul><li id="menu-finagro-menu-link-contentc55babcc-0a5f-465f-ae4a-559d96a44481" class="sf-depth-2 menuparent"><span class="sf-depth-2 menuparent nolink">Crédito</span><ul><li id="menu-finagro-menu-link-content699b60fd-a550-4917-ba81-49c4af5fe529" class="sf-depth-3 sf-no-children"><a href="/atencion-servicios-ciudadania/tramites-opa-consulta-informacion/recursos-credito/credito-agropecuario-rural/credito" class="sf-depth-3">Crédito</a></li><li id="menu-finagro-menu-link-contentd2d5f9f1-2048-4744-8938-424957461ae5" class="sf-depth-3 sf-no-children"><a href="https://www.finagro.com.co/lineas-especiales-credito-lec-finagro-2023" class="sf-depth-3 sf-external" target="_self">Líneas Especiales de Crédito - LEC</a></li><li id="menu-finagro-menu-link-contentda75b65f-2400-4c55-8707-ac4b6369de88" class="sf-depth-3 menuparent"><a href="/atencion-servicios-ciudadania/tramites-opa-consulta-informacion/recursos-credito/programas-especiales" class="sf-depth-3 menuparent">Programas especiales</a><ul><li id="menu-finagro-menu-link-content0c2d2e91-803f-4239-99db-236e0866e5fb" class="sf-depth-4 sf-no-children"><a href="/atencion-servicios-ciudadania/tramites-opa-consulta-informacion/recursos-credito/programas-especiales" class="sf-depth-4">Crédito asociativo</a></li></ul></li><li id="menu-finagro-menu-link-contentbadade88-cc71-4730-810e-10fb36cfbfe9" class="sf-depth-3 sf-no-children"><a href="https://www.finagro.com.co/linea-transformacion-productiva-sostenible" class="sf-depth-3 sf-external">Crédito Sostenible</a></li><li id="menu-finagro-menu-link-content71b5b498-8b7a-4c38-aeb2-f5ed4d61fb6b" class="sf-depth-3 sf-no-children"><a href="https://www.finagro.com.co/atencion-servicios-ciudadania/tramites-opa-consulta-informacion/indicador-reactivacion-agropecuaria" title=" Indicador Reactivación Agropecuaria" class="sf-depth-3 sf-external"> Indicador Reactivación Agropecuaria</a></li></ul></li><li id="menu-finagro-menu-link-content39151e1b-082f-4118-ba26-13ed219b2036" class="sf-depth-2 menuparent"><a href="/atencion-servicios-ciudadania/tramites-opa-consulta-informacion/garantias" class="sf-depth-2 menuparent">Garantías</a><ul><li id="menu-finagro-menu-link-content4d507c1e-78fd-4c9d-8170-49979a62c2aa" class="sf-depth-3 sf-no-children"><a href="/atencion-servicios-ciudadania/tramites-opa-consulta-informacion/garantias" class="sf-depth-3">Fondo Agropecuario de Garantías- FAG</a></li><li id="menu-finagro-menu-link-content27f06a0c-9bca-403e-b7d0-ad12c516b737" class="sf-depth-3 sf-no-children"><a href="https://apl.finagro.com.co/CPB/" class="sf-depth-3 sf-external" target="_blank">FAG- Valor de comisiones por garantías expedidas</a></li></ul></li><li id="menu-finagro-menu-link-contenta45cbc5e-5e8b-420f-9b38-b0a641375b45" class="sf-depth-2 menuparent"><a href="/atencion-servicios-ciudadania/tramites-opa-consulta-informacion/incentivos/incentivo-capitalizacion-rural" class="sf-depth-2 menuparent">Incentivos y Subsidios</a><ul><li id="menu-finagro-menu-link-content52fde787-1bc9-4be4-bf29-99296c899f9b" class="sf-depth-3 sf-no-children"><a href="/incentivo-capitalizacion-gestion-riesgos-agropecuarios" class="sf-depth-3">ICGR- Incentivo de Capitalización para la Gestión de Riesgos Agropecuarios</a></li><li id="menu-finagro-menu-link-content7aa5f866-30a0-42db-a858-02bad30f6bc9" class="sf-depth-3 menuparent"><a href="/atencion-servicios-ciudadania/tramites-opa-consulta-informacion/incentivos/incentivo-capitalizacion-rural" class="sf-depth-3 menuparent">ICR- Incentivo a la Capitalización Rural</a><ul><li id="menu-finagro-menu-link-content3f41648b-8520-41a5-a0cb-8020fcbc721e" class="sf-depth-4 sf-no-children"><a href="/atencion-servicios-ciudadania/tramites-opa-consulta-informacion/incentivos/incentivo-capitalizacion-rural" class="sf-depth-4">ICR Nacional</a></li><li id="menu-finagro-menu-link-content19414f2a-c15b-4349-842b-3a9d9d8b44fe" class="sf-depth-4 sf-no-children"><a href="/atencion-servicios-ciudadania/tramites-opa-consulta-informacion/incentivos/icr-incentivo-capitalizacion-rural/icr-territorial" class="sf-depth-4">Incentivo territorial</a></li></ul></li><li id="menu-finagro-menu-link-content5148d7bc-5471-47cf-aca8-91729f501cb7" class="sf-depth-3 menuparent"><a href="/atencion-servicios-ciudadania/tramites-opa-consulta-informacion/incentivos/incentivo-al-seguro-agropecuario" class="sf-depth-3 menuparent">ISA- Incentivo al Seguro Agropecuario</a><ul><li id="menu-finagro-menu-link-content95e3d779-e7a0-44a7-b468-7d47f7b3c1ac" class="sf-depth-4 sf-no-children"><a href="https://www.finagro.com.co/legislacion-isa" class="sf-depth-4 sf-external">Legislación</a></li><li id="menu-finagro-menu-link-content559686fe-f778-4966-9b64-6960906d53f4" class="sf-depth-4 sf-no-children"><a href="/atencion-servicios-ciudadania/tramites-opa-consulta-informacion/incentivos/isa-incentivo-al-seguro-agropecuario/gestion-riesgos-agropecuarios" class="sf-depth-4">Gestión de riesgos agropecuarios</a></li></ul></li><li id="menu-finagro-menu-link-content3caabac7-d569-401b-91c8-b441b5255e73" class="sf-depth-3 sf-no-children"><a href="/atencion-servicios-ciudadania/tramites-opa-consulta-informacion/incentivos/cif-certificado-incentivo-forestal" class="sf-depth-3">CIF- Certificado de Incentivo Forestal</a></li><li id="menu-finagro-menu-link-content38ca2614-5ef3-4faa-9984-0839d6783289" class="sf-depth-3 sf-no-children"><a href="https://www.finagro.com.co/ejecucion-programas-especiales-lec" class="sf-depth-3 sf-external">Ejecución de programas especiales (LEC)</a></li><li id="menu-finagro-menu-link-content1aa06a3c-9128-4415-a367-b0782a5f3bb7" class="sf-depth-3 sf-no-children"><a href="/estadisticas/ejecucion-recursos-isa" class="sf-depth-3">Ejecución ISA</a></li><li id="menu-finagro-menu-link-content147aa1cc-c267-4760-8310-bc4f5af0e08f" class="sf-depth-3 sf-no-children"><a href="/estadisticas/ejecucion-icr" class="sf-depth-3">Ejecución ICR</a></li><li id="menu-finagro-menu-link-contentbc4bd1c2-bd55-4477-b695-88a0d9ec27ab" class="sf-depth-3 sf-no-children"><a href="https://www.finagro.com.co/atencion-servicios-ciudadania/tramites-opa-consulta-informacion/incentivos/ejecucion-iigra" class="sf-depth-3 sf-external">Ejecución IIGRA</a></li><li id="menu-finagro-menu-link-contentb790cfe6-6535-40d4-8d0a-bdacb2a57dbd" class="sf-depth-3 sf-no-children"><a href="https://www.finagro.com.co/ejecucion-lec-territoriales" class="sf-depth-3 sf-external"> Ejecución LEC Territoriales</a></li><li id="menu-finagro-menu-link-contentf0e46165-c954-446e-89a1-7c279500f910" class="sf-depth-3 sf-no-children"><a href="https://www.finagro.com.co/ejecucion-icr-territoriales" class="sf-depth-3 sf-external">Ejecución ICR Territoriales</a></li></ul></li><li id="menu-finagro-menu-link-content8f282c1c-0cbc-432b-88fc-4c19c20a2b19" class="sf-depth-2 sf-no-children"><a href="/atencion-servicios-ciudadania/tramites-opa-consulta-informacion/microcredito-rural" class="sf-depth-2">Microcrédito rural</a></li><li id="menu-finagro-menu-link-content03e07c64-f36d-47b4-93fc-8bd51627ec35" class="sf-depth-2 menuparent"><span class="sf-depth-2 menuparent nolink">PRAN y FONSA</span><ul><li id="menu-finagro-menu-link-contenta957643f-6505-4d03-be76-a52d091ed7cc" class="sf-depth-3 sf-no-children"><a href="/atencion-servicios-ciudadania/tramites-opa-consulta-informacion/pran-fonsa-carteras-administradoras/fondo-solidaridad-agropecuario" class="sf-depth-3">FONSA</a></li><li id="menu-finagro-menu-link-content98e57c19-1c35-4cae-84dc-8832ec534fcf" class="sf-depth-3 sf-no-children"><a href="/atencion-servicios-ciudadania/tramites-opa-consulta-informacion/pran-fonsa-carteras-administradoras/pran" class="sf-depth-3">PRAN</a></li><li id="menu-finagro-menu-link-content95b9145e-b00c-4a18-9a47-525aa59f3cc8" class="sf-depth-3 sf-no-children"><a href="https://www.finagro.com.co/atencion-servicios-ciudadania/tramites-opa-consulta-informacion/pran-fonsa-carteras-administradoras/legislacion" class="sf-depth-3 sf-external">Legislación</a></li></ul></li><li id="menu-finagro-menu-link-content3080e73c-f5c3-4167-971b-7d91530211b4" class="sf-depth-2 sf-no-children"><a href="/transparencia-acceso-informacion-publica/tramites-servicios/portafolio-servicios" class="sf-depth-2">Portafolio de servicios</a></li><li id="menu-finagro-menu-link-contentf36f6258-80d8-48d9-be1f-05bdf0b2915a" class="sf-depth-2 sf-no-children"><a href="/atencion-servicios-ciudadania/informacion-al-ciudadano/publicaciones-e-investigaciones/analisis-sectorial/agroguias" class="sf-depth-2">Agroguía</a></li><li id="menu-finagro-menu-link-content745db201-2f85-4030-a0a0-c52e5bc1b795" class="sf-depth-2 sf-no-children"><a href="/atencion-servicios-ciudadania/tramites-opa-consulta-informacion/inversiones" class="sf-depth-2">Inversiones</a></li><li id="menu-finagro-menu-link-content222bf094-74ff-497c-a28a-bf1cf001c892" class="sf-depth-2 menuparent"><span class="sf-depth-2 menuparent nolink">Operaciones en línea</span><ul><li id="menu-finagro-menu-link-contentadc4f1db-08ba-414f-b1c0-de17ffc44315" class="sf-depth-3 sf-no-children"><a href="https://www.finagro.com.co/operaciones-en-linea/aplicativos" class="sf-depth-3 sf-external">Aplicativos FINAGRO </a></li><li id="menu-finagro-menu-link-content79cf6e37-af60-412b-b09f-68b1bd62cc31" class="sf-depth-3 sf-no-children"><a href="/operaciones-linea/simulador-proyeccion-normalizaciones-subsidios" class="sf-depth-3">Simulador de proyección de subsidios y normalización</a></li><li id="menu-finagro-menu-link-content8c7694c8-e9b1-40bd-a983-37ca11593cf9" class="sf-depth-3 sf-no-children"><a href="https://www.finagro.com.co/simulador-credito" class="sf-depth-3 sf-external">Simulador de crédito</a></li><li id="menu-finagro-menu-link-content032ca712-ce08-442e-b160-41dd1886e663" class="sf-depth-3 menuparent"><span class="sf-depth-3 menuparent nolink" target="_blank">GeoAgro</span><ul><li id="menu-finagro-menu-link-content7c71e26e-0b35-4340-8f5b-fad85a914b02" class="sf-depth-4 sf-no-children"><a href="https://finagro.maps.arcgis.com/apps/MapSeries/index.html?appid=f76904f5b539497498091b05e1bb39a2" class="sf-depth-4 sf-external" target="_blank">GeoAgro 1.0</a></li><li id="menu-finagro-menu-link-content17f77f4b-d3c5-4d57-8804-1bf44347046f" class="sf-depth-4 sf-no-children"><a href="https://geoagro.finagro.com.co/arcgisportal/apps/sites/#/home-geoagro/" class="sf-depth-4 sf-external" target="_blank" title="Geoagro 2.0">GeoAgro 2.0</a></li></ul></li></ul></li><li id="menu-finagro-menu-link-content9e11fe8f-4703-45de-b1e7-c377a4b1dc7b" class="sf-depth-2 sf-no-children"><a href="/atencion-servicios-ciudadania/informacion-al-ciudadano/sac-sistema-atencion-al-consumidor-financiero/educacion-financiera" class="sf-depth-2">Educación financiera</a></li></ul></li><li id="menu-finagro-menu-link-content3e40ea8e-3ebe-4f18-8825-c580b303814e" class="sf-depth-1 menuparent"><span class="sf-depth-1 menuparent nolink">Estadísticas</span><ul><li id="menu-finagro-menu-link-contentc079e8de-813e-4497-8abc-c759ab57fa40" class="sf-depth-2 sf-no-children"><a href="/estadisticas/cifras-principales" class="sf-depth-2">Cifras Principales</a></li><li id="menu-finagro-menu-link-content9ffc7a8a-9294-4e24-93c2-b8e19cb42a3c" class="sf-depth-2 sf-no-children"><a href="https://geoagro.finagro.com.co/arcgisportal/apps/sites/#/home-geoagro/" class="sf-depth-2 sf-external">Sistema de Información Geográfico - GeoAgro-</a></li><li id="menu-finagro-menu-link-content29d0be84-cdb4-4840-b84f-72eaef740785" class="sf-depth-2 sf-no-children"><a href="https://arcg.is/yHmTv0" class="sf-depth-2 sf-external">Centro de Estudios e Información para el Financiamiento Agropecuario (CEIFA)</a></li></ul></li><li id="menu-finagro-menu-link-contentd34c3271-4797-4be6-93c1-16c81debdd03" class="sf-depth-1 menuparent"><span class="sf-depth-1 menuparent nolink">Normas</span><ul><li id="menu-finagro-menu-link-contentc83d78b9-cfc5-480b-b8fc-8a30fac1eba0" class="sf-depth-2 sf-no-children"><a href="/transparencia-acceso-informacion-publica/normativa/circulares" class="sf-depth-2">Circulares</a></li><li id="menu-finagro-menu-link-content615ac2dc-9a4a-4ac6-980f-18a090c522a9" class="sf-depth-2 menuparent"><a href="/transparencia-acceso-informacion-publica/normativa/resoluciones-cnca/cnca" class="sf-depth-2 menuparent">Resoluciones CNCA</a><ul><li id="menu-finagro-menu-link-content19b84306-099c-4b8c-8c44-dcca9a27d7ea" class="sf-depth-3 sf-no-children"><a href="https://www.finagro.com.co/transparencia-acceso-informacion-publica/normativa/proyectos-normativos/proyectos-cnca-0" class="sf-depth-3 sf-external">Proyectos de resolución</a></li><li id="menu-finagro-menu-link-content2d355841-e5cb-4077-b4de-5a526baa427b" class="sf-depth-3 sf-no-children"><a href="/transparencia-acceso-informacion-publica/normativa/resoluciones-cnca/cnca" class="sf-depth-3">CNCA</a></li><li id="menu-finagro-menu-link-contente9baddaf-32c3-4d65-98f0-44e3f73c9ace" class="sf-depth-3 sf-no-children"><a href="https://www.finagro.com.co/diario-oficial" class="sf-depth-3 sf-external">Diario oficial</a></li></ul></li><li id="menu-finagro-menu-link-content4f1cd135-3c7a-4163-bb4e-17341a8a10dc" class="sf-depth-2 sf-no-children"><a href="/normas/manual-de-servicios" class="sf-depth-2">Manual de servicios</a></li><li id="menu-finagro-menu-link-content2a039c67-9b0f-4af0-98e3-134d60e09433" class="sf-depth-2 menuparent"><a href="/transparencia-acceso-informacion-publica/normativa/marco-legal" class="sf-depth-2 menuparent">Marco legal</a><ul><li id="menu-finagro-menu-link-content9913a191-16a6-4ee2-b2ff-5d6f36fe85d8" class="sf-depth-3 sf-no-children"><a href="/transparencia-acceso-informacion-publica/normativa/decretos" class="sf-depth-3">Decretos</a></li><li id="menu-finagro-menu-link-contentadd5c2a8-a468-40d5-bd4f-36061e526f0c" class="sf-depth-3 sf-no-children"><a href="/transparencia-acceso-informacion-publica/normativa/leyes" class="sf-depth-3">Leyes</a></li></ul></li><li id="menu-finagro-menu-link-content8cb7a650-9a3d-43ce-8d9f-6a01d8258035" class="sf-depth-2 sf-no-children"><a href="/transparencia-acceso-informacion-publica/normativa/prevencion-del-lavado-activos-financiacion-del-terrorismo" class="sf-depth-2">Prevención del lavado de activos y financiación del terrorismo</a></li><li id="menu-finagro-menu-link-content4ca1b8b6-0121-4552-a5b9-4bdc82249a32" class="sf-depth-2 menuparent"><a href="/transparencia/informacion-de-la-entidad/entes-y-autoridades-que-lo-vigilan" class="sf-depth-2 menuparent">Mecanismos de control</a><ul><li id="menu-finagro-menu-link-contentc78018ff-d4c3-47e8-88df-be5d6d151e47" class="sf-depth-3 sf-no-children"><a href="/transparencia-acceso-informacion-publica/planeacion-presupuesto-informes/informes-gestion-evaluacion-auditoria" class="sf-depth-3">Informes de evaluación y auditoría</a></li><li id="menu-finagro-menu-link-content4da46ae0-5031-4756-8a1f-8730ed2bf4c2" class="sf-depth-3 sf-no-children"><a href="/transparencia-acceso-informacion-publica/planeacion-presupuesto-informes/informes-oficina-control-interno/otros-informes-control-interno" class="sf-depth-3">Otros informes de control interno</a></li></ul></li><li id="menu-finagro-menu-link-content6ac88e46-d8cb-41a9-a265-3ee1b6d0a332" class="sf-depth-2 menuparent"><span class="sf-depth-2 menuparent nolink">Órdenes judiciales</span><ul><li id="menu-finagro-menu-link-contenteaebc1ad-ba4c-4ca2-8c78-736361dc74f4" class="sf-depth-3 sf-no-children"><a href="/transparencia-acceso-informacion-publica/normativa/ordenes-judiciales/ordenes-judiciales" class="sf-depth-3">Órdenes judiciales</a></li><li id="menu-finagro-menu-link-contentdbfcd1aa-4bf3-4c4b-9478-cb5800a170dc" class="sf-depth-3 sf-no-children"><a href="/transparencia-acceso-informacion-publica/normativa/ordenes-judiciales/defensa-judicial" class="sf-depth-3">Defensa judicial</a></li></ul></li><li id="menu-finagro-menu-link-contentdd8573e4-f20c-4c03-85a9-2ea21e8e0c49" class="sf-depth-2 sf-no-children"><a href="https://www.finagro.com.co/gobierno-corporativo" class="sf-depth-2 sf-external">Gobierno Corporativo</a></li></ul></li><li id="menu-finagro-menu-link-contente9bb3ed7-c24d-4fc1-89dd-4579a03f7d60" class="sf-depth-1 menuparent"><a href="https://www.finagro.com.co/atencion-servicios-ciudadania" class="menu-resaltado sf-depth-1 sf-external menuparent">Atención y servicios a la ciudadanía</a><ul><li id="menu-finagro-menu-link-content9af31203-a96b-45cf-9d18-c2d082ae5340" class="sf-depth-2 menuparent"><span class="sf-depth-2 menuparent nolink">SAC- Sistema de Atención al Consumidor Financiero</span><ul><li id="menu-finagro-menu-link-content371adf99-0902-4b14-846c-ccd4d6ac1fd5" class="sf-depth-3 menuparent"><a href="/atencion-servicios-ciudadania/informacion-al-ciudadano/sac-sistema-atencion-al-consumidor-financiero/sac-sistema-atencion-al-consumidor-financiero" class="sf-depth-3 menuparent">SAC</a><ul><li id="menu-finagro-menu-link-content95adc52e-477b-4251-b27d-9e3e07859fd3" class="sf-depth-4 sf-no-children"><a href="https://www.finagro.com.co/carta-trato-digno-al-consumidor-financiero" class="sf-depth-4 sf-external">Carta de trato digno al consumidor financiero.</a></li></ul></li><li id="menu-finagro-menu-link-content17d9876e-3e61-4d24-8dff-8f5f7c53f940" class="sf-depth-3 sf-no-children"><a href="/atencion-servicios-ciudadania/informacion-al-ciudadano/sac-sistema-atencion-al-consumidor-financiero/derechos-peticion" class="sf-depth-3">Derechos de petición</a></li><li id="menu-finagro-menu-link-content8661b654-eaab-4efe-9a81-6b03bcf03a46" class="sf-depth-3 sf-no-children"><a href="/atencion-servicios-ciudadania/informacion-al-ciudadano/sac-sistema-atencion-al-consumidor-financiero/preguntas-frecuentes" class="sf-depth-3">Preguntas frecuentes</a></li><li id="menu-finagro-menu-link-contentc1a55891-4a6c-430b-a4ec-8d6f2c406657" class="sf-depth-3 sf-no-children"><a href="/atencion-servicios-ciudadania/informacion-al-ciudadano/sac-sistema-atencion-al-consumidor-financiero/contactenos" class="sf-depth-3">Contáctenos</a></li><li id="menu-finagro-menu-link-contentf3715483-28e6-476c-ab54-73afa434ca43" class="sf-depth-3 sf-no-children"><a href="/transparencia-acceso-informacion-publica/informacion-entidad/mecanismo-presentacion-directa-solicitudes-quejas-reclamos/sugerencias-peticiones-quejas-reclamos" class="sf-depth-3">SPQR</a></li><li id="menu-finagro-menu-link-contentaf7deb4e-1688-4d89-9926-1a32383a7d31" class="sf-depth-3 sf-no-children"><a href="https://www.finagro.com.co/atencion-servicios-ciudadania/informacion-al-ciudadano/sac-sistema-atencion-al-consumidor-financiero/quejas" class="sf-depth-3 sf-external">Quejas</a></li></ul></li><li id="menu-finagro-menu-link-content95ceb5a8-eaa6-4285-8b0e-5bbe763ccd9d" class="sf-depth-2 menuparent"><span class="sf-depth-2 menuparent nolink">Documentos de información</span><ul><li id="menu-finagro-menu-link-content2caf9c26-cef4-4685-b1dd-bb93e51115c0" class="sf-depth-3 sf-no-children"><a href="/atencion-servicios-ciudadania/informacion-al-ciudadano/informes-gestion-al-ciudadano/rendicion-cuentas" class="sf-depth-3">Informes de gestión al ciudadano</a></li><li id="menu-finagro-menu-link-content819df10b-337a-4d2d-a906-c690389a1158" class="sf-depth-3 sf-no-children"><a href="/atencion-servicios-ciudadania/informacion-al-ciudadano/documentos-informacion/aviso-privacidad" class="sf-depth-3">Aviso de privacidad</a></li><li id="menu-finagro-menu-link-contentaa111f63-b635-4b23-87ad-76a24095bc2f" class="sf-depth-3 sf-no-children"><a href="/atencion-servicios-ciudadania/informacion-al-ciudadano/documentos-informacion/recomendaciones-medidas-sobre-ciberseguridad" class="sf-depth-3">Recomendaciones y medidas sobre ciberseguridad</a></li><li id="menu-finagro-menu-link-content93038ce0-cc40-4c5b-9cb7-5d1d55304948" class="sf-depth-3 menuparent"><span class="sf-depth-3 menuparent nolink">Plan Anticorrupción</span><ul><li id="menu-finagro-menu-link-content3d62bda8-2982-4c1e-9b57-30f3e9ea2e2c" class="sf-depth-4 sf-no-children"><a href="/atencion-servicios-ciudadania/informacion-al-ciudadano/documentos-informacion/plan-anticorrupcion-atencion-al-ciudadano" class="sf-depth-4">Plan Anticorrupción y Atención al Ciudadano</a></li><li id="menu-finagro-menu-link-content96e95d8b-a529-4e9d-b926-cfea7568d41b" class="sf-depth-4 sf-no-children"><a href="https://www.finagro.com.co/transparencia-acceso-informacion-publica/para-presentar-denuncia-de-caso-de-corrupci%C3%B3n-o-fraude" class="sf-depth-4 sf-external">Reporte caso de fraude</a></li></ul></li><li id="menu-finagro-menu-link-content9897c31a-202b-4d2c-a0b2-5c3b1688897e" class="sf-depth-3 menuparent"><span class="sf-depth-3 menuparent nolink">Instrumentos de gestión de la información</span><ul><li id="menu-finagro-menu-link-content0dd0bc88-c40b-4f42-a66d-048c3fc99b20" class="sf-depth-4 sf-no-children"><a href="/atencion-servicios-ciudadania/informacion-al-ciudadano/documentos-informacion/instrumentos-gestion-informacion/esquema-publicacion-informacion" class="sf-depth-4">Esquema de publicación de la información</a></li><li id="menu-finagro-menu-link-content6de0d3bd-4abd-42ff-9e49-9e5ec40a02f4" class="sf-depth-4 sf-no-children"><a href="/atencion-servicios-ciudadania/informacion-al-ciudadano/datos-abiertos/seccion-datos-abiertos/datos-abiertos" class="sf-depth-4">Publicación de Datos abiertos</a></li></ul></li><li id="menu-finagro-menu-link-content9566dbe9-a485-48dc-97e5-86e107019579" class="sf-depth-3 sf-no-children"><a href="/sitemap" class="sf-depth-3">Mapa de sitio</a></li></ul></li><li id="menu-finagro-menu-link-contentf4c11bf7-84a9-4e6b-9c02-ac30637b229a" class="sf-depth-2 sf-no-children"><a href="/atencion-servicios-ciudadania/tramites-opa-consulta-informacion/intermediarios-financieros" class="sf-depth-2">Intermediarios financieros</a></li><li id="menu-finagro-menu-link-content5b545ea1-aeb4-4f31-b067-ab30502f2ed4" class="sf-depth-2 sf-no-children"><a href="/atencion-servicios-ciudadania/canales-atencion" class="sf-depth-2">Canales de atención</a></li><li id="menu-finagro-menu-link-contentcca073f7-5135-4297-8529-0239148bc937" class="sf-depth-2 sf-no-children"><a href="/transparencia-acceso-informacion-publica/informacion-de-la-entidad/publicacion-de-hojas-de-vida" class="sf-depth-2">Hojas de vida</a></li><li id="menu-finagro-menu-link-contentfb4bce03-9dba-421b-9e0c-57e0a5468e52" class="sf-depth-2 sf-no-children"><a href="https://www.finagro.com.co/informacion-relevante" class="sf-depth-2 sf-external">Información relevante</a></li><li id="menu-finagro-menu-link-content7b0a0f20-f81e-4959-9ff1-1c4ccbc192ac" class="sf-depth-2 sf-no-children"><a href="/atencion-servicios-ciudadania/informacion-al-ciudadano/ofertas-empleo" class="sf-depth-2">Ofertas de empleo</a></li><li id="menu-finagro-menu-link-content85fd6353-6d9b-4a51-80dc-4e62aeb58b47" class="sf-depth-2 sf-no-children"><a href="/transparencia-acceso-informacion-publica/informacion-entidad/directorio-institucional/directorio-institucional" class="sf-depth-2">Directorio Gremial</a></li><li id="menu-finagro-menu-link-contentde6f138f-1b1f-4451-be4d-5ea4c5ba51ed" class="sf-depth-2 sf-no-children"><a href="https://www.finagro.com.co/atencion-servicios-ciudadania/informacion-al-ciudadano/sac-sistema-atencion-al-consumidor-financiero/glosarios" class="sf-depth-2 sf-external">Glosarios</a></li></ul></li><li id="menu-finagro-menu-link-content205e1f00-9da4-4c4e-9fb4-2315ddb77129" class="sf-depth-1 menuparent"><a href="https://www.finagro.com.co/transparencia-acceso-informacion" class="menu-resaltado sf-depth-1 sf-external menuparent">Transparencia y Acceso a Información Pública</a><ul><li id="menu-finagro-menu-link-content163569f3-a1e0-46f1-941e-ee38c5cd362b" class="sf-depth-2 menuparent"><span class="sf-depth-2 menuparent nolink">Información de la entidad</span><ul><li id="menu-finagro-menu-link-content4f3d53d8-bf4c-4f4b-b527-71cc8686a7e0" class="sf-depth-3 sf-no-children"><a href="/transparencia-acceso-informacion-publica/informacion-entidad/mision-vision-funciones-deberes/informacion-institucional" class="sf-depth-3">Misión, visión, funciones y deberes</a></li><li id="menu-finagro-menu-link-contenta0aea858-526c-484a-9e9a-b19d21b97efb" class="sf-depth-3 sf-no-children"><a href="/transparencia-acceso-informacion-publica/informacion-entidad/estructura-organica-organigrama/organigrama" class="sf-depth-3">Estructura orgánica - Organigrama</a></li><li id="menu-finagro-menu-link-content8df62b34-77de-4846-a0cc-5106862b2493" class="sf-depth-3 sf-no-children"><a href="/quienes-somos/sig-sistema-integrado-gestion/sig" class="sf-depth-3">Mapas y Cartas descriptivas de los procesos</a></li><li id="menu-finagro-menu-link-content52a6e09d-182b-4865-9689-a19374d1265f" class="sf-depth-3 sf-no-children"><a href="/transparencia-acceso-informacion-publica/informacion-entidad/directorio-institucional/directorio-institucional" class="sf-depth-3">Directorio Institucional</a></li><li id="menu-finagro-menu-link-content5253fcc3-653d-4d7f-9adb-33916a146060" class="sf-depth-3 sf-no-children"><a href="/transparencia-acceso-informacion-publica/informacion-entidad/directorio-servidores-publicos-empleados-contratistas/directorio-servidores-publicos-empleados-contratistas" class="sf-depth-3">Directorio de servidores públicos, empleados o contratistas</a></li><li id="menu-finagro-menu-link-contente301d51a-5a82-4242-89aa-f7fc80f57996" class="sf-depth-3 sf-no-children"><a href="/transparencia-acceso-informacion-publica/informacion-entidad/directorio-entidades/directorio-entidades" class="sf-depth-3">Directorio de entidades</a></li><li id="menu-finagro-menu-link-content749ecafe-1076-4743-951c-16226a77039a" class="sf-depth-3 sf-no-children"><a href="/transparencia-acceso-informacion-publica/informacion-entidad/directorio-institucional/directorio-institucional" class="sf-depth-3">Directorio de agremiaciones o asociaciones en las que participe</a></li><li id="menu-finagro-menu-link-content49f4a0c5-ecb0-4d5e-9356-97ea04b52976" class="sf-depth-3 sf-no-children"><a href="https://www.finagro.com.co/transparencia-acceso-informacion-publica/informacion-entidad/servicio-al-publico-normas-formularios-protocolos-atencion" class="sf-depth-3 sf-external">Servicio al público, normas, formularios y protocolos de atención</a></li><li id="menu-finagro-menu-link-contenta7014b28-05d8-4efe-ae45-c57775f6ef00" class="sf-depth-3 sf-no-children"><a href="/transparencia-acceso-informacion-publica/informacion-entidad/procedimientos-se-siguen-tomar-decisiones-las-diferentes-areas" class="sf-depth-3">Procedimientos que se siguen para tomar decisiones en las diferentes áreas</a></li><li id="menu-finagro-menu-link-content1e02ee58-23a3-4ffb-a83e-08575150fbfd" class="sf-depth-3 sf-no-children"><a href="/transparencia-acceso-informacion-publica/informacion-entidad/mecanismo-presentacion-directa-solicitudes-quejas-reclamos/sugerencias-peticiones-quejas-reclamos" class="sf-depth-3">Mecanismo de presentación directa de solicitudes, quejas y reclamos a disposición del público en relación con acciones u omisiones del sujeto obligado (PQRS)</a></li><li id="menu-finagro-menu-link-contentb432f6a1-1938-4560-835d-d25c6b226172" class="sf-depth-3 sf-no-children"><a href="/noticias/eventos" class="sf-depth-3">Calendario de actividades y eventos</a></li><li id="menu-finagro-menu-link-contentee2dfb82-3c6e-4a9e-960e-b0ef6051bbea" class="sf-depth-3 sf-no-children"><a href="/transparencia-acceso-informacion-publica/informacion-entidad/informacion-sobre-decisiones-puede-afectar-al-publico" class="sf-depth-3">Información sobre decisiones que puede afectar al público</a></li><li id="menu-finagro-menu-link-content33fafce2-8554-4cc2-b26b-589fad4c1264" class="sf-depth-3 sf-no-children"><a href="/transparencia/informacion-de-la-entidad/entes-y-autoridades-que-lo-vigilan" class="sf-depth-3">Entes y autoridades que lo vigilan</a></li><li id="menu-finagro-menu-link-contenta47fd5c7-8879-4f80-be54-b99cd0c84cba" class="sf-depth-3 sf-no-children"><a href="/transparencia-acceso-informacion-publica/informacion-de-la-entidad/publicacion-de-hojas-de-vida" class="sf-depth-3">Publicación de hojas de vida</a></li></ul></li><li id="menu-finagro-menu-link-content10234248-af7f-4c6a-8b42-b2887328afee" class="sf-depth-2 menuparent"><span class="sf-depth-2 menuparent nolink">Normativa</span><ul><li id="menu-finagro-menu-link-content4a4dda05-3080-4799-b0e0-7bd5f93748cb" class="sf-depth-3 menuparent"><span class="sf-depth-3 menuparent nolink">Normativa de la entidad o autoridad</span><ul><li id="menu-finagro-menu-link-contentf2df37eb-2eb4-40fc-bb5c-2a5ab44113ce" class="sf-depth-4 sf-no-children"><a href="/transparencia-acceso-informacion-publica/normativa/leyes" class="sf-depth-4">Leyes</a></li><li id="menu-finagro-menu-link-content85179a88-093e-4ec2-84b6-baffa6275d4c" class="sf-depth-4 sf-no-children"><a href="/transparencia-acceso-informacion-publica/normativa/decretos" class="sf-depth-4">Decreto Único Reglamentario</a></li><li id="menu-finagro-menu-link-contentc1355bee-e94a-4c47-85e6-885a21cca3ff" class="sf-depth-4 sf-no-children"><a href="/transparencia-acceso-informacion-publica/normativa/leyes" class="sf-depth-4">Normativa aplicable</a></li><li id="menu-finagro-menu-link-content9175bb00-7b15-4731-9301-8ac362873d5e" class="sf-depth-4 sf-no-children"><a href="http://svrpubindc.imprenta.gov.co/diario/" class="sf-depth-4 sf-external">Vínculo al Diario o Gaceta Oficial</a></li><li id="menu-finagro-menu-link-contentbd38819e-2939-43ee-af93-82d65bdb7e28" class="sf-depth-4 sf-no-children"><a href="/transparencia-acceso-informacion-publica/normativa/politicas-lineamientos-y-manuales" class="sf-depth-4">Políticas, lineamientos y manuales</a></li></ul></li><li id="menu-finagro-menu-link-contenta64cfe2c-78f2-43de-a8af-8beebd8bcec4" class="sf-depth-3 menuparent"><a href="/transparencia-acceso-informacion-publica/normativa/busqueda-normas" class="sf-depth-3 menuparent">Búsqueda de normas</a><ul><li id="menu-finagro-menu-link-contentf70b3cd3-62c4-4cd2-923e-1723860d9ff9" class="sf-depth-4 sf-no-children"><a href="/transparencia-acceso-informacion-publica/normativa/leyes" class="sf-depth-4">Sistema de búsquedas de normas, propio de la entidad</a></li><li id="menu-finagro-menu-link-content1bb9240e-c2af-4aa7-b71c-0acf882e3fda" class="sf-depth-4 sf-no-children"><a href="https://www.suin-juriscol.gov.co/legislacion/normatividad.html" class="sf-depth-4 sf-external" target="_blank">Sistema Único de Información Normativa – SUIN</a></li></ul></li><li id="menu-finagro-menu-link-content9f9adf64-0e6a-45aa-987e-508935e136f4" class="sf-depth-3 menuparent"><span class="sf-depth-3 menuparent nolink">Marco Legal</span><ul><li id="menu-finagro-menu-link-content76c38cf2-6e0d-43bf-ad92-17a063c8f03d" class="sf-depth-4 sf-no-children"><a href="/transparencia-acceso-informacion-publica/normativa/marco-legal" class="sf-depth-4">Marco legal </a></li><li id="menu-finagro-menu-link-content68e267ac-d319-4af0-9068-1c782a4c6c09" class="sf-depth-4 menuparent"><a href="https://www.finagro.com.co/atencion-servicios-ciudadania/informacion-al-ciudadano/documentos-informacion/plan-anticorrupcion-atencion-al-ciudadano" class="sf-depth-4 sf-external menuparent">Plan Anticorrupción y Atención al Ciudadano</a><ul><li id="menu-finagro-menu-link-content21d02477-c184-4e6a-9cf6-3bcc464f97ce" class="sf-depth-5 sf-no-children"><a href="https://www.finagro.com.co/transparencia-acceso-informacion-publica/para-presentar-denuncia-de-caso-de-corrupci%C3%B3n-o-fraude" class="sf-depth-5 sf-external">Reporte caso de fraude</a></li></ul></li></ul></li><li id="menu-finagro-menu-link-content30935235-2894-4a77-a10f-ddfb641c30d9" class="sf-depth-3 menuparent"><span class="sf-depth-3 menuparent nolink">Proyectos de normas para comentarios</span><ul><li id="menu-finagro-menu-link-content34a5a1c0-3468-43e4-9ee1-a49a35b6fac5" class="sf-depth-4 sf-no-children"><a href="/transparencia-acceso-informacion-publica/normativa/proyectos-normas-comentarios/comentarios-documento-respuesta-comentarios" class="sf-depth-4">Comentarios y documento de respuesta a comentarios</a></li><li id="menu-finagro-menu-link-content0d477629-9a00-4662-bee7-31694cc49d17" class="sf-depth-4 sf-no-children"><a href="/transparencia-acceso-informacion-publica/normativa/proyectos-normas-comentarios/participacion-ciudadana-expedicion-normas-traves-sucop" class="sf-depth-4">Participación ciudadana en la expedición de normas a través el SUCOP</a></li></ul></li></ul></li><li id="menu-finagro-menu-link-content68f0b8ac-b51a-4b22-aef3-eb257a4081f9" class="sf-depth-2 menuparent"><span class="sf-depth-2 menuparent nolink">Contratación</span><ul><li id="menu-finagro-menu-link-content1afde087-2a99-4fb8-a36c-c74b1a74facc" class="sf-depth-3 sf-no-children"><a href="https://www.finagro.com.co/transparencia-acceso-informacion-publica/contratacion/plan-general-compras" class="sf-depth-3 sf-external">Plan Anual de Adquisiciones</a></li><li id="menu-finagro-menu-link-contente1725373-28a1-4047-a29b-df3064c24d4f" class="sf-depth-3 sf-no-children"><a href="https://www.finagro.com.co/transparencia-acceso-informacion-publica/contratacion/poscontractual" class="sf-depth-3 sf-external" target="_self">Publicación de la información contractual</a></li><li id="menu-finagro-menu-link-content8b1586f5-484e-49f8-8eb9-63e44a77d3bd" class="sf-depth-3 sf-no-children"><a href="/transparencia-acceso-informacion-publica/contratacion/informes-ejecucion" class="sf-depth-3">Publicación de la ejecución de los contratos</a></li><li id="menu-finagro-menu-link-contenta9b4b539-3fd9-44f5-8246-c71dce0d58e0" class="sf-depth-3 sf-no-children"><a href="/transparencia-acceso-informacion-publica/contratacion/manual-contratacion-adquisicion-compras/manual-contratacion" class="sf-depth-3">Manual de contratación</a></li></ul></li><li id="menu-finagro-menu-link-content98160512-0756-4aa5-b095-209c9a65e55e" class="sf-depth-2 menuparent"><span class="sf-depth-2 menuparent nolink">Planeación, Presupuesto e Informes</span><ul><li id="menu-finagro-menu-link-contentd2d0c339-84d3-472b-aeac-8e2c443726f0" class="sf-depth-3 sf-no-children"><a href="/transparencia-acceso-informacion-publica/planeacion-presupuesto-informes/presupuesto-general-ingresos-gastos-e-inversion" class="sf-depth-3">Presupuesto general de ingresos, gastos e inversión</a></li><li id="menu-finagro-menu-link-content41ad0aee-c34b-460b-841a-8db59438871d" class="sf-depth-3 sf-no-children"><a href="/transparencia-acceso-informacion-publica/planeacion-presupuesto-informes/presupuesto-general-ingresos-gastos-e-inversion" class="sf-depth-3">Ejecución presupuestal</a></li><li id="menu-finagro-menu-link-content005c0547-0637-40bf-aa2a-f5ce8a00f88e" class="sf-depth-3 sf-no-children"><a href="/quienes-somos/sig-sistema-integrado-gestion/sig" class="sf-depth-3">Plan de Acción</a></li><li id="menu-finagro-menu-link-content3a42f6c5-e20b-4ead-9099-d8c73ff3a5c5" class="sf-depth-3 sf-no-children"><a href="/transparencia-acceso-informacion-publica/planeacion-presupuesto-informes/proyectos-inversion" class="sf-depth-3">Proyectos de Inversión</a></li><li id="menu-finagro-menu-link-content8aa8103c-3391-4631-8582-5b0c8a5528a6" class="sf-depth-3 sf-no-children"><a href="/transparencia-acceso-informacion-publica/planeacion-presupuesto-informes/informes-empalme" class="sf-depth-3">Informes de empalme</a></li><li id="menu-finagro-menu-link-content4d92c56c-8560-41ca-9cd2-a9dc2dc349ae" class="sf-depth-3 sf-no-children"><a href="https://www.superfinanciera.gov.co/jsp/61446" class="sf-depth-3 sf-external" target="_blank">Información pública y/o relevante</a></li><li id="menu-finagro-menu-link-content47450708-44d9-46f9-b300-cde7864d0c24" class="sf-depth-3 sf-no-children"><a href="/transparencia-acceso-informacion-publica/planeacion-presupuesto-informes/informes-gestion-evaluacion-auditoria" class="sf-depth-3">Informes de gestión, evaluación y auditoría</a></li><li id="menu-finagro-menu-link-content8b0d0f06-9a6d-4a2a-ae2b-ce43cb59ad12" class="sf-depth-3 sf-no-children"><a href="/transparencia-acceso-informacion-publica/planeacion-presupuesto-informes/informes-oficina-control-interno/otros-informes-control-interno" class="sf-depth-3">Informes de la Oficina de Control Interno</a></li><li id="menu-finagro-menu-link-content19f9aacf-a78c-4f35-bfec-bc5c6c236f0f" class="sf-depth-3 sf-no-children"><a href="/transparencia-acceso-informacion-publica/normativa/ordenes-judiciales/defensa-judicial" class="sf-depth-3">Informe sobre Defensa Pública y Prevención del Daño Antijurídico</a></li><li id="menu-finagro-menu-link-content0a560bba-7b5f-4a3b-9c77-ae0f44593fb4" class="sf-depth-3 sf-no-children"><a href="/atencion-servicios-ciudadania/informacion-al-ciudadano/sac-sistema-atencion-al-consumidor-financiero/derechos-peticion" class="sf-depth-3">Informes trimestrales sobre acceso a información, quejas y reclamos</a></li></ul></li><li id="menu-finagro-menu-link-content5dfe6628-84bb-4e84-87f7-9637685414d4" class="sf-depth-2 menuparent"><span class="sf-depth-2 menuparent nolink">Trámites y Servicios</span><ul><li id="menu-finagro-menu-link-content3d2dccbf-19d0-4ea1-9e59-7f3f74e5e74a" class="sf-depth-3 sf-no-children"><a href="https://www.finagro.com.co/tramites" class="sf-depth-3 sf-external">Trámites</a></li></ul></li><li id="menu-finagro-menu-link-content3f2f810d-5a8d-4604-af9c-36e517e21a16" class="sf-depth-2 sf-no-children"><span class="menu-resaltado sf-depth-2 nolink">Participa</span></li><li id="menu-finagro-menu-link-contentfb277595-c388-4798-8c88-24b76d2fefeb" class="sf-depth-2 menuparent"><span class="sf-depth-2 menuparent nolink">Datos abiertos</span><ul><li id="menu-finagro-menu-link-content25bd60c9-2e00-4241-95d8-dc628e55f9f1" class="sf-depth-3 sf-no-children"><a href="https://www.finagro.com.co/inventario-activos-informacion" class="sf-depth-3 sf-external">Instrumentos de gestión de la información</a></li><li id="menu-finagro-menu-link-contentd087788c-252a-49bc-9827-2038c642374a" class="sf-depth-3 sf-no-children"><a href="/atencion-servicios-ciudadania/informacion-al-ciudadano/datos-abiertos/seccion-datos-abiertos/datos-abiertos" class="sf-depth-3">Datos Abiertos</a></li></ul></li><li id="menu-finagro-menu-link-contentd0ae2273-f135-4a5a-99c8-63279c8bae2a" class="sf-depth-2 sf-no-children"><a href="/transparencia-acceso-informacion-publica/informacion-especifica-grupos-interes/manual-servicios" class="sf-depth-2">Información específica para Grupos de Interés</a></li><li id="menu-finagro-menu-link-contentd4e98c6a-7acd-4f73-959e-6006441414b7" class="sf-depth-2 sf-no-children"><a href="https://www.finagro.com.co/transparencia-acceso-informacion-publica/politicas-derechos-autor-uso-informacion" class="sf-depth-2 sf-external">Políticas de derechos de autor y uso de la información</a></li><li id="menu-finagro-menu-link-content417c4ab8-e9be-4f7d-8c23-710749ae6500" class="sf-depth-2 sf-no-children"><a href="https://www.finagro.com.co/accesibilidad-web" class="sf-depth-2 sf-external">Accesibilidad web</a></li><li id="menu-finagro-menu-link-contentf599dcf7-f889-432f-aae7-45388cdafcb3" class="sf-depth-2 sf-no-children"><a href="https://www.finagro.com.co/transparencia-acceso-informacion-publica/normativa/resoluciones-cnca/cnca" class="sf-depth-2 sf-external">Reportes</a></li><li id="menu-finagro-menu-link-content64ec227d-4114-4666-abbb-358dddbb4c32" class="sf-depth-2 menuparent"><span class="sf-depth-2 menuparent nolink">Información Tributaria</span><ul><li id="menu-finagro-menu-link-content50ad4115-2834-43ba-bfe3-d7e25669c09f" class="sf-depth-3 sf-no-children"><a href="/transparencia-acceso-informacion-publica/informacion-tributaria/procesos-recaudo-rentas-locales" class="sf-depth-3">Procesos de recaudo de rentas locales</a></li><li id="menu-finagro-menu-link-contente04fdf1f-4109-4d64-8354-f7906cbc173c" class="sf-depth-3 sf-no-children"><a href="/transparencia-acceso-informacion-publica/informacion-tributaria/tarifas-liquidacion-del-impuesto-industria-comercio-ica" class="sf-depth-3">Tarifas de liquidación del Impuesto de Industria y Comercio (ICA)</a></li></ul></li></ul></li><li id="menu-finagro-menu-link-contentd6958430-1af6-4199-a75b-130d088fd792" class="sf-depth-1 sf-no-children"><a href="https://www.finagro.com.co/transparencia-acceso-informacion-publica/participa" class="menu-resaltado sf-depth-1 sf-external">Participa</a></li><li id="menu-finagro-menu-link-contentc7952086-f82b-49a1-94ab-b7ec5e4021a4" class="sf-depth-1 sf-no-children"><a href="https://www.finagro.com.co/atencion-servicios-ciudadania/informacion-al-ciudadano/sac-sistema-atencion-al-consumidor-financiero/preguntas-frecuentes" class="sf-depth-1 sf-external">Preguntas frecuentes</a></li>
+</ul>
+
+    </div>
+  </div>
+
+  </div>
+
+                      </div>
+                                          </div>
+                                                    </div>
+              </div>
+                          </div>
+          </header>
+                  
+      </div>
+          
+        
+    
+                  <div class="internal-banner-container">
+          
+                    <div id="hero-top" class="clearfix hero-top d-flex align-items-center region--default-background ">
+            <div class="container-fluid">
+                            <div class="clearfix hero-top__container"
+                >
+                <div class="row">
+                  <div class="col-12">
+                    <div class="hero-top__section">
+                        <div class="region region-hero-top">
+    <div id="block-cleanplus-breadcrumbs" class="clearfix block block-system block-system-breadcrumb-block">
+  
+    
+      <div class="content">
+      
+  <nav class="breadcrumb" role="navigation" aria-labelledby="system-breadcrumb">
+    <h2 id="system-breadcrumb" class="visually-hidden">Sobrescribir enlaces de ayuda a la navegación</h2>
+    <ol class="breadcrumb__items">
+          <li class="breadcrumb__item">
+        <span class="breadcrumb__item-separator fas fa-angle-right"></span>
+                  <a href="/">
+            <span>Finagro</span>
+          </a>
+              </li>
+          <li class="breadcrumb__item">
+        <span class="breadcrumb__item-separator fas fa-angle-right"></span>
+                  <span>Transparencia Acceso Informacion Publica</span>
+              </li>
+          <li class="breadcrumb__item">
+        <span class="breadcrumb__item-separator fas fa-angle-right"></span>
+                  <a href="https://www.finagro.com.co/transparencia-acceso-informacion-publica/participa">
+            <span>Participa</span>
+          </a>
+              </li>
+          <li class="breadcrumb__item">
+        <span class="breadcrumb__item-separator fas fa-angle-right"></span>
+                  <span>Planeación y presupuesto participativo</span>
+              </li>
+        </ol>
+  </nav>
+
+    </div>
+  </div>
+
+  </div>
+
+                    </div>
+                  </div>
+                </div>
+              </div>
+                          </div>
+          </div>
+                  </div>
+          
+    
+          <div class="system-messages clearfix">
+        <div class="container">
+          <div class="row">
+            <div class="col-12">
+                <div class="region region-system-messages">
+    <div data-drupal-messages-fallback class="hidden"></div>
+
+  </div>
+
+            </div>
+          </div>
+        </div>
+      </div>
+    
+      
+  
+        <div id="main-content" class="clearfix main-content region--default-background region--no-separator">
+      <div class="container">
+        <div class="clearfix main-content__container">
+          <div class="row">
+            <section class="col-lg-9 col-xl-9 ">
+                            <div class="clearfix main-content__section region--no-paddings"
+                >
+                                    <div class="region region-content">
+    <div id="block-cleanplus-content" class="clearfix block block-system block-system-main-block">
+  
+    
+      <div class="content">
+      
+
+
+
+<article data-history-node-id="77836" role="article" about="/transparencia-acceso-informacion-publica/participa/planeacion-presupuesto-participativo" typeof="schema:WebPage" class="node node--type-page node--view-mode-full clearfix">
+  <div class="node__container">
+    <div class="node__main-content clearfix">
+      <header class="node__header">
+                  
+            <h1 class="node__title">
+              <a href="/transparencia-acceso-informacion-publica/participa/planeacion-presupuesto-participativo" rel="bookmark"><span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Planeación y presupuesto participativo</span>
+</a>
+            </h1>
+            <span property="schema:name" content="Planeación y presupuesto participativo" class="rdf-meta hidden"></span>
+
+                        </header>
+      
+      <div class="node__main-content-section">
+        
+            <div property="schema:text" class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>La <strong>Planeación Participativa</strong> es entendida como el mecanismo mediante el cual la sociedad civil decide el rumbo de las políticas, planes, programas, proyectos o trámites de acuerdo con sus necesidades. FINAGRO al ser una sociedad de economía mixta, no está obligada a tener una planeación participativa. Sin embargo, está disponible a la toda la ciudadanía:</p>
+<ul><li><strong>Nuestro Plan Estratégico Institucional.</strong></li>
+</ul><p><a href="https://www.finagro.com.co/transparencia-acceso-informacion-publica/planeacion-presupuesto-informes/plan-accion/pei-plan-estrategico-institucional-finagro-2023-2026" title="Plan Estratégico Institucional 2023-2026"><img alt="Plan Estratégico Institucional" data-entity-type="file" data-entity-uuid="9d1f32e9-1fcc-463e-9c9a-2ee09b1f54a2" src="/sites/default/files/inline-images/Consultar%20PEI%20Bot%C3%B3n_0.png" width="460" height="344" loading="lazy" class="align-center" /></a></p>
+<ul><li><strong>Plan Anticorrupción y Atención al ciudadano -PAAC-.</strong></li>
+</ul><p><a href="https://www.finagro.com.co/atencion-servicios-ciudadania/informacion-al-ciudadano/documentos-informacion/plan-anticorrupcion-atencion-al-ciudadano" title="Plan Anticorrupción y Atención al ciudadano -PAAC-"><img alt="Plan Anticorrupción y atención al ciudadano" data-entity-type="file" data-entity-uuid="895bf35c-1d4e-4469-aa3b-6f8cab89a43e" src="/sites/default/files/inline-images/home_botones-17.jpg" width="460" height="420" loading="lazy" class="align-center" /></a></p>
+<p>En caso de tener observaciones o comentarios, agradecemos hacerlas llegar al correo<a href="mailto:finagro@finagro.com.co"> finagro@finagro.com.co</a></p>
+<p><strong>Presupuesto participativo</strong> es el proceso por medio del cual la ciudadanía, a través de la deliberación y la construcción de acuerdos con el Gobierno, asignan un porcentaje de los recursos del presupuesto a programas y proyectos que consideran prioritarios en armonía con el Plan de Desarrollo. Los gobiernos locales y regionales deben promover el desarrollo de mecanismos y estrategias de participación en la programación de sus presupuestos. </p>
+<p>
+El presupuesto participativo para FINAGRO no es obligatorio conforme a los artículos 89, 90 y 91 de la Ley 1757 de 2015.  </p>
+<p><strong>Porcentaje del presupuesto para el proceso.</strong></p>
+<p>El presupuesto participativo para FINAGRO no es obligatorio conforme a los artículos 89, 90 y 91 de la Ley 1757 de 2015. La ciudadanía podrá consultar nuestro presupuesto aquí:</p>
+<p><a href="https://www.finagro.com.co/transparencia-acceso-informacion-publica/planeacion-presupuesto-informes/presupuesto-general-ingresos-gastos-e-inversion" title="Presupuesto Finagro"><strong>Presupuesto Finagro.</strong></a></p>
+<p><a href="https://www.finagro.com.co/quienes-somos/presupuesto/presupuesto-fag/estados-financieros-fag-junio-2024" title="Presupuesto FAG"><strong>Presupuesto FAG.</strong></a></p>
+<p> </p>
+<p> </p>
+</div>
+      
+      </div>
+      
+      
+    </div>
+    <div class="node__side">
+          
+          
+          <div class="share-links">
+            <ul>
+                <li class="facebook">
+                  <a title="Facebook" href="https://www.facebook.com/sharer/sharer.php?u=https://www.finagro.com.co/transparencia-acceso-informacion-publica/participa/planeacion-presupuesto-participativo&t=Planeaci%C3%B3n%20y%20presupuesto%20participativo" onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
+                    <i class="fab fa-facebook"><span class="sr-only">facebook</span></i>
+                  </a>
+                </li>
+                <li class="twitter">
+                  <a title="Twitter" href="http://twitter.com/share?text=Planeaci%C3%B3n%20y%20presupuesto%20participativo&url=https://www.finagro.com.co/transparencia-acceso-informacion-publica/participa/planeacion-presupuesto-participativo" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+                    <i class="fab fa-twitter"><span class="sr-only">twitter</span></i>
+                  </a>
+                </li>
+                <li class="email">
+                  <a title="Correo" href="mailto:?Subject=Planeaci%C3%B3n%20y%20presupuesto%20participativo&amp;Body=https://www.finagro.com.co/transparencia-acceso-informacion-publica/participa/planeacion-presupuesto-participativo">
+                    <i class="far fa-envelope"><span class="sr-only">envelope</span></i>
+                  </a>
+                </li>
+            </ul>
+          </div>
+    </div>
+  </div>
+</article>
+
+    </div>
+  </div>
+<div id="block-bloc-button-float" class="clearfix block block-block-content block-block-contente952b9db-3e1c-4ea2-9e02-8c875b7f52b2">
+  
+    
+      <div class="content">
+      
+            <div class="field field--name-field-mt-ta-body field--type-text-with-summary field--label-hidden field__item"><link crossorigin="anonymous" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css" integrity="sha512-SzlrxWUlpfuzQ+pcUCosxcglQRNAq/DZjVsC0lE40xsADsfeQoEypE+enwcOiGjk/bSuGGKHEyjSoQ1zVisanQ==" rel="stylesheet" />
+<style type="text/css">
+<!--/*--><![CDATA[/* ><!--*/
+body {
+      margin: 0;
+      padding: 0;
+      font-family: Arial, sans-serif;
+      background-color: #f0f0f0;
+    }
+
+    .container {
+      position: relative;
+      padding-top: 20px;
+    }
+
+    .floating-button {
+      position: fixed;
+      border: none;
+      border-radius: 50%;
+      width: 60px;
+      height: 60px;
+      font-size: 24px;
+      cursor: pointer;
+      box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+      transition: background-color 0.3s, color 0.3s, transform 0.3s;
+	  display: flex;
+	  justify-content: center;
+	  align-items: center;
+    }
+
+    .top-left {
+      top: 20px;
+      left: 20px;
+    }
+
+    .bottom-left {
+      bottom: 80px;
+      left: 25px;
+    }
+
+    .top-right {
+      top: 20px;
+      right: 20px;
+    }
+
+    .floating-button.whatsapp {
+      background-color: #25D366;
+      color: white;
+    }
+
+    .floating-button:hover {
+      background-color: #128C7E;
+      transform: scale(1.05);
+    }
+
+    .error-message {
+      color: red;
+      font-size: 16px;
+    }
+
+    
+  /* Existing code */
+
+  .password-form {
+    display: none;
+    position: fixed;
+    top: 90px; /* Modified position to top */
+    left: 10px; /* Modified position to left */
+    height: 80px; /* Corrected spelling of "height" */
+    background-color: #fff;
+    padding: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+    border-radius: 5px;
+    text-align: left;
+  }
+
+    .password-title {
+      font-size: 18px;
+      font-weight: bold;
+    }
+
+    .password-content {
+      margin-top: 10px;
+    }
+
+    .password-input {
+      border: none;
+      border-bottom: 2px solid #0077B5;
+      padding: 5px;
+      font-size: 16px;
+      width: 100px;
+      margin-bottom: 10px;
+    }
+
+    .password-input::placeholder {
+      color: #0077B5;
+    }
+
+    .password-input:focus {
+      outline: none;
+      border-bottom: 2px solid #128C7E;
+    }
+
+    .password-button {
+      background-color: #0077B5;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      padding: 10px;
+      cursor: pointer;
+    }
+
+    .password-button:hover {
+      background-color: #00588C;
+    }
+    .submenu {
+      position: fixed;
+      top: 90px;
+      left: 20px;
+      background-color: #fff;
+      padding: 10px;
+      box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+      border-radius: 5px;
+      text-align: left;
+      display: none;
+    }
+
+    .submenu-button {
+      background-color: #0077B5;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      padding: 10px;
+      cursor: pointer;
+      margin-bottom: 10px;
+      width: 100%;
+    }
+
+    .submenu-button:hover {
+      background-color: #00588C;
+    }
+
+/*--><!]]>*/
+</style><p style="padding:0px !important"><a class="whatsapp bottom-left" href="https://wa.me/573138898435" id="button3" style="&#10;    position: fixed;&#10;    width: 175px;&#10;    height: 50px;&#10;    cursor: pointer;&#10;    display: flex;&#10;    z-index: 999;&#10;"><img src="https://www.finagro.com.co/sites/default/files/inline-images/Boton_Contactenos.png" /></p>
+<!-- <i class="fab fa-whatsapp"></i> --><p></a> </p>
+<script>
+<!--//--><![CDATA[// ><!--
+
+    function showPasswordForm() {
+      document.getElementById('password-form').style.display = 'block';
+    }
+
+    function closePasswordForm() {
+      document.getElementById('password-form').style.display = 'none';
+    }
+
+function checkPassword() {
+  const password = document.getElementById('password-input').value;
+  if (password.length !== 4 || isNaN(password)) {
+    document.getElementById('error-message').style.display = 'block';
+  } else {
+    // Verifica si la contraseña es correcta (debes agregar tu lógica de verificación aquí)
+    if (password === '1234') { // Cambia '1234' por tu contraseña correcta
+       document.getElementById('button1').style.display = 'none'; // Oculta button1
+          document.getElementById('button2').style.display = 'block'; // Muestra button2
+          document.getElementById('password-form').style.display = 'none';
+        } else {
+          document.getElementById('error-message').style.display = 'block';
+    }
+         }
+}   function toggleSubmenu() {
+      const submenu = document.getElementById('submenu');
+      if (submenu.style.display === 'block') {
+        submenu.style.display = 'none';
+      } else {
+        submenu.style.display = 'block';
+      }
+}function salir() {
+  document.getElementById('button2').style.display = 'none'; // Oculta button2
+  document.getElementById('button1').style.display = 'block'; // Muestra button1
+  document.getElementById('submenu').style.display = 'none'; // Oculta el submenu
+}
+
+  
+//--><!]]>
+</script></p>
+</div>
+      
+    </div>
+  </div>
+
+  </div>
+
+                              </div>
+                          </section>
+                                      <aside class="col-lg-3 ml-xl-auto ">
+                                <section class="sidebar__section sidebar-second clearfix region--no-block-paddings region--no-paddings"
+                  >
+                    <div class="region region-sidebar-second">
+    <div id="block-linksespeciales" class="clearfix mt-style-custom-all block block-menu-item-fields block-menu-item-fieldsmt-special-links">
+  
+    
+      <div class="content">
+      
+              <ul class="clearfix">
+              <li>
+                  <div>
+  
+  
+            <div class="field field--name-field-mt-menu-icono field--type-image field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/2022-01/icono_circulares.png" width="71" height="86" alt="Circulares Finagro" typeof="foaf:Image" />
+
+</div>
+      
+            <div class="field field--name-link field--type-link field--label-hidden field__item"><a href="/transparencia-acceso-informacion-publica/normativa/circulares" data-drupal-link-system-path="transparencia-acceso-informacion-publica/normativa/circulares">Circulares Finagro</a></div>
+      
+</div>
+
+                      </li>
+          <li>
+                  <div>
+  
+  
+            <div class="field field--name-field-mt-menu-icono field--type-image field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/2022-01/icono_operaciones.png" width="71" height="86" alt="Operaciones en Línea" typeof="foaf:Image" />
+
+</div>
+      
+            <div class="field field--name-link field--type-link field--label-hidden field__item"><a href="/operaciones-en-linea/aplicativos" data-drupal-link-system-path="operaciones-en-linea/aplicativos">Operaciones en Línea</a></div>
+      
+</div>
+
+                      </li>
+          <li>
+                  <div>
+  
+  
+            <div class="field field--name-field-mt-menu-icono field--type-image field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/2022-06/icono_resumen_bol_agroclimatico.png" width="71" height="86" alt="Boletín Agroclimático 2022" typeof="foaf:Image" />
+
+</div>
+      
+            <div class="field field--name-link field--type-link field--label-hidden field__item"><a href="https://www.finagro.com.co/sites/default/files/basic-page/2022-12/Resumen_Diciembre.pdf" target="_blank">Resumen Boletín Agroclimático Nacional</a></div>
+      
+</div>
+
+                      </li>
+        </ul>
+  
+
+
+    </div>
+  </div>
+
+  </div>
+
+                </section>
+                              </aside>
+                      </div>
+        </div>
+      </div>
+    </div>
+    
+  
+  
+  
+  
+  
+  
+  
+          <div id="highlighted" class="clearfix highlighted region--default-background region--no-separator region--no-block-paddings region--no-paddings">
+      <div class="container">
+                <div class="clearfix highlighted__container"
+          >
+          <div class="row">
+            <div class="col-12">
+              <div class="clearfix highlighted__section">
+                  <div class="region region-highlighted">
+    <div id="block-isologosfooter" class="clearfix block block-block-content block-block-contentcc674239-4344-4e67-aec2-7c8c9bebbab6">
+  
+    
+      <div class="content">
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p style="background-color: #a8bb4c;text-align: center;padding-top: 10px;padding-bottom: 10px;"> <a href="https://www.finagro.com.co/sitemap" style="background-color: #a8bb4c; color: white;">Mapa del sitio</a> | <a href="https://www.finagro.com.co/sites/default/files/basic-page/2025-05/ARI-DOC-023_POLITICA_DE_TRATAMIENTO_DE_DATOS_PERSONALES%20VS_3.pdf" style="background-color: #a8bb4c; color: white;">Política de Tratamiento de Datos Personales</a> |  <a href="https://www.finagro.com.co/atencion-servicios-ciudadania/informacion-al-ciudadano/documentos-informacion/aviso-privacidad" style="background-color: #a8bb4c; color: white;">Políticas de Seguridad, Términos y Condiciones de Uso</a></p>
+<p centroderelevo.gov.co="" class="text-align-center" https:="" style="background-color: #e5e5e5;&gt;&lt;a  data-cke-saved-href=" w3-propertyvalue-15253.html=""><a href="https://centroderelevo.gov.co/" rel="noopener" target="_blank" title="Centro de relevo"><img alt="Centro de relevo" data-entity-type="file" data-entity-uuid="883e256b-5be3-4125-b6c4-073496c47cda" height="34" src="/sites/default/files/inline-images/Logo_CentroRelevo.png" style="margin:10px" width="80" loading="lazy" /></a><a href="https://www.superfinanciera.gov.co/jsp/index.jsf"><img alt="SFC" data-entity-type="file" data-entity-uuid="ca3a99f4-6b76-4f1c-82e1-5131b27fd4fc" height="33" src="/sites/default/files/inline-images/Logo_SFC.png" style="margin:10px" width="101" loading="lazy" /></a><a href="https://www.colombia.co/"><img alt="Colombia" data-entity-type="file" data-entity-uuid="b0313322-ef1f-487b-bf6a-952ae8408c1d" height="34" src="/sites/default/files/inline-images/Logo_Colombia.png" style="margin:10px" width="34" loading="lazy" /></a><a href="https://www.icontec.org/empresas/esenttia/"><img alt="cert iso" data-entity-type="file" data-entity-uuid="36205e88-f337-4f56-9aa3-ac2ab36e5572" height="75" src="/sites/default/files/inline-images/Logo_Icontec.png" style="margin:10px" width="170" loading="lazy" /></a><a href="https://www.masfamilia.org/"><img alt="cert efr" data-entity-type="file" data-entity-uuid="2ba7ac31-a565-46ae-836d-d7b04368367a" src="/sites/default/files/inline-images/Logo_efr.png" style="width: 50px;padding-right: 0px; margin:10px" width="184" height="200" loading="lazy" /></a></p>
+<p><img alt="GOV.CO" data-entity-type="file" data-entity-uuid="abe2dd61-7f40-4a4b-b99b-3a8ca40a1fa6" height="44" src="/sites/default/files/inline-images/barra_GOV.CO_1_1.jpg" width="2198" loading="lazy" /></p>
+</div>
+      
+    </div>
+  </div>
+
+  </div>
+
+              </div>
+            </div>
+          </div>
+        </div>
+              </div>
+    </div>
+      
+      
+        <div class="hide clearfix sticky-footer region--shade-background  region--no-block-paddings region--no-paddings" id="collapsible-sticky-footer">
+      <div class="container-fluid">
+                <div class="clearfix sticky-footer__container">
+          <div class="row">
+            <div class="col-md-12">
+                            <div class="clearfix sticky-footer__section">
+                  <div class="region region-sticky-footer">
+    <div id="block-finagrofooter" class="clearfix block block-block-content block-block-contentf10bb16b-5120-4005-982a-c66b941d4d67">
+  
+    
+      <div class="content">
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><div class="row site-footer">
+<div class="col-md-4"><img alt="Oficinas Finagro" data-entity-type="file" data-entity-uuid="f90aceac-2e69-4b93-b1cf-de65d011e99b" src="/sites/default/files/inline-images/footer-headquarter.png" class="align-center" /><p>Cra. 13 No. 28-17 pisos 2,3,4 y 5 <br /><strong>Conmutador:</strong> +57 601 3203377<br /><strong>Fax:</strong> +57 1 3380197 A.A. 241951 Bogotá D.C</p>
+</div>
+<div class="col-md-4"><img alt="Correo Electrónico Finagro" data-entity-type="file" data-entity-uuid="0611e659-e8d8-414d-93c7-3a1d07bc84ac" src="/sites/default/files/inline-images/footer-mail-box.png" class="align-center" /><p> <strong>Email:</strong> <a href="mailto:finagro@finagro.com.co">finagro@finagro.com.co</a> <br /><strong>Correo de notificación judicial:</strong><br /><a href="mailto:wsecretariageneral@finagro.com.co">wsecretariageneral@finagro.com.co</a><br />
+para atender denuncias de Actos de Corrupción<br />
+y Fraude: <strong>Línea Ética:</strong> 018000912219 opción 2 <br /><strong>Email:</strong> <a href="mailto:lineaetica@finagro.com.co">lineaetica@finagro.com.co</a></p>
+</div>
+<div class="col-md-4"><img alt="Horarios Finagro" data-entity-type="file" data-entity-uuid="33058ee1-c88d-4f48-a2a3-eb1add5f0772" src="/sites/default/files/inline-images/footer-attention-hours.png" class="align-center" /><p><strong>Horario de atención: </strong><br />
+Lunes a Viernes de<br />
+8:00 a.m. a 5:00 p.m</p>
+<p> </p>
+<p> </p>
+</div>
+</div>
+</div>
+      
+    </div>
+  </div>
+
+  </div>
+
+              </div>
+                          </div>
+          </div>
+        </div>
+              </div>
+    </div>
+    <div class="sticky-footer-container">
+      <div class="container-fluid">
+        <div class="row justify-content-center">
+          <div class="col-sm-12 col-lg-9 collapsible-sticky-footer-trigger">
+            <a class="region--shade-background sticky__button close--btn" title="boton para abrir o cerrar pie de pagina" role="button">
+              <span class="ml-2 text-center collapsible-sticky-footer-icon collapsible-sticky-footer__expand-icon"><i class="fas fa-angle-down m-0"></i></span>
+              <span class="ml-2 text-center collapsible-sticky-footer-icon collapsible-sticky-footer__collapse-icon"><i class="fas fa-angle-up m-0"></i></span>
+              <div class="row site-footer">
+<div class="col-2 col-md-1"><img alt="Finagro" data-align="left" data-entity-type="file" data-entity-uuid="c41bab19-3cd9-4289-b397-1c078abe8bbb" src="/sites/default/files/inline-images/logo-footer.png" /></div>
+
+<div class="col-10 col-md-11">Fondo para el Financiamiento del Sector Agropecuario <strong>FINAGRO</strong>.<br />
+Bogotá, Colombia, Suramérica 2024&nbsp;<strong>FINAGRO</strong> todos los derechos reservados.</div>
+</div>
+
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+        <div class="sticky-footer-placeholder"></div>
+  
+  
+
+  
+    
+  
+</div>
+
+
+<div class="page_left_side">
+  <a href="#" title="Ir a Superintendencia Financiera de Colombia">
+    <img src="/themes/custom/cleanplus/images/superfinanciera-vert.png" alt="Vigilado Superintendencia Financiera de Colombia"/>
+  </a>
+</div>
+
+<div class="page__side">
+  <a href="/atencion-servicios-ciudadania/canales-atencion-nacional" title="Canales de atención">
+    <img src="/themes/custom/cleanplus/images/Boton_NuestrosCanales.png" alt="Ir a Canales de atención"/>
+  </a>
+  
+  
+  <div class="content-font-settings">
+      <div class="font-resize">
+        <a href="#" id="decfont" data-toggle="tooltip" data-placement="left" title="Disminuir fuente">A-</a>
+        <a href="#" id="incfont" data-toggle="tooltip" data-placement="left" title="Aumentar fuente">A+</a>
+      </div>
+      <div class="high-contrast">
+        <a id="high_contrast" href="javascript: void(0)" class="icon-contrast" data-toggle="tooltip" data-placement="left" title="Cambiar niveles de contraste">-
+          <span title="Cambiar niveles de contraste">
+            <i class="fas fa-adjust"></i>
+          </span>
+        </a>
+      </div>
+      <!--div class="centro-relevo">
+        <a href="https://centroderelevo.gov.co/632/w3-channel.html" target="_blank" class="icon-relevo" data-toggle="tooltip" data-placement="left" title="Ir a Centro de relevo">
+          <img src="/themes/custom/cleanplus/images/ico_centro-relevo.png" alt="Ir a centro de relevo"/>
+        </a>
+      </div-->
+  </div>
+</div>
+
+<!-- Start of LiveChat (www.livechatinc.com) code -->
+<!-- End of LiveChat code -->
+
+
+<!--Start of Tawk.to Script-->
+	<script type="text/javascript">
+		var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+		(function(){
+		var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+		s1.async=true;
+		s1.src='https://embed.tawk.to/64541ec96a9aad4bc578f6db/1gvk9ghgp';
+		s1.charset='UTF-8';
+		s1.setAttribute('crossorigin','*');
+		s0.parentNode.insertBefore(s1,s0);
+		})();
+	</script>
+<!--End of Tawk.to Script-->
+
+
+
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"es"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"classy\/base,classy\/messages,classy\/node,cleanplus\/animate-global,cleanplus\/banner-area,cleanplus\/bootstrap,cleanplus\/breadcrumb,cleanplus\/color-sdht,cleanplus\/count-to-init,cleanplus\/css_editor,cleanplus\/fixed-share-links,cleanplus\/font-resize,cleanplus\/fontawesome-css,cleanplus\/fonts-id-06,cleanplus\/fonts-id-38,cleanplus\/fonts-pt-serif,cleanplus\/fonts-sourcecodepro,cleanplus\/global-styling,cleanplus\/high-contrast,cleanplus\/in-page-navigation,cleanplus\/local-stylesheets,cleanplus\/messages,cleanplus\/mobile-menu-widget,cleanplus\/mt-count-down,cleanplus\/node,cleanplus\/node-article,cleanplus\/node-field,cleanplus\/share-links,cleanplus\/sticky-footer-init,cleanplus\/tooltip,cleanplus\/typedjs-init,cleanplus\/waypoints-animations-init,core\/drupal.dialog.ajax,core\/normalize,fontawesome\/fontawesome.svg,g0_ajustes\/g0_ajustes.ui,google_analytics\/google_analytics,mt_cookieconsent\/mt_cookieconsent,petits_ajustes\/petits_ajustes.ui,superfish\/superfish,superfish\/superfish_hoverintent,superfish\/superfish_smallscreen,superfish\/superfish_supersubs,superfish\/superfish_supposition,system\/base,views\/views.module","theme":"cleanplus","theme_token":null},"ajaxTrustedUrl":{"\/buscar":true},"google_analytics":{"account":"UA-39350834-1","trackOutbound":true,"trackMailto":true,"trackTel":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"mt_cookieconsent":{"theme_select":"block","alert_message":"Utilizamos cookies propias y de terceros para mejorar nuestros servicios. Si contin\u00faa navegando, consideramos que acepta su uso. Puede obtener m\u00e1s informaci\u00f3n, o bien conocer c\u00f3mo cambiar la configuraci\u00f3n, en nuestra pol\u00edtica de tratamiento de datos.","target_url":"https:\/\/www.finagro.com.co\/atencion-servicios-ciudadania\/informacion-al-ciudadano\/documentos-informacion\/aviso-privacidad"},"cleanplus":{"purechatInit":{"purechatKey":""},"slideshowCaptionOpacity":0,"slideshowBackgroundOpacity":0,"sliderRevolutionFullWidthInit":{"slideshowFullWidthEffectTime":3000,"slideshowFullWidthInitialHeight":890,"slideshowFullWidthAutoHeight":0,"slideshowFullWidthNavigationStyle":"bullets","slideshowFullWidthBulletsPosition":"right","slideshowFullWidthTouchSwipe":"on"},"sliderRevolutionFullScreenInit":{"slideshowFullScreenEffectTime":3000,"slideshowFullScreenNavigationStyle":"bullets","slideshowFullScreenBulletsPosition":"right","slideshowFullScreenTouchSwipe":"on"},"sliderRevolutionBoxedWidthInit":{"slideshowBoxedWidthEffectTime":6000,"slideshowBoxedWidthInitialHeight":890,"slideshowBoxedWidthAutoHeight":0,"slideshowBoxedWidthNavigationStyle":"bullets","slideshowBoxedWidthBulletsPosition":"center","slideshowBoxedWidthTouchSwipe":"on"},"sliderRevolutionInternalBannerInit":{"slideshowInternalBannerEffectTime":6000,"slideshowInternalBannerInitialHeight":890,"slideshowInternalBannerAutoHeight":0,"slideshowInternalBannerNavigationStyle":"bullets","slideshowInternalBannerBulletsPosition":"left","slideshowInternalBannerLayout":"fullscreen","slideshowInternalBannerTouchSwipe":"on"},"sliderRevolutionInternalBannerCarouselInit":{"carouselInternalBannerInitialHeight":540,"carouselInternalBannerBulletsPosition":"center","carouselInternalBannerTouchSwipe":"on"},"owlCarouselProductsInit":{"owlProductsAutoPlay":1,"owlProductsEffectTime":5000},"owlCarouselAlbumsInit":{"owlAlbumsAutoPlay":1,"owlAlbumsEffectTime":5000},"owlCarouselArticlesInit":{"owlArticlesAutoPlay":1,"owlArticlesEffectTime":5000},"owlCarouselTestimonialsInit":{"owlTestimonialsAutoPlay":1,"owlTestimonialsEffectTime":5000},"owlCarouselRelatedNodesInit":{"owlRelatedNodesAutoPlay":0,"owlRelatedNodesEffectTime":5000},"owlCarouselCollectionsInit":{"owlCollectionsAutoPlay":0,"owlCollectionsEffectTime":5000},"owlCarouselTeamMembersInit":{"owlTeamMembersAutoPlay":1,"owlTeamMembersEffectTime":5000},"flexsliderInPageInit":{"inPageSliderEffect":"fade"},"flexsliderBreakingSliderInit":{"breakingEffect":"fade","breakingEffectTime":5000},"flexsliderMainInit":{"slideshowEffect":"fade","slideshowEffectTime":6000},"inPageNavigation":{"inPageNavigationOffset":69},"transparentHeader":{"transparentHeaderOpacity":0},"isotopeFiltersGridInit":{"isotopeFiltersText":"Todos","isotopeLayoutMode":"masonry"},"slideoutInit":{"slideoutSide":"right","slideoutTouchSwipe":false}},"superfish":{"superfish-menu-finagro":{"id":"superfish-menu-finagro","sf":{"animation":{"opacity":"show","height":"show"},"speed":"fast"},"plugins":{"smallscreen":{"mode":"window_width","expandText":"Desplegar","collapseText":"Plegar","title":"Men\u00fa Finagro Internas"},"supposition":true,"supersubs":true}}},"user":{"uid":0,"permissionsHash":"7ca5cde959029578aaf7f1b51f67579d1ee1f084175a0bba4c712455e4991d17"}}</script>
+<script src="/sites/default/files/js/js_-3LyqOH2-UO0W02xvDJ4lgiY6ZC0dRV3WkkVHVRi0F0.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+<script src="/sites/default/files/js/js_d9ecFCShSDUFBemr_gPBX8urw4w3aVfCWehX5HKoEjs.js"></script>
+
+  </body>
+</html>

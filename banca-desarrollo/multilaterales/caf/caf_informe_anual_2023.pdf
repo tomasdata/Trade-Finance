@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns:ex="http://apache.org/cocoon/exception/1.0">
+<head>
+<title>Resource not found</title>
+<style>
+          h1 { font-size: 200%; color: #336699; text-align: left; margin: 0px 0px 10px 0px; padding: 0px 0px 0px 60px; border-width: 0px 0px 1px 0px; border-style: solid; border-color: #336699;}
+          p.home { padding: 10px 30px 10px 15px; margin-left: 15px; font-size: 100%;}
+          p.message { padding: 10px 30px 10px 15px; margin-left: 15px; font-weight: bold; font-size: 100%;  border-left: 1px #336699 dashed;}
+          p.description { padding: 10px 30px 20px 30px; border-width: 0px 0px 1px 0px; border-style: solid; border-color: #336699;}
+          p.topped { padding-top: 10px; border-width: 1px 0px 0px 0px; border-style: solid; border-color: #336699; }
+          span.switch { cursor: pointer; margin-left: 5px; text-decoration: underline; }
+          span.description { color: #336699; font-weight: bold; }
+          
+          .row-1 { background-color: #F0F0F0;}
+          table { border-collapse: collapse; margin-top: 0.3em; }
+          td { padding: 0.1em; }
+        </style>
+<script type="text/javascript">
+          function toggle(id) {
+            var element = document.getElementById(id);
+            with (element.style) {
+              if ( display == "none" ) {
+                display = ""
+              } else {
+                display = "none"
+              }
+            }
+          
+            var text = document.getElementById(id + "-switch").firstChild;
+            if (text.nodeValue == "[show]") {
+              text.nodeValue = "[hide]";
+            } else {
+              text.nodeValue = "[show]";
+            }
+          }
+        </script>
+</head>
+<body onload="toggle('locations');toggle('stacktrace');">
+<h1>Resource not found</h1>
+<p class="home">
+<a href="">Ir a página principal Scioteca</a>
+</p>
+<p class="message" />
+<div id="locations">
+<strong>Unable to locate bitstream</strong>
+<table>
+<tr class="row-1" />
+<tr class="row-0" />
+<tr class="row-1" />
+</table>
+<br />
+</div>
+<p class="topped" />
+<script type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=463313751" async></script></body>
+</html>

@@ -1,0 +1,937 @@
+<!DOCTYPE html>
+<!-- Sorry no IE7 support! -->
+<!-- @see http://foundation.zurb.com/docs/index.html#basicHTMLMarkup -->
+
+<!--[if IE 8]><html class="no-js lt-ie9" lang="es" dir="ltr"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="es" dir="ltr">
+<!--<![endif]-->
+
+<head>
+  <meta charset="utf-8" />
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js" integrity="sha512-jGsMH83oKe9asCpkOVkBnUrDDTp8wl+adkB2D+//JtlxO4SrLoJdhbOysIFQJloQFD+C4Fl1rMsQZF76JjV0eQ==" crossorigin="anonymous"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta http-equiv="ImageToolbar" content="false" />
+<link rel="canonical" href="https://www.bancoldex.com/es" />
+<link rel="shortlink" href="https://www.bancoldex.com/es" />
+<meta property="og:site_name" content="Bancoldex" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://www.bancoldex.com/es" />
+<meta property="og:title" content="Bancoldex" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://www.bancoldex.com/es" />
+<meta name="twitter:title" content="Bancoldex" />
+<link rel="shortcut icon" href="https://www.bancoldex.com/sites/default/files/favicon-bancoldex.png" />
+  <title>Error 404 | Bancoldex</title>
+  <link rel="stylesheet" href="https://www.bancoldex.com/sites/default/files/css/css_kShW4RPmRstZ3SpIC-ZvVGNFVAi0WEMuCnI0ZkYIaFw.css" />
+<link rel="stylesheet" href="https://www.bancoldex.com/sites/default/files/css/css_LGRu6bS8N-UXSzBu-Tm-lnN1I0T4AvmXbwHmzNEid60.css" />
+<link rel="stylesheet" href="https://www.bancoldex.com/sites/default/files/css/css_6pYodfwOaBrCplGc0DoZR_EeUjbTgf1miAMUAoNbpmM.css" />
+<link rel="stylesheet" href="https://www.bancoldex.com/sites/default/files/css/css_IvoiGx49xy4b_CaURQI0SOztRMEwYs5Nk-kIv9rNfo8.css" />
+  <script src="https://www.googleoptimize.com/optimize.js?id=GTM-TC447DZ"></script>
+  <meta name="facebook-domain-verification" content="noq2g5xmvbeqthgpdlmf5lwyiwne5a" />
+  <!-- Google Tag Manager -->
+  <script>
+    (function(w, d, s, l, i) {
+      w[l] = w[l] || [];
+      w[l].push({
+        'gtm.start': new Date().getTime(),
+        event: 'gtm.js'
+      });
+      var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s),
+        dl = l != 'dataLayer' ? '&l=' + l : '';
+      j.async = true;
+      j.src =
+        'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+      f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-WFJGN2V');
+  </script>
+  <!-- End Google Tag Manager -->
+  <script>window.jQuery || document.write("<script src='/sites/all/modules/jquery_update/replace/jquery/1.12/jquery.min.js'>\x3C/script>")</script>
+<script src="https://www.bancoldex.com/misc/jquery-extend-3.4.0.js?v=1.12.4"></script>
+<script src="https://www.bancoldex.com/misc/jquery-html-prefilter-3.5.0-backport.js?v=1.12.4"></script>
+<script src="https://www.bancoldex.com/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.bancoldex.com/misc/drupal.js?t5s8jh"></script>
+<script src="https://www.bancoldex.com/sites/all/modules/jquery_update/js/jquery_browser.js?v=0.0.1"></script>
+<script src="https://www.bancoldex.com/sites/all/modules/jquery_update/replace/ui/external/jquery.cookie.js?v=67fb34f6a866c40d0570"></script>
+<script src="https://www.bancoldex.com/misc/form-single-submit.js?v=7.98"></script>
+<script>document.createElement( "picture" );</script>
+<script src="https://www.bancoldex.com/sites/all/modules/webform_steps/webform_steps.js?t5s8jh"></script>
+<script src="https://www.bancoldex.com/sites/default/files/languages/es_hDIHpPPu1omlMWfKJjrMKtQrV77JP2SFVXDMnEooN4c.js?t5s8jh"></script>
+<script src="https://www.bancoldex.com/sites/all/libraries/colorbox/jquery.colorbox-min.js?t5s8jh"></script>
+<script src="https://www.bancoldex.com/sites/all/modules/colorbox/js/colorbox.js?t5s8jh"></script>
+<script src="https://www.bancoldex.com/sites/all/modules/colorbox/styles/default/colorbox_style.js?t5s8jh"></script>
+<script src="https://www.bancoldex.com/sites/all/modules/video/js/video.js?t5s8jh"></script>
+<script src="https://www.bancoldex.com/profiles/bancoldex_profile/modules/contrib/google_analytics/googleanalytics.js?t5s8jh"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-115766018-1", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("set", "page", "/404.html?page=" + document.location.pathname + document.location.search + "&from=" + document.referrer);ga("send", "pageview");</script>
+<script src="https://www.bancoldex.com/profiles/bancoldex_profile/modules/custom/custom_text_resize/custom_text_resize.js?t5s8jh"></script>
+<script src="https://www.bancoldex.com/profiles/bancoldex_profile/themes/contrib/zurb_foundation/js/vendor/modernizr.js?t5s8jh"></script>
+<script src="https://www.bancoldex.com/profiles/bancoldex_profile/themes/custom/bancoldex_theme/js/foundation.min.js?t5s8jh"></script>
+<script src="https://www.bancoldex.com/profiles/bancoldex_profile/themes/custom/bancoldex_theme/js/libs.min.js?t5s8jh"></script>
+<script src="https://www.bancoldex.com/profiles/bancoldex_profile/themes/custom/bancoldex_theme/js/app.min.js?t5s8jh"></script>
+<script src="https://www.bancoldex.com/profiles/bancoldex_profile/themes/custom/bancoldex_theme/js/bancoldex_theme.js?t5s8jh"></script>
+<script src="https://www.bancoldex.com/profiles/bancoldex_profile/themes/custom/bancoldex_theme/js/chatbot.js?t5s8jh"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"es\/","setHasJsCookie":0,"ajaxPageState":{"theme":"bancoldex_theme","theme_token":"76WOUy2a5psFSTNNamLJrqXg3UVlV3Tqg1_v7vQrMzY","js":{"profiles\/bancoldex_profile\/modules\/contrib\/picture\/picturefill2\/picturefill.min.js":1,"profiles\/bancoldex_profile\/modules\/contrib\/picture\/picture.min.js":1,"0":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/jquery_update\/js\/jquery_browser.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"misc\/form-single-submit.js":1,"1":1,"sites\/all\/modules\/webform_steps\/webform_steps.js":1,"public:\/\/languages\/es_hDIHpPPu1omlMWfKJjrMKtQrV77JP2SFVXDMnEooN4c.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/video\/js\/video.js":1,"profiles\/bancoldex_profile\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"2":1,"profiles\/bancoldex_profile\/modules\/custom\/custom_text_resize\/custom_text_resize.js":1,"profiles\/bancoldex_profile\/themes\/contrib\/zurb_foundation\/js\/vendor\/modernizr.js":1,"profiles\/bancoldex_profile\/themes\/custom\/bancoldex_theme\/js\/foundation.min.js":1,"profiles\/bancoldex_profile\/themes\/custom\/bancoldex_theme\/js\/libs.min.js":1,"profiles\/bancoldex_profile\/themes\/custom\/bancoldex_theme\/js\/app.min.js":1,"profiles\/bancoldex_profile\/themes\/custom\/bancoldex_theme\/js\/bancoldex_theme.js":1,"profiles\/bancoldex_profile\/themes\/custom\/bancoldex_theme\/js\/chatbot.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"profiles\/bancoldex_profile\/modules\/contrib\/simplenews\/simplenews.css":1,"profiles\/bancoldex_profile\/modules\/contrib\/calendar\/css\/calendar_multiday.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"profiles\/bancoldex_profile\/modules\/contrib\/picture\/picture_wysiwyg.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/bancoldex_profile\/modules\/contrib\/views\/css\/views.css":1,"profiles\/bancoldex_profile\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/bancoldex_profile\/modules\/contrib\/ctools\/css\/ctools.css":1,"public:\/\/css\/menu_icons.css":1,"profiles\/bancoldex_profile\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/all\/modules\/video\/css\/video.css":1,"profiles\/bancoldex_profile\/modules\/contrib\/panels\/plugins\/layouts\/twocol\/twocol.css":1,"profiles\/bancoldex_profile\/modules\/contrib\/social_media_links\/social_media_links.css":1,"profiles\/bancoldex_profile\/themes\/custom\/bancoldex_theme\/css\/normalize.css":1,"profiles\/bancoldex_profile\/themes\/custom\/bancoldex_theme\/css\/foundation.min.css":1,"profiles\/bancoldex_profile\/themes\/custom\/bancoldex_theme\/css\/line_credit.css":1,"profiles\/bancoldex_profile\/themes\/custom\/bancoldex_theme\/css\/financial_content.css":1,"profiles\/bancoldex_profile\/themes\/custom\/bancoldex_theme\/css\/glossary.css":1,"profiles\/bancoldex_profile\/themes\/custom\/bancoldex_theme\/css\/quienes_somos.css":1,"profiles\/bancoldex_profile\/themes\/custom\/bancoldex_theme\/css\/oficinas_atencion.css":1,"profiles\/bancoldex_profile\/themes\/custom\/bancoldex_theme\/css\/transparencia_acceso.css":1,"profiles\/bancoldex_profile\/themes\/custom\/bancoldex_theme\/css\/contratacion.css":1,"profiles\/bancoldex_profile\/themes\/custom\/bancoldex_theme\/css\/content_tab.css":1,"profiles\/bancoldex_profile\/themes\/custom\/bancoldex_theme\/css\/indicadoresbanner.css":1,"profiles\/bancoldex_profile\/themes\/custom\/bancoldex_theme\/css\/form_contacto.css":1,"profiles\/bancoldex_profile\/themes\/custom\/bancoldex_theme\/css\/style.css":1,"profiles\/bancoldex_profile\/themes\/custom\/bancoldex_theme\/css\/bancoldex_theme.css":1}},"colorbox":{"opacity":"0.85","current":"{current} de {total}","previous":"\u00ab Anterior","next":"Siguiente \u00bb","close":"Cerrar","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px","file_public_path":"\/sites\/default\/files","specificPagesDefaultValue":"admin*\nimagebrowser*\nimg_assist*\nimce*\nnode\/add\/*\nnode\/*\/edit\nprint\/*\nprintpdf\/*\nsystem\/ajax\nsystem\/ajax\/*"},"better_exposed_filters":{"views":{"custom_entity_block":{"displays":{"block_4":{"filters":[]},"block_2":{"filters":[]},"block_1":{"filters":[]}}}}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":1},"custom_text_resize":{"text_resize_scope":"body"},"urlIsAjaxTrusted":{"\/buscar":true}});</script>
+  <!--[if lt IE 9]>
+	  <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+  <!--script type="text/javascript">
+      var _ss = _ss || [];
+      _ss.push(['_setDomain', 'https://koi-3QNL3G70CK.marketingautomation.services/net']);
+      _ss.push(['_setAccount', 'KOI-483PPMTYYW']);
+      _ss.push(['_trackPageView']);
+      (function() {
+        var ss = document.createElement('script');
+        ss.type = 'text/javascript';
+        ss.async = true;
+        ss.src = ('https:' == document.location.protocol ? 'https://' : '[http://'] http: //') + 'koi-3QNL3G70CK.marketingautomation.services/client/ss.js?ver=2.4.0';
+          var scr = document.getElementsByTagName('script')[0];
+        scr.parentNode.insertBefore(ss, scr);
+      })();
+    </script> -->
+  <style type="text/css">
+    #live-chat .chat-message-content {
+      width: fit-content !important;
+      max-width: 100% !important;
+    }
+  </style>
+</head>
+
+<body class="html not-front not-logged-in no-sidebars page-error-404 i18n-es lang-es section-error-404 panels-page" >
+  <!-- Google Tag Manager (noscript) --><noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WFJGN2V" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><!-- End Google Tag Manager (noscript) -->
+  <div class="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Pasar al contenido principal</a>
+  </div>
+    
+
+<!--.page -->
+<div role="document" class="page">
+
+  <header role="banner" class="l-header">
+    <div class="barra-menu"></div>
+    
+    <!-- Title, slogan and menu -->
+          <section class="row ">
+
+        
+        
+        
+        
+        
+      </section>
+        <!-- End title, slogan and menu -->
+
+          <!--.l-header-region -->
+      <section class="l-header-region row">
+        <div class="columns">
+            <section class="block block-block block-block-6 header">
+  
+        <h2 class="block-title element-invisible">Menu Mobile</h2>
+    
+    <p><a class="btn_mobile"> </a></p>
+  
+  </section><section class="block block-views block-views-custom-entity-block-block-2 header">
+  
+      
+    <div class="view view-custom-entity-block view-id-custom_entity_block view-display-id-block_2 view-dom-id-2d0723c95607f73c3d83caff9c97d792">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div>        <div><a href="/es" target="0"><img src="https://www.bancoldex.com/sites/default/files/logo-bancoldex.png" width="1555" height="315" alt="Logo Bancoldex Home" title="Logo Bancoldex Home" /></a></div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  
+  </section><section class="block block-menu block-menu-menu-primer-menu header">
+  
+      
+    <ul class="menu"><li class="first collapsed"><div class="entity entity-menu-fields menu-fields-menu-primer-menu clearfix">
+  <div class="content">
+    <div class="field field-name-accesible-gift field-type-image field-label-hidden field-wrapper"><img src="https://www.bancoldex.com/sites/default/files/gifs/sobre_bancoldex-ezgif.com-resize.gif" width="200" height="113" alt="" /></div><a href="/es/sobre-bancoldex" class="first collapsed">Sobre Bancóldex</a><ul class="menu"><li class="first collapsed"><div class="entity entity-menu-fields menu-fields-menu-primer-menu clearfix">
+  <div class="content">
+    <a href="/es/sobre-bancoldex/quienes-somos" target="_blank" class="first collapsed">Quiénes somos</a><ul class="menu"><li class="first leaf"><a href="/es/sobre-bancoldex/quienes-somos/nuestro-equipo">Nuestro equipo</a></li>
+<li class="leaf"><a href="/es/sobre-bancoldex/quienes-somos/estrategia-corporativa-4294">Estrategia corporativa</a></li>
+<li class="leaf"><a href="/es/sobre-bancoldex/quienes-somos/informacion-de-interes-para-accionistas-e-inversionistas/junta-directiva">Junta Directiva</a></li>
+<li class="collapsed"><div class="entity entity-menu-fields menu-fields-menu-primer-menu clearfix">
+  <div class="content">
+    <a href="/es/sobre-bancoldex/quienes-somos/informacion-de-interes-para-accionistas-e-inversionistas" class="collapsed">Información de interés para accionistas e inversionistas</a><ul class="menu"><li class="first leaf"><a href="/es/sobre-bancoldex/quienes-somos/informacion-de-interes-para-accionistas-e-inversionistas/documentos-de-gobierno-corporativo">Código de buen gobierno</a></li>
+<li class="leaf"><a href="/es/sobre-bancoldex/quienes-somos/informacion-de-interes-para-accionistas-e-inversionistas/accionistas">Accionistas</a></li>
+<li class="leaf"><a href="/es/sobre-bancoldex/quienes-somos/informacion-de-interes-para-accionistas-e-inversionistas/informacion-relevante-2173">Información relevante </a></li>
+<li class="leaf"><a href="/es/sobre-bancoldex/quienes-somos/informacion-de-interes-para-accionistas-e-inversionistas/encuesta-codigo-pais">Encuesta código país</a></li>
+<li class="leaf"><a href="/es/sobre-bancoldex/quienes-somos/informacion-de-interes-para-accionistas-e-inversionistas/calificacion-de-riesgo">Calificación de riesgo</a></li>
+<li class="leaf"><a href="/es/sobre-bancoldex/quienes-somos/informacion-de-interes-para-accionistas-e-inversionistas/informes-de-gobierno-corporativo">Informes de gobierno corporativo</a></li>
+<li class="leaf"><a href="/es/sobre-bancoldex/quienes-somos/informacion-de-interes-para-accionistas-e-inversionistas/sarlaft-amlcft-y-fatca">Políticas sarlaft</a></li>
+<li class="leaf"><a href="https://www.bancoldex.com/sobre-bancoldex/quienes-somos/informacion-de-interes-para-accionistas-e-inversionistas/emisiones">Emisiones de bonos Bancóldex</a></li>
+<li class="leaf"><a href="/es/sobre-bancoldex/quienes-somos/informacion-de-interes-para-accionistas-e-inversionistas/balance-y-valor-intrinseco">Balance y valor intrínseco de la acción</a></li>
+<li class="leaf"><a href="/es/sobre-bancoldex/quienes-somos/informacion-de-interes-para-accionistas-e-inversionistas/enajenacion-acciones">Enajenación de acciones Segurexpo</a></li>
+<li class="leaf"><a href="https://www.bancoldex.com/es/sobre-bancoldex/quienes-somos/informacion-de-interes-para-accionistas-e-inversionistas/informes-anuales-actualizados">Informes Anuales</a></li>
+<li class="last leaf"><a href="/es/sobre-bancoldex/quienes-somos/informacion-de-interes-para-accionistas-e-inversionistas/junta-directiva">Junta Directiva</a></li>
+</ul>  </div>
+</div>
+</li>
+<li class="leaf"><a href="https://www.bancoldex.com/es/sobre-bancoldex/bancoldex-mas-sostenible#field-tab-tab-1">Compromiso con la sostenibilidad</a></li>
+<li class="last leaf"><a href="/es/sobre-bancoldex/quienes-somos/bancoldex-para-ninos">Bancóldex para niños</a></li>
+</ul>  </div>
+</div>
+</li>
+<li class="collapsed"><div class="entity entity-menu-fields menu-fields-menu-primer-menu clearfix">
+  <div class="content">
+    <a href="/es/contrataciones" class="collapsed">Contratación</a><ul class="menu"><li class="first leaf"><a href="/es/contratos">Procesos de contratación</a></li>
+<li class="last leaf"><a href="/es/contrataciones/trabaja-con-nosotros-28">Trabaje con nosotros</a></li>
+</ul>  </div>
+</div>
+</li>
+<li class="leaf"><a href="https://bienesparalaventa.bancoldex.com/" target="_blank">Bienes para la venta</a></li>
+<li class="leaf"><a href="/es/blog">Blog</a></li>
+<li class="leaf"><a href="https://www.bancoldex.com/es/podcasts">Podcast Bancóldex</a></li>
+<li class="leaf"><a href="/es/noticias">Noticias</a></li>
+<li class="last leaf"><a href="https://www.bancoldex.com/es/politica_tratamientos_datos_bx" target="_blank">Política de tratamientos de datos personales</a></li>
+</ul>  </div>
+</div>
+</li>
+<li class="collapsed"><div class="entity entity-menu-fields menu-fields-menu-primer-menu clearfix">
+  <div class="content">
+    <div class="field field-name-accesible-gift field-type-image field-label-hidden field-wrapper"><img src="https://www.bancoldex.com/sites/default/files/gifs/02_servicio_al_cliente_0.gif" width="200" height="113" alt="" /></div><a href="/es/contactanos" class="collapsed">Servicio al cliente</a><ul class="menu"><li class="first leaf"><a href="/es/contactanos/defensor-del-consumidor-financiero">Defensor del consumidor financiero</a></li>
+<li class="leaf"><a href="/es/glosario">Glosario</a></li>
+<li class="leaf"><a href="/es/contactenos?denuncia=1">Línea ética</a></li>
+<li class="leaf"><a href="/es/servicio-al-cliente/oficinas-y-lineas-de-atencion">Oficinas y líneas de atención</a></li>
+<li class="leaf"><a href="/es/preguntas-frecuentes">Preguntas frecuentes</a></li>
+<li class="last collapsed"><div class="entity entity-menu-fields menu-fields-menu-primer-menu clearfix">
+  <div class="content">
+    <a href="/es/contactanos/portal-embera-kaito" class="last collapsed">Portafolio Lenguas Nativas</a><ul class="menu"><li class="first leaf"><a href="https://www.bancoldex.com/es/sobre-bancoldex/portal-wayu-4638">Portafolio Wayuunaiki</a></li>
+<li class="last leaf"><a href="https://www.bancoldex.com/es/contactanos/portal-embera-kaito">Portafolio Embera Katío</a></li>
+</ul>  </div>
+</div>
+</li>
+</ul>  </div>
+</div>
+</li>
+<li class="leaf"><div class="entity entity-menu-fields menu-fields-menu-primer-menu clearfix">
+  <div class="content">
+    <div class="field field-name-accesible-gift field-type-image field-label-hidden field-wrapper"><img src="https://www.bancoldex.com/sites/default/files/gifs/02_transparencia_0.gif" width="200" height="113" alt="" /></div><a href="/es/sobre-bancoldex/transparencia-y-acceso-la-informacion-publica-890" class="leaf">Transparencia</a>  </div>
+</div>
+</li>
+<li class="leaf"><div class="entity entity-menu-fields menu-fields-menu-primer-menu clearfix">
+  <div class="content">
+    <div class="field field-name-accesible-gift field-type-image field-label-hidden field-wrapper"><img src="https://www.bancoldex.com/sites/default/files/gifs/01_participa_0.gif" width="200" height="113" alt="" /></div><a href="https://www.bancoldex.com/es/participa-0" class="leaf">Participa</a>  </div>
+</div>
+</li>
+<li class="leaf"><div class="entity entity-menu-fields menu-fields-menu-primer-menu clearfix">
+  <div class="content">
+    <div class="field field-name-accesible-gift field-type-image field-label-hidden field-wrapper"><img src="https://www.bancoldex.com/sites/default/files/gifs/03_ingles_0.gif" width="200" height="113" alt="" /></div><a href="https://www.bancoldex.com/en" target="_blank" class="leaf">English</a>  </div>
+</div>
+</li>
+<li class="last collapsed"><div class="entity entity-menu-fields menu-fields-menu-primer-menu clearfix">
+  <div class="content">
+    <div class="field field-name-accesible-gift field-type-image field-label-hidden field-wrapper"><img src="https://www.bancoldex.com/sites/default/files/gifs/04_portal_transacional_adobeexpress_1_0.gif" width="200" height="113" alt="" /></div><a href="/es/portal-transaccional-0" class="menu_global_portal" target="_blank">Portal Transaccional</a><ul class="menu"><li class="first leaf"><a href="https://bancaelectronica.bancoldex.com/be/Portal/Comun/Login.xhtml" target="_blank">Banca Electrónica</a></li>
+<li class="leaf"><a href="https://portaltransaccional.bancoldex.com/CuentaAhorros/Portal/Comun/Login.xhtml" target="_blank">Cuenta de ahorros</a></li>
+<li class="leaf"><a href="https://www.abcpagos.com/bancoldex/">Pagos Liquidex</a></li>
+<li class="leaf"><a href="https://checkout.wompi.co/l/mYY3Hh?_ga=2.75716117.1815662332.1651093309-809699323.1649113155&amp;utm_campaign=proximo_a_vencer_directos_-_automatizacion_1&amp;utm_medium=email&amp;utm_source=RD+Station" target="_blank">Pagos Wompi</a></li>
+<li class="last leaf"><a href="https://portalautogestion.bancoldex.com/">Portal Autogestión</a></li>
+</ul>  </div>
+</div>
+</li>
+</ul>  
+  </section><section class="block block-search block-search-form header">
+  
+      
+    <form action="/buscar" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Formulario de búsqueda</h2>
+    <div class="row collapse"><div class="small-8 columns"><div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Buscar </label>
+ <input title="Escriba lo que quiere buscar." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+</div><div class="small-4 columns"><button class="secondary button radius postfix expand form-submit" id="edit-submit" name="op" value="Buscar" type="submit">Buscar</button>
+</div></div><input type="hidden" name="form_build_id" value="form-XIdILnH5MHiYqTHQDMvjqKp9UjxlCkvq2KbUMkAoaPU" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  
+  </section><section class="block block-custom-text-resize block-custom-text-resize-text-resize-global header">
+  
+        <h2 class="block-title element-invisible">Redimensionar texto</h2>
+    
+    <a href="javascript:;" class="changer text_resize_increase" ><sup>+</sup>A</a> <a href="javascript:;" class="changer text_resize_decrease" class="text_resize_increase"><sup>-</sup>A</a><div ></div>  
+  </section><section class="block block-block block-block-33 header">
+  
+        <h2 class="block-title element-invisible">Bloque Header</h2>
+    
+    <style type="text/css">
+<!--/*--><![CDATA[/* ><!--*/
+.block-menu-menu-primer-menu--2 ul.menu {
+display:none;
+}
+
+.block-menu-menu-first-menu--2 ul.menu {
+display:none;
+}
+@media (max-width: 900px) { 
+.block-menu-menu-primer-menu--2 ul.menu {
+display:flex;
+margin-top: 70px !important;
+}
+
+header .l-menu-region a.volverBtn {
+    display: none;
+} 
+header .l-menu-region ul li ul li {
+    display: none;
+}
+
+header .l-menu-region ul li ul {
+    width: 100vw;
+    min-height: auto !important;
+}
+
+}
+
+/*--><!]]>*/
+</style><div class="container_header">
+<p>Titulo</p>
+</div>
+  
+  </section>        </div>
+      </section>
+      <!--/.l-header-region -->
+              <!--.l-menu-region -->
+      <section class="l-menu-region row">
+        <div class="line-header-menus">  </div>
+        <div class="columns">
+            <section class="block block-menu block-menu-menu-primer-menu--2">
+  
+      
+    <ul class="menu"><li class="first collapsed"><div class="entity entity-menu-fields menu-fields-menu-primer-menu clearfix">
+  <div class="content">
+    <div class="field field-name-accesible-gift field-type-image field-label-hidden field-wrapper"><img src="https://www.bancoldex.com/sites/default/files/gifs/sobre_bancoldex-ezgif.com-resize.gif" width="200" height="113" alt="" /></div><a href="/es/sobre-bancoldex" class="first collapsed">Sobre Bancóldex</a><ul class="menu"><li class="first collapsed"><div class="entity entity-menu-fields menu-fields-menu-primer-menu clearfix">
+  <div class="content">
+    <a href="/es/sobre-bancoldex/quienes-somos" target="_blank" class="first collapsed">Quiénes somos</a><ul class="menu"><li class="first leaf"><a href="/es/sobre-bancoldex/quienes-somos/nuestro-equipo">Nuestro equipo</a></li>
+<li class="leaf"><a href="/es/sobre-bancoldex/quienes-somos/estrategia-corporativa-4294">Estrategia corporativa</a></li>
+<li class="leaf"><a href="/es/sobre-bancoldex/quienes-somos/informacion-de-interes-para-accionistas-e-inversionistas/junta-directiva">Junta Directiva</a></li>
+<li class="collapsed"><div class="entity entity-menu-fields menu-fields-menu-primer-menu clearfix">
+  <div class="content">
+    <a href="/es/sobre-bancoldex/quienes-somos/informacion-de-interes-para-accionistas-e-inversionistas" class="collapsed">Información de interés para accionistas e inversionistas</a><ul class="menu"><li class="first leaf"><a href="/es/sobre-bancoldex/quienes-somos/informacion-de-interes-para-accionistas-e-inversionistas/documentos-de-gobierno-corporativo">Código de buen gobierno</a></li>
+<li class="leaf"><a href="/es/sobre-bancoldex/quienes-somos/informacion-de-interes-para-accionistas-e-inversionistas/accionistas">Accionistas</a></li>
+<li class="leaf"><a href="/es/sobre-bancoldex/quienes-somos/informacion-de-interes-para-accionistas-e-inversionistas/informacion-relevante-2173">Información relevante </a></li>
+<li class="leaf"><a href="/es/sobre-bancoldex/quienes-somos/informacion-de-interes-para-accionistas-e-inversionistas/encuesta-codigo-pais">Encuesta código país</a></li>
+<li class="leaf"><a href="/es/sobre-bancoldex/quienes-somos/informacion-de-interes-para-accionistas-e-inversionistas/calificacion-de-riesgo">Calificación de riesgo</a></li>
+<li class="leaf"><a href="/es/sobre-bancoldex/quienes-somos/informacion-de-interes-para-accionistas-e-inversionistas/informes-de-gobierno-corporativo">Informes de gobierno corporativo</a></li>
+<li class="leaf"><a href="/es/sobre-bancoldex/quienes-somos/informacion-de-interes-para-accionistas-e-inversionistas/sarlaft-amlcft-y-fatca">Políticas sarlaft</a></li>
+<li class="leaf"><a href="https://www.bancoldex.com/sobre-bancoldex/quienes-somos/informacion-de-interes-para-accionistas-e-inversionistas/emisiones">Emisiones de bonos Bancóldex</a></li>
+<li class="leaf"><a href="/es/sobre-bancoldex/quienes-somos/informacion-de-interes-para-accionistas-e-inversionistas/balance-y-valor-intrinseco">Balance y valor intrínseco de la acción</a></li>
+<li class="leaf"><a href="/es/sobre-bancoldex/quienes-somos/informacion-de-interes-para-accionistas-e-inversionistas/enajenacion-acciones">Enajenación de acciones Segurexpo</a></li>
+<li class="leaf"><a href="https://www.bancoldex.com/es/sobre-bancoldex/quienes-somos/informacion-de-interes-para-accionistas-e-inversionistas/informes-anuales-actualizados">Informes Anuales</a></li>
+<li class="last leaf"><a href="/es/sobre-bancoldex/quienes-somos/informacion-de-interes-para-accionistas-e-inversionistas/junta-directiva">Junta Directiva</a></li>
+</ul>  </div>
+</div>
+</li>
+<li class="leaf"><a href="https://www.bancoldex.com/es/sobre-bancoldex/bancoldex-mas-sostenible#field-tab-tab-1">Compromiso con la sostenibilidad</a></li>
+<li class="last leaf"><a href="/es/sobre-bancoldex/quienes-somos/bancoldex-para-ninos">Bancóldex para niños</a></li>
+</ul>  </div>
+</div>
+</li>
+<li class="collapsed"><div class="entity entity-menu-fields menu-fields-menu-primer-menu clearfix">
+  <div class="content">
+    <a href="/es/contrataciones" class="collapsed">Contratación</a><ul class="menu"><li class="first leaf"><a href="/es/contratos">Procesos de contratación</a></li>
+<li class="last leaf"><a href="/es/contrataciones/trabaja-con-nosotros-28">Trabaje con nosotros</a></li>
+</ul>  </div>
+</div>
+</li>
+<li class="leaf"><a href="https://bienesparalaventa.bancoldex.com/" target="_blank">Bienes para la venta</a></li>
+<li class="leaf"><a href="/es/blog">Blog</a></li>
+<li class="leaf"><a href="https://www.bancoldex.com/es/podcasts">Podcast Bancóldex</a></li>
+<li class="leaf"><a href="/es/noticias">Noticias</a></li>
+<li class="last leaf"><a href="https://www.bancoldex.com/es/politica_tratamientos_datos_bx" target="_blank">Política de tratamientos de datos personales</a></li>
+</ul>  </div>
+</div>
+</li>
+<li class="collapsed"><div class="entity entity-menu-fields menu-fields-menu-primer-menu clearfix">
+  <div class="content">
+    <div class="field field-name-accesible-gift field-type-image field-label-hidden field-wrapper"><img src="https://www.bancoldex.com/sites/default/files/gifs/02_servicio_al_cliente_0.gif" width="200" height="113" alt="" /></div><a href="/es/contactanos" class="collapsed">Servicio al cliente</a><ul class="menu"><li class="first leaf"><a href="/es/contactanos/defensor-del-consumidor-financiero">Defensor del consumidor financiero</a></li>
+<li class="leaf"><a href="/es/glosario">Glosario</a></li>
+<li class="leaf"><a href="/es/contactenos?denuncia=1">Línea ética</a></li>
+<li class="leaf"><a href="/es/servicio-al-cliente/oficinas-y-lineas-de-atencion">Oficinas y líneas de atención</a></li>
+<li class="leaf"><a href="/es/preguntas-frecuentes">Preguntas frecuentes</a></li>
+<li class="last collapsed"><div class="entity entity-menu-fields menu-fields-menu-primer-menu clearfix">
+  <div class="content">
+    <a href="/es/contactanos/portal-embera-kaito" class="last collapsed">Portafolio Lenguas Nativas</a><ul class="menu"><li class="first leaf"><a href="https://www.bancoldex.com/es/sobre-bancoldex/portal-wayu-4638">Portafolio Wayuunaiki</a></li>
+<li class="last leaf"><a href="https://www.bancoldex.com/es/contactanos/portal-embera-kaito">Portafolio Embera Katío</a></li>
+</ul>  </div>
+</div>
+</li>
+</ul>  </div>
+</div>
+</li>
+<li class="leaf"><div class="entity entity-menu-fields menu-fields-menu-primer-menu clearfix">
+  <div class="content">
+    <div class="field field-name-accesible-gift field-type-image field-label-hidden field-wrapper"><img src="https://www.bancoldex.com/sites/default/files/gifs/02_transparencia_0.gif" width="200" height="113" alt="" /></div><a href="/es/sobre-bancoldex/transparencia-y-acceso-la-informacion-publica-890" class="leaf">Transparencia</a>  </div>
+</div>
+</li>
+<li class="leaf"><div class="entity entity-menu-fields menu-fields-menu-primer-menu clearfix">
+  <div class="content">
+    <div class="field field-name-accesible-gift field-type-image field-label-hidden field-wrapper"><img src="https://www.bancoldex.com/sites/default/files/gifs/01_participa_0.gif" width="200" height="113" alt="" /></div><a href="https://www.bancoldex.com/es/participa-0" class="leaf">Participa</a>  </div>
+</div>
+</li>
+<li class="leaf"><div class="entity entity-menu-fields menu-fields-menu-primer-menu clearfix">
+  <div class="content">
+    <div class="field field-name-accesible-gift field-type-image field-label-hidden field-wrapper"><img src="https://www.bancoldex.com/sites/default/files/gifs/03_ingles_0.gif" width="200" height="113" alt="" /></div><a href="https://www.bancoldex.com/en" target="_blank" class="leaf">English</a>  </div>
+</div>
+</li>
+<li class="last collapsed"><div class="entity entity-menu-fields menu-fields-menu-primer-menu clearfix">
+  <div class="content">
+    <div class="field field-name-accesible-gift field-type-image field-label-hidden field-wrapper"><img src="https://www.bancoldex.com/sites/default/files/gifs/04_portal_transacional_adobeexpress_1_0.gif" width="200" height="113" alt="" /></div><a href="/es/portal-transaccional-0" class="menu_global_portal" target="_blank">Portal Transaccional</a><ul class="menu"><li class="first leaf"><a href="https://bancaelectronica.bancoldex.com/be/Portal/Comun/Login.xhtml" target="_blank">Banca Electrónica</a></li>
+<li class="leaf"><a href="https://portaltransaccional.bancoldex.com/CuentaAhorros/Portal/Comun/Login.xhtml" target="_blank">Cuenta de ahorros</a></li>
+<li class="leaf"><a href="https://www.abcpagos.com/bancoldex/">Pagos Liquidex</a></li>
+<li class="leaf"><a href="https://checkout.wompi.co/l/mYY3Hh?_ga=2.75716117.1815662332.1651093309-809699323.1649113155&amp;utm_campaign=proximo_a_vencer_directos_-_automatizacion_1&amp;utm_medium=email&amp;utm_source=RD+Station" target="_blank">Pagos Wompi</a></li>
+<li class="last leaf"><a href="https://portalautogestion.bancoldex.com/">Portal Autogestión</a></li>
+</ul>  </div>
+</div>
+</li>
+</ul>  
+  </section><section class="block block-menu block-menu-menu-menu-principal">
+  
+      
+    <ul class="menu"><li class="first collapsed"><div class="entity entity-menu-fields menu-fields-menu-menu-principal clearfix">
+  <div class="content">
+    <div class="field field-name-accesible-gift field-type-image field-label-hidden field-wrapper"><img src="https://www.bancoldex.com/sites/default/files/gifs/05_creditos_a_traves_de_aliados_financieros_adobeexpress.gif" width="960" height="540" alt="" /></div><a href="/es/credito-traves-de-aliados/credito-traves-de-aliados" class="menu_main_first">Crédito a través de aliados financieros</a><ul class="menu"><li class="first leaf"><a href="/es/node/4289/">¿Qué es?</a></li>
+<li class="leaf"><a href="/es/soluciones-financieras/lineas-de-credito-empresas-colombia">Líneas de Crédito</a></li>
+<li class="last leaf"><a href="https://www.bancoldex.com/es/credito-traves-de-aliados/comex">Comex</a></li>
+</ul>  </div>
+</div>
+</li>
+<li class="last collapsed"><div class="entity entity-menu-fields menu-fields-menu-menu-principal clearfix">
+  <div class="content">
+    <div class="field field-name-accesible-gift field-type-image field-label-hidden field-wrapper"><img src="https://www.bancoldex.com/sites/default/files/gifs/ezgif.com-gif-maker.gif" width="960" height="540" alt="" /></div><a href="https://www.bancoldex.com/es/directo" class="menu_main_second">Bancóldex directo</a><ul class="menu"><li class="first leaf"><a href="/es/directo">¿Qué es?</a></li>
+<li class="leaf"><a href="/es/bancoldex-directo-0/credito-directo">Crédito directo</a></li>
+<li class="leaf"><a href="/es/bancoldex-directo/leasing-4258">Leasing</a></li>
+<li class="leaf"><a href="/es/bancoldex-directo-0/leaseback">Leaseback</a></li>
+<li class="leaf"><a href="/es/bancoldex-directo-0/descuento-de-documentos">Descuento de documentos</a></li>
+<li class="leaf"><a href="/es/bancoldex-directo-0/garantias">Garantías</a></li>
+<li class="leaf"><a href="/es/bancoldex-directo-0/coberturas-cambiarias">Coberturas Cambiarias </a></li>
+<li class="last leaf"><a href="https://www.bancoldex.com/es/seguro-de-deudores">Seguro de deudores</a></li>
+</ul>  </div>
+</div>
+</li>
+</ul>  
+  </section>        </div>
+      </section>
+      <!--/.l-menu-region -->
+    
+  </header>
+  <!--/.l-header -->
+
+  
+  
+  
+  <!--.l-main -->
+  <main role="main" class="row l-main">
+    <!-- .l-main region -->
+    <div class=" main columns">
+      
+      <a id="main-content"></a>
+
+      <h2 class="element-invisible">Usted está aquí</h2><div class="breadcrumb"><span class="inline odd first last"><a href="/es">Inicio</a></span></div>
+    <!--                       <h1 id="page-title" class="title">Error 404</h1>
+               -->
+
+                            
+      
+        <section class="block block-menu block-menu-menu-flotante-chat-y-contactenos">
+  
+      
+    <ul class="menu"><li class="first leaf" id="contáctenos"><a href="/es/contactenos" title="Contáctenos">Contactenos</a></li>
+<li class="leaf" id="Chat"><a href="https://bancoldexchat.atlanticqi.com/" title="Chat" target="_blank">Chat en linea </a></li>
+<li class="last leaf" id="Videollamada"><a href="https://meetaqi.westus3.cloudapp.azure.com/Bancoldex.html" title="Videollamada" target="_blank">Videollamada</a></li>
+</ul>  
+  </section>
+      
+    <div class="panel-display panel-2col clearfix" >
+  <div class="panel-panel panel-col-first">
+    <div class="inside"><div class="panel-pane pane-views pane-custom-entity-block"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="view view-custom-entity-block view-id-custom_entity_block view-display-id-block_4 view-dom-id-df462cb8aa91d080deb3e8538b7c8770">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-field-imagen">        <div class="field-content"><img src="https://www.bancoldex.com/sites/default/files/error_404.png" width="452" height="380" alt="Pagina 404" title="Pagina 404" /></div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+</div>
+  </div>
+
+  <div class="panel-panel panel-col-last">
+    <div class="inside"><div class="panel-pane pane-custom pane-1"  >
+  
+      
+  
+  <div class="pane-content">
+    <h2>PARECE QUE LA PÁGINA QUE ESTABA BUSCANDO NO APARECE</h2>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-block pane-menu-menu-error-404"  >
+  
+        <span class="pane-title">
+      Inténtelo con otras opciones:    </span>
+    
+  
+  <div class="pane-content">
+    <ul class="menu"><li class="first leaf"><a href="/es">Página de inicio</a></li>
+<li class="leaf"><a href="/es">Productos financieros</a></li>
+<li class="leaf"><a href="/es">Productos de formación</a></li>
+<li class="leaf"><a href="/es">Productos de conexión</a></li>
+<li class="last leaf"><a href="/es/contactanos">Contáctenos</a></li>
+</ul>  </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+  
+  <section class="block block-block block-block-34">
+  
+      
+    <style type="text/css">
+<!--/*--><![CDATA[/* ><!--*/
+.breadcrumb{
+margin-top: -70px;
+display: contents;
+}
+
+.container_header{
+display:none;
+}
+
+/*--><!]]>*/
+</style><div class="container_header">
+<p>Titulo</p>
+</div>
+  
+  </section>    </div>
+    <!--/.l-main region -->
+
+    
+      </main>
+  <!--/.l-main -->
+
+  
+      <!--.footer-columns -->
+    <section class="row panel l-footer-columns">
+              <div class="footer-first medium-4 columns">
+            <section class="block block-block block-block-3">
+  
+      
+    <style type="text/css">
+<!--/*--><![CDATA[/* ><!--*/
+img.accesible_block {
+    top: -90px;
+    left: 15%;
+  }
+  div.linea-atencion h2:hover img.accesible_block {
+    display: block;
+  }
+
+/*--><!]]>*/
+</style><div class="linea-atencion">
+<h2><img alt="" class="accesible_block" src="/sites/default/files/images/11_informacion_de_contacto_adobeexpress.gif" />Información de contacto</h2>
+<div class="linea">
+<p><span>Oficina principal:</span></p>
+<p>Bogotá: Calle 28 No. 13 A 15, piso 39 <br />
+al 42 C.P.110311</p>
+</div>
+<div class="linea">
+<p> </p>
+<p><span>Horario de atención:</span></p>
+<p>Lunes a viernes de 8:00 a.m a 5:00 p.m.</p>
+</div>
+<div class="linea">
+<p> </p>
+<p><span>Correo electrónico:</span></p>
+<p><a href="mailto:contactenos@bancoldex.com">contactenos@bancoldex.com</a></p>
+<p> </p>
+</div>
+<div class="linea">
+<p><span>Correo para notificaciones judiciales:</span></p>
+<p>notificacionesjudicialesyadministrativas<br />
+@bancoldex.com</p>
+</div>
+</div>
+  
+  </section><section class="block block-block block-block-30">
+  
+      
+    <p><img alt="" src="/sites/default/files/documentos/files/logo_bancoldex-8.png" style="margin-right: 20px; width: 348px; height: 72px;" /></p>
+<script>
+<!--//--><![CDATA[// ><!--
+
+    (function(h,o,t,j,a,r){
+
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+
+        h._hjSettings={hjid:6368254,hjsv:6};
+
+        a=o.getElementsByTagName('head')[0];
+
+        r=o.createElement('script');r.async=1;
+
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+
+        a.appendChild(r);
+
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+
+//--><!]]>
+</script>  
+  </section>        </div>
+                    <div class="footer-second medium-4 columns">
+            <section class="block block-block block-block-2">
+  
+      
+    <style type="text/css">
+<!--/*--><![CDATA[/* ><!--*/
+img.attention_lines {
+    top: -90px;
+    left: 7%;
+  }
+  div.linea-atencion h2:hover img.attention_lines {
+    display: block;
+  }
+
+/*--><!]]>*/
+</style><div class="linea-atencion">
+<h2><img alt="" class="attention_lines" src="/sites/default/files/images/12_lineas_de_atencion_adobeexpress.gif" />Líneas de atención</h2>
+<div class="linea"><span>Conmutador:</span>
+<p>(+57)  (60-1) 486 3000</p>
+</div>
+<!--<div class="linea"><p><span>Fax:</span></p>
+<p>(+57)&nbsp;(60-1) 286 2451 / (+57)(60-1) 286 0237.</p>
+</div>
+<p>-->
+<div class="linea"><span>Linea gratuita nacional:</span>
+<p> (+57)  01800018 0710..</p>
+</div>
+<div class="linea"><span>Multicontacto Bancóldex Bogotá:</span>
+<p> (+57)(60-1) 7 42 0281.</p>
+</div>
+<div class="linea"><span>Video chat <img alt="" class="icono_accesibilidad" src="/sites/default/files/icono_accesibilidad.png" style="padding-left: 5px; width: 25px; height: 20px;" /></span>
+<p>Atención con lengua de señas.</p>
+</div>
+</div>
+  
+  </section>        </div>
+                    <div class="footer-third medium-4 columns">
+            <section class="block block-menu block-menu-menu-enlaces-r-pidos">
+  
+        <h2 class="block-title">Enlaces rápidos</h2>
+    
+    <ul class="menu"><li class="first leaf"><div class="entity entity-menu-fields menu-fields-menu-enlaces-r-pidos clearfix">
+  <div class="content">
+    <div class="field field-name-accesible-gift field-type-image field-label-hidden field-wrapper"><img src="https://www.bancoldex.com/sites/default/files/gifs/13_enlaces_rapidos_adobeexpress_0.gif" width="200" height="113" alt="" /></div><a href="/es/preguntas-frecuentes" class="first leaf">Preguntas frecuentes</a>  </div>
+</div>
+</li>
+<li class="leaf"><a href="/es/glosario">Glosario</a></li>
+<li class="leaf"><a href="/es/servicio-al-cliente/politicas-de-servicio-nuestros-usuarios">Política servicios a nuestros usuarios</a></li>
+<li class="leaf"><a href="/es/mapa-del-sitio">Mapa del sitio</a></li>
+<li class="leaf"><a href="/es/contactenos?denuncia=1">Denuncia - Línea ética</a></li>
+<li class="leaf"><a href="/es/tasas-y-circulares/tasas">Tasas </a></li>
+<li class="leaf"><a href="/es/polizas/polizas-4365">Pólizas</a></li>
+<li class="leaf"><a href="/es/tasas-y-circulares/portafolio">Portafolio</a></li>
+<li class="leaf"><a href="https://onbasemobile.bancoldex.com/AppNet_S/UnityForm.aspx?d1=AbmAmmEEtv9%2bLg8bDGPTZUoDnonuekRvZq8ZRHSU5Lm3Ndn0xeGgatqTr9u5o0UeLjWha3SH6KkOkngipfX51V7z4yOuILGuQ2J89gg6HimVOSFeJd8IkNCjJVQMRvRgZWs%2bkd2wEgt5mtRB2xKw1yxMXr6PPkZu5K9n3I06yPGi">Radica tus solicitudes aquí</a></li>
+<li class="leaf"><a href="https://www.bancoldex.com/sites/default/files/politica_de_tratamiento_de_datos_personales_para_internet.pdf">Politica de tratamiento de datos personales</a></li>
+<li class="leaf"><a href="https://www.bancoldex.com/es/contactenos">Radica tu PQRS</a></li>
+<li class="last leaf"><a href="https://www.gov.co/">Trámites con el Estado Colombiano</a></li>
+</ul>  
+  </section><section class="block block-block block-block-36">
+  
+      
+    <style type="text/css">
+<!--/*--><![CDATA[/* ><!--*/
+.l-footer-columns ul.menu { display: block; }
+<style>
+
+/*--><!]]>*/
+</style>  
+  </section>        </div>
+          </section>
+    <!--/.footer-columns-->
+  
+  <!--.l-footer -->
+  <footer class="l-footer row" role="contentinfo">
+          <div class="footer columns">
+          <section class="block block-social-media-links block-social-media-links-social-media-links">
+  
+      
+    <ul class="social-media-links platforms inline horizontal"><li  class="instagram first"><a href="http://www.instagram.com/bancoldex" target="_blank" title="Instagram"><img src="https://www.bancoldex.com/profiles/bancoldex_profile/modules/contrib/social_media_links/libraries/elegantthemes/PNG/instagram.png" alt="Instagram icon" /></a></li><li  class="facebook"><a href="https://www.facebook.com/bancoldex" target="_blank" title="Facebook"><img src="https://www.bancoldex.com/profiles/bancoldex_profile/modules/contrib/social_media_links/libraries/elegantthemes/PNG/facebook.png" alt="Facebook icon" /></a></li><li  class="twitter"><a href="http://www.twitter.com/bancoldex" target="_blank" title="Twitter"><img src="https://www.bancoldex.com/profiles/bancoldex_profile/modules/contrib/social_media_links/libraries/elegantthemes/PNG/twitter.png" alt="Twitter icon" /></a></li><li  class="youtube"><a href="http://www.youtube.com/user/bancoldex" target="_blank" title="YouTube"><img src="https://www.bancoldex.com/profiles/bancoldex_profile/modules/contrib/social_media_links/libraries/elegantthemes/PNG/youtube.png" alt="YouTube icon" /></a></li><li  class="linkedin last"><a href="http://www.linkedin.com/company/grupo-bancoldex/" target="_blank" title="LinkedIn"><img src="https://www.bancoldex.com/profiles/bancoldex_profile/modules/contrib/social_media_links/libraries/elegantthemes/PNG/linkedin.png" alt="LinkedIn icon" /></a></li></ul>  
+  </section><section class="block block-views block-views-custom-entity-block-block-1">
+  
+      
+    <div class="view view-custom-entity-block view-id-custom_entity_block view-display-id-block_1 view-dom-id-36e8ce10b09db168f9d6a2b2684e6819">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+    
+<style>
+  
+  .panels-flexible-row-home-1 .view-content-block > .view-content .views-row.views-row- {
+        padding: 5em 4em;
+  }
+  
+</style>
+
+
+<div  class="ds-1col entity entity-block-field block-field-logos-gobierno view-mode-teaser clearfix">
+
+  
+  <div class="field field-name-field-imagen field-type-image field-label-hidden field-wrapper"><a href="http://www.gov.co" target="_blank"><img src="https://www.bancoldex.com/sites/default/files/gobierno_de_colombia.png" width="303" height="75" alt="logo gobierno de colombia" /></a></div></div>
+
+
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+    
+<style>
+  
+  .panels-flexible-row-home-1 .view-content-block > .view-content .views-row.views-row- {
+        padding: 5em 4em;
+  }
+  
+</style>
+
+
+<div  class="ds-1col entity entity-block-field block-field-logos-gobierno view-mode-teaser clearfix">
+
+  
+  <div class="field field-name-field-imagen field-type-image field-label-hidden field-wrapper"><a href="https://www.superfinanciera.gov.co/jsp/index.jsf" target="_blank"><img src="https://www.bancoldex.com/sites/default/files/superintendencia.png" width="164" height="43" alt="super intentendencia financiera logo" /></a></div></div>
+
+
+  </div>
+  <div class="views-row views-row-3 views-row-odd views-row-last">
+    
+<style>
+  
+  .panels-flexible-row-home-1 .view-content-block > .view-content .views-row.views-row- {
+        padding: 5em 4em;
+  }
+  
+</style>
+
+
+<div  class="ds-1col entity entity-block-field block-field-logos-gobierno view-mode-teaser clearfix">
+
+  
+  <div class="field field-name-field-imagen field-type-image field-label-hidden field-wrapper"><a href="http://www.bureauveritas.com.co/" target="_blank"><img src="https://www.bancoldex.com/sites/default/files/iso-9001-2015.png" width="1200" height="559" alt="" /></a></div></div>
+
+
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  
+  </section><section class="block block-block block-block-1">
+  
+      
+    <p><strong>Bancóldex: Nit:</strong> 800149923-6 Utilice Internet Explorer 6 - Mozilla Firefox 2 o versiones superiores. Todos los derechos reservados. All rights reserved. 1024x768 de Resolución.</p>
+<style type="text/css">
+<!--/*--><![CDATA[/* ><!--*/
+.block-menu-menu-flotante-chat-y-contactenos {
+    position: fixed;
+    right: 35px;
+    top: 40%;
+    z-index: 9;
+    margin-top: 0;
+    background: #5d72f8;
+    padding: 16px 0;
+    border-radius: 40px;
+}
+
+.block-menu-menu-flotante-chat-y-contactenos ul.menu li:not(:last-child) {
+   margin-bottom:1em;
+}
+
+@media (max-width: 900px) {
+    .block-menu-menu-flotante-chat-y-contactenos {
+        display: block;
+        right: 3px;
+    }
+}
+
+header .l-header-region .block-menu ul.menu ul li.collapsed .menu-fields-menu-primer-menu .content > a:after, header .l-header-region .block-menu ul.menu li.collapsed .menu-fields-menu-primer-menu div.content li.collapsed > a:after, header .l-header-region .block-menu ul.menu li.expanded li.expanded > a:after {
+right: -3px !important;
+}
+@media (max-width: 968px) {
+/* Mobile QA */
+.field-name-field-tab .field-collection-tabs .item-list ul,
+.financial_content .field-name-field-tab .field-collection-tabs .item-list ul {
+  height: auto !important;
+}
+
+.field-name-field-tab .field-collection-tabs .item-list ul li a,
+.financial_content .field-name-field-tab .field-collection-tabs .item-list ul li a {
+  color: inherit !important;
+}
+}
+
+/*--><!]]>*/
+</style>  
+  </section><section class="block block-bancoldex-core block-bancoldex-core-ultima-actualizacion">
+  
+      
+    <span class="black">Última actualización: <span>Viernes 14 de Noviembre de 2025 hora colombiana: 07:02 pm  
+  </section><section class="block block-block block-block-5">
+  
+      
+    <script>
+<!--//--><![CDATA[// ><!--
+
+window.addEventListener("load", function() {
+  // Open PDF In New Window
+        jQuery('.file').children('a').attr('target', '_blank');
+});
+
+//--><!]]>
+</script>  
+  </section>      </div>
+    
+  </footer>
+  <!--/.l-footer -->
+
+
+  
+
+  <!--.l-header -->
+</div>
+<!--/.page -->
+  <script src="https://www.bancoldex.com/profiles/bancoldex_profile/modules/contrib/picture/picturefill2/picturefill.min.js?v=2.3.1"></script>
+<script src="https://www.bancoldex.com/profiles/bancoldex_profile/modules/contrib/picture/picture.min.js?v=7.98"></script>
+  
+  <script type="text/javascript" async src="https://d335luupugsy2.cloudfront.net/js/loader-scripts/2f7e2e0a-dcd1-49de-b56a-f332820b3380-loader.js"
+    integrity="sha512-Qmz7c/0u+/UeTLXRN7gSQ8QHJiR7QZ/vOsNAgAIcdEYCpmptJ3tWW6+N++bZTAVqmt0jY5nWrJu0qQkcVELpbQ=="
+    crossorigin="anonymous">
+  </script>
+
+  <script>
+
+
+    (function($, Drupal, window, document, undefined) {
+        $(document).ready(function() {
+            $(".accordion-titulo").click(function(e) {
+
+             e.preventDefault();
+
+             var contenido=$(this).next(".accordion-content");
+
+             if(contenido.css("display")=="none"){ //open
+               contenido.slideDown(250);
+               $(this).addClass("open");
+             }
+             else{ //close
+               contenido.slideUp(250);
+               $(this).removeClass("open");
+             }
+
+           });
+        })
+    })(jQuery, Drupal, this, this.document);
+</script>
+
+<script>
+    (function($, Drupal, window, document, undefined) {
+      $(document).ready(function(){ $(document).foundation(); })
+    })(jQuery, Drupal, this, this.document);
+</script>
+
+<!-- Live chat - BOTAI -->
+<div id="live-chat" ></div>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+<link rel="stylesheet" type="text/css" href="https://botai.smartdataautomation.com/static/css/chat_box.css"
+      integrity="sha512-myd+yYQWHNie3k6KHmRnbiCN/tJaXom+35Hwl9GS/JX7BUjOm4tl22o3gf8jebs7YyFlngatiQM+KSpatyenPQ=="
+      crossorigin="anonymous">
+
+<script src="https://botai.smartdataautomation.com/static/js/linkify.js"
+        integrity="sha512-9AR+/O7uy65Uh7O0EmkuZoDJjZCXL0xxm7EgxjgRy4ark0fIW1ulSd1VxKkeE3uru2iK3d3cwsnY2QjvOgHKjA=="
+        crossorigin="anonymous">
+</script>
+
+<script src="https://botai.smartdataautomation.com/static/js/linkify-html.js"
+        integrity="sha512-t+ReqGNPwKo4FU6/9bJ3fRUpJyG/h3058GaeKF7nsVNais2ySIGUPiHYOqVucKuLbSj4PgmEREJVHLBF9AhJ+Q=="
+        crossorigin="anonymous">
+</script>
+
+<script src="https://tweetnacl.js.org/nacl.min.js"
+        integrity="sha512-QppFV++FS1sOL9gdi5eIXDgfSPnLAoHgDt+7Jjr7XWVjqhCwyislb1DIyJAz78xEiVlityxCN9AGn/yQoMi81Q=="
+        crossorigin="anonymous">
+</script>
+
+<script src="https://tweetnacl.js.org/nacl-util.min.js"
+        integrity="sha512-ae5nnzISlmBas5Uy0IL9tWtauMrdWnkj8cqgaaR23SqHFGOUB29Y9NhNz9hpremtusP+QZ+xrm5xb+gw8G9eLw=="
+        crossorigin="anonymous">
+</script>
+
+<script src="https://bundle.run/buffer@6.0.3"
+        integrity="sha512-C7l5QkK5Kk/Mn0d+8B0bjXKz3m7h5prV8j0tLi5Q0n3w6BL0p5UWy0iUIyFsvh1Q3MQ+EwHD/m/6ORAL77Aizw=="
+        crossorigin="anonymous">
+</script>
+
+<script src="https://cdn.jsdelivr.net/npm/tweetnacl-sealedbox-js@1.2.0/sealedbox.web.js"
+        integrity="sha512-xcePur8NaRE+5P5L87aofCxCE4wuzmaH4FpdUUzMS08RKWIoCRQFJ9qGlkHQ/YWAhbXrVWF3VBzm4762rMXnUw=="
+        crossorigin="anonymous">
+</script>
+
+<script type="text/javascript" src="https://botai.smartdataautomation.com/static/js/BotScript/chatbot.js"
+        integrity="sha512-QQYUQo7BrWcwSFQPsAaBfYTcdDGw+idTkG7PBFsesuaU8KXhOQNYMETbeEOKw33GCKYMJ7D9CYNSiwMWWFLVUQ=="
+        crossorigin="anonymous">
+</script>
+
+<script type="text/javascript" src="https://botai.smartdataautomation.com/static/js/BotScript/geolocalization.js"
+        integrity="sha512-cPsnmu1jL23jnaFoZEETAzK5YeU0ESbM9/iyxvDVgu6MkCStCiiMmlojzwmHeNGnC2Afb1v1AvbQhkTUjXa4PA=="
+        crossorigin="anonymous">
+</script>
+
+<script type="text/javascript" src="https://botai.smartdataautomation.com/static/js/BotScript/calendar.js"
+        integrity="sha512-+IcHE1MT+M1TKddf20KSIkBfFE66i/N+PIqHjF6Ni2DGdK4TY6pbqZJdr5t6xX7QTsqQ1XsgnPtRrPp9xr8eLg=="
+        crossorigin="anonymous">
+</script>
+
+<script type="text/javascript">
+  var  Params = {
+    'BotId':1488,
+    'BotVersionId':1459,
+    'BotHost' : 'https://botai.smartdataautomation.com',
+    'Initial_Step': '/reset',
+    'user_vars':  {
+    }
+  }
+  var ChatBotItem = new ChatBot(Params);
+</script>
+<!-- End live chat -->
+
+</body>
+</html>

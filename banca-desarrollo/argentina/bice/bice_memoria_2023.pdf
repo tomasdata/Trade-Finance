@@ -1,0 +1,1530 @@
+
+<!doctype html>
+<html lang="es-AR">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	<link rel="stylesheet" type="text/css" href="https://www.bice.com.ar/wp-content/themes/hello-elementor/assets/css/all.min.css">
+	<script src="https://www.bice.com.ar/wp-content/themes/hello-elementor/assets/js/all.min.js"></script>
+	<script src="https://www.bice.com.ar/wp-content/themes/hello-elementor/assets/js/jquery-3.7.1.min.js"></script>
+	<script type="text/javascript" id="landing-script-js-extra">
+        /* <![CDATA[ */
+        var ajax_url = "https://www.bice.com.ar/wp-admin/admin-ajax.php";
+        /* ]]> */
+    </script>
+
+
+	<meta name='robots' content='noindex, follow' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	
+	<!-- This site is optimized with the Yoast SEO plugin v26.2 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Página no encontrada - BICE - Banco de Inversión y Comercio Exterior</title>
+	<meta property="og:locale" content="es_ES" />
+	<meta property="og:title" content="Página no encontrada - BICE - Banco de Inversión y Comercio Exterior" />
+	<meta property="og:site_name" content="BICE - Banco de Inversión y Comercio Exterior" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.bice.com.ar/#website","url":"https://www.bice.com.ar/","name":"BICE","description":"","publisher":{"@id":"https://www.bice.com.ar/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.bice.com.ar/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"es-AR"},{"@type":"Organization","@id":"https://www.bice.com.ar/#organization","name":"BICE","url":"https://www.bice.com.ar/","logo":{"@type":"ImageObject","inLanguage":"es-AR","@id":"https://www.bice.com.ar/#/schema/logo/image/","url":"https://www.bice.com.ar/wp-content/uploads/2024/11/logo_white_frame_new-1-e1730811661712.png","contentUrl":"https://www.bice.com.ar/wp-content/uploads/2024/11/logo_white_frame_new-1-e1730811661712.png","width":342,"height":132,"caption":"BICE"},"image":{"@id":"https://www.bice.com.ar/#/schema/logo/image/"}}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel="alternate" type="application/rss+xml" title="BICE - Banco de Inversión y Comercio Exterior &raquo; Feed" href="https://www.bice.com.ar/feed/" />
+<link rel="alternate" type="application/rss+xml" title="BICE - Banco de Inversión y Comercio Exterior &raquo; RSS de los comentarios" href="https://www.bice.com.ar/comments/feed/" />
+<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.bice.com.ar\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.8.3"}};
+/*! This file is auto-generated */
+!function(s,n){var o,i,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),a=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===a[t]})}function u(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);for(var n=e.getImageData(16,16,1,1),a=0;a<n.data.length;a++)if(0!==n.data[a])return!1;return!0}function f(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\udedf")}return!1}function g(e,t,n,a){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):s.createElement("canvas"),o=r.getContext("2d",{willReadFrequently:!0}),i=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(function(e){i[e]=t(o,e,n,a)}),i}function t(e){var t=s.createElement("script");t.src=e,t.defer=!0,s.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",i=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){s.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+g.toString()+"("+[JSON.stringify(i),f.toString(),p.toString(),u.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"}),r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=function(e){c(n=e.data),r.terminate(),t(n)})}catch(e){}c(n=g(i,f,p,u))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+</script>
+<style id='wp-emoji-styles-inline-css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://www.bice.com.ar/wp-includes/css/dist/block-library/style.min.css?ver=6.8.3' media='all' />
+<style id='classic-theme-styles-inline-css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='hello-elementor-css' href='https://www.bice.com.ar/wp-content/themes/hello-elementor/style.min.css?ver=3.0.1' media='all' />
+<link rel='stylesheet' id='hello-elementor-theme-style-css' href='https://www.bice.com.ar/wp-content/themes/hello-elementor/theme.min.css?ver=3.0.1' media='all' />
+<link rel='stylesheet' id='hello-elementor-header-footer-css' href='https://www.bice.com.ar/wp-content/themes/hello-elementor/header-footer.min.css?ver=3.0.1' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css' href='https://www.bice.com.ar/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.32.5' media='all' />
+<link rel='stylesheet' id='elementor-post-10-css' href='https://www.bice.com.ar/wp-content/uploads/elementor/css/post-10.css?ver=1762285598' media='all' />
+<link rel='stylesheet' id='widget-image-css' href='https://www.bice.com.ar/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=3.32.5' media='all' />
+<link rel='stylesheet' id='widget-nav-menu-css' href='https://www.bice.com.ar/wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min.css?ver=3.32.3' media='all' />
+<link rel='stylesheet' id='widget-social-icons-css' href='https://www.bice.com.ar/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css?ver=3.32.5' media='all' />
+<link rel='stylesheet' id='e-apple-webkit-css' href='https://www.bice.com.ar/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.32.5' media='all' />
+<link rel='stylesheet' id='e-sticky-css' href='https://www.bice.com.ar/wp-content/plugins/elementor-pro/assets/css/modules/sticky.min.css?ver=3.32.3' media='all' />
+<link rel='stylesheet' id='widget-heading-css' href='https://www.bice.com.ar/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=3.32.5' media='all' />
+<link rel='stylesheet' id='widget-divider-css' href='https://www.bice.com.ar/wp-content/plugins/elementor/assets/css/widget-divider.min.css?ver=3.32.5' media='all' />
+<link rel='stylesheet' id='e-animation-fadeInLeft-css' href='https://www.bice.com.ar/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInLeft.min.css?ver=3.32.5' media='all' />
+<link rel='stylesheet' id='widget-icon-list-css' href='https://www.bice.com.ar/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?ver=3.32.5' media='all' />
+<link rel='stylesheet' id='elementor-post-1320-css' href='https://www.bice.com.ar/wp-content/uploads/elementor/css/post-1320.css?ver=1762285599' media='all' />
+<link rel='stylesheet' id='elementor-post-1326-css' href='https://www.bice.com.ar/wp-content/uploads/elementor/css/post-1326.css?ver=1762285600' media='all' />
+<link rel='stylesheet' id='ekit-widget-styles-css' href='https://www.bice.com.ar/wp-content/plugins/elementskit-lite/widgets/init/assets/css/widget-styles.css?ver=3.7.4' media='all' />
+<link rel='stylesheet' id='ekit-responsive-css' href='https://www.bice.com.ar/wp-content/plugins/elementskit-lite/widgets/init/assets/css/responsive.css?ver=3.7.4' media='all' />
+<link rel='stylesheet' id='bdt-uikit-css' href='https://www.bice.com.ar/wp-content/plugins/bdthemes-element-pack-lite/assets/css/bdt-uikit.css?ver=3.21.7' media='all' />
+<link rel='stylesheet' id='ep-helper-css' href='https://www.bice.com.ar/wp-content/plugins/bdthemes-element-pack-lite/assets/css/ep-helper.css?ver=8.3.0' media='all' />
+<link rel='stylesheet' id='elementor-gf-heebo-css' href='https://fonts.googleapis.com/css?family=Heebo:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&#038;display=swap' media='all' />
+<script src="https://www.bice.com.ar/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script src="https://www.bice.com.ar/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<link rel="https://api.w.org/" href="https://www.bice.com.ar/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.bice.com.ar/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.8.3" />
+<meta name="generator" content="Elementor 3.32.5; features: e_font_icon_svg, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap">
+			<style>
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
+					background-image: none !important;
+				}
+				@media screen and (max-height: 1024px) {
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+				@media screen and (max-height: 640px) {
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+			</style>
+			<link rel="icon" href="https://www.bice.com.ar/wp-content/uploads/2024/10/BICE_faviconNew-150x150.jpg" sizes="32x32" />
+<link rel="icon" href="https://www.bice.com.ar/wp-content/uploads/2024/10/BICE_faviconNew-300x300.jpg" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.bice.com.ar/wp-content/uploads/2024/10/BICE_faviconNew-300x300.jpg" />
+<meta name="msapplication-TileImage" content="https://www.bice.com.ar/wp-content/uploads/2024/10/BICE_faviconNew-300x300.jpg" />
+		<style id="wp-custom-css">
+			/*Estilos base de bice*/
+
+.bg-blue{
+    background-color: #0069E6;
+}
+.bg-dark-blue{
+		background-color:#0033A1;
+}
+.bg-light-blue{
+    background-color: #92c0e9;
+}
+.bg-light-grayblue{
+    background-color: #91BEE610;
+}
+.bg-black{
+    background-color: #000;
+}
+.bg-white{
+    background-color: #fff;
+}
+.blue-text{
+    color: #0069E6;
+}
+.dark-blue-text{
+		color:#0033A1;
+}
+.light-blue-text{
+    color: #00FFFF;
+}
+.white-text {
+    color: #fff;
+}
+
+.icon-box-home:hover .blue-text {
+    color: #fff!important;
+}
+.gray-text{
+    color:#777777;
+}
+.clear-blue-text{
+    color:#4899db;
+}
+.btn-primary{
+    font-weight: 700;
+    font-size: 17px;
+    text-align: center;
+    color: #FFFFFF;
+    border: none;
+    border-color: transparent;
+    background: #000000;
+    border-radius: 10px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    padding: 10px 30px;
+}
+.btn-secondary{
+    font-weight: 700;
+    font-size: 16px;
+    text-align: center;
+    color: #FFFFFF;
+    height:40px;
+    background: #91bee6;
+    border-radius: 10px;
+    padding: 8px 30px;
+}
+
+.btn-third{
+    font-weight: 700;
+    font-size: 16px;
+    text-align: center;
+    color: #000;
+    height:40px;
+    background: #00FFFF;
+    border-radius: 10px;
+    padding: 8px 30px;
+}
+.btn-blue{
+    font-weight: 700;
+    font-size: 17px;
+    text-align: center;
+    color: #FFFFFF;
+    background: #0069E6;
+    border-radius: 10px;    
+    padding-left:30px;
+    padding-right: 30px;
+}
+
+.anchor {
+    display: block;
+    position: absolute;
+    top: -100px;
+    visibility: hidden!important;
+}
+
+/*Estilos end*/
+
+.elementor-element-b68d073{
+	padding-left:75px;
+	padding-right:80px;
+}
+/*home */
+.home .e-n-carousel.swiper{
+	padding-bottom:0px!important;
+}
+/*autoridades */
+
+.elementor-flip-box__back .elementor-flip-box__layer__inner{
+	overflow-y:scroll!important;
+}
+
+.icon-box-home:hover{
+	cursor:pointer;
+}
+.bloque_texto a{
+	color:#007bff!important;
+}
+.sub-menu .menu-item{
+	min-width:250px;
+}
+.has-submenu{
+	cursor:default;
+}
+.menu-item-has-children{
+	 
+}
+.destacados_new img{
+	height:203px;
+	widows:100%;
+	object-fit:cover;
+	
+}
+
+.bdt-element-link.destacados.home{
+	height:100%;
+}
+
+.destacados.home.e-con-full.e-child{
+	height: 100%;
+  
+}
+
+.destacados.e-loop-item .elementor-widget-theme-post-excerpt div{
+	color: #111D29!important;
+}
+.bloque_destacados .elementor-post__text{
+	padding-left:10px;
+	padding-right:10px;
+}
+.bloque_destacados .elementor-post.elementor-grid-item, .bloque_novedades .e-loop-item img{
+transition: transform 0.3s ease;
+}
+
+.bloque_novedades .elementor-widget-theme-post-featured-image{
+	overflow:hidden;
+}
+.bloque_destacados .elementor-post.elementor-grid-item:hover{
+	transform: scale(1.05);
+}
+
+.bloque_novedades .e-loop-item:hover h1, .bloque_novedades .e-loop-item:hover a span{
+	color:#0033A1!important;
+}
+
+.bloque_novedades .e-loop-item:hover img{
+	transform: scale(1.05);
+}
+.page-id-1051 .elementor-element-57844e33{
+	display:none;
+}
+
+#step_1 .elementskit-btn{
+	pointer-events: none;
+}
+.condiciones_financieras_no_close .ekit_accordion_icon_group, .condiciones_financieras .ekit_accordion_icon_group{
+	display:none;
+}
+/*productos */
+.parent-pageid-715 #breadcrumbs > span > span:nth-child(2) > a, .parent-pageid-675 #breadcrumbs > span > span:nth-child(2) > a, .parent-pageid-679 #breadcrumbs > span > span:nth-child(2) > a, .parent-pageid-689 #breadcrumbs > span > span:nth-child(2) > a, .parent-pageid-695 #breadcrumbs > span > span:nth-child(2) > a {
+	pointer-events:none;
+}
+/*condiciones financieras*/
+#comments{display:none!important}
+
+.condiciones_financieras_no_close .elementskit-card, .condiciones_financieras_no_close .elementskit-card *, .condiciones_financieras .elementskit-card, .condiciones_financieras .elementskit-card * {
+	pointer-events:none;
+}
+.condiciones_financieras .elementskit-card .toggleDiv{
+	pointer-events:auto!important;
+}
+.destacados  .eael-grid-post-holder {
+    border: 1px solid #0069E6!important;
+}
+
+/*post loops*/
+.post-loop-carousel-cont{
+	padding:10px;
+	overflow:visible;
+}
+
+.post-loop-carousel-cont > div{
+	box-shadow: 0 0 10px 0 rgba(0,0,0,.15);
+	background-color: #fff;
+  border: 0 solid #69727d;
+  border-radius: 3px;
+  display: flex
+  flex-direction: column;
+  min-height: 100%;
+  overflow: hidden;
+  position: relative;
+  transition: all .25s;
+  width: 100%;
+
+}
+.elementor-post__excerpt p, .post-loop-carousel-cont .elementor-widget-theme-post-excerpt {
+  display: -webkit-box; 
+  -webkit-line-clamp: 4; /* Adjust the number of lines here */
+  -webkit-box-orient: vertical; 
+  overflow: hidden;
+  text-overflow: ellipsis; 
+}
+.post-loop-carousel-cont .elementor-widget-theme-post-featured-image{
+	padding-bottom: calc(0.6* 100%);
+}
+.post-loop-carousel-cont img {
+    height:100%;
+	  width: 100%;
+	  object-fit:cover;
+		position:center center;
+		left: calc(50% + 1px);
+    position: absolute;
+    top: calc(50% + 1px);
+    transform: scale(1.01) translate(-50%, -50%);
+}
+.post-loop-carousel-cont:hover > div{
+	box-shadow: 0 0 20px 0 rgba(0,0,0,.15);
+	border-radius: 3px!important; 
+}
+
+.post-loop-carousel-cont h4:hover, .post-loop-carousel-cont:hover a:hover{
+	color:#0069E6!important;
+}
+.bloque_novedades  .blog_post .elementor-widget-theme-post-featured-image a{
+	width:100%;
+} 
+
+/*nuestra mision*/
+
+.mision_pages .elementor-post:hover h3,
+.mision_pages .elementor-post:hover a{
+ 	color:#0169DE;
+}
+@media only screen and (max-width: 768px) {
+.eael-contact-form-a972d95{
+	max-width:100%;
+}
+	#bottom-slider .e-con-inner {
+		display:block!important;
+	}
+	#responsive-nav nav{
+		top:58px!important;
+	}
+	#menu-2-ed63fe0 >li.menu-item:last-child a{
+		padding-bottom:15px!important;
+}
+	.destacados.home.e-flex.e-con-boxed > .e-con-inner {
+	display:block;
+}
+	#carousel_home h3{
+		color:#fff!important;
+	}
+	
+}
+@media only screen and (max-width: 1200px) {
+
+	.swiper-slide > div, .swiper-slide > div .home_slide{
+		height:100%!important;
+	}
+}
+
+@media only screen and (max-width: 1024px) {
+		#responsive-nav nav{
+		top:58px!important;
+	}
+	html, body { max-width: 100% !important; overflow-x: hidden !important; }
+	.elementor[data-elementor-type="wp-page"] {
+  /* Your CSS styles here */
+		padding-top:80px;
+	}
+}
+@media only screen and (min-width: 990px) {
+	.premium-sub-menu-item.premium-item-hovered{
+		color:#0169DE!important;
+
+	}
+	.premium-sub-menu-item.premium-item-hovered > a,.premium-sub-menu-item.premium-item-hovered > a > i::before{
+		color:#0169DE!important;
+		
+	}
+	
+
+.bdt-element-link.destacados.home:hover{
+	transform: scale(1.05);
+}
+.bdt-element-link.destacados.home, .destacados_new .e-loop-item img{
+transition: transform 0.3s ease;
+}
+
+
+}
+
+@media only screen and (min-width: 990px) and (max-width: 1400px){
+	#carousel_home h1, #carousel_home h5, #carousel_home a{
+		margin-left:55px;
+	}
+
+}
+
+
+@media only screen and (min-width: 1100px) {
+	.elementor-108 .elementor-element.elementor-element-7852458 .eael-grid-post-holder {
+    background-color: #fff;
+
+		height:320px!important;
+		
+	}
+
+	#ver_mas_single .eael-grid-post-holder, .elementor-element-50ff208  .eael-grid-post-holder, .destacados .eael-grid-post-holder, .type-post .eael-grid-post-holder{
+		height:375px!important;
+	}
+	.destacados .eael-grid-post-holder {
+		height:410px!important;
+	}
+	
+	#youtube-home.elementor-widget-video-playlist .e-tabs-items-wrapper .e-tab-title .e-tab-thumbnail img {
+    -o-object-fit: fill;
+    object-fit: fill;
+    width: 100px;
+    height: auto;
+}
+	#youtube-home.elementor-widget-video-playlist .e-tabs-items-wrapper .e-tab-title .e-tab-thumbnail {
+    background-color: #d5d8dc;
+    position: relative;
+    margin: auto 0;
+    flex-shrink: 0;
+    width: 100px;
+    height: auto;
+}
+	
+	#youtube-home.elementor-widget-video-playlist .e-tabs-items-wrapper .e-tab-title {
+    background-color: var(--e-a-bg-default);
+    display: flex!important;
+    height: auto!important;
+		margin-bottom:15px!important;
+	}
+	#youtube-home.elementor-widget-video-playlist .e-tabs-items-wrapper .e-tab-title .e-tab-title-text {
+    font-size: 18px!important;
+    white-space: normal!important; 
+	}
+		#youtube-home.elementor-widget-video-playlist .e-tabs-items-wrapper .e-tab-title:hover {
+    background-color: #eee;
+	}
+
+	#youtube-home.elementor-widget-video-playlist .e-tabs-items-wrapper .e-tab-title .icon-play, .elementor-widget-video-playlist .e-tabs-items-wrapper .e-tab-title .icon-watched 	{
+    display: inline;
+	}
+}
+
+
+@media only screen and (min-width: 990px) and (max-width: 1280px) {
+	body > div> section.elementor-section {
+		padding-left:80px!important;
+		padding-right:80px!important;
+	}
+	body > div.elementor-location-footer > section.elementor-section {
+		padding-left:70px!important;
+		padding-right:80px!important;
+	}
+}
+
+
+/** Start Block Kit CSS: 136-3-fc37602abad173a9d9d95d89bbe6bb80 **/
+
+.envato-block__preview{overflow: visible !important;}
+
+/** End Block Kit CSS: 136-3-fc37602abad173a9d9d95d89bbe6bb80 **/
+
+		</style>
+		
+	<script src="https://www.google.com/recaptcha/api.js?render=6LfF5dMqAAAAAAMloLpWmJ_UWilAaQAYwe7Vxn9Q"></script>
+</head>
+<body class="error404 wp-theme-hello-elementor elementor-default elementor-kit-10">
+<!-- START Botmaker Webchat-->
+<script>
+(function () {
+let js = document.createElement('script');
+js.type = 'text/javascript';
+js.async = 1;
+js.src =
+'https://go.botmaker.com/rest/webchat/p/DG8MNXILT5/init.js';
+document.body.appendChild(js);
+})();
+</script>
+<!-- END Botmaker Webchat-->
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-R2N0777CVC"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-R2N0777CVC');
+</script>
+
+
+<a class="skip-link screen-reader-text" href="#content">Ir al contenido</a>
+<style>
+.grecaptcha-badge {
+    visibility: hidden;
+}
+</style>
+<script type="text/javascript">
+    // Correctly output the PHP variable into a JavaScript string
+    var page_name_from_php = "BICE otorgó $50.000 millones en leasing para tecnificación y logística de PyMEs";
+  
+</script>
+
+		<header data-elementor-type="header" data-elementor-id="1320" class="elementor elementor-1320 elementor-location-header" data-elementor-post-type="elementor_library">
+			<div class="elementor-element elementor-element-b68d073 elementor-hidden-tablet elementor-hidden-mobile e-flex e-con-boxed e-con e-parent" data-id="b68d073" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;,&quot;sticky&quot;:&quot;top&quot;,&quot;sticky_on&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;],&quot;sticky_offset&quot;:0,&quot;sticky_effects_offset&quot;:0,&quot;sticky_anchor_link_offset&quot;:0}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-5069d3d e-con-full e-flex e-con e-child" data-id="5069d3d" data-element_type="container">
+				<div class="elementor-element elementor-element-ada0c29 elementor-widget elementor-widget-image" data-id="ada0c29" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="https://www.bice.com.ar/">
+							<img src="https://www.bice.com.ar/wp-content/uploads/elementor/thumbs/logo_white_frame_new-1-e1730811661712-r26bnseinbx11evigjf1takv0fai2c51x6dkthwmps.png" title="logo_white_frame_new (1)" alt="logo_white_frame_new (1)" loading="lazy" />								</a>
+															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-dd19581 e-con-full e-flex e-con e-child" data-id="dd19581" data-element_type="container">
+				<div class="elementor-element elementor-element-1baa805 elementor-nav-menu__align-center elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="1baa805" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;horizontal&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;svg aria-hidden=\&quot;true\&quot; class=\&quot;e-font-icon-svg e-fas-caret-down\&quot; viewBox=\&quot;0 0 320 512\&quot; xmlns=\&quot;http:\/\/www.w3.org\/2000\/svg\&quot;&gt;&lt;path d=\&quot;M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z\&quot;&gt;&lt;\/path&gt;&lt;\/svg&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;},&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
+				<div class="elementor-widget-container">
+								<nav aria-label="Menu" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-underline e--animation-fade">
+				<ul id="menu-1-1baa805" class="elementor-nav-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2434"><a class="elementor-item">Productos</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2437"><a href="#" class="elementor-sub-item elementor-item-anchor">Economías Regionales</a>
+	<ul class="sub-menu elementor-nav-menu--dropdown">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8116"><a href="https://www.bice.com.ar/productos/creditos-en-valor-producto-para-el-sector-ganadero/" class="elementor-sub-item">Créditos en valor producto para el sector ganadero</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7017"><a href="https://www.bice.com.ar/productos/inversion/creditosagro/" class="elementor-sub-item">Créditos para la tecnificación del agro</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7442"><a href="https://www.bice.com.ar/productos/creditos-valor-producto-sector-porcino/" class="elementor-sub-item">Créditos en valor producto para el sector porcino</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2485"><a href="https://www.bice.com.ar/productos/creditos-pagaderos-en-toneladas-de-soja/" class="elementor-sub-item">Créditos en toneladas de soja</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2486"><a href="https://www.bice.com.ar/productos/creditos-en-litros-de-leche-uva/" class="elementor-sub-item">Créditos en litros de leche | UVA</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2438"><a href="#" class="elementor-sub-item elementor-item-anchor">Inversión</a>
+	<ul class="sub-menu elementor-nav-menu--dropdown">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-713"><a href="https://www.bice.com.ar/productos/inversion/inversion-productiva-a-largo-plazo/" class="elementor-sub-item">Inversión productiva a largo plazo</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2490"><a href="https://www.bice.com.ar/productos/inversion/prenda-vendors/" class="elementor-sub-item">Prenda | Proveedores y concesionarias</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8585"><a href="https://www.bice.com.ar/productos/inversion/creditos-para-sistemas-de-monitoreo-para-exportadores/" class="elementor-sub-item">Créditos para sistemas de monitoreo para exportadores</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2440"><a href="#" class="elementor-sub-item elementor-item-anchor">Leasing</a>
+	<ul class="sub-menu elementor-nav-menu--dropdown">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-710"><a href="https://www.bice.com.ar/productos/leasing/leasing-productivo-bienes-nuevos/" class="elementor-sub-item">Bienes nuevos</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-711"><a href="https://www.bice.com.ar/productos/leasing/leasing-productivo-bienes-usados/" class="elementor-sub-item">Bienes usados</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2464"><a href="https://www.bice.com.ar/productos/leasing/leasing-vendors/" class="elementor-sub-item">Leasing | Proveedores y concesionarias</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-708"><a href="https://www.bice.com.ar/productos/leasing/leasing-inmobiliario/" class="elementor-sub-item">Inmobiliario</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2441"><a href="#" class="elementor-sub-item elementor-item-anchor">Capital de Trabajo</a>
+	<ul class="sub-menu elementor-nav-menu--dropdown">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2489"><a href="https://www.bice.com.ar/productos/capital-de-trabajo/capital-de-trabajo/" class="elementor-sub-item">Capital de trabajo a largo plazo</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-706"><a href="https://www.bice.com.ar/productos/capital-de-trabajo/descuento-de-cheques/" class="elementor-sub-item">Descuento de cheques</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-705"><a href="https://www.bice.com.ar/productos/capital-de-trabajo/descuento-de-facturas-y-certificados-de-obra/" class="elementor-sub-item">Descuento de facturas y certificados de obra</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2445"><a href="#" class="elementor-sub-item elementor-item-anchor">COMEX</a>
+	<ul class="sub-menu elementor-nav-menu--dropdown">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-703"><a href="https://www.bice.com.ar/productos/comex/pre-y-post-financiacion-de-exportaciones/" class="elementor-sub-item">Pre y postfinanciación de exportaciones</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-702"><a href="https://www.bice.com.ar/productos/comex/financiacion-de-exportaciones-forfaiting/" class="elementor-sub-item">Exportaciones a largo plazo | Forfaiting</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8586"><a href="https://www.bice.com.ar/productos/inversion/creditos-para-sistemas-de-monitoreo-para-exportadores/" class="elementor-sub-item">Créditos para sistemas de monitoreo para exportadores</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2435"><a class="elementor-item">Institucional</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2431"><a class="elementor-sub-item">El Banco</a>
+	<ul class="sub-menu elementor-nav-menu--dropdown">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-750"><a href="https://www.bice.com.ar/institucional/el-banco/autoridades/" class="elementor-sub-item">Autoridades</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-751"><a href="https://www.bice.com.ar/institucional/el-banco/nuestra-mision/" class="elementor-sub-item">Nuestra misión</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-745"><a href="https://www.bice.com.ar/institucional/el-banco/calificacion/" class="elementor-sub-item">Calificación</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-747"><a href="https://www.bice.com.ar/institucional/el-banco/estatuto/" class="elementor-sub-item">Estatuto</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-749"><a href="https://www.bice.com.ar/institucional/el-banco/organigrama/" class="elementor-sub-item">Organigrama</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-746"><a href="https://www.bice.com.ar/institucional/el-banco/comites-de-directorio/" class="elementor-sub-item">Comités de Directorio</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-744"><a href="https://www.bice.com.ar/institucional/el-banco/memorias-y-balances/" class="elementor-sub-item">Memorias y balances</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-748"><a href="https://www.bice.com.ar/institucional/el-banco/oficinas/" class="elementor-sub-item">Oficinas</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-8642"><a class="elementor-sub-item">Más Información</a>
+	<ul class="sub-menu elementor-nav-menu--dropdown">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-771"><a href="https://www.bice.com.ar/institucional/mas-informacion/bid-gcf/" class="elementor-sub-item">BID-GCF</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-772"><a href="https://www.bice.com.ar/institucional/mas-informacion/certificacion-y-calidad/" class="elementor-sub-item">Certificación de calidad</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-773"><a href="https://www.bice.com.ar/institucional/mas-informacion/gobierno-societario/" class="elementor-sub-item">Gobierno societario</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-774"><a href="https://www.bice.com.ar/institucional/mas-informacion/proveedores/" class="elementor-sub-item">Proveedores</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-775"><a href="https://www.bice.com.ar/institucional/mas-informacion/reporte-de-sostenibilidad/" class="elementor-sub-item">Reporte de sostenibilidad</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-777"><a href="https://www.bice.com.ar/institucional/mas-informacion/transparencia-activa/" class="elementor-sub-item">Transparencia activa</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7545"><a href="https://www.bice.com.ar/institucional/el-banco/linea-de-denuncias/" class="elementor-sub-item">Línea de denuncias</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7808"><a href="https://www.bice.com.ar/institucional/mas-informacion/onboarding-digital/" class="elementor-sub-item">Alta de cliente 100% digital</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7546"><a href="https://www.bice.com.ar/productos/firma-digital/" class="elementor-sub-item">Firma digital</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1249"><a href="https://www.bice.com.ar/noticias/" class="elementor-sub-item">Noticias</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2211"><a href="https://www.bice.com.ar/casos-de-exito/" class="elementor-sub-item">Casos de éxito</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2436"><a class="elementor-item">Educación Financiera</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2406"><a href="https://www.comunidadbice.com.ar/cursos/" class="elementor-sub-item">Cursos</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2407"><a href="https://www.comunidadbice.com.ar/capacitaciones/" class="elementor-sub-item">Capacitaciones</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2408"><a href="https://www.comunidadbice.com.ar/blogfinanciero/" class="elementor-sub-item">Blog financiero</a></li>
+</ul>
+</li>
+</ul>			</nav>
+					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
+			<svg aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open e-font-icon-svg e-eicon-menu-bar" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg"><path d="M104 333H896C929 333 958 304 958 271S929 208 896 208H104C71 208 42 237 42 271S71 333 104 333ZM104 583H896C929 583 958 554 958 521S929 458 896 458H104C71 458 42 487 42 521S71 583 104 583ZM104 833H896C929 833 958 804 958 771S929 708 896 708H104C71 708 42 737 42 771S71 833 104 833Z"></path></svg><svg aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close e-font-icon-svg e-eicon-close" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg"><path d="M742 167L500 408 258 167C246 154 233 150 217 150 196 150 179 158 167 167 154 179 150 196 150 212 150 229 154 242 171 254L408 500 167 742C138 771 138 800 167 829 196 858 225 858 254 829L496 587 738 829C750 842 767 846 783 846 800 846 817 842 829 829 842 817 846 804 846 783 846 767 842 750 829 737L588 500 833 258C863 229 863 200 833 171 804 137 775 137 742 167Z"></path></svg>		</div>
+					<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
+				<ul id="menu-2-1baa805" class="elementor-nav-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2434"><a class="elementor-item" tabindex="-1">Productos</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2437"><a href="#" class="elementor-sub-item elementor-item-anchor" tabindex="-1">Economías Regionales</a>
+	<ul class="sub-menu elementor-nav-menu--dropdown">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8116"><a href="https://www.bice.com.ar/productos/creditos-en-valor-producto-para-el-sector-ganadero/" class="elementor-sub-item" tabindex="-1">Créditos en valor producto para el sector ganadero</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7017"><a href="https://www.bice.com.ar/productos/inversion/creditosagro/" class="elementor-sub-item" tabindex="-1">Créditos para la tecnificación del agro</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7442"><a href="https://www.bice.com.ar/productos/creditos-valor-producto-sector-porcino/" class="elementor-sub-item" tabindex="-1">Créditos en valor producto para el sector porcino</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2485"><a href="https://www.bice.com.ar/productos/creditos-pagaderos-en-toneladas-de-soja/" class="elementor-sub-item" tabindex="-1">Créditos en toneladas de soja</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2486"><a href="https://www.bice.com.ar/productos/creditos-en-litros-de-leche-uva/" class="elementor-sub-item" tabindex="-1">Créditos en litros de leche | UVA</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2438"><a href="#" class="elementor-sub-item elementor-item-anchor" tabindex="-1">Inversión</a>
+	<ul class="sub-menu elementor-nav-menu--dropdown">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-713"><a href="https://www.bice.com.ar/productos/inversion/inversion-productiva-a-largo-plazo/" class="elementor-sub-item" tabindex="-1">Inversión productiva a largo plazo</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2490"><a href="https://www.bice.com.ar/productos/inversion/prenda-vendors/" class="elementor-sub-item" tabindex="-1">Prenda | Proveedores y concesionarias</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8585"><a href="https://www.bice.com.ar/productos/inversion/creditos-para-sistemas-de-monitoreo-para-exportadores/" class="elementor-sub-item" tabindex="-1">Créditos para sistemas de monitoreo para exportadores</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2440"><a href="#" class="elementor-sub-item elementor-item-anchor" tabindex="-1">Leasing</a>
+	<ul class="sub-menu elementor-nav-menu--dropdown">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-710"><a href="https://www.bice.com.ar/productos/leasing/leasing-productivo-bienes-nuevos/" class="elementor-sub-item" tabindex="-1">Bienes nuevos</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-711"><a href="https://www.bice.com.ar/productos/leasing/leasing-productivo-bienes-usados/" class="elementor-sub-item" tabindex="-1">Bienes usados</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2464"><a href="https://www.bice.com.ar/productos/leasing/leasing-vendors/" class="elementor-sub-item" tabindex="-1">Leasing | Proveedores y concesionarias</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-708"><a href="https://www.bice.com.ar/productos/leasing/leasing-inmobiliario/" class="elementor-sub-item" tabindex="-1">Inmobiliario</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2441"><a href="#" class="elementor-sub-item elementor-item-anchor" tabindex="-1">Capital de Trabajo</a>
+	<ul class="sub-menu elementor-nav-menu--dropdown">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2489"><a href="https://www.bice.com.ar/productos/capital-de-trabajo/capital-de-trabajo/" class="elementor-sub-item" tabindex="-1">Capital de trabajo a largo plazo</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-706"><a href="https://www.bice.com.ar/productos/capital-de-trabajo/descuento-de-cheques/" class="elementor-sub-item" tabindex="-1">Descuento de cheques</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-705"><a href="https://www.bice.com.ar/productos/capital-de-trabajo/descuento-de-facturas-y-certificados-de-obra/" class="elementor-sub-item" tabindex="-1">Descuento de facturas y certificados de obra</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2445"><a href="#" class="elementor-sub-item elementor-item-anchor" tabindex="-1">COMEX</a>
+	<ul class="sub-menu elementor-nav-menu--dropdown">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-703"><a href="https://www.bice.com.ar/productos/comex/pre-y-post-financiacion-de-exportaciones/" class="elementor-sub-item" tabindex="-1">Pre y postfinanciación de exportaciones</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-702"><a href="https://www.bice.com.ar/productos/comex/financiacion-de-exportaciones-forfaiting/" class="elementor-sub-item" tabindex="-1">Exportaciones a largo plazo | Forfaiting</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8586"><a href="https://www.bice.com.ar/productos/inversion/creditos-para-sistemas-de-monitoreo-para-exportadores/" class="elementor-sub-item" tabindex="-1">Créditos para sistemas de monitoreo para exportadores</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2435"><a class="elementor-item" tabindex="-1">Institucional</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2431"><a class="elementor-sub-item" tabindex="-1">El Banco</a>
+	<ul class="sub-menu elementor-nav-menu--dropdown">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-750"><a href="https://www.bice.com.ar/institucional/el-banco/autoridades/" class="elementor-sub-item" tabindex="-1">Autoridades</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-751"><a href="https://www.bice.com.ar/institucional/el-banco/nuestra-mision/" class="elementor-sub-item" tabindex="-1">Nuestra misión</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-745"><a href="https://www.bice.com.ar/institucional/el-banco/calificacion/" class="elementor-sub-item" tabindex="-1">Calificación</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-747"><a href="https://www.bice.com.ar/institucional/el-banco/estatuto/" class="elementor-sub-item" tabindex="-1">Estatuto</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-749"><a href="https://www.bice.com.ar/institucional/el-banco/organigrama/" class="elementor-sub-item" tabindex="-1">Organigrama</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-746"><a href="https://www.bice.com.ar/institucional/el-banco/comites-de-directorio/" class="elementor-sub-item" tabindex="-1">Comités de Directorio</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-744"><a href="https://www.bice.com.ar/institucional/el-banco/memorias-y-balances/" class="elementor-sub-item" tabindex="-1">Memorias y balances</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-748"><a href="https://www.bice.com.ar/institucional/el-banco/oficinas/" class="elementor-sub-item" tabindex="-1">Oficinas</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-8642"><a class="elementor-sub-item" tabindex="-1">Más Información</a>
+	<ul class="sub-menu elementor-nav-menu--dropdown">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-771"><a href="https://www.bice.com.ar/institucional/mas-informacion/bid-gcf/" class="elementor-sub-item" tabindex="-1">BID-GCF</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-772"><a href="https://www.bice.com.ar/institucional/mas-informacion/certificacion-y-calidad/" class="elementor-sub-item" tabindex="-1">Certificación de calidad</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-773"><a href="https://www.bice.com.ar/institucional/mas-informacion/gobierno-societario/" class="elementor-sub-item" tabindex="-1">Gobierno societario</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-774"><a href="https://www.bice.com.ar/institucional/mas-informacion/proveedores/" class="elementor-sub-item" tabindex="-1">Proveedores</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-775"><a href="https://www.bice.com.ar/institucional/mas-informacion/reporte-de-sostenibilidad/" class="elementor-sub-item" tabindex="-1">Reporte de sostenibilidad</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-777"><a href="https://www.bice.com.ar/institucional/mas-informacion/transparencia-activa/" class="elementor-sub-item" tabindex="-1">Transparencia activa</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7545"><a href="https://www.bice.com.ar/institucional/el-banco/linea-de-denuncias/" class="elementor-sub-item" tabindex="-1">Línea de denuncias</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7808"><a href="https://www.bice.com.ar/institucional/mas-informacion/onboarding-digital/" class="elementor-sub-item" tabindex="-1">Alta de cliente 100% digital</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7546"><a href="https://www.bice.com.ar/productos/firma-digital/" class="elementor-sub-item" tabindex="-1">Firma digital</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1249"><a href="https://www.bice.com.ar/noticias/" class="elementor-sub-item" tabindex="-1">Noticias</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2211"><a href="https://www.bice.com.ar/casos-de-exito/" class="elementor-sub-item" tabindex="-1">Casos de éxito</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2436"><a class="elementor-item" tabindex="-1">Educación Financiera</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2406"><a href="https://www.comunidadbice.com.ar/cursos/" class="elementor-sub-item" tabindex="-1">Cursos</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2407"><a href="https://www.comunidadbice.com.ar/capacitaciones/" class="elementor-sub-item" tabindex="-1">Capacitaciones</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2408"><a href="https://www.comunidadbice.com.ar/blogfinanciero/" class="elementor-sub-item" tabindex="-1">Blog financiero</a></li>
+</ul>
+</li>
+</ul>			</nav>
+						</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-c1e9244 elementor-hidden-mobile e-con-full e-flex e-con e-child" data-id="c1e9244" data-element_type="container">
+				<div class="elementor-element elementor-element-fc52b8b elementor-shape-circle e-grid-align-right elementor-hidden-mobile elementor-grid-0 elementor-widget elementor-widget-social-icons" data-id="fc52b8b" data-element_type="widget" data-widget_type="social-icons.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-social-icons-wrapper elementor-grid" role="list">
+							<span class="elementor-grid-item" role="listitem">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-repeater-item-ac0d552" href="https://www.instagram.com/bice_arg/" target="_blank">
+						<span class="elementor-screen-only">Instagram</span>
+						<svg aria-hidden="true" class="e-font-icon-svg e-fab-instagram" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"></path></svg>					</a>
+				</span>
+							<span class="elementor-grid-item" role="listitem">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-x-twitter elementor-repeater-item-25edacd" href="https://x.com/bice_arg" target="_blank">
+						<span class="elementor-screen-only">X-twitter</span>
+						<svg aria-hidden="true" class="e-font-icon-svg e-fab-x-twitter" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"></path></svg>					</a>
+				</span>
+							<span class="elementor-grid-item" role="listitem">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-repeater-item-0f9e374" href="https://www.facebook.com/bice.arg" target="_blank">
+						<span class="elementor-screen-only">Facebook</span>
+						<svg aria-hidden="true" class="e-font-icon-svg e-fab-facebook" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M504 256C504 119 393 8 256 8S8 119 8 256c0 123.78 90.69 226.38 209.25 245V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.28c-30.8 0-40.41 19.12-40.41 38.73V256h68.78l-11 71.69h-57.78V501C413.31 482.38 504 379.78 504 256z"></path></svg>					</a>
+				</span>
+							<span class="elementor-grid-item" role="listitem">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-linkedin elementor-repeater-item-bba7324" href="https://ar.linkedin.com/company/bice-ar" target="_blank">
+						<span class="elementor-screen-only">Linkedin</span>
+						<svg aria-hidden="true" class="e-font-icon-svg e-fab-linkedin" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z"></path></svg>					</a>
+				</span>
+							<span class="elementor-grid-item" role="listitem">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-repeater-item-c86d8bc" href="https://www.youtube.com/channel/UCXl9ugpsOREebdLIle9kK3w" target="_blank">
+						<span class="elementor-screen-only">Youtube</span>
+						<svg aria-hidden="true" class="e-font-icon-svg e-fab-youtube" viewBox="0 0 576 512" xmlns="http://www.w3.org/2000/svg"><path d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z"></path></svg>					</a>
+				</span>
+					</div>
+						</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-0faf261 elementor-hidden-desktop e-flex e-con-boxed e-con e-parent" data-id="0faf261" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;,&quot;sticky&quot;:&quot;top&quot;,&quot;sticky_on&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;],&quot;sticky_offset&quot;:0,&quot;sticky_effects_offset&quot;:0,&quot;sticky_anchor_link_offset&quot;:0}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-8bfcde2 e-con-full e-flex e-con e-child" data-id="8bfcde2" data-element_type="container">
+				<div class="elementor-element elementor-element-7272ade elementor-widget elementor-widget-image" data-id="7272ade" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="https://www.bice.com.ar/">
+							<img src="https://www.bice.com.ar/wp-content/uploads/elementor/thumbs/logo_white_frame_new-1-e1730811661712-r26bnseinbx11evigjf1takv0fai2c51x6dkthwmps.png" title="logo_white_frame_new (1)" alt="logo_white_frame_new (1)" loading="lazy" />								</a>
+															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-7f4f1a1 elementor-hidden-mobile e-con-full e-flex e-con e-child" data-id="7f4f1a1" data-element_type="container">
+				<div class="elementor-element elementor-element-b943ee6 elementor-shape-circle e-grid-align-right elementor-hidden-mobile elementor-grid-0 elementor-widget elementor-widget-social-icons" data-id="b943ee6" data-element_type="widget" data-widget_type="social-icons.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-social-icons-wrapper elementor-grid" role="list">
+							<span class="elementor-grid-item" role="listitem">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-repeater-item-ac0d552" href="https://www.instagram.com/bice_arg/" target="_blank">
+						<span class="elementor-screen-only">Instagram</span>
+						<svg aria-hidden="true" class="e-font-icon-svg e-fab-instagram" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"></path></svg>					</a>
+				</span>
+							<span class="elementor-grid-item" role="listitem">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-repeater-item-25edacd" href="https://x.com/bice_arg" target="_blank">
+						<span class="elementor-screen-only">Twitter</span>
+						<svg aria-hidden="true" class="e-font-icon-svg e-fab-twitter" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"></path></svg>					</a>
+				</span>
+							<span class="elementor-grid-item" role="listitem">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-repeater-item-0f9e374" href="https://www.facebook.com/bice.arg" target="_blank">
+						<span class="elementor-screen-only">Facebook</span>
+						<svg aria-hidden="true" class="e-font-icon-svg e-fab-facebook" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M504 256C504 119 393 8 256 8S8 119 8 256c0 123.78 90.69 226.38 209.25 245V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.28c-30.8 0-40.41 19.12-40.41 38.73V256h68.78l-11 71.69h-57.78V501C413.31 482.38 504 379.78 504 256z"></path></svg>					</a>
+				</span>
+							<span class="elementor-grid-item" role="listitem">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-linkedin elementor-repeater-item-bba7324" href="https://ar.linkedin.com/company/bice-ar" target="_blank">
+						<span class="elementor-screen-only">Linkedin</span>
+						<svg aria-hidden="true" class="e-font-icon-svg e-fab-linkedin" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z"></path></svg>					</a>
+				</span>
+							<span class="elementor-grid-item" role="listitem">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-repeater-item-c86d8bc" href="https://www.youtube.com/channel/UCXl9ugpsOREebdLIle9kK3w" target="_blank">
+						<span class="elementor-screen-only">Youtube</span>
+						<svg aria-hidden="true" class="e-font-icon-svg e-fab-youtube" viewBox="0 0 576 512" xmlns="http://www.w3.org/2000/svg"><path d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z"></path></svg>					</a>
+				</span>
+					</div>
+						</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-9b2cbcc e-con-full e-flex e-con e-child" data-id="9b2cbcc" data-element_type="container">
+				<div class="elementor-element elementor-element-ed63fe0 elementor-nav-menu__align-start elementor-nav-menu--stretch elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="ed63fe0" data-element_type="widget" id="responsive-nav" data-settings="{&quot;full_width&quot;:&quot;stretch&quot;,&quot;layout&quot;:&quot;horizontal&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;svg aria-hidden=\&quot;true\&quot; class=\&quot;e-font-icon-svg e-fas-caret-down\&quot; viewBox=\&quot;0 0 320 512\&quot; xmlns=\&quot;http:\/\/www.w3.org\/2000\/svg\&quot;&gt;&lt;path d=\&quot;M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z\&quot;&gt;&lt;\/path&gt;&lt;\/svg&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;},&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
+				<div class="elementor-widget-container">
+								<nav aria-label="Menu" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-underline e--animation-fade">
+				<ul id="menu-1-ed63fe0" class="elementor-nav-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2434"><a class="elementor-item">Productos</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2437"><a href="#" class="elementor-sub-item elementor-item-anchor">Economías Regionales</a>
+	<ul class="sub-menu elementor-nav-menu--dropdown">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8116"><a href="https://www.bice.com.ar/productos/creditos-en-valor-producto-para-el-sector-ganadero/" class="elementor-sub-item">Créditos en valor producto para el sector ganadero</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7017"><a href="https://www.bice.com.ar/productos/inversion/creditosagro/" class="elementor-sub-item">Créditos para la tecnificación del agro</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7442"><a href="https://www.bice.com.ar/productos/creditos-valor-producto-sector-porcino/" class="elementor-sub-item">Créditos en valor producto para el sector porcino</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2485"><a href="https://www.bice.com.ar/productos/creditos-pagaderos-en-toneladas-de-soja/" class="elementor-sub-item">Créditos en toneladas de soja</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2486"><a href="https://www.bice.com.ar/productos/creditos-en-litros-de-leche-uva/" class="elementor-sub-item">Créditos en litros de leche | UVA</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2438"><a href="#" class="elementor-sub-item elementor-item-anchor">Inversión</a>
+	<ul class="sub-menu elementor-nav-menu--dropdown">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-713"><a href="https://www.bice.com.ar/productos/inversion/inversion-productiva-a-largo-plazo/" class="elementor-sub-item">Inversión productiva a largo plazo</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2490"><a href="https://www.bice.com.ar/productos/inversion/prenda-vendors/" class="elementor-sub-item">Prenda | Proveedores y concesionarias</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8585"><a href="https://www.bice.com.ar/productos/inversion/creditos-para-sistemas-de-monitoreo-para-exportadores/" class="elementor-sub-item">Créditos para sistemas de monitoreo para exportadores</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2440"><a href="#" class="elementor-sub-item elementor-item-anchor">Leasing</a>
+	<ul class="sub-menu elementor-nav-menu--dropdown">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-710"><a href="https://www.bice.com.ar/productos/leasing/leasing-productivo-bienes-nuevos/" class="elementor-sub-item">Bienes nuevos</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-711"><a href="https://www.bice.com.ar/productos/leasing/leasing-productivo-bienes-usados/" class="elementor-sub-item">Bienes usados</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2464"><a href="https://www.bice.com.ar/productos/leasing/leasing-vendors/" class="elementor-sub-item">Leasing | Proveedores y concesionarias</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-708"><a href="https://www.bice.com.ar/productos/leasing/leasing-inmobiliario/" class="elementor-sub-item">Inmobiliario</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2441"><a href="#" class="elementor-sub-item elementor-item-anchor">Capital de Trabajo</a>
+	<ul class="sub-menu elementor-nav-menu--dropdown">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2489"><a href="https://www.bice.com.ar/productos/capital-de-trabajo/capital-de-trabajo/" class="elementor-sub-item">Capital de trabajo a largo plazo</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-706"><a href="https://www.bice.com.ar/productos/capital-de-trabajo/descuento-de-cheques/" class="elementor-sub-item">Descuento de cheques</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-705"><a href="https://www.bice.com.ar/productos/capital-de-trabajo/descuento-de-facturas-y-certificados-de-obra/" class="elementor-sub-item">Descuento de facturas y certificados de obra</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2445"><a href="#" class="elementor-sub-item elementor-item-anchor">COMEX</a>
+	<ul class="sub-menu elementor-nav-menu--dropdown">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-703"><a href="https://www.bice.com.ar/productos/comex/pre-y-post-financiacion-de-exportaciones/" class="elementor-sub-item">Pre y postfinanciación de exportaciones</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-702"><a href="https://www.bice.com.ar/productos/comex/financiacion-de-exportaciones-forfaiting/" class="elementor-sub-item">Exportaciones a largo plazo | Forfaiting</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8586"><a href="https://www.bice.com.ar/productos/inversion/creditos-para-sistemas-de-monitoreo-para-exportadores/" class="elementor-sub-item">Créditos para sistemas de monitoreo para exportadores</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2435"><a class="elementor-item">Institucional</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2431"><a class="elementor-sub-item">El Banco</a>
+	<ul class="sub-menu elementor-nav-menu--dropdown">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-750"><a href="https://www.bice.com.ar/institucional/el-banco/autoridades/" class="elementor-sub-item">Autoridades</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-751"><a href="https://www.bice.com.ar/institucional/el-banco/nuestra-mision/" class="elementor-sub-item">Nuestra misión</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-745"><a href="https://www.bice.com.ar/institucional/el-banco/calificacion/" class="elementor-sub-item">Calificación</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-747"><a href="https://www.bice.com.ar/institucional/el-banco/estatuto/" class="elementor-sub-item">Estatuto</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-749"><a href="https://www.bice.com.ar/institucional/el-banco/organigrama/" class="elementor-sub-item">Organigrama</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-746"><a href="https://www.bice.com.ar/institucional/el-banco/comites-de-directorio/" class="elementor-sub-item">Comités de Directorio</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-744"><a href="https://www.bice.com.ar/institucional/el-banco/memorias-y-balances/" class="elementor-sub-item">Memorias y balances</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-748"><a href="https://www.bice.com.ar/institucional/el-banco/oficinas/" class="elementor-sub-item">Oficinas</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-8642"><a class="elementor-sub-item">Más Información</a>
+	<ul class="sub-menu elementor-nav-menu--dropdown">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-771"><a href="https://www.bice.com.ar/institucional/mas-informacion/bid-gcf/" class="elementor-sub-item">BID-GCF</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-772"><a href="https://www.bice.com.ar/institucional/mas-informacion/certificacion-y-calidad/" class="elementor-sub-item">Certificación de calidad</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-773"><a href="https://www.bice.com.ar/institucional/mas-informacion/gobierno-societario/" class="elementor-sub-item">Gobierno societario</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-774"><a href="https://www.bice.com.ar/institucional/mas-informacion/proveedores/" class="elementor-sub-item">Proveedores</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-775"><a href="https://www.bice.com.ar/institucional/mas-informacion/reporte-de-sostenibilidad/" class="elementor-sub-item">Reporte de sostenibilidad</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-777"><a href="https://www.bice.com.ar/institucional/mas-informacion/transparencia-activa/" class="elementor-sub-item">Transparencia activa</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7545"><a href="https://www.bice.com.ar/institucional/el-banco/linea-de-denuncias/" class="elementor-sub-item">Línea de denuncias</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7808"><a href="https://www.bice.com.ar/institucional/mas-informacion/onboarding-digital/" class="elementor-sub-item">Alta de cliente 100% digital</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7546"><a href="https://www.bice.com.ar/productos/firma-digital/" class="elementor-sub-item">Firma digital</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1249"><a href="https://www.bice.com.ar/noticias/" class="elementor-sub-item">Noticias</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2211"><a href="https://www.bice.com.ar/casos-de-exito/" class="elementor-sub-item">Casos de éxito</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2436"><a class="elementor-item">Educación Financiera</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2406"><a href="https://www.comunidadbice.com.ar/cursos/" class="elementor-sub-item">Cursos</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2407"><a href="https://www.comunidadbice.com.ar/capacitaciones/" class="elementor-sub-item">Capacitaciones</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2408"><a href="https://www.comunidadbice.com.ar/blogfinanciero/" class="elementor-sub-item">Blog financiero</a></li>
+</ul>
+</li>
+</ul>			</nav>
+					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
+			<svg aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open e-font-icon-svg e-eicon-menu-bar" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg"><path d="M104 333H896C929 333 958 304 958 271S929 208 896 208H104C71 208 42 237 42 271S71 333 104 333ZM104 583H896C929 583 958 554 958 521S929 458 896 458H104C71 458 42 487 42 521S71 583 104 583ZM104 833H896C929 833 958 804 958 771S929 708 896 708H104C71 708 42 737 42 771S71 833 104 833Z"></path></svg><svg aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close e-font-icon-svg e-eicon-close" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg"><path d="M742 167L500 408 258 167C246 154 233 150 217 150 196 150 179 158 167 167 154 179 150 196 150 212 150 229 154 242 171 254L408 500 167 742C138 771 138 800 167 829 196 858 225 858 254 829L496 587 738 829C750 842 767 846 783 846 800 846 817 842 829 829 842 817 846 804 846 783 846 767 842 750 829 737L588 500 833 258C863 229 863 200 833 171 804 137 775 137 742 167Z"></path></svg>		</div>
+					<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
+				<ul id="menu-2-ed63fe0" class="elementor-nav-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2434"><a class="elementor-item" tabindex="-1">Productos</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2437"><a href="#" class="elementor-sub-item elementor-item-anchor" tabindex="-1">Economías Regionales</a>
+	<ul class="sub-menu elementor-nav-menu--dropdown">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8116"><a href="https://www.bice.com.ar/productos/creditos-en-valor-producto-para-el-sector-ganadero/" class="elementor-sub-item" tabindex="-1">Créditos en valor producto para el sector ganadero</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7017"><a href="https://www.bice.com.ar/productos/inversion/creditosagro/" class="elementor-sub-item" tabindex="-1">Créditos para la tecnificación del agro</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7442"><a href="https://www.bice.com.ar/productos/creditos-valor-producto-sector-porcino/" class="elementor-sub-item" tabindex="-1">Créditos en valor producto para el sector porcino</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2485"><a href="https://www.bice.com.ar/productos/creditos-pagaderos-en-toneladas-de-soja/" class="elementor-sub-item" tabindex="-1">Créditos en toneladas de soja</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2486"><a href="https://www.bice.com.ar/productos/creditos-en-litros-de-leche-uva/" class="elementor-sub-item" tabindex="-1">Créditos en litros de leche | UVA</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2438"><a href="#" class="elementor-sub-item elementor-item-anchor" tabindex="-1">Inversión</a>
+	<ul class="sub-menu elementor-nav-menu--dropdown">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-713"><a href="https://www.bice.com.ar/productos/inversion/inversion-productiva-a-largo-plazo/" class="elementor-sub-item" tabindex="-1">Inversión productiva a largo plazo</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2490"><a href="https://www.bice.com.ar/productos/inversion/prenda-vendors/" class="elementor-sub-item" tabindex="-1">Prenda | Proveedores y concesionarias</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8585"><a href="https://www.bice.com.ar/productos/inversion/creditos-para-sistemas-de-monitoreo-para-exportadores/" class="elementor-sub-item" tabindex="-1">Créditos para sistemas de monitoreo para exportadores</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2440"><a href="#" class="elementor-sub-item elementor-item-anchor" tabindex="-1">Leasing</a>
+	<ul class="sub-menu elementor-nav-menu--dropdown">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-710"><a href="https://www.bice.com.ar/productos/leasing/leasing-productivo-bienes-nuevos/" class="elementor-sub-item" tabindex="-1">Bienes nuevos</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-711"><a href="https://www.bice.com.ar/productos/leasing/leasing-productivo-bienes-usados/" class="elementor-sub-item" tabindex="-1">Bienes usados</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2464"><a href="https://www.bice.com.ar/productos/leasing/leasing-vendors/" class="elementor-sub-item" tabindex="-1">Leasing | Proveedores y concesionarias</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-708"><a href="https://www.bice.com.ar/productos/leasing/leasing-inmobiliario/" class="elementor-sub-item" tabindex="-1">Inmobiliario</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2441"><a href="#" class="elementor-sub-item elementor-item-anchor" tabindex="-1">Capital de Trabajo</a>
+	<ul class="sub-menu elementor-nav-menu--dropdown">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2489"><a href="https://www.bice.com.ar/productos/capital-de-trabajo/capital-de-trabajo/" class="elementor-sub-item" tabindex="-1">Capital de trabajo a largo plazo</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-706"><a href="https://www.bice.com.ar/productos/capital-de-trabajo/descuento-de-cheques/" class="elementor-sub-item" tabindex="-1">Descuento de cheques</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-705"><a href="https://www.bice.com.ar/productos/capital-de-trabajo/descuento-de-facturas-y-certificados-de-obra/" class="elementor-sub-item" tabindex="-1">Descuento de facturas y certificados de obra</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2445"><a href="#" class="elementor-sub-item elementor-item-anchor" tabindex="-1">COMEX</a>
+	<ul class="sub-menu elementor-nav-menu--dropdown">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-703"><a href="https://www.bice.com.ar/productos/comex/pre-y-post-financiacion-de-exportaciones/" class="elementor-sub-item" tabindex="-1">Pre y postfinanciación de exportaciones</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-702"><a href="https://www.bice.com.ar/productos/comex/financiacion-de-exportaciones-forfaiting/" class="elementor-sub-item" tabindex="-1">Exportaciones a largo plazo | Forfaiting</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8586"><a href="https://www.bice.com.ar/productos/inversion/creditos-para-sistemas-de-monitoreo-para-exportadores/" class="elementor-sub-item" tabindex="-1">Créditos para sistemas de monitoreo para exportadores</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2435"><a class="elementor-item" tabindex="-1">Institucional</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2431"><a class="elementor-sub-item" tabindex="-1">El Banco</a>
+	<ul class="sub-menu elementor-nav-menu--dropdown">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-750"><a href="https://www.bice.com.ar/institucional/el-banco/autoridades/" class="elementor-sub-item" tabindex="-1">Autoridades</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-751"><a href="https://www.bice.com.ar/institucional/el-banco/nuestra-mision/" class="elementor-sub-item" tabindex="-1">Nuestra misión</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-745"><a href="https://www.bice.com.ar/institucional/el-banco/calificacion/" class="elementor-sub-item" tabindex="-1">Calificación</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-747"><a href="https://www.bice.com.ar/institucional/el-banco/estatuto/" class="elementor-sub-item" tabindex="-1">Estatuto</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-749"><a href="https://www.bice.com.ar/institucional/el-banco/organigrama/" class="elementor-sub-item" tabindex="-1">Organigrama</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-746"><a href="https://www.bice.com.ar/institucional/el-banco/comites-de-directorio/" class="elementor-sub-item" tabindex="-1">Comités de Directorio</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-744"><a href="https://www.bice.com.ar/institucional/el-banco/memorias-y-balances/" class="elementor-sub-item" tabindex="-1">Memorias y balances</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-748"><a href="https://www.bice.com.ar/institucional/el-banco/oficinas/" class="elementor-sub-item" tabindex="-1">Oficinas</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-8642"><a class="elementor-sub-item" tabindex="-1">Más Información</a>
+	<ul class="sub-menu elementor-nav-menu--dropdown">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-771"><a href="https://www.bice.com.ar/institucional/mas-informacion/bid-gcf/" class="elementor-sub-item" tabindex="-1">BID-GCF</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-772"><a href="https://www.bice.com.ar/institucional/mas-informacion/certificacion-y-calidad/" class="elementor-sub-item" tabindex="-1">Certificación de calidad</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-773"><a href="https://www.bice.com.ar/institucional/mas-informacion/gobierno-societario/" class="elementor-sub-item" tabindex="-1">Gobierno societario</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-774"><a href="https://www.bice.com.ar/institucional/mas-informacion/proveedores/" class="elementor-sub-item" tabindex="-1">Proveedores</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-775"><a href="https://www.bice.com.ar/institucional/mas-informacion/reporte-de-sostenibilidad/" class="elementor-sub-item" tabindex="-1">Reporte de sostenibilidad</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-777"><a href="https://www.bice.com.ar/institucional/mas-informacion/transparencia-activa/" class="elementor-sub-item" tabindex="-1">Transparencia activa</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7545"><a href="https://www.bice.com.ar/institucional/el-banco/linea-de-denuncias/" class="elementor-sub-item" tabindex="-1">Línea de denuncias</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7808"><a href="https://www.bice.com.ar/institucional/mas-informacion/onboarding-digital/" class="elementor-sub-item" tabindex="-1">Alta de cliente 100% digital</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7546"><a href="https://www.bice.com.ar/productos/firma-digital/" class="elementor-sub-item" tabindex="-1">Firma digital</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1249"><a href="https://www.bice.com.ar/noticias/" class="elementor-sub-item" tabindex="-1">Noticias</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2211"><a href="https://www.bice.com.ar/casos-de-exito/" class="elementor-sub-item" tabindex="-1">Casos de éxito</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2436"><a class="elementor-item" tabindex="-1">Educación Financiera</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2406"><a href="https://www.comunidadbice.com.ar/cursos/" class="elementor-sub-item" tabindex="-1">Cursos</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2407"><a href="https://www.comunidadbice.com.ar/capacitaciones/" class="elementor-sub-item" tabindex="-1">Capacitaciones</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2408"><a href="https://www.comunidadbice.com.ar/blogfinanciero/" class="elementor-sub-item" tabindex="-1">Blog financiero</a></li>
+</ul>
+</li>
+</ul>			</nav>
+						</div>
+				</div>
+				</div>
+					</div>
+				</div>
+				</header>
+		<main id="content" class="site-main">
+
+			<header class="page-header">
+			<h1 class="entry-title">No se encontró esa página.</h1>
+		</header>
+	
+	<div class="page-content">
+		<p>Parece que no se encontró nada en esta ubicación.</p>
+	</div>
+
+</main>
+		<footer data-elementor-type="footer" data-elementor-id="1326" class="elementor elementor-1326 elementor-location-footer" data-elementor-post-type="elementor_library">
+					<section class="elementor-section elementor-top-section elementor-element elementor-element-24333245 elementor-section-content-middle elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="24333245" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-7f44f340 elementor-invisible" data-id="7f44f340" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeInLeft&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+					<div class="elementor-background-overlay"></div>
+						<div class="elementor-element elementor-element-7106887a elementor-widget elementor-widget-heading" data-id="7106887a" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h1 class="elementor-heading-title elementor-size-default">Llamanos</h1>				</div>
+				</div>
+				<div class="elementor-element elementor-element-60632074 elementor-widget elementor-widget-heading" data-id="60632074" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h4 class="elementor-heading-title elementor-size-default">0800-444-2423<br>
+Lunes a Viernes - 9 a 17 hs</h4>				</div>
+				</div>
+				<div class="elementor-element elementor-element-6ad905e2 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="6ad905e2" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-191b43be elementor-widget elementor-widget-button" data-id="191b43be" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-md" href="https://www.bice.com.ar/oficinas">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Oficinas</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-ec4a09b" data-id="ec4a09b" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+				<div class="elementor-element elementor-element-6af6cd37 e-con-full e-flex e-con e-parent" data-id="6af6cd37" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-9157090 elementor-widget__width-inherit elementor-widget elementor-widget-text-editor" data-id="9157090" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p id="contacto" class="anchor">contacto</p>
+
+<div class="form-cont formLanding form_contacto_footer" style="margin:1em;display:flex;flex-direction:column;">     
+    <form id="form" style="padding-top:15px;width:80%;max-width:500px;margin-left:auto;margin-right:auto;">
+        <h3 class="" style="line-height: 43px;font-size: 33px; color:#0169DE">Solicitá tu crédito</h3>   
+        <div class="hidden-imputs" style="display:none">
+                           <input type="text" name="nombre_linea" id="nombrelinea" value="">
+            <input type="date" name="fecha" value="2025-11-15">            
+        </div>
+    
+        <div class=" ">
+            <div class="inputForm">
+                <input type="text" name="razon_social" value="" pattern="[A-Za-z]+" placeholder="RAZÓN SOCIAL" class="obligatorio campos_cuit">
+                <span class="error"></span>
+            </div>
+        </div>
+
+        <div class="clearfix" style="margin-top:15px;"></div>
+        
+        <div class=" ">
+            <div class="inputForm">
+                <input type="text" name="nombre_completo" value="" pattern="[A-Za-z]+" placeholder="NOMBRE Y APELLIDO DEL CONTACTO" class="obligatorio campos_cuit name">
+                <span class="error"></span>
+            </div>
+        </div>
+        <div class="clearfix" style="margin-top:15px;"></div>
+       
+        <div class=" " style="display:flex;">
+   
+            <div class="inputForm" style="width:30%;margin-right:10px">
+                <input type="text" name="codigo_area" value=""  pattern="[0-9]{1,4}" placeholder="PREFIJO" class="obligatorio campos_cuit codigo_area">                
+                <span class="error"></span>
+                <span class="aclaracion_pre">Ej: 549</span>
+            </div>
+            
+            <div class="inputForm" style="width:70%;">
+                <input type="text" name="tel" value=""  pattern="[0-9]+" placeholder="CELULAR DEL CONTACTO" class="obligatorio campos_cuit tel">
+                <span class="error"></span>
+                <span class="aclaracion_tel">Debe tener 10 digitos. Ej:11 1234 5678</span>
+            </div>
+        </div>
+
+        <div class="clearfix" style="margin-top:15px;"></div>
+
+        <div class=" ">
+            <div class="inputForm">
+                <input type="text" name="email" value=""  placeholder="E-MAIL" class="obligatorio campos_cuit email">
+                <span class="error"></span>
+            </div>
+        </div>
+        
+        <div class="clearfix" style="margin-top:15px;"></div>
+        
+        <div class=" ">
+            <div class="inputForm">
+                <input type="text" name="cuit" value="" placeholder="CUIT" class="campos_cuit cuit">
+                <span class="error error_cuit_fogar"></span>
+            </div>
+        </div>
+        <div class="clearfix" style="margin-top:15px;"></div>
+        <div class="btn-cuit-cont "  >
+            <button type="button" id="btn_enviar_1" class="btn btn-primary btn_cuit"  style="border-radius:10px;">Enviar</button>
+            <br>
+            <span style="padding-top:15px;"><i class="fa fa-lock" aria-hidden="true"></i> Sus datos se encuentran protegidos</span>
+        </div>
+        
+      
+
+        <div id="loading-icon-2" style="display:none;text-align:center;">
+            <span></span>
+        </div>
+        
+        <div class="col-12 rta_cuit_fogar"></div>
+        
+
+    </form>
+    <div style="padding-top:15px;width:80%;max-width:500px;margin-left:auto;margin-right:auto;">
+        <div id="nopass" style="display:none">
+            <p style="padding: 0 40px"><i class="fa fa-envelope" aria-hidden="true"></i>
+            <span></span>
+            </p>
+        </div>
+        <div id="loading-icon" style="display:none;text-align:center;">
+            <p style="padding: 0 40px">
+                <span></span>
+            </p>
+        </div>
+        <div id="pass" class="" style="display:none; padding:20px;">
+            
+        </div>
+        <a href="https://www.bice.com.ar" id="home-btn" class="btn  btn-primary" style="display:none;border-radius:10px;margin-top:16px;"> Volver a la página principal</a>    
+    </div>
+</div>
+
+<div id="nopass" style="display:none">
+    <p style="padding: 0 40px"><i class="fa fa-envelope" aria-hidden="true"></i>
+        <span></span>
+    </p>
+</div>
+<div id="loading-icon" style="display:none;text-align:center;">
+    <p style="padding: 0 40px">
+        <span></span>
+    </p>
+</div>
+<div id="pass" class="" style="display:none">
+    <p style="padding: 0 40px">
+        <span></span>
+    </p>
+</div>
+<style>
+    .d_none_pyme,.d_none_boton{
+        display:none;
+    }
+    select{
+        color: #54595F;
+        background-color: #EDF1FC;
+        border-style: solid;
+        border-width: 2px 2px 2px 2px;
+        border-color: #EDF1FC;
+        border-radius: 0px 0px 0px 0px;
+    }
+    .inputForm input.invalid , select.invalid {
+        border-color: rgba(255, 0, 0, 0.5)!important; /* Red with 50% opacity */
+        background-color: rgba(255, 0, 0, 0.2)!important; /* Very light red background */
+    }
+
+    /* Styles for valid input (optional, to reset) */
+    .inputForm input.valid , select.valid{
+        border-color: #EDF1FC!important; /* Or your default border color */
+        background-color: #EDF1FC!important; /* Or your default background */
+    }
+
+     /* Chrome, Safari, Edge */
+    input[type="number"]::-webkit-inner-spin-button,
+    input[type="number"]::-webkit-outer-spin-button {
+        -webkit-appearance: none;
+        margin: 0;
+    }
+
+    /* Firefox */
+    input[type="number"] {
+        -moz-appearance: textfield; /* Required to override Firefox's default styling */
+    }
+
+    /*  Remove up/down indicators in some browsers */
+    input[type="number"] {
+        appearance: textfield; /* For some versions of Edge/IE */
+    }
+    #home-btn, #pass-btn{
+        background-color: #0069E6;
+        font-weight: 500;
+        color: #fff;
+        border-style: solid;
+        border-width: 2px 2px 2px 2px;
+        border-color: #0069E6;
+        border-radius: 0px 0px 0px 0px;
+    }
+    #home-btn:hover, #pass-btn:hover{
+        background-color: #111D2900;
+        color: #111D29;    
+        border-color: #111D29;
+     
+    }
+</style>
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+    // Check if the global variable from PHP exists and is not empty
+        if (typeof page_name_from_php !== 'undefined' && page_name_from_php) {
+
+            // Find the hidden input field in your Elementor form by its ID
+            // IMPORTANT: Replace 'form-field-my_page_title_field' with the actual ID
+            // of your hidden field in the Elementor Form!
+            var hiddenInput = document.querySelector('#form #nombrelinea');
+            if (hiddenInput) {                
+                hiddenInput.setAttribute('value', page_name_from_php);
+            }else{
+                console.log("didnt finds");
+            }
+        }
+    });
+</script>
+<script src="https://www.bice.com.ar/wp-content/themes/hello-elementor/assets/js/jquery.maskedinput.js"></script>
+<script src="https://www.bice.com.ar/wp-content/themes/hello-elementor/assets/js/jquery.mask.min.js"></script>
+<script src="https://www.bice.com.ar/wp-content/themes/hello-elementor/assets/js/producto-form.js"></script>
+								</div>
+				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-48fc36e2 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="48fc36e2" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-15e09f21" data-id="15e09f21" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<section class="elementor-section elementor-inner-section elementor-element elementor-element-2d679e50 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2d679e50" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-23f3d2a6" data-id="23f3d2a6" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+				<div class="elementor-element elementor-element-d27972e e-flex e-con-boxed e-con e-parent" data-id="d27972e" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-60970bf elementor-widget-mobile__width-initial elementor-widget elementor-widget-image" data-id="60970bf" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img src="https://www.bice.com.ar/wp-content/uploads/elementor/thumbs/logo_white_frame_new-1-e1730811661712-r26bnseinbx18s1r7asz3kc5td2qrzuyqwtyftrs3k.png" title="logo_white_frame_new (1)" alt="logo_white_frame_new (1)" loading="lazy" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-fcea8a9 elementor-widget-mobile__width-initial elementor-widget elementor-widget-image" data-id="fcea8a9" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img src="https://www.bice.com.ar/wp-content/uploads/elementor/thumbs/logo-min-blanco-r26bnseinbx43wh5ly7x3cyd2i24r7xqb7794fvvgg.png" title="logo min blanco" alt="logo min blanco" loading="lazy" />															</div>
+				</div>
+					</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-3fff738b" data-id="3fff738b" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-21e27f3f elementor-widget elementor-widget-heading" data-id="21e27f3f" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h4 class="elementor-heading-title elementor-size-default">Institucional</h4>				</div>
+				</div>
+				<div class="elementor-element elementor-element-35e2df6a elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="35e2df6a" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<a href="https://www.bice.com.ar/institucional/el-banco/nuestra-mision/">
+
+											<span class="elementor-icon-list-text">Nuestra misión</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="https://www.bice.com.ar/institucional/el-banco/autoridades/">
+
+											<span class="elementor-icon-list-text">Autoridades</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="https://www.bice.com.ar/institucional/el-banco/organigrama/">
+
+											<span class="elementor-icon-list-text">Organigrama</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="https://www.bice.com.ar/institucional/el-banco/memorias-y-balances/">
+
+											<span class="elementor-icon-list-text">Memorias y Balances</span>
+											</a>
+									</li>
+						</ul>
+						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-d06cb81" data-id="d06cb81" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-3f8e5762 elementor-widget elementor-widget-heading" data-id="3f8e5762" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h4 class="elementor-heading-title elementor-size-default">Productos</h4>				</div>
+				</div>
+				<div class="elementor-element elementor-element-5e996588 elementor-widget__width-initial elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="5e996588" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<a href="https://www.bice.com.ar/productos/inversion/inversion-productiva-a-largo-plazo/">
+
+											<span class="elementor-icon-list-text">Inversión</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="https://www.bice.com.ar/productos/leasing/leasing-productivo-bienes-nuevos/">
+
+											<span class="elementor-icon-list-text">Leasing</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="https://www.bice.com.ar/productos/comex/pre-y-post-financiacion-de-exportaciones/">
+
+											<span class="elementor-icon-list-text">Comercio Exterior</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="https://www.bice.com.ar/productos/capital-de-trabajo/capital-de-trabajo/">
+
+											<span class="elementor-icon-list-text">Capital de Trabajo</span>
+											</a>
+									</li>
+						</ul>
+						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-516f5bb6" data-id="516f5bb6" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-400be136 elementor-widget elementor-widget-heading" data-id="400be136" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h4 class="elementor-heading-title elementor-size-default">Más Información</h4>				</div>
+				</div>
+				<div class="elementor-element elementor-element-2616cb81 elementor-widget__width-initial elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="2616cb81" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<a href="https://www.bice.com.ar/institucional/el-banco/oficinas/">
+
+											<span class="elementor-icon-list-text">Oficinas</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="https://www.comunidadbice.com.ar">
+
+											<span class="elementor-icon-list-text">Comunidad BICE</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="https://www.bice.com.ar/noticias/">
+
+											<span class="elementor-icon-list-text">Noticias</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="https://bicedigital.bice.com.ar/badiweb/#/login">
+
+											<span class="elementor-icon-list-text">Ingreso BICE Digital</span>
+											</a>
+									</li>
+						</ul>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-57cc3d8f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="57cc3d8f" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-74c57dc5 elementor-hidden-desktop elementor-hidden-tablet" data-id="74c57dc5" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-a1bf852 elementor-widget elementor-widget-heading" data-id="a1bf852" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h4 class="elementor-heading-title elementor-size-default">Seguinos en</h4>				</div>
+				</div>
+				<div class="elementor-element elementor-element-51bc610 elementor-shape-circle e-grid-align-right e-grid-align-mobile-left elementor-hidden-desktop elementor-hidden-tablet elementor-grid-0 elementor-widget elementor-widget-social-icons" data-id="51bc610" data-element_type="widget" data-widget_type="social-icons.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-social-icons-wrapper elementor-grid" role="list">
+							<span class="elementor-grid-item" role="listitem">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-repeater-item-ac0d552" href="https://www.instagram.com/bice_arg/" target="_blank">
+						<span class="elementor-screen-only">Instagram</span>
+						<svg aria-hidden="true" class="e-font-icon-svg e-fab-instagram" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"></path></svg>					</a>
+				</span>
+							<span class="elementor-grid-item" role="listitem">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-repeater-item-25edacd" href="https://x.com/bice_arg" target="_blank">
+						<span class="elementor-screen-only">Twitter</span>
+						<svg aria-hidden="true" class="e-font-icon-svg e-fab-twitter" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"></path></svg>					</a>
+				</span>
+							<span class="elementor-grid-item" role="listitem">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-repeater-item-0f9e374" href="https://www.facebook.com/bice.arg" target="_blank">
+						<span class="elementor-screen-only">Facebook</span>
+						<svg aria-hidden="true" class="e-font-icon-svg e-fab-facebook" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M504 256C504 119 393 8 256 8S8 119 8 256c0 123.78 90.69 226.38 209.25 245V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.28c-30.8 0-40.41 19.12-40.41 38.73V256h68.78l-11 71.69h-57.78V501C413.31 482.38 504 379.78 504 256z"></path></svg>					</a>
+				</span>
+							<span class="elementor-grid-item" role="listitem">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-linkedin elementor-repeater-item-bba7324" href="https://ar.linkedin.com/company/bice-ar" target="_blank">
+						<span class="elementor-screen-only">Linkedin</span>
+						<svg aria-hidden="true" class="e-font-icon-svg e-fab-linkedin" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z"></path></svg>					</a>
+				</span>
+							<span class="elementor-grid-item" role="listitem">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-repeater-item-c86d8bc" href="https://www.youtube.com/channel/UCXl9ugpsOREebdLIle9kK3w" target="_blank">
+						<span class="elementor-screen-only">Youtube</span>
+						<svg aria-hidden="true" class="e-font-icon-svg e-fab-youtube" viewBox="0 0 576 512" xmlns="http://www.w3.org/2000/svg"><path d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z"></path></svg>					</a>
+				</span>
+					</div>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-216ff75 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="216ff75" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-086c9c2" data-id="086c9c2" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-bfa7cf2 elementor-widget elementor-widget-text-editor" data-id="bfa7cf2" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>El otorgamiento de cualquiera de los préstamos o productos ofrecidos en esta página está sujeto al previo cumplimiento de requisitos comerciales, crediticios y legales exigidos por BICE. La presente propuesta no resulta vinculante para la entidad, quien podría denegar cualquier operación, conforme los términos del artículo 974 1er. párrafo y concordantes del Código Civil y Comercial.</p>								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-29876b4e elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="29876b4e" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-363f0356" data-id="363f0356" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-12a79a14 elementor-widget elementor-widget-heading" data-id="12a79a14" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<span class="elementor-heading-title elementor-size-default">© 2024 - Banco de Desarrollo Argentino BICE. Todos los derechos reservados</span>				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-20d933d4" data-id="20d933d4" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-7ca55b76 elementor-icon-list--layout-inline elementor-align-right elementor-tablet-align-center elementor-mobile-align-center elementor-widget__width-initial elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="7ca55b76" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items elementor-inline-items">
+							<li class="elementor-icon-list-item elementor-inline-item">
+											<a href="https://www.bice.com.ar/usuario-financiero/">
+
+											<span class="elementor-icon-list-text">Usuarios Financieros </span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item elementor-inline-item">
+											<a href="https://www.bice.com.ar/proteccion-de-datos-personales-pdp/">
+
+											<span class="elementor-icon-list-text">Protección de datos personales</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item elementor-inline-item">
+											<a href="https://www.bice.com.ar/prevencion-de-lavado-de-activos/">
+
+											<span class="elementor-icon-list-text">Prevención de lavado de activos</span>
+											</a>
+									</li>
+						</ul>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+					</div>
+		</div>
+					</div>
+		</section>
+				</footer>
+		
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/wp-content\/uploads\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/hello-elementor\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+			<script>
+				const lazyloadRunObserver = () => {
+					const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` );
+					const lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => {
+						entries.forEach( ( entry ) => {
+							if ( entry.isIntersecting ) {
+								let lazyloadBackground = entry.target;
+								if( lazyloadBackground ) {
+									lazyloadBackground.classList.add( 'e-lazyloaded' );
+								}
+								lazyloadBackgroundObserver.unobserve( entry.target );
+							}
+						});
+					}, { rootMargin: '200px 0px 200px 0px' } );
+					lazyloadBackgrounds.forEach( ( lazyloadBackground ) => {
+						lazyloadBackgroundObserver.observe( lazyloadBackground );
+					} );
+				};
+				const events = [
+					'DOMContentLoaded',
+					'elementor/lazyload/observe',
+				];
+				events.forEach( ( event ) => {
+					document.addEventListener( event, lazyloadRunObserver );
+				} );
+			</script>
+			<link rel='stylesheet' id='elementor-icons-ekiticons-css' href='https://www.bice.com.ar/wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/css/ekiticons.css?ver=3.7.4' media='all' />
+<script src="https://www.bice.com.ar/wp-content/themes/hello-elementor/assets/js/hello-frontend.min.js?ver=3.0.1" id="hello-theme-frontend-js"></script>
+<script src="https://www.bice.com.ar/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.32.5" id="elementor-webpack-runtime-js"></script>
+<script src="https://www.bice.com.ar/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.32.5" id="elementor-frontend-modules-js"></script>
+<script src="https://www.bice.com.ar/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3" id="jquery-ui-core-js"></script>
+<script id="elementor-frontend-js-before">
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Fijarlo","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Portable","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default_value":2400,"direction":"min","is_enabled":false}},"hasCustomBreakpoints":false},"version":"3.32.5","is_static":false,"experimentalFeatures":{"e_font_icon_svg":true,"additional_custom_breakpoints":true,"container":true,"theme_builder_v2":true,"hello-theme-header-footer":true,"nested-elements":true,"home_screen":true,"global_classes_should_enforce_capabilities":true,"e_variables":true,"cloud-library":true,"e_opt_in_v4_page":true,"import-export-customization":true,"mega-menu":true,"e_pro_variables":true},"urls":{"assets":"https:\/\/www.bice.com.ar\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"https:\/\/www.bice.com.ar\/wp-admin\/admin-ajax.php","uploadUrl":"https:\/\/www.bice.com.ar\/wp-content\/uploads"},"nonces":{"floatingButtonsClickTracking":"7a97a9117f"},"swiperClass":"swiper","settings":{"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description","hello_header_logo_type":"title","hello_header_menu_layout":"horizontal","hello_footer_logo_type":"logo"},"post":{"id":0,"title":"P\u00e1gina no encontrada - BICE - Banco de Inversi\u00f3n y Comercio Exterior","excerpt":""}};
+</script>
+<script src="https://www.bice.com.ar/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.32.5" id="elementor-frontend-js"></script>
+<script src="https://www.bice.com.ar/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.2.1" id="smartmenus-js"></script>
+<script src="https://www.bice.com.ar/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.32.3" id="e-sticky-js"></script>
+<script src="https://www.bice.com.ar/wp-content/plugins/elementskit-lite/libs/framework/assets/js/frontend-script.js?ver=3.7.4" id="elementskit-framework-js-frontend-js"></script>
+<script id="elementskit-framework-js-frontend-js-after">
+		var elementskit = {
+			resturl: 'https://www.bice.com.ar/wp-json/elementskit/v1/',
+		}
+
+		
+</script>
+<script src="https://www.bice.com.ar/wp-content/plugins/elementskit-lite/widgets/init/assets/js/widget-scripts.js?ver=3.7.4" id="ekit-widget-scripts-js"></script>
+<script id="bdt-uikit-js-extra">
+var element_pack_ajax_login_config = {"ajaxurl":"https:\/\/www.bice.com.ar\/wp-admin\/admin-ajax.php","language":"es","loadingmessage":"Sending user info, please wait...","unknownerror":"Unknown error, make sure access is correct!"};
+var ElementPackConfig = {"ajaxurl":"https:\/\/www.bice.com.ar\/wp-admin\/admin-ajax.php","nonce":"25d8851669","data_table":{"language":{"lengthMenu":"Show _MENU_ Entries","info":"Showing _START_ to _END_ of _TOTAL_ entries","search":"Search :","paginate":{"previous":"Previous","next":"Next"}}},"contact_form":{"sending_msg":"Sending message please wait...","captcha_nd":"Invisible captcha not defined!","captcha_nr":"Could not get invisible captcha response!"},"mailchimp":{"subscribing":"Subscribing you please wait..."},"search":{"more_result":"More Results","search_result":"SEARCH RESULT","not_found":"not found"},"words_limit":{"read_more":"[read more]","read_less":"[read less]"},"elements_data":{"sections":[],"columns":[],"widgets":[]}};
+</script>
+<script src="https://www.bice.com.ar/wp-content/plugins/bdthemes-element-pack-lite/assets/js/bdt-uikit.min.js?ver=3.21.7" id="bdt-uikit-js"></script>
+<script src="https://www.bice.com.ar/wp-content/plugins/bdthemes-element-pack-lite/assets/js/common/helper.min.js?ver=8.3.0" id="element-pack-helper-js"></script>
+<script src="https://www.bice.com.ar/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.32.3" id="elementor-pro-webpack-runtime-js"></script>
+<script src="https://www.bice.com.ar/wp-includes/js/dist/hooks.min.js?ver=4d63a3d491d11ffd8ac6" id="wp-hooks-js"></script>
+<script src="https://www.bice.com.ar/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6" id="wp-i18n-js"></script>
+<script id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script id="elementor-pro-frontend-js-before">
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/www.bice.com.ar\/wp-admin\/admin-ajax.php","nonce":"8240f0fe87","urls":{"assets":"https:\/\/www.bice.com.ar\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/www.bice.com.ar\/wp-json\/"},"settings":{"lazy_load_background_images":true},"popup":{"hasPopUps":false},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook_sdk":{"lang":"es_AR","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/www.bice.com.ar\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+</script>
+<script src="https://www.bice.com.ar/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.32.3" id="elementor-pro-frontend-js"></script>
+<script src="https://www.bice.com.ar/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.32.3" id="pro-elements-handlers-js"></script>
+<script src="https://www.bice.com.ar/wp-content/plugins/elementskit-lite/widgets/init/assets/js/animate-circle.min.js?ver=3.7.4" id="animate-circle-js"></script>
+<script id="elementskit-elementor-js-extra">
+var ekit_config = {"ajaxurl":"https:\/\/www.bice.com.ar\/wp-admin\/admin-ajax.php","nonce":"db1b69c4d5"};
+</script>
+<script src="https://www.bice.com.ar/wp-content/plugins/elementskit-lite/widgets/init/assets/js/elementor.js?ver=3.7.4" id="elementskit-elementor-js"></script>
+<script src="https://kit.fontawesome.com/da9e74a525.js?ver=3.32.3" id="font-awesome-pro-js"></script>
+
+</body>
+</html>
